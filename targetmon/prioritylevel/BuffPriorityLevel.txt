@@ -12451,47 +12451,6 @@
 	rHideOthers = false,
 	uuid = "000001F8739DB150",
 },
-{
-	enable = true,
-	ignoreId = true,
-	kungfus = {},
-	rgbShortAlias = {
-		255,
-		255,
-		0,
-	},
-	capture = true,
-	iconid = 3011,
-	maps = {},
-	ids = {
-		[5678] = {
-			levels = {
-				{
-					enable = true,
-					iconid = 3011,
-				},
-			},
-			ignoreLevel = true,
-			enable = true,
-			soundDisappear = {},
-			iconid = 3011,
-			soundAppear = {},
-		},
-	},
-	nameAlias = true,
-	soundDisappear = {},
-	rHideVoid = false,
-	name = "清疏",
-	soundAppear = {},
-	tarkungfus = {},
-	rHideOthers = false,
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	uuid = "CAFBDB7146DC4C19B80506521A6CF6E3",
-},
 -- 少林
 {
 	enable = true,

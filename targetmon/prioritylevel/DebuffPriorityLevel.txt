@@ -1,5 +1,5 @@
 {
--- 特殊技能（决斗、禁疗、链接等）
+-- 特殊技能（决斗、禁疗等）
 {
 	enable = true,
 	ignoreId = false,
@@ -714,48 +714,6 @@
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "94FD81EF99A14FB5A31216FF036B3149",
-},
-{
-	enable = true,
-	ignoreId = true,
-	kungfus = {},
-	rgbShortAlias = {
-		255,
-		255,
-		0,
-	},
-	capture = true,
-	iconid = 12105,
-	maps = {},
-	ids = {
-		[15518] = {
-			levels = {
-				{
-					enable = true,
-					iconid = 12105,
-				},
-			},
-			ignoreLevel = true,
-			enable = true,
-			soundDisappear = {},
-			iconid = 12105,
-			soundAppear = {},
-		},
-	},
-	nameAlias = true,
-	soundDisappear = {},
-	rHideVoid = false,
-	name = "链接",
-	soundAppear = {},
-	tarkungfus = {},
-	ignoreId = false,
-	rHideOthers = false,
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	uuid = "605699E5FDF947AEBD62DF91428A0108",
 },
 
 -- 沉默、缴械
@@ -7847,6 +7805,48 @@
 },
 
 -- 其他
+{
+	enable = true,
+	ignoreId = true,
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 12105,
+	maps = {},
+	ids = {
+		[15518] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 12105,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 12105,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	name = "链接",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	uuid = "605699E5FDF947AEBD62DF91428A0108",
+},
 -- 纯阳
 {
 	enable = true,

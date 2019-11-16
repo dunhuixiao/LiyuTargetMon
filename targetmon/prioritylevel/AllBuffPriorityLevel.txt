@@ -2532,48 +2532,6 @@
 	rHideOthers = false,
 	uuid = "94FD81EF99A14FB5A31216FF036B3149",
 },
-{
-	enable = true,
-	ignoreId = true,
-	kungfus = {},
-	rgbShortAlias = {
-		255,
-		255,
-		0,
-	},
-	capture = true,
-	iconid = 12105,
-	maps = {},
-	ids = {
-		[15518] = {
-			levels = {
-				{
-					enable = true,
-					iconid = 12105,
-				},
-			},
-			ignoreLevel = true,
-			enable = true,
-			soundDisappear = {},
-			iconid = 12105,
-			soundAppear = {},
-		},
-	},
-	nameAlias = true,
-	soundDisappear = {},
-	rHideVoid = false,
-	name = "链接",
-	soundAppear = {},
-	tarkungfus = {},
-	ignoreId = false,
-	rHideOthers = false,
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	uuid = "605699E5FDF947AEBD62DF91428A0108",
-},
 
 -- 沉默、缴械
 {
@@ -19188,6 +19146,48 @@
 	ignoreId = true,
 	iconid = 622,
 },
+{
+	enable = true,
+	ignoreId = true,
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 12105,
+	maps = {},
+	ids = {
+		[15518] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 12105,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 12105,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	name = "链接",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	uuid = "605699E5FDF947AEBD62DF91428A0108",
+},
 -- 纯阳
 {
 	enable = true,
@@ -20160,47 +20160,6 @@
 	},
 	rHideOthers = false,
 	uuid = "000001F8739DB150",
-},
-{
-	enable = true,
-	ignoreId = true,
-	kungfus = {},
-	rgbShortAlias = {
-		255,
-		255,
-		0,
-	},
-	capture = true,
-	iconid = 3011,
-	maps = {},
-	ids = {
-		[5678] = {
-			levels = {
-				{
-					enable = true,
-					iconid = 3011,
-				},
-			},
-			ignoreLevel = true,
-			enable = true,
-			soundDisappear = {},
-			iconid = 3011,
-			soundAppear = {},
-		},
-	},
-	nameAlias = true,
-	soundDisappear = {},
-	rHideVoid = false,
-	name = "清疏",
-	soundAppear = {},
-	tarkungfus = {},
-	rHideOthers = false,
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	uuid = "CAFBDB7146DC4C19B80506521A6CF6E3",
 },
 {
 	enable = true,

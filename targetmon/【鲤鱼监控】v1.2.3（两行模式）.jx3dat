@@ -3,23 +3,23 @@ return {
 		cdFlash = false,
 		cdBarWidth = 50,
 		hideVoid = true,
-		enable = true,
+		scale = 1,
 		boxBgUITex = "UI/Image/Common/Box.UITex|9",
 		decimalTime = 3,
+		target = "TARGET",
+		sort = 10000,
+		hideOthers = false,
+		cdCircle = false,
+		cdReadySpark = false,
 		anchor = {
 			y = -123.8254701985,
 			x = 418.44959042955,
 			s = "RIGHTCENTER",
 			r = "RIGHTCENTER",
 		},
-		ignoreSystemUIScale = true,
 		otherFontScale = 1,
-		sort = 10000,
-		cdReadySpark = false,
-		target = "TARGET",
-		hideOthers = false,
 		showTime = true,
-		group = "",
+		embedded = false,
 		cdBar = false,
 		type = "BUFF",
 		penetrable = false,
@@ -32,9 +32,9 @@ return {
 		iconFontScale = 1,
 		alignment = "LEFT",
 		uuid = "000001F835E08CE0",
-		scale = 1,
-		cdCircle = false,
-		embedded = false,
+		group = "",
+		ignoreSystemUIScale = true,
+		enable = true,
 		monitors = {
 			{
 				enable = true,
@@ -2557,47 +2557,6 @@ return {
 				},
 				uuid = "94FD81EF99A14FB5A31216FF036B3149",
 				iconid = 10631,
-			},
-			{
-				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
-				kungfus = {},
-				rgbShortAlias = {
-					255,
-					255,
-					0,
-				},
-				capture = true,
-				rHideOthers = false,
-				maps = {},
-				ids = {
-					[15518] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 12105,
-							},
-						},
-						ignoreLevel = true,
-						enable = true,
-						soundDisappear = {},
-						iconid = 12105,
-						soundAppear = {},
-					},
-				},
-				nameAlias = true,
-				soundDisappear = {},
-				rHideVoid = false,
-				name = "链接",
-				soundAppear = {},
-				tarkungfus = {},
-				iconid = 12105,
-				ignoreId = false,
-				uuid = "605699E5FDF947AEBD62DF91428A0108",
 			},
 			{
 				enable = true,
@@ -10485,7 +10444,11 @@ return {
 				ids = {
 					[15735] = {
 						levels = {
-							[2] = {
+							{
+								enable = true,
+								iconid = 12101,
+							},
+							{
 								enable = true,
 								iconid = 12101,
 							},
@@ -19115,6 +19078,47 @@ return {
 			},
 			{
 				enable = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
+				kungfus = {},
+				rgbShortAlias = {
+					255,
+					255,
+					0,
+				},
+				capture = true,
+				rHideOthers = false,
+				maps = {},
+				ids = {
+					[15518] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 12105,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 12105,
+						soundAppear = {},
+					},
+				},
+				nameAlias = true,
+				soundDisappear = {},
+				rHideVoid = false,
+				name = "链接",
+				soundAppear = {},
+				tarkungfus = {},
+				iconid = 12105,
+				ignoreId = false,
+				uuid = "605699E5FDF947AEBD62DF91428A0108",
+			},
+			{
+				enable = true,
 				ignoreId = true,
 				kungfus = {
 					all = true,
@@ -20091,47 +20095,6 @@ return {
 					255,
 					0,
 				},
-				kungfus = {},
-				rgbShortAlias = {
-					255,
-					255,
-					0,
-				},
-				capture = true,
-				rHideOthers = false,
-				maps = {},
-				ids = {
-					[5678] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 3011,
-							},
-						},
-						ignoreLevel = true,
-						enable = true,
-						soundDisappear = {},
-						iconid = 3011,
-						soundAppear = {},
-					},
-				},
-				nameAlias = true,
-				soundDisappear = {},
-				rHideVoid = false,
-				name = "清疏",
-				soundAppear = {},
-				tarkungfus = {},
-				iconid = 3011,
-				ignoreId = true,
-				uuid = "CAFBDB7146DC4C19B80506521A6CF6E3",
-			},
-			{
-				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
 				kungfus = {
 					all = true,
 				},
@@ -20881,6 +20844,10 @@ return {
 				ids = {
 					[6121] = {
 						levels = {
+							{
+								enable = true,
+								iconid = 640,
+							},
 							{
 								enable = true,
 								iconid = 640,
@@ -23408,23 +23375,23 @@ return {
 		cdFlash = false,
 		cdBarWidth = 50,
 		hideVoid = true,
-		enable = true,
+		scale = 1,
 		boxBgUITex = "UI/Image/Common/Box.UITex|9",
 		decimalTime = 3,
+		target = "CLIENT_PLAYER",
+		sort = 10000,
+		hideOthers = false,
+		cdCircle = false,
+		cdReadySpark = false,
 		anchor = {
 			y = 116.174450577,
 			x = 418.44959042955,
 			s = "RIGHTCENTER",
 			r = "RIGHTCENTER",
 		},
-		ignoreSystemUIScale = true,
 		otherFontScale = 1,
-		sort = 10000,
-		cdReadySpark = false,
-		target = "CLIENT_PLAYER",
-		hideOthers = false,
 		showTime = true,
-		group = "",
+		embedded = false,
 		cdBar = false,
 		type = "BUFF",
 		penetrable = false,
@@ -23437,9 +23404,9 @@ return {
 		iconFontScale = 1,
 		alignment = "LEFT",
 		uuid = "000001F8AA330950",
-		scale = 1,
-		cdCircle = false,
-		embedded = false,
+		group = "",
+		ignoreSystemUIScale = true,
+		enable = true,
 		monitors = {
 			{
 				enable = true,
@@ -25962,47 +25929,6 @@ return {
 				},
 				uuid = "94FD81EF99A14FB5A31216FF036B3149",
 				iconid = 10631,
-			},
-			{
-				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
-				kungfus = {},
-				rgbShortAlias = {
-					255,
-					255,
-					0,
-				},
-				capture = true,
-				rHideOthers = false,
-				maps = {},
-				ids = {
-					[15518] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 12105,
-							},
-						},
-						ignoreLevel = true,
-						enable = true,
-						soundDisappear = {},
-						iconid = 12105,
-						soundAppear = {},
-					},
-				},
-				nameAlias = true,
-				soundDisappear = {},
-				rHideVoid = false,
-				name = "链接",
-				soundAppear = {},
-				tarkungfus = {},
-				iconid = 12105,
-				ignoreId = false,
-				uuid = "605699E5FDF947AEBD62DF91428A0108",
 			},
 			{
 				enable = true,
@@ -33890,7 +33816,11 @@ return {
 				ids = {
 					[15735] = {
 						levels = {
-							[2] = {
+							{
+								enable = true,
+								iconid = 12101,
+							},
+							{
 								enable = true,
 								iconid = 12101,
 							},
@@ -42520,6 +42450,47 @@ return {
 			},
 			{
 				enable = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
+				kungfus = {},
+				rgbShortAlias = {
+					255,
+					255,
+					0,
+				},
+				capture = true,
+				rHideOthers = false,
+				maps = {},
+				ids = {
+					[15518] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 12105,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 12105,
+						soundAppear = {},
+					},
+				},
+				nameAlias = true,
+				soundDisappear = {},
+				rHideVoid = false,
+				name = "链接",
+				soundAppear = {},
+				tarkungfus = {},
+				iconid = 12105,
+				ignoreId = false,
+				uuid = "605699E5FDF947AEBD62DF91428A0108",
+			},
+			{
+				enable = true,
 				ignoreId = true,
 				kungfus = {
 					all = true,
@@ -43496,47 +43467,6 @@ return {
 					255,
 					0,
 				},
-				kungfus = {},
-				rgbShortAlias = {
-					255,
-					255,
-					0,
-				},
-				capture = true,
-				rHideOthers = false,
-				maps = {},
-				ids = {
-					[5678] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 3011,
-							},
-						},
-						ignoreLevel = true,
-						enable = true,
-						soundDisappear = {},
-						iconid = 3011,
-						soundAppear = {},
-					},
-				},
-				nameAlias = true,
-				soundDisappear = {},
-				rHideVoid = false,
-				name = "清疏",
-				soundAppear = {},
-				tarkungfus = {},
-				iconid = 3011,
-				ignoreId = true,
-				uuid = "CAFBDB7146DC4C19B80506521A6CF6E3",
-			},
-			{
-				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
 				kungfus = {
 					all = true,
 				},
@@ -44286,6 +44216,10 @@ return {
 				ids = {
 					[6121] = {
 						levels = {
+							{
+								enable = true,
+								iconid = 640,
+							},
 							{
 								enable = true,
 								iconid = 640,
