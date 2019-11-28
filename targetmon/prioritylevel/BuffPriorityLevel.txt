@@ -533,6 +533,48 @@
 	ignoreId = false,
 	iconid = 6340,
 },
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = false,
+	iconid = 6355,
+	maps = {},
+	ids = {
+		[13927] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 6355,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 6355,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "无敌",
+	name = "隐",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "9DEFF48F79204177BA63DA3119A29C71",
+},
 -- 长歌
 {
 	enable = true,
@@ -749,7 +791,11 @@
 -- 橙武
 {
 	enable = true,
-	ignoreId = false,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
 	kungfus = {
 		all = true,
 	},
@@ -759,7 +805,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8045,
 	maps = {},
 	ids = {
 		[6471] = {
@@ -795,19 +841,21 @@
 	name = "君行四海",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		all = false,
+		[10144] = true,
+		[10145] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F8739EBB40",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8045,
-	uuid = "000001F8739EBB40",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -817,7 +865,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 445,
 	maps = {},
 	ids = {},
 	nameAlias = true,
@@ -827,19 +875,21 @@
 	name = "鹿卢",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		all = false,
+		[10144] = true,
+		[10145] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F8739EC9F0",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 445,
-	uuid = "000001F8739EC9F0",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -849,7 +899,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8038,
 	maps = {},
 	ids = {
 		[1911] = {
@@ -889,19 +939,21 @@
 	name = "赤乌流火",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10026] = true,
+		all = false,
+		[10062] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F8AAF1DF10",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8038,
-	uuid = "000001F8AAF1DF10",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -911,7 +963,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8029,
 	maps = {},
 	ids = {
 		[1913] = {
@@ -951,19 +1003,21 @@
 	name = "悲声",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		all = false,
+		[10021] = true,
+		[10028] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F8AAF1FEA0",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8029,
-	uuid = "000001F8AAF1FEA0",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -973,7 +1027,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8041,
 	maps = {},
 	ids = {
 		[1915] = {
@@ -1013,19 +1067,21 @@
 	name = "瀚海长风",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10014] = true,
+		all = false,
+		[10015] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F8AAF01770",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8041,
-	uuid = "000001F8AAF01770",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1035,7 +1091,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8042,
 	maps = {},
 	ids = {
 		[1916] = {
@@ -1075,19 +1131,21 @@
 	name = "霜影玄玑",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10014] = true,
+		all = false,
+		[10015] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F8AAF03E30",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8042,
-	uuid = "000001F8AAF03E30",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1097,7 +1155,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8027,
 	maps = {},
 	ids = {
 		[12768] = {
@@ -1129,19 +1187,21 @@
 	name = "沧澜·沉歌",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10080] = true,
+		all = false,
+		[10081] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F8AAF07800",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8027,
-	uuid = "000001F8AAF07800",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1151,7 +1211,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8026,
 	maps = {},
 	ids = {
 		[1917] = {
@@ -1191,23 +1251,17 @@
 	name = "羲和凰羽",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10080] = true,
+		all = false,
+		[10081] = true,
 	},
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	iconid = 8026,
+	ignoreId = false,
 	uuid = "000001F8AAF08D90",
+	rHideOthers = false,
 },
 {
 	enable = true,
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
+	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1217,7 +1271,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8034,
 	maps = {},
 	ids = {
 		[1919] = {
@@ -1270,15 +1324,25 @@
 	name = "涅槃",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10002] = true,
+		all = false,
+		[10003] = true,
 	},
-	ignoreId = false,
-	iconid = 8034,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
 	uuid = "000001F8AAF0AFA0",
+	rHideOthers = false,
 },
 {
 	enable = true,
-	ignoreId = false,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
 	kungfus = {
 		all = true,
 	},
@@ -1288,7 +1352,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8032,
 	maps = {},
 	ids = {
 		[3028] = {
@@ -1328,19 +1392,21 @@
 	name = "蛇影迷蝶",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10176] = true,
+		all = false,
+		[10175] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F89B59E440",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8032,
-	uuid = "000001F89B59E440",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1350,7 +1416,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 13,
 	maps = {},
 	ids = {
 		[12769] = {
@@ -1390,19 +1456,21 @@
 	name = "咫尺韶华",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10176] = true,
+		all = false,
+		[10175] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F89B59F070",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 13,
-	uuid = "000001F89B59F070",
-},
-{
-	enable = true,
-	ignoreId = true,
 	kungfus = {
 		all = true,
 	},
@@ -1412,7 +1480,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8035,
 	maps = {},
 	ids = {},
 	nameAlias = true,
@@ -1422,19 +1490,21 @@
 	name = "螭首千机",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10224] = true,
+		all = false,
+		[10225] = true,
 	},
+	ignoreId = true,
+	uuid = "000001F8729725D0",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8035,
-	uuid = "000001F8729725D0",
-},
-{
-	enable = true,
-	ignoreId = true,
 	kungfus = {
 		all = true,
 	},
@@ -1444,7 +1514,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8036,
 	maps = {},
 	ids = {},
 	nameAlias = true,
@@ -1454,19 +1524,21 @@
 	name = "鹫翎诡夺",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10224] = true,
+		all = false,
+		[10225] = true,
 	},
+	ignoreId = true,
+	uuid = "000001F872974DD0",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8036,
-	uuid = "000001F872974DD0",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1476,7 +1548,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 13,
 	maps = {},
 	ids = {
 		[4930] = {
@@ -1516,19 +1588,21 @@
 	name = "阴阳往极",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10242] = true,
+		all = false,
+		[10243] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F872976A40",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 13,
-	uuid = "000001F872976A40",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1538,7 +1612,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8030,
 	maps = {},
 	ids = {},
 	nameAlias = true,
@@ -1548,19 +1622,20 @@
 	name = "厉风炽海",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10268] = true,
+		all = false,
 	},
+	ignoreId = false,
+	uuid = "000001F8729791A0",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8030,
-	uuid = "000001F8729791A0",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1570,7 +1645,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8044,
 	maps = {},
 	ids = {
 		[8474] = {
@@ -1630,19 +1705,21 @@
 	name = "十律守心·猊焰",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10389] = true,
+		all = false,
+		[10390] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F87297AFF0",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8044,
-	uuid = "000001F87297AFF0",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1652,7 +1729,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8047,
 	maps = {},
 	ids = {
 		[10192] = {
@@ -1680,19 +1757,21 @@
 	name = "青雀无尘",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		all = false,
+		[10447] = true,
+		[10448] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F87297CA80",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8047,
-	uuid = "000001F87297CA80",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1702,7 +1781,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8048,
 	maps = {},
 	ids = {
 		[10193] = {
@@ -1730,19 +1809,21 @@
 	name = "念庭兰",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		all = false,
+		[10447] = true,
+		[10448] = true,
 	},
+	ignoreId = false,
+	uuid = "000001F87297EFB0",
+	rHideOthers = false,
+},
+{
+	enable = true,
 	rgbLongAlias = {
 		255,
 		255,
 		0,
 	},
-	iconid = 8048,
-	uuid = "000001F87297EFB0",
-},
-{
-	enable = true,
-	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1752,7 +1833,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 8832,
 	maps = {},
 	ids = {
 		[11376] = {
@@ -1792,15 +1873,12 @@
 	name = "沧骨曜月",
 	soundAppear = {},
 	tarkungfus = {
-		all = true,
+		[10464] = true,
+		all = false,
 	},
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	iconid = 8832,
+	ignoreId = false,
 	uuid = "000001F872982890",
+	rHideOthers = false,
 },
 {
 	enable = true,
@@ -1812,7 +1890,7 @@
 		0,
 	},
 	capture = true,
-	uuid = "5A2E19E8B3A74BD79D3F39390CD120C3",
+	rHideOthers = false,
 	maps = {},
 	ids = {},
 	nameAlias = true,
@@ -1820,9 +1898,12 @@
 	rHideVoid = false,
 	shortAlias = "橙武",
 	name = "寒魄玉心",
-	tarkungfus = {},
+	tarkungfus = {
+		[10533] = true,
+		all = false,
+	},
 	soundAppear = {},
-	rHideOthers = false,
+	uuid = "5A2E19E8B3A74BD79D3F39390CD120C3",
 	rgbLongAlias = {
 		255,
 		255,
@@ -1839,7 +1920,7 @@
 		0,
 	},
 	capture = true,
-	uuid = "99D73628B2D14936A27AB4CD1C0462D1",
+	rHideOthers = false,
 	maps = {},
 	ids = {
 		[1912] = {
@@ -1877,9 +1958,13 @@
 	rHideVoid = false,
 	shortAlias = "橙武",
 	name = "神威",
-	tarkungfus = {},
+	tarkungfus = {
+		[10026] = true,
+		all = false,
+		[10062] = true,
+	},
 	soundAppear = {},
-	rHideOthers = false,
+	uuid = "99D73628B2D14936A27AB4CD1C0462D1",
 	rgbLongAlias = {
 		255,
 		255,
@@ -1896,7 +1981,7 @@
 		0,
 	},
 	capture = true,
-	uuid = "8F39C5D35750442C98A4C5D52989232F",
+	rHideOthers = false,
 	maps = {},
 	ids = {
 		[1920] = {
@@ -1934,9 +2019,13 @@
 	rHideVoid = false,
 	shortAlias = "橙武",
 	name = "荣枯",
-	tarkungfus = {},
+	tarkungfus = {
+		[10002] = true,
+		all = false,
+		[10003] = true,
+	},
 	soundAppear = {},
-	rHideOthers = false,
+	uuid = "8F39C5D35750442C98A4C5D52989232F",
 	rgbLongAlias = {
 		255,
 		255,
@@ -1953,7 +2042,7 @@
 		0,
 	},
 	capture = true,
-	uuid = "CB2DAD3F720A41708CA015FE2FFD8663",
+	rHideOthers = false,
 	maps = {},
 	ids = {
 		[12770] = {
@@ -1991,9 +2080,13 @@
 	rHideVoid = false,
 	shortAlias = "橙武",
 	name = "千山月影",
-	tarkungfus = {},
+	tarkungfus = {
+		all = false,
+		[10021] = true,
+		[10028] = true,
+	},
 	soundAppear = {},
-	rHideOthers = false,
+	uuid = "CB2DAD3F720A41708CA015FE2FFD8663",
 	rgbLongAlias = {
 		255,
 		255,
@@ -2010,7 +2103,7 @@
 		0,
 	},
 	capture = true,
-	uuid = "A4957AAC9CB147EAB878625A9EDDC53F",
+	rHideOthers = false,
 	maps = {},
 	ids = {
 		[4931] = {
@@ -2048,7 +2141,41 @@
 	rHideVoid = false,
 	shortAlias = "橙武",
 	name = "圣炎耀尊",
-	tarkungfus = {},
+	tarkungfus = {
+		[10242] = true,
+		all = false,
+		[10243] = true,
+	},
+	soundAppear = {},
+	uuid = "A4957AAC9CB147EAB878625A9EDDC53F",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+},
+{
+	enable = true,
+	ignoreId = true,
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	uuid = "8A0390FFC933460FB8F254060F252746",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "橙武",
+	name = "临渊",
+	tarkungfus = {
+		[10585] = true,
+		all = false,
+	},
 	soundAppear = {},
 	rHideOthers = false,
 	rgbLongAlias = {
@@ -6781,6 +6908,48 @@
 	rHideOthers = false,
 	uuid = "000001F8AA6F9DC0",
 },
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 898,
+	maps = {},
+	ids = {
+		[16545] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 898,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 898,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "减伤",
+	name = "璇妗",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "B995550EB9C14B9B8DBC6B75F09EF22A",
+},
 -- 天策
 {
 	enable = true,
@@ -9474,7 +9643,11 @@
 },
 {
 	enable = true,
-	ignoreId = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
 	kungfus = {
 		all = true,
 	},
@@ -9483,8 +9656,8 @@
 		255,
 		0,
 	},
-	capture = true,
-	iconid = 8628,
+	capture = false,
+	rHideOthers = false,
 	maps = {},
 	ids = {
 		[11319] = {
@@ -9510,13 +9683,9 @@
 	tarkungfus = {
 		all = true,
 	},
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	rHideOthers = false,
+	ignoreId = false,
 	uuid = "000001F873D82750",
+	iconid = 8628,
 },
 {
 	enable = true,
