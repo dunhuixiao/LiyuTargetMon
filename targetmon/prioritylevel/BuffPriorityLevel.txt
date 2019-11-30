@@ -5470,98 +5470,6 @@
 	rHideOthers = false,
 	maps = {},
 	ids = {
-		[15524] = {
-			levels = {
-				{
-					enable = false,
-					iconid = 12097,
-				},
-				{
-					enable = true,
-					iconid = 12097,
-				},
-			},
-			ignoreLevel = false,
-			enable = true,
-			soundDisappear = {},
-			iconid = 12097,
-			soundAppear = {},
-		},
-	},
-	nameAlias = true,
-	soundDisappear = {},
-	rHideVoid = false,
-	shortAlias = "免控",
-	name = "单链",
-	soundAppear = {},
-	tarkungfus = {},
-	ignoreId = false,
-	uuid = "4CD46CFE9D674AAD8C6948DDC4D69FD2",
-	iconid = 12097,
-},
-{
-	enable = true,
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	kungfus = {},
-	rgbShortAlias = {
-		255,
-		255,
-		0,
-	},
-	capture = true,
-	rHideOthers = false,
-	maps = {},
-	ids = {
-		[15565] = {
-			levels = {
-				{
-					enable = false,
-					iconid = 12094,
-				},
-				{
-					enable = true,
-					iconid = 12094,
-				},
-			},
-			ignoreLevel = false,
-			enable = true,
-			soundDisappear = {},
-			iconid = 12094,
-			soundAppear = {},
-		},
-	},
-	nameAlias = true,
-	soundDisappear = {},
-	rHideVoid = false,
-	shortAlias = "免控",
-	name = "双链",
-	soundAppear = {},
-	tarkungfus = {},
-	ignoreId = false,
-	uuid = "0C5A818FC72F45488AF6F94ECBA26904",
-	iconid = 12094,
-},
-{
-	enable = true,
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	kungfus = {},
-	rgbShortAlias = {
-		255,
-		255,
-		0,
-	},
-	capture = true,
-	rHideOthers = false,
-	maps = {},
-	ids = {
 		[15826] = {
 			levels = {
 				{
@@ -9974,6 +9882,62 @@
 	iconid = 10876,
 	rHideOthers = false,
 },
+-- 凌雪阁
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = false,
+	iconid = 12108,
+	maps = {},
+	ids = {
+		[15801] = {
+			levels = {
+				[2] = {
+					enable = true,
+					iconid = 12108,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 12108,
+			soundAppear = {},
+		},
+		[15967] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 12098,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 12098,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "减伤",
+	name = "窥月",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "9DEFF48F79204177BA63DA3119A29C71",
+},
 
 -- 爆发
 -- 纯阳
@@ -13632,46 +13596,6 @@
 	rHideOthers = false,
 	ignoreId = false,
 	iconid = 3235,
-},
-{
-	enable = true,
-	ignoreId = false,
-	kungfus = {
-		all = true,
-	},
-	soundAppear = {},
-	capture = true,
-	rHideOthers = false,
-	maps = {},
-	ids = {
-		[10005] = {
-			iconid = 3180,
-			ignoreLevel = true,
-			enable = true,
-			soundDisappear = {},
-			levels = {},
-			soundAppear = {},
-		},
-	},
-	nameAlias = true,
-	soundDisappear = {},
-	rHideVoid = false,
-	name = "催寒",
-	iconid = 13,
-	tarkungfus = {
-		all = true,
-	},
-	uuid = "0000017AFE702130",
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	rgbShortAlias = {
-		255,
-		255,
-		0,
-	},
 },
 -- 明教
 {

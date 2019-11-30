@@ -5410,6 +5410,48 @@
 	uuid = "A4B1DA8B027E4CB09678B0F10DD77141",
 	iconid = 1492,
 },
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = false,
+	iconid = 901,
+	maps = {},
+	ids = {
+		[690] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 901,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 901,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "封内",
+	name = "剑心通明",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "9DEFF48F79204177BA63DA3119A29C71",
+},
 -- 五毒
 {
 	enable = true,
