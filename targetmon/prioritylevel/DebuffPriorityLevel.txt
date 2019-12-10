@@ -1464,7 +1464,7 @@
 -- 少林
 {
 	enable = true,
-	ignoreId = true,
+	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -1474,7 +1474,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 430,
 	maps = {},
 	ids = {
 		[572] = {
@@ -1516,6 +1516,19 @@
 			iconid = 430,
 			soundAppear = {},
 		},
+		[917] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 1661,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 1661,
+			soundAppear = {},
+		},
 	},
 	nameAlias = true,
 	soundDisappear = {},
@@ -1531,8 +1544,8 @@
 		255,
 		0,
 	},
+	rHideOthers = false,
 	uuid = "000001F873A97E70",
-	iconid = 430,
 },
 {
 	enable = true,
@@ -4239,7 +4252,7 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	iconid = 896,
 	maps = {},
 	ids = {
 		[5793] = {
@@ -4253,6 +4266,19 @@
 			enable = true,
 			soundDisappear = {},
 			iconid = 896,
+			soundAppear = {},
+		},
+		[6436] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 910,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 910,
 			soundAppear = {},
 		},
 	},
@@ -4270,8 +4296,8 @@
 		255,
 		0,
 	},
+	rHideOthers = false,
 	uuid = "000001F869653070",
-	iconid = 896,
 },
 -- 藏剑
 {

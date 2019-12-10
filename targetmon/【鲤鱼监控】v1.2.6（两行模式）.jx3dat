@@ -1490,7 +1490,7 @@ return {
 			},
 			{
 				enable = true,
-				ignoreId = true,
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
@@ -1502,7 +1502,37 @@ return {
 				capture = true,
 				uuid = "000001F8729725D0",
 				maps = {},
-				ids = {},
+				ids = {
+					[3487] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 3275,
+							},
+							{
+								enable = true,
+								iconid = 3282,
+							},
+							{
+								enable = true,
+								iconid = 4925,
+							},
+							{
+								enable = true,
+								iconid = 8035,
+							},
+							{
+								enable = true,
+								iconid = 11164,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 11164,
+						soundAppear = {},
+					},
+				},
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
@@ -3363,11 +3393,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
@@ -3377,7 +3403,7 @@ return {
 					0,
 				},
 				capture = true,
-				uuid = "000001F873A97E70",
+				iconid = 430,
 				maps = {},
 				ids = {
 					[572] = {
@@ -3419,6 +3445,19 @@ return {
 						iconid = 430,
 						soundAppear = {},
 					},
+					[917] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 1661,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 1661,
+						soundAppear = {},
+					},
 				},
 				nameAlias = true,
 				soundDisappear = {},
@@ -3429,9 +3468,13 @@ return {
 				tarkungfus = {
 					all = true,
 				},
-				ignoreId = true,
-				iconid = 430,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				rHideOthers = false,
+				uuid = "000001F873A97E70",
 			},
 			{
 				enable = true,
@@ -6104,11 +6147,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
@@ -6118,7 +6157,7 @@ return {
 					0,
 				},
 				capture = true,
-				uuid = "000001F869653070",
+				iconid = 896,
 				maps = {},
 				ids = {
 					[5793] = {
@@ -6134,6 +6173,19 @@ return {
 						iconid = 896,
 						soundAppear = {},
 					},
+					[6436] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 910,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 910,
+						soundAppear = {},
+					},
 				},
 				nameAlias = true,
 				soundDisappear = {},
@@ -6144,9 +6196,13 @@ return {
 				tarkungfus = {
 					all = true,
 				},
-				ignoreId = false,
-				iconid = 896,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				rHideOthers = false,
+				uuid = "000001F869653070",
 			},
 			{
 				enable = true,
@@ -16239,26 +16295,34 @@ return {
 			},
 			{
 				enable = true,
-				ignoreId = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				kungfus = {},
 				rgbShortAlias = {
 					255,
 					255,
 					0,
 				},
-				capture = true,
+				capture = false,
 				iconid = 7221,
 				maps = {},
 				ids = {
 					[9922] = {
 						levels = {
-							[2] = {
+							{
+								enable = true,
+								iconid = 7221,
+							},
+							{
 								enable = true,
 								iconid = 7221,
 							},
 						},
 						ignoreLevel = true,
-						enable = true,
+						enable = false,
 						soundDisappear = {},
 						iconid = 7221,
 						soundAppear = {},
@@ -16284,11 +16348,7 @@ return {
 				name = "행질",
 				soundAppear = {},
 				tarkungfus = {},
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				rHideOthers = false,
 				uuid = "605699E5FDF947AEBD62DF91428A0108",
 			},
@@ -24870,7 +24930,7 @@ return {
 			},
 			{
 				enable = true,
-				ignoreId = true,
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
@@ -24882,7 +24942,37 @@ return {
 				capture = true,
 				uuid = "000001F8729725D0",
 				maps = {},
-				ids = {},
+				ids = {
+					[3487] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 3275,
+							},
+							{
+								enable = true,
+								iconid = 3282,
+							},
+							{
+								enable = true,
+								iconid = 4925,
+							},
+							{
+								enable = true,
+								iconid = 8035,
+							},
+							{
+								enable = true,
+								iconid = 11164,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 11164,
+						soundAppear = {},
+					},
+				},
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
@@ -26743,11 +26833,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
@@ -26757,7 +26843,7 @@ return {
 					0,
 				},
 				capture = true,
-				uuid = "000001F873A97E70",
+				iconid = 430,
 				maps = {},
 				ids = {
 					[572] = {
@@ -26799,6 +26885,19 @@ return {
 						iconid = 430,
 						soundAppear = {},
 					},
+					[917] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 1661,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 1661,
+						soundAppear = {},
+					},
 				},
 				nameAlias = true,
 				soundDisappear = {},
@@ -26809,9 +26908,13 @@ return {
 				tarkungfus = {
 					all = true,
 				},
-				ignoreId = true,
-				iconid = 430,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				rHideOthers = false,
+				uuid = "000001F873A97E70",
 			},
 			{
 				enable = true,
@@ -29484,11 +29587,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
@@ -29498,7 +29597,7 @@ return {
 					0,
 				},
 				capture = true,
-				uuid = "000001F869653070",
+				iconid = 896,
 				maps = {},
 				ids = {
 					[5793] = {
@@ -29514,6 +29613,19 @@ return {
 						iconid = 896,
 						soundAppear = {},
 					},
+					[6436] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 910,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 910,
+						soundAppear = {},
+					},
 				},
 				nameAlias = true,
 				soundDisappear = {},
@@ -29524,9 +29636,13 @@ return {
 				tarkungfus = {
 					all = true,
 				},
-				ignoreId = false,
-				iconid = 896,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				rHideOthers = false,
+				uuid = "000001F869653070",
 			},
 			{
 				enable = true,
@@ -39619,26 +39735,34 @@ return {
 			},
 			{
 				enable = true,
-				ignoreId = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				kungfus = {},
 				rgbShortAlias = {
 					255,
 					255,
 					0,
 				},
-				capture = true,
+				capture = false,
 				iconid = 7221,
 				maps = {},
 				ids = {
 					[9922] = {
 						levels = {
-							[2] = {
+							{
+								enable = true,
+								iconid = 7221,
+							},
+							{
 								enable = true,
 								iconid = 7221,
 							},
 						},
 						ignoreLevel = true,
-						enable = true,
+						enable = false,
 						soundDisappear = {},
 						iconid = 7221,
 						soundAppear = {},
@@ -39664,11 +39788,7 @@ return {
 				name = "행질",
 				soundAppear = {},
 				tarkungfus = {},
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				rHideOthers = false,
 				uuid = "605699E5FDF947AEBD62DF91428A0108",
 			},
