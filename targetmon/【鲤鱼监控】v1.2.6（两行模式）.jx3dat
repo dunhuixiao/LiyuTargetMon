@@ -16295,19 +16295,15 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
 					255,
 					0,
 				},
-				capture = false,
-				iconid = 7221,
+				capture = true,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[9922] = {
@@ -16348,9 +16344,13 @@ return {
 				name = "행질",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "605699E5FDF947AEBD62DF91428A0108",
+				iconid = 7221,
 			},
 			{
 				enable = true,
@@ -39735,19 +39735,15 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
 					255,
 					0,
 				},
-				capture = false,
-				iconid = 7221,
+				capture = true,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[9922] = {
@@ -39788,9 +39784,13 @@ return {
 				name = "행질",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "605699E5FDF947AEBD62DF91428A0108",
+				iconid = 7221,
 			},
 			{
 				enable = true,
