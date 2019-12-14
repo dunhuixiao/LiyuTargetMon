@@ -19152,8 +19152,8 @@
 		255,
 		0,
 	},
-	capture = true,
-	iconid = 7179,
+	capture = false,
+	uuid = "82E35EC2542648AD8356C8CB5D5B32FC",
 	maps = {},
 	ids = {
 		[562] = {
@@ -19182,6 +19182,19 @@
 			iconid = 7179,
 			soundAppear = {},
 		},
+		[9533] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 7174,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 7174,
+			soundAppear = {},
+		},
 	},
 	nameAlias = true,
 	soundDisappear = {},
@@ -19191,8 +19204,8 @@
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
+	iconid = 7179,
 	rHideOthers = false,
-	uuid = "82E35EC2542648AD8356C8CB5D5B32FC",
 },
 -- 霸刀
 {

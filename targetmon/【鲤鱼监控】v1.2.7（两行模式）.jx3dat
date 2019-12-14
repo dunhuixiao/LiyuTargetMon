@@ -19033,15 +19033,19 @@ return {
 			},
 			{
 				enable = true,
-				ignoreId = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				kungfus = {},
 				rgbShortAlias = {
 					255,
 					255,
 					0,
 				},
-				capture = true,
-				rHideOthers = false,
+				capture = false,
+				uuid = "82E35EC2542648AD8356C8CB5D5B32FC",
 				maps = {},
 				ids = {
 					[562] = {
@@ -19070,6 +19074,19 @@ return {
 						iconid = 7179,
 						soundAppear = {},
 					},
+					[9533] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 7174,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 7174,
+						soundAppear = {},
+					},
 				},
 				nameAlias = true,
 				soundDisappear = {},
@@ -19078,13 +19095,9 @@ return {
 				name = "сч",
 				soundAppear = {},
 				tarkungfus = {},
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
-				uuid = "82E35EC2542648AD8356C8CB5D5B32FC",
+				ignoreId = false,
 				iconid = 7179,
+				rHideOthers = false,
 			},
 			{
 				enable = true,
@@ -42473,15 +42486,19 @@ return {
 			},
 			{
 				enable = true,
-				ignoreId = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				kungfus = {},
 				rgbShortAlias = {
 					255,
 					255,
 					0,
 				},
-				capture = true,
-				rHideOthers = false,
+				capture = false,
+				uuid = "82E35EC2542648AD8356C8CB5D5B32FC",
 				maps = {},
 				ids = {
 					[562] = {
@@ -42510,6 +42527,19 @@ return {
 						iconid = 7179,
 						soundAppear = {},
 					},
+					[9533] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 7174,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 7174,
+						soundAppear = {},
+					},
 				},
 				nameAlias = true,
 				soundDisappear = {},
@@ -42518,13 +42548,9 @@ return {
 				name = "сч",
 				soundAppear = {},
 				tarkungfus = {},
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
-				uuid = "82E35EC2542648AD8356C8CB5D5B32FC",
+				ignoreId = false,
 				iconid = 7179,
+				rHideOthers = false,
 			},
 			{
 				enable = true,
