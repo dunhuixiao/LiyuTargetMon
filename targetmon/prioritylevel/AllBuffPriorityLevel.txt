@@ -464,7 +464,7 @@
 				},
 			},
 			ignoreLevel = true,
-			enable = true,
+			enable = false,
 			soundDisappear = {},
 			iconid = 3193,
 			soundAppear = {},
@@ -10934,6 +10934,74 @@
 },
 {
 	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = false,
+	iconid = 620,
+	maps = {},
+	ids = {
+		[8868] = {
+			levels = {
+				[10] = {
+					enable = true,
+					iconid = 620,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 620,
+			soundAppear = {},
+		},
+		[134] = {
+			levels = {
+				[10] = {
+					enable = true,
+					iconid = 620,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 620,
+			soundAppear = {},
+		},
+		[16730] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 620,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 620,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "减伤",
+	name = "坐忘无我",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "F48F792017744E8398DA3119A29C71A4",
+},
+{
+	enable = true,
 	ignoreId = false,
 	kungfus = {
 		all = true,
@@ -13210,7 +13278,7 @@
 -- 明教
 {
 	enable = true,
-	ignoreId = true,
+	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -13220,10 +13288,10 @@
 		0,
 	},
 	capture = true,
-	iconid = 4178,
+	rHideOthers = false,
 	maps = {},
 	ids = {
-		[4033] = {
+		[5744] = {
 			levels = {
 				{
 					enable = true,
@@ -13234,6 +13302,19 @@
 			enable = true,
 			soundDisappear = {},
 			iconid = 4178,
+			soundAppear = {},
+		},
+		[5753] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 3821,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 3821,
 			soundAppear = {},
 		},
 		[4439] = {
@@ -13262,7 +13343,7 @@
 			iconid = 4178,
 			soundAppear = {},
 		},
-		[5744] = {
+		[4033] = {
 			levels = {
 				{
 					enable = true,
@@ -13290,8 +13371,8 @@
 		255,
 		0,
 	},
-	rHideOthers = false,
 	uuid = "000001F8739E4C00",
+	iconid = 4178,
 },
 {
 	enable = true,
@@ -14184,6 +14265,69 @@
 	uuid = "000001F8AA700260",
 },
 -- 长歌
+{
+	enable = true,
+	ignoreId = false,
+	kungfus = {
+		all = true,
+	},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = false,
+	rHideOthers = false,
+	maps = {},
+	ids = {
+		[9319] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 7080,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 7080,
+			soundAppear = {},
+		},
+		[9377] = {
+			levels = {
+				{
+					enable = false,
+					iconid = 7080,
+				},
+				[3] = {
+					enable = true,
+					iconid = 7080,
+				},
+			},
+			ignoreLevel = false,
+			enable = true,
+			soundDisappear = {},
+			iconid = 7080,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "免封内",
+	name = "高山流水",
+	iconid = 7080,
+	tarkungfus = {
+		all = true,
+	},
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	uuid = "000001A39540F830",
+	soundAppear = {},
+},
 {
 	enable = true,
 	ignoreId = true,
@@ -23040,68 +23184,6 @@
 	},
 	rHideOthers = false,
 	uuid = "000001F872072AB0",
-},
-{
-	enable = true,
-	ignoreId = false,
-	kungfus = {
-		all = true,
-	},
-	rgbShortAlias = {
-		255,
-		255,
-		0,
-	},
-	capture = true,
-	uuid = "000001A39540F830",
-	maps = {},
-	ids = {
-		[9319] = {
-			levels = {
-				{
-					enable = true,
-					iconid = 7080,
-				},
-			},
-			ignoreLevel = true,
-			enable = false,
-			soundDisappear = {},
-			iconid = 7080,
-			soundAppear = {},
-		},
-		[9377] = {
-			levels = {
-				{
-					enable = true,
-					iconid = 7080,
-				},
-				[3] = {
-					enable = true,
-					iconid = 7080,
-				},
-			},
-			ignoreLevel = false,
-			enable = true,
-			soundDisappear = {},
-			iconid = 7080,
-			soundAppear = {},
-		},
-	},
-	nameAlias = true,
-	soundDisappear = {},
-	rHideVoid = false,
-	name = "高山流水",
-	rHideOthers = false,
-	tarkungfus = {
-		all = true,
-	},
-	iconid = 7080,
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	soundAppear = {},
 },
 {
 	enable = true,

@@ -129,10 +129,10 @@
 		0,
 	},
 	capture = true,
-	rHideOthers = false,
+	uuid = "000001F872C01F10",
 	maps = {},
 	ids = {
-		[4033] = {
+		[5744] = {
 			levels = {
 				{
 					enable = true,
@@ -140,9 +140,22 @@
 				},
 			},
 			ignoreLevel = true,
-			enable = true,
+			enable = false,
 			soundDisappear = {},
 			iconid = 4178,
+			soundAppear = {},
+		},
+		[5753] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 3821,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 3821,
 			soundAppear = {},
 		},
 		[4439] = {
@@ -171,7 +184,7 @@
 			iconid = 4178,
 			soundAppear = {},
 		},
-		[5744] = {
+		[4033] = {
 			levels = {
 				{
 					enable = true,
@@ -179,7 +192,7 @@
 				},
 			},
 			ignoreLevel = true,
-			enable = false,
+			enable = true,
 			soundDisappear = {},
 			iconid = 4178,
 			soundAppear = {},
@@ -199,8 +212,8 @@
 		255,
 		0,
 	},
-	uuid = "000001F872C01F10",
 	iconid = 4178,
+	rHideOthers = false,
 },
 {
 	enable = true,
