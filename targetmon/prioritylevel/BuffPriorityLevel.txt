@@ -2230,7 +2230,7 @@
 },
 {
 	enable = true,
-	ignoreId = true,
+	ignoreId = false,
 	kungfus = {},
 	rgbShortAlias = {
 		255,
@@ -2238,20 +2238,51 @@
 		0,
 	},
 	capture = true,
-	uuid = "8A0390FFC933460FB8F254060F252746",
+	iconid = 12478,
 	maps = {},
-	ids = {},
+	ids = {
+		[16482] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 12474,
+				},
+				{
+					enable = true,
+					iconid = 12475,
+				},
+				{
+					enable = true,
+					iconid = 12476,
+				},
+				{
+					enable = true,
+					iconid = 12477,
+				},
+				{
+					enable = true,
+					iconid = 12478,
+				},
+			},
+			ignoreLevel = false,
+			enable = true,
+			soundDisappear = {},
+			iconid = 12478,
+			soundAppear = {},
+		},
+	},
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
 	shortAlias = "橙武",
 	name = "临渊",
+	soundAppear = {},
 	tarkungfus = {
 		[10585] = true,
 		all = false,
 	},
-	soundAppear = {},
 	rHideOthers = false,
+	uuid = "8A0390FFC933460FB8F254060F252746",
 	rgbLongAlias = {
 		255,
 		255,
