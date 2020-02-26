@@ -22634,13 +22634,13 @@ return {
 						levels = {
 							[15] = {
 								enable = true,
-								iconid = 3178,
+								iconid = 3169,
 							},
 						},
 						ignoreLevel = true,
 						enable = true,
 						soundDisappear = {},
-						iconid = 3178,
+						iconid = 3169,
 						soundAppear = {},
 					},
 					[2237] = {
@@ -46477,13 +46477,13 @@ return {
 						levels = {
 							[15] = {
 								enable = true,
-								iconid = 3178,
+								iconid = 3169,
 							},
 						},
 						ignoreLevel = true,
 						enable = true,
 						soundDisappear = {},
-						iconid = 3178,
+						iconid = 3169,
 						soundAppear = {},
 					},
 					[2237] = {
