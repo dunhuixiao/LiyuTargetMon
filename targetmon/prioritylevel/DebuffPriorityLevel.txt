@@ -1775,6 +1775,61 @@
 },
 {
 	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 4576,
+	maps = {},
+	ids = {
+		[17042] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 4576,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 4576,
+			soundAppear = {},
+		},
+		[6131] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 4576,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 4576,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "眩晕",
+	name = "青阳",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "5672C88DCBCD45DC9632FCFA948199FB",
+},
+{
+	enable = true,
 	ignoreId = false,
 	kungfus = {
 		all = true,
@@ -6121,6 +6176,48 @@
 	},
 	uuid = "000001F8732CB7F0",
 	iconid = 2374,
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 3170,
+	maps = {},
+	ids = {
+		[17105] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 3170,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 3170,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "封轻功",
+	name = "千回百转（虚弱）",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = true,
+	rHideOthers = false,
+	uuid = "FF1503FC6B9A43199223939CF6952071",
 },
 
 -- 减疗
