@@ -23,7 +23,7 @@ return {
 		cdBar = false,
 		type = "BUFF",
 		penetrable = false,
-		caption = "¡¾ÀğÓã¼à¿Ø¡¿µĞ·½Buff/Debuff-v1.3.0",
+		caption = "¡¾ÀğÓã¼à¿Ø¡¿µĞ·½Buff/Debuff-v1.3.1",
 		maxLineCount = 32,
 		dragable = false,
 		cdBarUITex = "./Interface/MY/MY_!Base/image/ST_UI.UITex|7",
@@ -22884,6 +22884,7 @@ return {
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
+				shortAlias = "Ëø×ã",
 				name = "Ìú×¦",
 				soundAppear = {},
 				tarkungfus = {
@@ -24239,7 +24240,7 @@ return {
 		cdBar = false,
 		type = "BUFF",
 		penetrable = false,
-		caption = "¡¾ÀğÓã¼à¿Ø¡¿×ÔÉíBuff/Debuff-v1.3.0",
+		caption = "¡¾ÀğÓã¼à¿Ø¡¿×ÔÉíBuff/Debuff-v1.3.1",
 		maxLineCount = 32,
 		dragable = false,
 		cdBarUITex = "./Interface/MY/MY_!Base/image/ST_UI.UITex|7",
@@ -47100,6 +47101,7 @@ return {
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
+				shortAlias = "Ëø×ã",
 				name = "Ìú×¦",
 				soundAppear = {},
 				tarkungfus = {

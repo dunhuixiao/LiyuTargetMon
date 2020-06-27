@@ -9126,6 +9126,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
+	shortAlias = "锁足",
 	name = "铁爪",
 	soundAppear = {},
 	tarkungfus = {
