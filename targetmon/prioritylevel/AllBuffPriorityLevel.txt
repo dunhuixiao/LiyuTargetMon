@@ -7373,6 +7373,48 @@
 	ignoreId = false,
 	iconid = 1445,
 },
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 1490,
+	maps = {},
+	ids = {
+		[17639] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 1490,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 1490,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "免僵直",
+	name = "蹑云逐月",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = true,
+	rHideOthers = false,
+	uuid = "249A661A4E724E9BA283F2584CC28FA5",
+},
 -- 纯阳
 {
 	enable = true,
