@@ -6797,6 +6797,10 @@
 					enable = true,
 					iconid = 13868,
 				},
+				[41] = {
+					enable = true,
+					iconid = 11908,
+				},
 			},
 			ignoreLevel = false,
 			enable = true,
