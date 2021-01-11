@@ -3297,7 +3297,7 @@
 		0,
 	},
 	capture = false,
-	rHideOthers = false,
+	iconid = 2019,
 	maps = {},
 	ids = {
 		[15029] = {
@@ -3308,7 +3308,7 @@
 				},
 			},
 			ignoreLevel = true,
-			enable = true,
+			enable = false,
 			soundDisappear = {},
 			iconid = 10751,
 			soundAppear = {},
@@ -3321,7 +3321,7 @@
 				},
 			},
 			ignoreLevel = true,
-			enable = false,
+			enable = true,
 			soundDisappear = {},
 			iconid = 2019,
 			soundAppear = {},
@@ -3352,8 +3352,8 @@
 		255,
 		0,
 	},
+	rHideOthers = false,
 	uuid = "7B809A3FF4674EA2811CF1A030C74818",
-	iconid = 2019,
 },
 -- 凌雪阁
 {
@@ -4441,6 +4441,43 @@
 	},
 	uuid = "000001F872C4CB80",
 	iconid = 4906,
+},
+-- 长歌
+{
+	enable = true,
+	ignoreId = false,
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = false,
+	uuid = "80A58001AB534B589672B7DA240907AB",
+	maps = {},
+	ids = {
+		[15952] = {
+			levels = {},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 9536,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "定身",
+	name = "别鹤",
+	tarkungfus = {},
+	soundAppear = {},
+	rHideOthers = false,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
 },
 -- 蓬莱
 {
@@ -9832,20 +9869,7 @@
 					enable = true,
 					iconid = 647,
 				},
-			},
-			ignoreLevel = true,
-			enable = true,
-			soundDisappear = {},
-			iconid = 647,
-			soundAppear = {},
-		},
-		[12461] = {
-			levels = {
-				[29] = {
-					enable = true,
-					iconid = 647,
-				},
-				[30] = {
+				[15] = {
 					enable = true,
 					iconid = 647,
 				},
@@ -9884,6 +9908,48 @@
 			enable = false,
 			soundDisappear = {},
 			iconid = 18,
+			soundAppear = {},
+		},
+		[839] = {
+			levels = {
+				[11] = {
+					enable = true,
+					iconid = 648,
+				},
+				[7] = {
+					enable = true,
+					iconid = 648,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 648,
+			soundAppear = {},
+		},
+		[12461] = {
+			levels = {
+				[29] = {
+					enable = true,
+					iconid = 647,
+				},
+				[30] = {
+					enable = true,
+					iconid = 647,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 647,
+			soundAppear = {},
+		},
+		[18365] = {
+			levels = {},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 2021,
 			soundAppear = {},
 		},
 	},
@@ -9999,17 +10065,34 @@
 		0,
 	},
 	capture = true,
-	iconid = 13447,
+	uuid = "9E4590FFA0954AB6A26099FD7AF662DF",
 	maps = {},
 	ids = {
 		[17995] = {
 			levels = {
-				[2] = {
+				{
+					enable = false,
+					iconid = 13447,
+				},
+				{
 					enable = true,
 					iconid = 13447,
 				},
 			},
-			ignoreLevel = true,
+			ignoreLevel = false,
+			enable = false,
+			soundDisappear = {},
+			iconid = 13447,
+			soundAppear = {},
+		},
+		[18749] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 13447,
+				},
+			},
+			ignoreLevel = false,
 			enable = true,
 			soundDisappear = {},
 			iconid = 13447,
@@ -10023,9 +10106,9 @@
 	name = "圣元",
 	soundAppear = {},
 	tarkungfus = {},
-	ignoreId = true,
+	ignoreId = false,
+	iconid = 13447,
 	rHideOthers = false,
-	uuid = "9E4590FFA0954AB6A26099FD7AF662DF",
 },
 {
 	enable = true,
@@ -10422,20 +10505,7 @@
 					enable = true,
 					iconid = 647,
 				},
-			},
-			ignoreLevel = true,
-			enable = false,
-			soundDisappear = {},
-			iconid = 647,
-			soundAppear = {},
-		},
-		[12461] = {
-			levels = {
-				[29] = {
-					enable = true,
-					iconid = 647,
-				},
-				[30] = {
+				[15] = {
 					enable = true,
 					iconid = 647,
 				},
@@ -10474,6 +10544,48 @@
 			enable = false,
 			soundDisappear = {},
 			iconid = 18,
+			soundAppear = {},
+		},
+		[839] = {
+			levels = {
+				[11] = {
+					enable = true,
+					iconid = 648,
+				},
+				[7] = {
+					enable = true,
+					iconid = 648,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 648,
+			soundAppear = {},
+		},
+		[12461] = {
+			levels = {
+				[29] = {
+					enable = true,
+					iconid = 647,
+				},
+				[30] = {
+					enable = true,
+					iconid = 647,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 647,
+			soundAppear = {},
+		},
+		[18365] = {
+			levels = {},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 2021,
 			soundAppear = {},
 		},
 	},

@@ -417,6 +417,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
+	shortAlias = "不死",
 	name = "冥泽",
 	soundAppear = {},
 	tarkungfus = {
@@ -868,7 +869,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "假死",
+	shortAlias = "不死",
 	name = "仇非",
 	soundAppear = {},
 	tarkungfus = {},
@@ -4058,7 +4059,7 @@
 },
 {
 	enable = true,
-	ignoreId = true,
+	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -4068,9 +4069,22 @@
 		0,
 	},
 	capture = true,
-	iconid = 7444,
+	uuid = "000001F8AA67B560",
 	maps = {},
 	ids = {
+		[12483] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 7444,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 7444,
+			soundAppear = {},
+		},
 		[12481] = {
 			levels = {
 				{
@@ -4084,17 +4098,17 @@
 			iconid = 7444,
 			soundAppear = {},
 		},
-		[12483] = {
+		[2132] = {
 			levels = {
-				{
+				[2] = {
 					enable = true,
-					iconid = 7444,
+					iconid = 2127,
 				},
 			},
 			ignoreLevel = true,
-			enable = true,
+			enable = false,
 			soundDisappear = {},
-			iconid = 7444,
+			iconid = 2127,
 			soundAppear = {},
 		},
 	},
@@ -4112,8 +4126,8 @@
 		255,
 		0,
 	},
+	iconid = 7444,
 	rHideOthers = false,
-	uuid = "000001F8AA67B560",
 },
 {
 	enable = true,
@@ -9674,7 +9688,7 @@
 		0,
 	},
 	capture = true,
-	uuid = "54268AD30CAA4567B2CB5D5B32FCFA94",
+	rHideOthers = false,
 	maps = {},
 	ids = {
 		[9896] = {
@@ -9698,7 +9712,7 @@
 				},
 			},
 			ignoreLevel = true,
-			enable = true,
+			enable = false,
 			soundDisappear = {},
 			iconid = 7223,
 			soundAppear = {},
@@ -9711,9 +9725,9 @@
 	name = "亮节",
 	soundAppear = {},
 	tarkungfus = {},
-	ignoreId = true,
+	ignoreId = false,
+	uuid = "54268AD30CAA4567B2CB5D5B32FCFA94",
 	iconid = 7434,
-	rHideOthers = false,
 },
 {
 	enable = true,
@@ -11474,11 +11488,7 @@
 },
 {
 	enable = true,
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
+	ignoreId = false,
 	kungfus = {
 		all = true,
 	},
@@ -11508,13 +11518,18 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
+	shortAlias = "爆发",
 	name = "布散",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
 	},
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
 	rHideOthers = false,
-	ignoreId = false,
 	iconid = 327,
 },
 {
@@ -13391,7 +13406,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "平笃",
+	shortAlias = "瞬发",
 	name = "平笃",
 	soundAppear = {},
 	tarkungfus = {
@@ -13853,6 +13868,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
+	shortAlias = "瞬发",
 	name = "雨集",
 	soundAppear = {},
 	tarkungfus = {
@@ -13896,7 +13912,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "加速",
+	shortAlias = "移速",
 	name = "裂云",
 	soundAppear = {},
 	tarkungfus = {},
@@ -13991,7 +14007,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "加速",
+	shortAlias = "移速",
 	name = "金屋",
 	soundAppear = {},
 	tarkungfus = {
@@ -14041,6 +14057,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
+	shortAlias = "瞬发",
 	name = "放歌",
 	soundAppear = {},
 	tarkungfus = {
@@ -14049,6 +14066,61 @@
 	rHideOthers = false,
 	ignoreId = false,
 	iconid = 3015,
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 11825,
+	maps = {},
+	ids = {
+		[15340] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 11825,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 11825,
+			soundAppear = {},
+		},
+		[14946] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 11825,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 11825,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "瞬发",
+	name = "不舍",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "561863A06BD44EBBA85E82999ECCC13D",
 },
 {
 	enable = true,
@@ -14346,6 +14418,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
+	shortAlias = "瞬发",
 	name = "净果",
 	soundAppear = {},
 	tarkungfus = {
@@ -14583,6 +14656,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
+	shortAlias = "瞬发",
 	name = "声趣",
 	soundAppear = {},
 	tarkungfus = {
@@ -14680,7 +14754,6 @@
 	rHideOthers = false,
 	uuid = "93ED9C19F61149598871A80D9E90A0AB",
 },
-
 {
 	enable = true,
 	ignoreId = false,
@@ -14778,7 +14851,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "加速",
+	shortAlias = "移速",
 	name = "影滞",
 	soundAppear = {},
 	tarkungfus = {
@@ -14826,7 +14899,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "加速",
+	shortAlias = "移速",
 	name = "辟寒",
 	soundAppear = {},
 	tarkungfus = {},
@@ -15090,7 +15163,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "加速",
+	shortAlias = "移速",
 	name = "毫发",
 	soundAppear = {},
 	tarkungfus = {
@@ -15182,7 +15255,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "加速",
+	shortAlias = "移速",
 	name = "烈火",
 	soundAppear = {},
 	tarkungfus = {
@@ -15231,7 +15304,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "加速",
+	shortAlias = "移速",
 	name = "烟霞",
 	soundAppear = {},
 	tarkungfus = {},
@@ -15459,7 +15532,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "加速",
+	shortAlias = "移速",
 	name = "风入松",
 	soundAppear = {},
 	tarkungfus = {
@@ -15844,6 +15917,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
+	shortAlias = "瞬发",
 	name = "啸吒",
 	soundAppear = {},
 	tarkungfus = {
@@ -15888,7 +15962,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "加速",
+	shortAlias = "移速",
 	name = "振翅",
 	soundAppear = {},
 	tarkungfus = {},
@@ -15944,7 +16018,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "加速",
+	shortAlias = "移速",
 	name = "窥月",
 	soundAppear = {},
 	tarkungfus = {},
