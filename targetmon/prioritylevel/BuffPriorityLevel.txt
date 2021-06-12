@@ -2422,6 +2422,48 @@
 	rHideOthers = false,
 	uuid = "31F019AAA28B49C99CA4825E548A0C56",
 },
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 13383,
+	maps = {},
+	ids = {
+		[19217] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 13383,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 13383,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "免控",
+	name = "利刃",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "F0416A98A6274E0988D9C2D8C8F072D7",
+},
 -- 万花
 {
 	enable = true,
@@ -3825,6 +3867,48 @@
 	},
 	rHideOthers = false,
 	uuid = "000001F89244D810",
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 14140,
+	maps = {},
+	ids = {
+		[19313] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 14140,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 14140,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "免控",
+	name = "连缘蛊",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "0FB8792027FC4760AAB62BC02FB9F70F",
 },
 -- 唐门
 {
@@ -9022,6 +9106,48 @@
 	uuid = "9599201A71264A8A839E90A0AB8B6099",
 	iconid = 14106,
 },
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 3829,
+	maps = {},
+	ids = {
+		[19222] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 3829,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 3829,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "化解",
+	name = "无间影狱",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "87094D7A50A648CFAA6F8A2F3632B451",
+},
 -- 丐帮
 {
 	enable = true,
@@ -11838,6 +11964,48 @@
 	rHideOthers = false,
 	ignoreId = true,
 	iconid = 7497,
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 13416,
+	maps = {},
+	ids = {
+		[17967] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 13416,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 13416,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "爆发",
+	name = "盈袖",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "558A0C5CD6CB4EC382E553B5F721DB83",
 },
 -- 天策
 {
