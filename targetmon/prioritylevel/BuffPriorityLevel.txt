@@ -2422,48 +2422,6 @@
 	rHideOthers = false,
 	uuid = "31F019AAA28B49C99CA4825E548A0C56",
 },
-{
-	enable = true,
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
-	kungfus = {},
-	rgbShortAlias = {
-		255,
-		255,
-		0,
-	},
-	capture = true,
-	iconid = 13383,
-	maps = {},
-	ids = {
-		[19217] = {
-			levels = {
-				{
-					enable = true,
-					iconid = 13383,
-				},
-			},
-			ignoreLevel = true,
-			enable = true,
-			soundDisappear = {},
-			iconid = 13383,
-			soundAppear = {},
-		},
-	},
-	nameAlias = true,
-	soundDisappear = {},
-	rHideVoid = false,
-	shortAlias = "免控",
-	name = "利刃",
-	soundAppear = {},
-	tarkungfus = {},
-	ignoreId = false,
-	rHideOthers = false,
-	uuid = "F0416A98A6274E0988D9C2D8C8F072D7",
-},
 -- 万花
 {
 	enable = true,
@@ -6440,6 +6398,48 @@
 	},
 	rHideOthers = false,
 	uuid = "000001F872BA9670",
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 13383,
+	maps = {},
+	ids = {
+		[19217] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 13383,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 13383,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "免封内",
+	name = "利刃",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "F0416A98A6274E0988D9C2D8C8F072D7",
 },
 {
 	enable = true,
