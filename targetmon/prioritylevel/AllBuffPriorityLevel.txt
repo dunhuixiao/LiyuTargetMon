@@ -1,5 +1,5 @@
 {
--- ç‰¹æ®ŠæŠ€èƒ½ï¼ˆæ— æ•Œã€å‡æ­»ã€å¤æ´»ã€èˆèº«ç­‰ï¼‰
+-- ÌØÊâ¼¼ÄÜ£¨ÎŞµĞ¡¢¼ÙËÀ¡¢¸´»î¡¢ÉáÉíµÈ£©
 {
 	enable = true,
 	rgbLongAlias = {
@@ -49,7 +49,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å¤ªè™š",
+	name = "Ì«Ğé",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -58,7 +58,7 @@
 	ignoreId = false,
 	iconid = 324,
 },
--- çº¯é˜³
+-- ´¿Ñô
 {
 	enable = true,
 	ignoreId = false,
@@ -104,8 +104,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ— æ•Œ",
-	name = "é•‡å±±æ²³",
+	shortAlias = "ÎŞµĞ",
+	name = "ÕòÉ½ºÓ",
 	soundAppear = {},
 	tarkungfus = {
 	all = true,
@@ -118,7 +118,7 @@
 	rHideOthers = false,
 	uuid = "000001F872053310",
 },
--- ä¸‡èŠ±
+-- Íò»¨
 {
 	enable = true,
 	ignoreId = false,
@@ -151,8 +151,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ— æ•Œ",
-	name = "å—é£åæœˆ",
+	shortAlias = "ÎŞµĞ",
+	name = "ÄÏ·çÍÂÔÂ",
 	soundAppear = {},
 	tarkungfus = {
 	all = true,
@@ -197,8 +197,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æŠ˜å¶",
-	name = "ç¬¼èŠ±",
+	shortAlias = "ÕÛÒ¶",
+	name = "Áı»¨",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -241,7 +241,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å¤§é’ˆ",
+	name = "´óÕë",
 	soundAppear = {},
 	tarkungfus = {},
 	rHideOthers = false,
@@ -252,7 +252,7 @@
 	},
 	uuid = "54268AD30CAA4567B2CB5D5B32FCFA94",
 },
--- å°‘æ—
+-- ÉÙÁÖ
 {
 	enable = true,
 	rgbLongAlias = {
@@ -287,8 +287,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡æ­»",
-	name = "éæ¢µ",
+	shortAlias = "¼ÙËÀ",
+	name = "·Çèó",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -353,8 +353,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "èˆèº«",
-	name = "èˆèº«",
+	shortAlias = "ÉáÉí",
+	name = "ÉáÉí",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -367,7 +367,7 @@
 	rHideOthers = false,
 	uuid = "000001F8739E34E0",
 },
--- ä¸ƒç§€
+-- ÆßĞã
 {
 	enable = true,
 	rgbLongAlias = {
@@ -417,7 +417,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å†¥æ³½",
+	name = "Ú¤Ôó",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -426,7 +426,7 @@
 	ignoreId = false,
 	iconid = 2955,
 },
--- å¤©ç­–
+-- Ìì²ß
 {
 	enable = true,
 	ignoreId = true,
@@ -459,8 +459,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ä¸æ­»",
-	name = "å•¸å¦‚è™",
+	shortAlias = "²»ËÀ",
+	name = "Ğ¥Èç»¢",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -505,8 +505,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æŠµæŒ¡",
-	name = "å¾¡",
+	shortAlias = "µÖµ²",
+	name = "Óù",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -519,7 +519,7 @@
 	rHideOthers = false,
 	iconid = 1456,
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = true,
@@ -550,8 +550,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡¤å‡°è›Š",
-	name = "å‡¤å‡°è›Š",
+	shortAlias = "·ï»Ë¹Æ",
+	name = "·ï»Ë¹Æ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -562,7 +562,7 @@
 	iconid = 2782,
 	rHideOthers = false,
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	ignoreId = false,
@@ -608,8 +608,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é¬¼æ–§",
-	name = "é¬¼æ–§ç¥å·¥",
+	shortAlias = "¹í¸«",
+	name = "¹í¸«Éñ¹¤",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -622,7 +622,7 @@
 	rHideOthers = false,
 	uuid = "000001F8729B9A00",
 },
--- ä¸å¸®
+-- Ø¤°ï
 {
 	enable = true,
 	rgbLongAlias = {
@@ -678,15 +678,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æŠµæŒ¡",
-	name = "ä¹˜é¾™æˆæ°´",
+	shortAlias = "µÖµ²",
+	name = "³ËÁúÏ·Ë®",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "818FC72F54804285BDF94ECBA2690455",
 },
--- è‹äº‘
+-- ²ÔÔÆ
 {
 	enable = true,
 	rgbLongAlias = {
@@ -723,7 +723,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "ç›¾ç«‹",
+	name = "¶ÜÁ¢",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -766,8 +766,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ— æ•Œ",
-	name = "éš",
+	shortAlias = "ÎŞµĞ",
+	name = "Òş",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -821,8 +821,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ä¸æ­»",
-	name = "æ¿€å¥‹",
+	shortAlias = "²»ËÀ",
+	name = "¼¤·Ü",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -867,15 +867,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ä¸æ­»",
-	name = "ä»‡é",
+	shortAlias = "²»ËÀ",
+	name = "³ğ·Ç",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "8BBB605699E54FDF9EF662DF91428A01",
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	ignoreId = false,
@@ -934,8 +934,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å¹³æ²™",
-	name = "å¹³æ²™è½é›",
+	shortAlias = "Æ½É³",
+	name = "Æ½É³ÂäÑã",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -948,7 +948,7 @@
 	rHideOthers = false,
 	uuid = "000001F872074720",
 },
--- éœ¸åˆ€
+-- °Ôµ¶
 {
 	enable = true,
 	ignoreId = false,
@@ -994,7 +994,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ•£æµéœ",
+	name = "É¢Á÷Ï¼",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -1007,7 +1007,7 @@
 	},
 	iconid = 8576,
 },
--- å‡Œé›ªé˜
+-- ÁèÑ©¸ó
 {
 	enable = true,
 	rgbLongAlias = {
@@ -1046,8 +1046,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åæ–¹",
-	name = "åæ–¹ç„æœº",
+	shortAlias = "Ê®·½",
+	name = "Ê®·½Ğş»ú",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -1092,15 +1092,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å´”åµ¬",
-	name = "å´”åµ¬é¬¼æ­¥",
+	shortAlias = "´ŞáÍ",
+	name = "´ŞáÍ¹í²½",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	uuid = "8B935544C2D343C9A83416781ABC1647",
 	iconid = 12103,
 },
--- è¡å¤©å®—
+-- ÑÜÌì×Ú
 {
 	enable = true,
 	rgbLongAlias = {
@@ -1139,8 +1139,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å¸æ”¶",
-	name = "å·¨é—¨åŒ—è½",
+	shortAlias = "ÎüÊÕ",
+	name = "¾ŞÃÅ±±Âä",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -1148,7 +1148,7 @@
 	uuid = "8BB3E727AF494063ADBB4AAB2DC502A2",
 },
 
--- æ©™æ­¦
+-- ³ÈÎä
 {
 	enable = true,
 	ignoreId = false,
@@ -2003,8 +2003,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ©™æ­¦",
-	name = "æ©™æ­¦",
+	shortAlias = "³ÈÎä",
+	name = "³ÈÎä",
 	tarkungfus = {},
 	soundAppear = {},
 	rHideOthers = false,
@@ -2015,7 +2015,7 @@
 	},
 },
 
--- ç‰¹æ®ŠæŠ€èƒ½ï¼ˆå†³æ–—ã€ç¦ç–—ç­‰ï¼‰
+-- ÌØÊâ¼¼ÄÜ£¨¾ö¶·¡¢½ûÁÆµÈ£©
 {
 	enable = true,
 	ignoreId = false,
@@ -2074,8 +2074,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "å°˜èº«",
+	shortAlias = "Ãâ¿Ø",
+	name = "³¾Éí",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2124,7 +2124,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "èš€å¿ƒè›Š",
+	name = "Ê´ĞÄ¹Æ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2165,8 +2165,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å†³æ–—",
-	name = "å†³æ–—",
+	shortAlias = "¾ö¶·",
+	name = "¾ö¶·",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2211,8 +2211,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¦ç–—",
-	name = "æ¯ç–—",
+	shortAlias = "½ûÁÆ",
+	name = "Ï¢ÁÆ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2257,8 +2257,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¦ç–—",
-	name = "æ´»ç¥­",
+	shortAlias = "½ûÁÆ",
+	name = "»î¼À",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2316,8 +2316,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ±Ÿé€",
-	name = "æ±Ÿé€æœˆå¤©",
+	shortAlias = "½­Öğ",
+	name = "½­ÖğÔÂÌì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2366,7 +2366,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "è¿´å…‰",
+	name = "Ş’¹â",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2422,8 +2422,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æµ®ç©º",
-	name = "æµ®æ¸¸å¤©åœ°",
+	shortAlias = "¸¡¿Õ",
+	name = "¸¡ÓÎÌìµØ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -2460,8 +2460,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å¿«ç…§",
-	name = "æ¸¸å¤ªæ¸…",
+	shortAlias = "¿ìÕÕ",
+	name = "ÓÎÌ«Çå",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -2502,8 +2502,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¦é”¢",
-	name = "é¸¿è’™å¤©ç¦",
+	shortAlias = "½ûïÀ",
+	name = "ºèÃÉÌì½û",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -2514,7 +2514,7 @@
 	uuid = "13768701718640479BF8EE0821178F46",
 	iconid = 24385,
 },
--- æ²‰é»˜ã€ç¼´æ¢°
+-- ³ÁÄ¬¡¢½ÉĞµ
 {
 	enable = true,
 	ignoreId = false,
@@ -2540,8 +2540,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ²‰é»˜",
-	name = "æ²‰é»˜",
+	shortAlias = "³ÁÄ¬",
+	name = "³ÁÄ¬",
 	tarkungfus = {},
 	soundAppear = {},
 	rHideOthers = false,
@@ -2583,8 +2583,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ²‰é»˜",
-	name = "å‰‘é£æƒŠå¤©",
+	shortAlias = "³ÁÄ¬",
+	name = "½£·É¾ªÌì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2655,8 +2655,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ²‰é»˜",
-	name = "å…°æ‘§ç‰æŠ˜",
+	shortAlias = "³ÁÄ¬",
+	name = "À¼´İÓñÕÛ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2705,8 +2705,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¼´æ¢°",
-	name = "éœæµ",
+	shortAlias = "½ÉĞµ",
+	name = "Ï¼Á÷",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2753,8 +2753,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ¼‚æµ®",
-	name = "é•¿è‡´",
+	shortAlias = "Æ¯¸¡",
+	name = "³¤ÖÂ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -2793,8 +2793,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¼´æ¢°",
-	name = "æ€–ç•æš—åˆ‘",
+	shortAlias = "½ÉĞµ",
+	name = "²ÀÎ·°µĞÌ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2839,8 +2839,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ²‰é»˜",
-	name = "é›·äº‘",
+	shortAlias = "³ÁÄ¬",
+	name = "À×ÔÆ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2885,8 +2885,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ²‰é»˜",
-	name = "äº•ä»ª",
+	shortAlias = "³ÁÄ¬",
+	name = "¾®ÒÇ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2944,8 +2944,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ²‰é»˜",
-	name = "é£åˆ‡",
+	shortAlias = "³ÁÄ¬",
+	name = "·çÇĞ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -2992,8 +2992,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ²‰é»˜",
-	name = "ç¿”æç¢§è½",
+	shortAlias = "³ÁÄ¬",
+	name = "Ïè¼«±ÌÂä",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -3030,8 +3030,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ²‰é»˜",
-	name = "ç‡•æ­Œ",
+	shortAlias = "³ÁÄ¬",
+	name = "Ñà¸è",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -3076,8 +3076,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ²‰é»˜",
-	name = "é¾™è›‡",
+	shortAlias = "³ÁÄ¬",
+	name = "ÁúÉß",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -3118,8 +3118,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ²‰é»˜ç¦ç–—",
-	name = "è¯¡é¢åŸ‹ä¼",
+	shortAlias = "³ÁÄ¬½ûÁÆ",
+	name = "¹îÃæÂñ·ü",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -3127,7 +3127,7 @@
 	uuid = "2276B0B342D44ADD80E16C9261F38985",
 },
 
--- å‡»å€’
+-- »÷µ¹
 {
 	enable = true,
 	rgbLongAlias = {
@@ -3180,7 +3180,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å€’åœ°",
+	name = "µ¹µØ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3221,8 +3221,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å€’åœ°",
-	name = "è¸å®´æ‰¬æ——",
+	shortAlias = "µ¹µØ",
+	name = "Ì¤ÑçÑïÆì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3236,8 +3236,8 @@
 	iconid = 8459,
 },
 
--- çœ©æ™•
--- çº¯é˜³
+-- Ñ£ÔÎ
+-- ´¿Ñô
 {
 	enable = true,
 	ignoreId = false,
@@ -3270,8 +3270,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "åŒ—æ–—",
+	shortAlias = "Ñ£ÔÎ",
+	name = "±±¶·",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3318,8 +3318,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "ç¾½åŒ–",
+	shortAlias = "Ñ£ÔÎ",
+	name = "Óğ»¯",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -3371,8 +3371,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å‰‘å†²é˜´é˜³",
+	shortAlias = "Ñ£ÔÎ",
+	name = "½£³åÒõÑô",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3385,7 +3385,7 @@
 	uuid = "000001F85FC4E250",
 	iconid = 2925,
 },
--- å°‘æ—
+-- ÉÙÁÖ
 {
 	enable = true,
 	ignoreId = false,
@@ -3457,8 +3457,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å¤§ç‹®å­å¼",
+	shortAlias = "Ñ£ÔÎ",
+	name = "´óÊ¨×Óºğ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3489,8 +3489,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "äº”è•´çš†ç©º",
+	shortAlias = "Ñ£ÔÎ",
+	name = "ÎåÔÌ½Ô¿Õ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3535,8 +3535,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "åƒæ–¤å ",
+	shortAlias = "Ñ£ÔÎ",
+	name = "Ç§½ï×¹",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3583,8 +3583,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "çŒé¡¶",
+	shortAlias = "Ñ£ÔÎ",
+	name = "¹à¶¥",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -3625,15 +3625,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "ä¸´æ•",
+	shortAlias = "Ñ£ÔÎ",
+	name = "ÁÙ²¶",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "19A272A844C0415DAB90E293769A48FB",
 },
--- ä¸ƒç§€
+-- ÆßĞã
 {
 	enable = true,
 	rgbLongAlias = {
@@ -3668,8 +3668,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "æœˆå‡ºä¸œå±±",
+	shortAlias = "Ñ£ÔÎ",
+	name = "ÔÂ³ö¶«É½",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -3708,8 +3708,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "é›·éœ†éœ‡æ€’",
+	shortAlias = "Ñ£ÔÎ",
+	name = "À×öªÕğÅ­",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3722,7 +3722,7 @@
 	uuid = "000001F872C08630",
 	iconid = 1506,
 },
--- å¤©ç­–
+-- Ìì²ß
 {
 	enable = true,
 	ignoreId = true,
@@ -3755,8 +3755,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "æ–­é­‚åˆº",
+	shortAlias = "Ñ£ÔÎ",
+	name = "¶Ï»ê´Ì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3801,8 +3801,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å´©",
+	shortAlias = "Ñ£ÔÎ",
+	name = "±À",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3862,8 +3862,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "é’é˜³",
+	shortAlias = "Ñ£ÔÎ",
+	name = "ÇàÑô",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -3902,8 +3902,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "è™è´²",
+	shortAlias = "Ñ£ÔÎ",
+	name = "»¢êÚ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -3916,7 +3916,7 @@
 	uuid = "000001F89930EAA0",
 	iconid = 1457,
 },
--- è—å‰‘
+-- ²Ø½£
 {
 	enable = true,
 	ignoreId = false,
@@ -3953,8 +3953,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "é†‰æœˆ",
+	shortAlias = "Ñ£ÔÎ",
+	name = "×íÔÂ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4016,8 +4016,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "é¹¤å½’å­¤å±±",
+	shortAlias = "Ñ£ÔÎ",
+	name = "º×¹é¹ÂÉ½",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4064,15 +4064,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å±±é£æ»¡æ¥¼",
+	shortAlias = "Ñ£ÔÎ",
+	name = "É½·çÂúÂ¥",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "5DC05BA832044FC8BE948199FB8E1216",
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = false,
@@ -4113,8 +4113,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "èå¿ƒè¿·å¿ƒ",
+	shortAlias = "Ñ£ÔÎ",
+	name = "Ğ«ĞÄÃÔĞÄ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4127,7 +4127,7 @@
 	uuid = "000001F873AA1B00",
 	iconid = 2810,
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	ignoreId = false,
@@ -4164,8 +4164,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "é›·éœ‡å­",
+	shortAlias = "Ñ£ÔÎ",
+	name = "À×Õğ×Ó",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4212,8 +4212,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å¤ºé­„çœ©æ™•",
+	shortAlias = "Ñ£ÔÎ",
+	name = "¶áÆÇÑ£ÔÎ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -4254,8 +4254,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å¼©å‡»",
+	shortAlias = "Ñ£ÔÎ",
+	name = "åó»÷",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -4296,15 +4296,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å†²æ’",
+	shortAlias = "Ñ£ÔÎ",
+	name = "³å×²",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "82E35EC2542648AD8356C8CB5D5B32FC",
 },
--- æ˜æ•™
+-- Ã÷½Ì
 {
 	enable = true,
 	ignoreId = false,
@@ -4337,8 +4337,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "æ—¥åŠ«",
+	shortAlias = "Ñ£ÔÎ",
+	name = "ÈÕ½Ù",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4383,8 +4383,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å‡€ä¸–ç ´é­”å‡»",
+	shortAlias = "Ñ£ÔÎ",
+	name = "¾»ÊÀÆÆÄ§»÷",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4429,8 +4429,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å¹»å…‰æ­¥",
+	shortAlias = "Ñ£ÔÎ",
+	name = "»Ã¹â²½",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4470,8 +4470,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "ä¼å¤œÂ·æ™•",
+	shortAlias = "Ñ£ÔÎ",
+	name = "·üÒ¹¡¤ÔÎ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4537,8 +4537,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "é•‡é­”",
+	shortAlias = "Ñ£ÔÎ",
+	name = "ÕòÄ§",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4579,8 +4579,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å±æ¥¼",
+	shortAlias = "Ñ£ÔÎ",
+	name = "Î£Â¥",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4625,8 +4625,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "æ—¥å½±",
+	shortAlias = "Ñ£ÔÎ",
+	name = "ÈÕÓ°",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4681,15 +4681,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "æä¹å¼•",
+	shortAlias = "Ñ£ÔÎ",
+	name = "¼«ÀÖÒı",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	uuid = "1E766CC0D0874492B0B50EFC343988E1",
 	iconid = 4179,
 },
--- ä¸å¸®
+-- Ø¤°ï
 {
 	enable = true,
 	rgbLongAlias = {
@@ -4724,15 +4724,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "æ¸¸å›",
+	shortAlias = "Ñ£ÔÎ",
+	name = "ÓÎ¾ı",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "FDF97AE0F6A14625B791428A01082E1E",
 },
--- è‹äº‘
+-- ²ÔÔÆ
 {
 	enable = true,
 	ignoreId = false,
@@ -4778,8 +4778,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "ç›¾æ¯…",
+	shortAlias = "Ñ£ÔÎ",
+	name = "¶ÜÒã",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4824,8 +4824,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "ç›¾çŒ›",
+	shortAlias = "Ñ£ÔÎ",
+	name = "¶ÜÃÍ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4870,8 +4870,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "æ’¼åœ°",
+	shortAlias = "Ñ£ÔÎ",
+	name = "º³µØ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -4914,8 +4914,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "æ‘§åŸ",
+	shortAlias = "Ñ£ÔÎ",
+	name = "´İ³Ç",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -4926,7 +4926,7 @@
 	uuid = "4FF0591A11664DBFB5C4353E50491A11",
 	iconid = 13372,
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	rgbLongAlias = {
@@ -4961,15 +4961,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å‰‘Â·å•†",
+	shortAlias = "Ñ£ÔÎ",
+	name = "½£¡¤ÉÌ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "5BA83204FC8D4FA7A58199FB8E1216FF",
 },
--- éœ¸åˆ€
+-- °Ôµ¶
 {
 	enable = true,
 	ignoreId = false,
@@ -5002,8 +5002,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "è£éª¨",
+	shortAlias = "Ñ£ÔÎ",
+	name = "²Ã¹Ç",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5069,8 +5069,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å‰²æ®ç§¦å®«",
+	shortAlias = "Ñ£ÔÎ",
+	name = "¸î¾İÇØ¹¬",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5083,7 +5083,7 @@
 	uuid = "000001F833A3A440",
 	iconid = 8581,
 },
--- è“¬è±
+-- ÅîÀ³
 {
 	enable = true,
 	ignoreId = false,
@@ -5140,8 +5140,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "æ¨ªç»",
+	shortAlias = "Ñ£ÔÎ",
+	name = "ºá¾ø",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -5152,7 +5152,7 @@
 	rHideOthers = false,
 	uuid = "7B809A3FF4674EA2811CF1A030C74818",
 },
--- å‡Œé›ªé˜
+-- ÁèÑ©¸ó
 {
 	enable = true,
 	ignoreId = false,
@@ -5183,8 +5183,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "å…µæˆˆ",
+	shortAlias = "Ñ£ÔÎ",
+	name = "±ø¸ê",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -5229,8 +5229,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "éª¤é›¨å¯’æ±Ÿ",
+	shortAlias = "Ñ£ÔÎ",
+	name = "ÖèÓêº®½­",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -5267,8 +5267,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çœ©æ™•",
-	name = "é•¿ç»",
+	shortAlias = "Ñ£ÔÎ",
+	name = "³¤¾ø",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -5280,7 +5280,7 @@
 	uuid = "9DEFF48F79204177BA63DA3119A29C71",
 },
 
--- å®šèº«
+-- ¶¨Éí
 {
 	enable = true,
 	ignoreId = false,
@@ -5330,7 +5330,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å®šèº«",
+	name = "¶¨Éí",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5343,7 +5343,7 @@
 	},
 	iconid = 9550,
 },
--- çº¯é˜³
+-- ´¿Ñô
 {
 	enable = true,
 	ignoreId = true,
@@ -5417,8 +5417,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "å¤§é“æ— æœ¯",
+	shortAlias = "¶¨Éí",
+	name = "´óµÀÎŞÊõ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5480,8 +5480,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "ç ´åŠ¿",
+	shortAlias = "¶¨Éí",
+	name = "ÆÆÊÆ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5539,8 +5539,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "ä¸ƒæ˜Ÿæ‹±ç‘",
+	shortAlias = "¶¨Éí",
+	name = "ÆßĞÇ¹°Èğ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5587,8 +5587,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "å‡Œäº‘å‰‘",
+	shortAlias = "¶¨Éí",
+	name = "ÁèÔÆ½£",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -5629,15 +5629,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "äº”æ–¹è¡Œå°½Â·æ‰å½±",
+	shortAlias = "¶¨Éí",
+	name = "Îå·½ĞĞ¾¡¡¤×½Ó°",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "F6755C000F9640E0BD8C8307E87744C1",
 },
--- ä¸‡èŠ±
+-- Íò»¨
 {
 	enable = true,
 	ignoreId = false,
@@ -5670,8 +5670,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "èŠ™è“‰å¹¶è’‚",
+	shortAlias = "¶¨Éí",
+	name = "Ü½ÈØ²¢µÙ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5716,8 +5716,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "åŒå½’",
+	shortAlias = "¶¨Éí",
+	name = "Í¬¹é",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5770,8 +5770,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "é‡‘é’ˆ",
+	shortAlias = "¶¨Éí",
+	name = "½ğÕë",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5784,7 +5784,7 @@
 	uuid = "000001F869667020",
 	iconid = 4219,
 },
--- ä¸ƒç§€
+-- ÆßĞã
 {
 	enable = true,
 	ignoreId = false,
@@ -5817,8 +5817,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "å¸éª–é¾™ç¿”",
+	shortAlias = "¶¨Éí",
+	name = "µÛæîÁúÏè",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5849,8 +5849,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "ç»›å”‡ç è¢–",
+	shortAlias = "¶¨Éí",
+	name = "ç­´½ÖéĞä",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5863,7 +5863,7 @@
 	uuid = "000001F86965C260",
 	iconid = 915,
 },
--- è—å‰‘
+-- ²Ø½£
 {
 	enable = true,
 	ignoreId = false,
@@ -5896,8 +5896,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "æ¾æ¶›",
+	shortAlias = "¶¨Éí",
+	name = "ËÉÌÎ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5910,7 +5910,7 @@
 	uuid = "000001F8AA65BA50",
 	iconid = 2365,
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = false,
@@ -5943,8 +5943,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "å¹»è›Š",
+	shortAlias = "¶¨Éí",
+	name = "»Ã¹Æ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -5987,8 +5987,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "ä¸ç‰µ",
+	shortAlias = "¶¨Éí",
+	name = "Ë¿Ç£",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -6031,8 +6031,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "è¿·å½±",
+	shortAlias = "¶¨Éí",
+	name = "ÃÔÓ°",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6045,7 +6045,7 @@
 	uuid = "000001F899303560",
 	iconid = 3241,
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	ignoreId = true,
@@ -6091,8 +6091,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "è¿·ç¥é’‰",
+	shortAlias = "¶¨Éí",
+	name = "ÃÔÉñ¶¤",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6105,7 +6105,7 @@
 	uuid = "000001F8AAB442C0",
 	iconid = 3183,
 },
--- æ˜æ•™
+-- Ã÷½Ì
 {
 	enable = true,
 	ignoreId = false,
@@ -6142,8 +6142,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é­‚é”",
-	name = "æ— æ˜é­‚é”",
+	shortAlias = "»êËø",
+	name = "ÎŞÃ÷»êËø",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6174,8 +6174,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "ä¼å¤œÂ·å®š",
+	shortAlias = "¶¨Éí",
+	name = "·üÒ¹¡¤¶¨",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6188,7 +6188,7 @@
 	uuid = "000001F836674630",
 	iconid = 4175,
 },
--- ä¸å¸®
+-- Ø¤°ï
 {
 	enable = true,
 	ignoreId = false,
@@ -6221,8 +6221,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "å®‰æ‚£",
+	shortAlias = "¶¨Éí",
+	name = "°²»¼",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6235,7 +6235,7 @@
 	uuid = "000001F872C4CB80",
 	iconid = 4906,
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	ignoreId = false,
@@ -6261,8 +6261,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "åˆ«é¹¤",
+	shortAlias = "¶¨Éí",
+	name = "±ğº×",
 	tarkungfus = {},
 	soundAppear = {},
 	rHideOthers = false,
@@ -6272,7 +6272,7 @@
 		0,
 	},
 },
--- è“¬è±
+-- ÅîÀ³
 {
 	enable = true,
 	ignoreId = false,
@@ -6316,8 +6316,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "é£å€¾åˆ—ç¼º",
+	shortAlias = "¶¨Éí",
+	name = "·ÉÇãÁĞÈ±",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -6328,7 +6328,7 @@
 	iconid = 14113,
 	rHideOthers = false,
 },
--- è¡å¤©å®—
+-- ÑÜÌì×Ú
 {
 	enable = true,
 	rgbLongAlias = {
@@ -6380,8 +6380,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å®šèº«",
-	name = "è€…",
+	shortAlias = "¶¨Éí",
+	name = "Õß",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -6389,8 +6389,8 @@
 	uuid = "6250DF4F9195442EA201082E1E6CD049",
 },
 
--- é”è¶³
--- çº¯é˜³
+-- Ëø×ã
+-- ´¿Ñô
 {
 	enable = true,
 	ignoreId = true,
@@ -6436,8 +6436,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "ä¸‰æ‰åŒ–ç”Ÿ",
+	shortAlias = "Ëø×ã",
+	name = "Èı²Å»¯Éú",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6536,8 +6536,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "äº”æ–¹è¡Œå°½",
+	shortAlias = "Ëø×ã",
+	name = "Îå·½ĞĞ¾¡",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6582,8 +6582,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "åå›º",
+	shortAlias = "Ëø×ã",
+	name = "ÍÂ¹Ì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6641,8 +6641,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "ç»•è¶³",
+	shortAlias = "Ëø×ã",
+	name = "ÈÆ×ã",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6689,15 +6689,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "è‡ªåŒ–",
+	shortAlias = "Ëø×ã",
+	name = "×Ô»¯",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "A28B9C9B71B64A45A05E548A0C56C8CB",
 },
--- ä¸‡èŠ±
+-- Íò»¨
 {
 	enable = true,
 	ignoreId = false,
@@ -6730,8 +6730,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "é’Ÿçµæ¯“ç§€",
+	shortAlias = "Ëø×ã",
+	name = "ÖÓÁéØ¹Ğã",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6776,8 +6776,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å¤ªé˜´æŒ‡",
+	shortAlias = "Ëø×ã",
+	name = "Ì«ÒõÖ¸",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6824,15 +6824,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "é£é›¨",
+	shortAlias = "Ëø×ã",
+	name = "·çÓê",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "9DEFF48F79204177BA63DA3119A29C71",
 },
--- ä¸ƒç§€
+-- ÆßĞã
 {
 	enable = true,
 	ignoreId = false,
@@ -6878,8 +6878,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "ç¢å†°",
+	shortAlias = "Ëø×ã",
+	name = "Ëé±ù",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6892,7 +6892,7 @@
 	rHideOthers = false,
 	uuid = "000001F869653070",
 },
--- è—å‰‘
+-- ²Ø½£
 {
 	enable = true,
 	rgbLongAlias = {
@@ -6927,8 +6927,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å¹³æ¹–æ–­æœˆ",
+	shortAlias = "Ëø×ã",
+	name = "Æ½ºş¶ÏÔÂ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -6975,7 +6975,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "é”è¶³",
+	name = "Ëø×ã",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -6984,7 +6984,7 @@
 	ignoreId = false,
 	iconid = 2385,
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = false,
@@ -7046,8 +7046,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "ç™¾è¶³è¿·å¿ƒ",
+	shortAlias = "Ëø×ã",
+	name = "°Ù×ãÃÔĞÄ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7092,8 +7092,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å¤©è››çŒ®ç¥­",
+	shortAlias = "Ëø×ã",
+	name = "ÌìÖëÏ×¼À",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7136,8 +7136,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "ç¼ å¿ƒ",
+	shortAlias = "Ëø×ã",
+	name = "²øĞÄ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -7148,7 +7148,7 @@
 	rHideOthers = false,
 	uuid = "9DEFF48F79204177BA63DA3119A29C71",
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	ignoreId = true,
@@ -7181,8 +7181,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "è½¬è½ä¸ƒæ˜Ÿ",
+	shortAlias = "Ëø×ã",
+	name = "×ªÂäÆßĞÇ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7227,8 +7227,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "åˆ–è¶³",
+	shortAlias = "Ëø×ã",
+	name = "ë¾×ã",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7273,8 +7273,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å­”é›€ç¿",
+	shortAlias = "Ëø×ã",
+	name = "¿×È¸ôá",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7323,8 +7323,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "é“çˆª",
+	shortAlias = "Ëø×ã",
+	name = "Ìú×¦",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7333,7 +7333,7 @@
 	ignoreId = true,
 	iconid = 3189,
 },
--- æ˜æ•™
+-- Ã÷½Ì
 {
 	enable = true,
 	ignoreId = false,
@@ -7379,8 +7379,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "ç¦ç¼š",
+	shortAlias = "Ëø×ã",
+	name = "½û¸¿",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7411,8 +7411,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "ä¼å¤œÂ·ç¼ ",
+	shortAlias = "Ëø×ã",
+	name = "·üÒ¹¡¤²ø",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7457,8 +7457,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å½±ç‹±",
+	shortAlias = "Ëø×ã",
+	name = "Ó°Óü",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7471,7 +7471,7 @@
 	uuid = "000001F8366798B0",
 	iconid = 3829,
 },
--- ä¸å¸®
+-- Ø¤°ï
 {
 	enable = true,
 	ignoreId = true,
@@ -7504,8 +7504,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å¤å¾",
+	shortAlias = "Ëø×ã",
+	name = "¸´Õ÷",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7550,8 +7550,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "æ»",
+	shortAlias = "Ëø×ã",
+	name = "ÖÍ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7564,7 +7564,7 @@
 	uuid = "000001F872C4FB00",
 	iconid = 4512,
 },
--- è‹äº‘
+-- ²ÔÔÆ
 {
 	enable = true,
 	ignoreId = false,
@@ -7610,8 +7610,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "è½é›",
+	shortAlias = "Ëø×ã",
+	name = "ÂäÑã",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7624,7 +7624,7 @@
 	uuid = "000001F8732C9130",
 	iconid = 6345,
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	ignoreId = true,
@@ -7643,8 +7643,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å‰‘Â·ç¾½",
+	shortAlias = "Ëø×ã",
+	name = "½£¡¤Óğ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7657,7 +7657,7 @@
 	uuid = "000001F836671700",
 	iconid = 7095,
 },
--- éœ¸åˆ€
+-- °Ôµ¶
 {
 	enable = true,
 	ignoreId = false,
@@ -7711,8 +7711,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å‰²æ®ç§¦å®«",
+	shortAlias = "Ëø×ã",
+	name = "¸î¾İÇØ¹¬",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7757,8 +7757,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å†»åœŸ",
+	shortAlias = "Ëø×ã",
+	name = "¶³ÍÁ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7771,7 +7771,7 @@
 	uuid = "000001F89930C8E0",
 	iconid = 8508,
 },
--- å‡Œé›ªé˜
+-- ÁèÑ©¸ó
 {
 	enable = true,
 	rgbLongAlias = {
@@ -7806,15 +7806,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å¹½å†¥",
+	shortAlias = "Ëø×ã",
+	name = "ÓÄÚ¤",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "9DEFF48F79204177BA63DA3119A29C71",
 },
--- è¡å¤©å®—
+-- ÑÜÌì×Ú
 {
 	enable = true,
 	rgbLongAlias = {
@@ -7849,8 +7849,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å¥‡é—¨é£å®«",
+	shortAlias = "Ëø×ã",
+	name = "ÆæÃÅ·É¹¬",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -7891,8 +7891,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é”è¶³",
-	name = "å¤©æ€",
+	shortAlias = "Ëø×ã",
+	name = "ÌìÉ±",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -7900,7 +7900,7 @@
 	iconid = 14164,
 },
 
--- å…æ§
+-- Ãâ¿Ø
 {
 	enable = true,
 	rgbLongAlias = {
@@ -7941,7 +7941,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å…æ§",
+	name = "Ãâ¿Ø",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -7984,15 +7984,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…åƒµç›´",
-	name = "è¹‘äº‘é€æœˆ",
+	shortAlias = "Ãâ½©Ö±",
+	name = "õæÔÆÖğÔÂ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "249A661A4E724E9BA283F2584CC28FA5",
 },
--- çº¯é˜³
+-- ´¿Ñô
 {
 	enable = true,
 	ignoreId = false,
@@ -8081,8 +8081,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ç”Ÿå¤ªæ",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÉúÌ«¼«",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8148,8 +8148,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "è½¬ä¹¾å¤",
+	shortAlias = "Ãâ¿Ø",
+	name = "×ªÇ¬À¤",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8249,8 +8249,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "è¡Œå¤©é“",
+	shortAlias = "Ãâ¿Ø",
+	name = "ĞĞÌìµÀ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8297,15 +8297,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "åˆè™š",
+	shortAlias = "Ãâ¿Ø",
+	name = "ºÏĞé",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "31F019AAA28B49C99CA4825E548A0C56",
 },
--- ä¸‡èŠ±
+-- Íò»¨
 {
 	enable = true,
 	ignoreId = true,
@@ -8351,8 +8351,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æ˜Ÿæ¥¼æœˆå½±",
+	shortAlias = "Ãâ¿Ø",
+	name = "ĞÇÂ¥ÔÂÓ°",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8397,8 +8397,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ç”Ÿè„‰",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÉúÂö",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8445,15 +8445,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ä¸¹é¼",
+	shortAlias = "Ãâ¿Ø",
+	name = "µ¤¶¦",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "03FC6B9A319A449688939CF6952071A8",
 },
--- å°‘æ—
+-- ÉÙÁÖ
 {
 	enable = true,
 	ignoreId = true,
@@ -8486,8 +8486,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æŠ˜éª¨",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÕÛ¹Ç",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8534,8 +8534,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "å¦™æ³•",
+	shortAlias = "Ãâ¿Ø",
+	name = "Ãî·¨",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -8572,8 +8572,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "äºŒä¸š",
+	shortAlias = "Ãâ¿Ø",
+	name = "¶şÒµ",
 	soundAppear = {},
 	tarkungfus = {},
 	rHideOthers = false,
@@ -8618,15 +8618,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "é†é†çŒé¡¶",
+	shortAlias = "Ãâ¿Ø",
+	name = "õ®õ­¹à¶¥",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "99E5FDF97AE04F6A98DF91428A01082E",
 },
--- ä¸ƒç§€
+-- ÆßĞã
 {
 	enable = true,
 	ignoreId = false,
@@ -8659,8 +8659,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "é¹Šè¸æ",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÈµÌ¤Ö¦",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8705,8 +8705,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "éŸ³éŸµ",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÒôÔÏ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8753,8 +8753,8 @@
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "å…æ§",
-				name = "é£ç«¹",
+				shortAlias = "Ãâ¿Ø",
+				name = "·ÉÖñ",
 				soundAppear = {},
 				tarkungfus = {},
 				ignoreId = true,
@@ -8791,8 +8791,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "éœ“è£³",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÄŞÉÑ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -8803,7 +8803,7 @@
 	uuid = "1D8271F272C24A259E566B2A5ADE7A7A",
 	iconid = 7265,
 },
--- å¤©ç­–
+-- Ìì²ß
 {
 	enable = true,
 	ignoreId = false,
@@ -8836,8 +8836,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "é•¿å¾",
+	shortAlias = "Ãâ¿Ø",
+	name = "³¤Õ÷",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8899,8 +8899,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "é’é˜³",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÇàÑô",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8945,8 +8945,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "çºµè½»éª‘",
+	shortAlias = "Ãâ¿Ø",
+	name = "×İÇáÆï",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -8995,8 +8995,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "åŠ›æ‹”",
+	shortAlias = "Ãâ¿Ø",
+	name = "Á¦°Î",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9041,8 +9041,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ç ´é‡å›´",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÆÆÖØÎ§",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9089,15 +9089,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "åŠ›ç ´ä¸‡é’§",
+	shortAlias = "Ãâ¿Ø",
+	name = "Á¦ÆÆÍò¾û",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	iconid = 13430,
 	rHideOthers = false,
 },
--- è—å‰‘
+-- ²Ø½£
 {
 	enable = true,
 	ignoreId = true,
@@ -9130,8 +9130,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "å•¸æ—¥",
+	shortAlias = "Ãâ¿Ø",
+	name = "Ğ¥ÈÕ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9206,8 +9206,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "å¾¡å¤©",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÓùÌì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9265,8 +9265,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æ¢æ¢…",
+	shortAlias = "Ãâ¿Ø",
+	name = "Ì½Ã·",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9311,8 +9311,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ä¸å·¥",
+	shortAlias = "Ãâ¿Ø",
+	name = "²»¹¤",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9357,8 +9357,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ç‰æ³‰é±¼è·ƒ",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÓñÈªÓãÔ¾",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9405,15 +9405,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "é£æ¥",
+	shortAlias = "Ãâ¿Ø",
+	name = "·ÉÀ´",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	iconid = 4550,
 	rHideOthers = false,
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = false,
@@ -9459,8 +9459,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "è›Šè™«çŒ®ç¥­",
+	shortAlias = "Ãâ¿Ø",
+	name = "¹Æ³æÏ×¼À",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9505,8 +9505,8 @@
 		nameAlias = true,
 		soundDisappear = {},
 		rHideVoid = false,
-		shortAlias = "å…æ§",
-		name = "é£èœˆçŒ®ç¥­",
+		shortAlias = "Ãâ¿Ø",
+		name = "·çòÚÏ×¼À",
 		soundAppear = {},
 		tarkungfus = {
 			all = true,
@@ -9577,8 +9577,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "è›Šè™«ç‹‚æš´",
+	shortAlias = "Ãâ¿Ø",
+	name = "¹Æ³æ¿ñ±©",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9623,8 +9623,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "åƒè¶åç‘",
+	shortAlias = "Ãâ¿Ø",
+	name = "Ç§µûÍÂÈğ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9695,8 +9695,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "è¿·å¿ƒè›Š",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÃÔĞÄ¹Æ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9743,15 +9743,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "è¿ç¼˜è›Š",
+	shortAlias = "Ãâ¿Ø",
+	name = "Á¬Ôµ¹Æ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "0FB8792027FC4760AAB62BC02FB9F70F",
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	ignoreId = false,
@@ -9788,8 +9788,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "éšèº«",
-	name = "æµ®å…‰æ å½±",
+	shortAlias = "ÒşÉí",
+	name = "¸¡¹âÂÓÓ°",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9834,8 +9834,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ç”Ÿæ­»ä¹‹äº¤",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÉúËÀÖ®½»",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9880,8 +9880,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "é£é¸¢é€æœˆ",
+	shortAlias = "Ãâ¿Ø",
+	name = "·Éğ°ÖğÔÂ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -9928,8 +9928,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æ—¶ç§»",
+	shortAlias = "Ãâ¿Ø",
+	name = "Ê±ÒÆ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -9968,8 +9968,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ç»ä¼¦é€¸ç¾¤",
+	shortAlias = "Ãâ¿Ø",
+	name = "¾øÂ×ÒİÈº",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10040,8 +10040,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æµ®ç©º",
+	shortAlias = "Ãâ¿Ø",
+	name = "¸¡¿Õ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10090,8 +10090,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æµç«é£æ˜Ÿ",
+	shortAlias = "Ãâ¿Ø",
+	name = "Á÷»ğ·ÉĞÇ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10138,15 +10138,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æ´çƒ›æœºå¾®",
+	shortAlias = "Ãâ¿Ø",
+	name = "¶´Öò»úÎ¢",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "9DEFF48F79204177BA63DA3119A29C71",
 },
--- æ˜æ•™
+-- Ã÷½Ì
 {
 	enable = true,
 	ignoreId = false,
@@ -10207,8 +10207,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "éšèº«",
-	name = "æš—å°˜å¼¥æ•£",
+	shortAlias = "ÒşÉí",
+	name = "°µ³¾ÃÖÉ¢",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10248,8 +10248,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "çµè¾‰",
+	shortAlias = "Ãâ¿Ø",
+	name = "Áé»Ô",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10294,8 +10294,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "è¶…ç„¶",
+	shortAlias = "Ãâ¿Ø",
+	name = "³¬È»",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10339,8 +10339,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æœˆå¤§",
-	name = "å†¥æœˆæ¸¡å¿ƒ",
+	shortAlias = "ÔÂ´ó",
+	name = "Ú¤ÔÂ¶ÉĞÄ",
 	tarkungfus = {},
 	soundAppear = {},
 	rHideOthers = false,
@@ -10382,8 +10382,8 @@
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "å…æ§",
-				name = "ç§˜å½±",
+				shortAlias = "Ãâ¿Ø",
+				name = "ÃØÓ°",
 				soundAppear = {},
 				tarkungfus = {
 					all = true,
@@ -10428,8 +10428,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "åœ£æ³•å…‰æ˜",
+	shortAlias = "Ãâ¿Ø",
+	name = "Ê¥·¨¹âÃ÷",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10472,8 +10472,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "å¾®å¦™é£",
+	shortAlias = "Ãâ¿Ø",
+	name = "Î¢Ãî·ç",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -10484,7 +10484,7 @@
 	uuid = "1E766CC0D0874492B0B50EFC343988E1",
 	iconid = 14107,
 },
--- ä¸å¸®
+-- Ø¤°ï
 {
 	enable = true,
 	ignoreId = false,
@@ -10517,8 +10517,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "éœ¸ä½“",
+	shortAlias = "Ãâ¿Ø",
+	name = "°ÔÌå",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10584,8 +10584,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "é¾™è·ƒäºæ¸Š",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÁúÔ¾ÓÚÔ¨",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10632,8 +10632,8 @@
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "å…æ§",
-				name = "å®½é‡",
+				shortAlias = "Ãâ¿Ø",
+				name = "¿íÒ°",
 				soundAppear = {},
 				tarkungfus = {},
 				ignoreId = true,
@@ -10674,15 +10674,15 @@
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "å…æ§",
-				name = "ä¹˜é¾™",
+				shortAlias = "Ãâ¿Ø",
+				name = "³ËÁú",
 				soundAppear = {},
 				tarkungfus = {},
 				ignoreId = true,
 				iconid = 10837,
 				rHideOthers = false,
 			},
--- è‹äº‘
+-- ²ÔÔÆ
 {
 	enable = true,
 	ignoreId = false,
@@ -10728,8 +10728,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æ— æƒ§",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÎŞ¾å",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10774,8 +10774,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "åŠ«åŒ–",
+	shortAlias = "Ãâ¿Ø",
+	name = "½Ù»¯",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10833,8 +10833,8 @@
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "å…æ§",
-				name = "ç›¾æ¯…",
+				shortAlias = "Ãâ¿Ø",
+				name = "¶ÜÒã",
 				soundAppear = {},
 				tarkungfus = {
 					all = true,
@@ -10879,8 +10879,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "åƒé™©",
+	shortAlias = "Ãâ¿Ø",
+	name = "Ç§ÏÕ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10938,8 +10938,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æå«",
+	shortAlias = "Ãâ¿Ø",
+	name = "º´ÎÀ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -10952,7 +10952,7 @@
 	rHideOthers = false,
 	uuid = "000001F873A18580",
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	ignoreId = true,
@@ -10985,8 +10985,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æ£è¡£",
+	shortAlias = "Ãâ¿Ø",
+	name = "µ·ÒÂ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -11031,8 +11031,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "å­¤å½±",
+	shortAlias = "Ãâ¿Ø",
+	name = "¹ÂÓ°",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -11103,8 +11103,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "é’éœ„é£ç¾½",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÇàÏö·ÉÓğ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -11149,8 +11149,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "çŸ³é—´æ„",
+	shortAlias = "Ãâ¿Ø",
+	name = "Ê¯¼äÒâ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -11234,8 +11234,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åˆ‡å‰‘",
-	name = "æ¸…ç»å½±æ­Œ",
+	shortAlias = "ÇĞ½£",
+	name = "Çå¾øÓ°¸è",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -11248,7 +11248,7 @@
 	rHideOthers = false,
 	uuid = "000001F8739F2620",
 },
--- éœ¸åˆ€
+-- °Ôµ¶
 {
 	enable = true,
 	ignoreId = false,
@@ -11307,8 +11307,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "å°˜èº«",
+	shortAlias = "Ãâ¿Ø",
+	name = "³¾Éí",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -11355,8 +11355,8 @@
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "å…æ§",
-				name = "è¥¿æ¥šæ‚²æ­Œ",
+				shortAlias = "Ãâ¿Ø",
+				name = "Î÷³ş±¯¸è",
 				soundAppear = {},
 				tarkungfus = {},
 				ignoreId = true,
@@ -11397,15 +11397,15 @@
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "å…æ§",
-				name = "çˆ†ä½“",
+				shortAlias = "Ãâ¿Ø",
+				name = "±¬Ìå",
 				soundAppear = {},
 				tarkungfus = {},
 				ignoreId = true,
 				iconid = 8546,
 				rHideOthers = false,
 			},
--- è“¬è±
+-- ÅîÀ³
 {
 	enable = true,
 	rgbLongAlias = {
@@ -11453,8 +11453,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æµ®æ¸¸å¤©åœ°",
+	shortAlias = "Ãâ¿Ø",
+	name = "¸¡ÓÎÌìµØ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -11508,8 +11508,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "éª‹é£",
+	shortAlias = "Ãâ¿Ø",
+	name = "³Ò·ç",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -11563,15 +11563,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "å®šæ³¢ç ¥æ¾œ",
+	shortAlias = "Ãâ¿Ø",
+	name = "¶¨²¨íÆÀ½",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	iconid = 10625,
 	rHideOthers = false,
 },
--- å‡Œé›ªé˜
+-- ÁèÑ©¸ó
 {
 	enable = true,
 	rgbLongAlias = {
@@ -11606,8 +11606,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æ—¥æœˆå´é’©",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÈÕÔÂÎâ¹³",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -11644,8 +11644,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "å¤©å ‘",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÌìÇµ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -11690,8 +11690,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ä¹±å¤©ç‹¼",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÂÒÌìÀÇ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -11728,8 +11728,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ç–‘æˆ˜",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÒÉÕ½",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -11774,8 +11774,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "æ–©æ— å¸¸",
+	shortAlias = "Ãâ¿Ø",
+	name = "Õ¶ÎŞ³£",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -11816,8 +11816,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "åµ¬å´–",
+	shortAlias = "Ãâ¿Ø",
+	name = "áÍÑÂ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -11862,15 +11862,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ç„šç”Ÿ",
+	shortAlias = "Ãâ¿Ø",
+	name = "·ÙÉú",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "5BA83204FC8D4FA7A58199FB8E1216FF",
 },
--- è¡å¤©å®—
+-- ÑÜÌì×Ú
 {
 	enable = true,
 	rgbLongAlias = {
@@ -11905,8 +11905,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "èµ·å¦",
+	shortAlias = "Ãâ¿Ø",
+	name = "ÆğØÔ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -11943,8 +11943,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "è¿”é—­æƒŠé­‚",
+	shortAlias = "Ãâ¿Ø",
+	name = "·µ±Õ¾ª»ê",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -11985,8 +11985,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "é£é",
+	shortAlias = "Ãâ¿Ø",
+	name = "·ç¶İ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -12031,8 +12031,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…æ§",
-	name = "ç¥é",
+	shortAlias = "Ãâ¿Ø",
+	name = "Éñ¶İ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -12040,8 +12040,8 @@
 	iconid = 14052,
 },
 
--- å‡ä¼¤ï¼ˆå‡ä¼¤ã€é—ªé¿ã€å¹³æ‘Šã€å…å°å†…ã€åå¼¹ã€åŒ–è§£ï¼‰
--- çº¯é˜³
+-- ¼õÉË£¨¼õÉË¡¢ÉÁ±Ü¡¢Æ½Ì¯¡¢Ãâ·âÄÚ¡¢·´µ¯¡¢»¯½â£©
+-- ´¿Ñô
 {
 	enable = true,
 	ignoreId = false,
@@ -12095,8 +12095,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "è½¬ä¹¾å¤",
+	shortAlias = "¼õÉË",
+	name = "×ªÇ¬À¤",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12154,8 +12154,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æ— æˆ‘",
+	shortAlias = "¼õÉË",
+	name = "ÎŞÎÒ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12228,8 +12228,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "åå¿˜æ— æˆ‘",
+	shortAlias = "¼õÉË",
+	name = "×øÍüÎŞÎÒ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -12268,8 +12268,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…å°å†…",
-	name = "ä¸´é£",
+	shortAlias = "Ãâ·âÄÚ",
+	name = "ÁÙ·ç",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12316,8 +12316,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…å°å†…",
-	name = "åˆ©åˆƒ",
+	shortAlias = "Ãâ·âÄÚ",
+	name = "ÀûÈĞ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -12373,8 +12373,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "å¾¡é£è€Œè¡Œ",
+	shortAlias = "ÉÁ±Ü",
+	name = "Óù·ç¶øĞĞ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12421,8 +12421,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ç„å¾·",
+	shortAlias = "¼õÉË",
+	name = "ĞşµÂ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -12461,8 +12461,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "åˆçœŸ",
+	shortAlias = "»¯½â",
+	name = "ºÏÕæ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12475,7 +12475,7 @@
 	rHideOthers = false,
 	uuid = "000001F8722872B0",
 },
--- ä¸‡èŠ±
+-- Íò»¨
 {
 	enable = true,
 	ignoreId = false,
@@ -12547,8 +12547,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æ˜¥æ³¥æŠ¤èŠ±",
+	shortAlias = "¼õÉË",
+	name = "´ºÄà»¤»¨",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12593,8 +12593,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…å°å†…",
-	name = "æ²ƒåœŸ",
+	shortAlias = "Ãâ·âÄÚ",
+	name = "ÎÖÍÁ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12652,8 +12652,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "é‡‘å±‹",
+	shortAlias = "¼õÉË",
+	name = "½ğÎİ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12700,15 +12700,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "æœˆæ–œ",
+	shortAlias = "»¯½â",
+	name = "ÔÂĞ±",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "7126A8A50D1C49E4A4A0AB8B6099FD7A",
 },
--- å°‘æ—
+-- ÉÙÁÖ
 {
 	enable = true,
 	ignoreId = false,
@@ -12793,8 +12793,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æ— ç›¸è¯€",
+	shortAlias = "¼õÉË",
+	name = "ÎŞÏà¾÷",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12908,8 +12908,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åå¼¹",
-	name = "æ— ç›¸è¯€",
+	shortAlias = "·´µ¯",
+	name = "ÎŞÏà¾÷",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12950,8 +12950,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ‰¿ä¼¤",
-	name = "ç‹®å•¸",
+	shortAlias = "³ĞÉË",
+	name = "Ê¨Ğ¥",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -12998,15 +12998,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "å–„æŠ¤",
+	shortAlias = "¼õÉË",
+	name = "ÉÆ»¤",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "82E35EC2542648AD8356C8CB5D5B32FC",
 },
--- ä¸ƒç§€
+-- ÆßĞã
 {
 	enable = true,
 	ignoreId = false,
@@ -13039,8 +13039,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "å¤©åœ°ä½æ˜‚",
+	shortAlias = "¼õÉË",
+	name = "ÌìµØµÍ°º",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13098,8 +13098,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "ä¸¤ç”Ÿ",
+	shortAlias = "ÉÁ±Ü",
+	name = "Á½Éú",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13144,8 +13144,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å¹³æ‘Š",
-	name = "æ£ æ¢¨",
+	shortAlias = "Æ½Ì¯",
+	name = "ÌÄÀæ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13224,8 +13224,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…å°å†…",
-	name = "é›¾é›¨",
+	shortAlias = "Ãâ·âÄÚ",
+	name = "ÎíÓê",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13292,8 +13292,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "é›¾é›¨",
+	shortAlias = "ÉÁ±Ü",
+	name = "ÎíÓê",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13338,8 +13338,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ç‰éª¨",
+	shortAlias = "¼õÉË",
+	name = "Óñ¹Ç",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13386,8 +13386,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ç’‡å¦—",
+	shortAlias = "¼õÉË",
+	name = "è¯æ¡",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -13428,15 +13428,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æœˆå‡º",
+	shortAlias = "¼õÉË",
+	name = "ÔÂ³ö",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "81EF99A1FB5948EA8416FF036B314923",
 },
--- å¤©ç­–
+-- Ìì²ß
 {
 	enable = true,
 	ignoreId = true,
@@ -13482,8 +13482,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "å®ˆå¦‚å±±",
+	shortAlias = "¼õÉË",
+	name = "ÊØÈçÉ½",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13532,8 +13532,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ç›˜è›‡",
+	shortAlias = "¼õÉË",
+	name = "ÅÌÉß",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13591,8 +13591,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ‰¿ä¼¤",
-	name = "æ¸Š",
+	shortAlias = "³ĞÉË",
+	name = "Ô¨",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13639,15 +13639,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "è¾…å›½",
+	shortAlias = "»¯½â",
+	name = "¸¨¹ú",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	iconid = 649,
 	rHideOthers = false,
 },
--- è—å‰‘
+-- ²Ø½£
 {
 	enable = true,
 	rgbLongAlias = {
@@ -13680,8 +13680,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "å æ³‰",
+	shortAlias = "¼õÉË",
+	name = "µşÈª",
 	rgbShortAlias = {
 		255,
 		255,
@@ -13743,8 +13743,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "æ³‰å‡æœˆ",
+	shortAlias = "»¯½â",
+	name = "ÈªÄıÔÂ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13802,8 +13802,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "é£å¹è·",
+	shortAlias = "ÉÁ±Ü",
+	name = "·ç´µºÉ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13848,8 +13848,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "äº‘æ –æ¾",
+	shortAlias = "ÉÁ±Ü",
+	name = "ÔÆÆÜËÉ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -13862,7 +13862,7 @@
 	rHideOthers = false,
 	uuid = "000001F872426120",
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = false,
@@ -13899,8 +13899,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "å¥³å¨²è¡¥å¤©",
+	shortAlias = "¼õÉË",
+	name = "Å®æ´²¹Ìì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14001,8 +14001,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "åœ£æ‰‹ç»‡å¤©",
+	shortAlias = "¼õÉË",
+	name = "Ê¥ÊÖÖ¯Ìì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14103,8 +14103,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…å°å†…",
-	name = "åœ£æ‰‹ç»‡å¤©",
+	shortAlias = "Ãâ·âÄÚ",
+	name = "Ê¥ÊÖÖ¯Ìì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14149,8 +14149,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "è¶æˆæ°´",
+	shortAlias = "¼õÉË",
+	name = "µûÏ·Ë®",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14229,8 +14229,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ç„æ°´è›Š",
+	shortAlias = "¼õÉË",
+	name = "ĞşË®¹Æ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14275,8 +14275,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æ›³å…‰",
+	shortAlias = "¼õÉË",
+	name = "Ò·¹â",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14321,8 +14321,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æ•£å½±",
+	shortAlias = "¼õÉË",
+	name = "É¢Ó°",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14371,8 +14371,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "æ­æ³£",
+	shortAlias = "»¯½â",
+	name = "èÉÆü",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14411,8 +14411,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "ç‰èŸ¾çŒ®ç¥­",
+	shortAlias = "»¯½â",
+	name = "Óñó¸Ï×¼À",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -14457,8 +14457,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "å¯’èŸ¾",
+	shortAlias = "»¯½â",
+	name = "º®ó¸",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -14499,8 +14499,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "èŒ§çµ",
+	shortAlias = "»¯½â",
+	name = "¼ëÁé",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -14541,15 +14541,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "ç•™é¦™",
+	shortAlias = "»¯½â",
+	name = "ÁôÏã",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "03FC6B9A319A449688939CF6952071A8",
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	ignoreId = false,
@@ -14586,8 +14586,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "æƒŠé¸¿æ¸¸é¾™",
+	shortAlias = "ÉÁ±Ü",
+	name = "¾ªºèÓÎÁú",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14645,8 +14645,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "çƒŸæ¶ˆäº‘æ•£",
+	shortAlias = "¼õÉË",
+	name = "ÑÌÏûÔÆÉ¢",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14691,8 +14691,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "é€æ˜Ÿ",
+	shortAlias = "¼õÉË",
+	name = "ÖğĞÇ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14737,8 +14737,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æŠ¤ä½“",
+	shortAlias = "¼õÉË",
+	name = "»¤Ìå",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14751,7 +14751,7 @@
 	rHideOthers = false,
 	uuid = "000001F8729BCC50",
 },
--- æ˜æ•™
+-- Ã÷½Ì
 {
 	enable = true,
 	ignoreId = false,
@@ -14836,8 +14836,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "è´ªé­”ä½“",
+	shortAlias = "¼õÉË",
+	name = "Ì°Ä§Ìå",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -14884,8 +14884,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…å°å†…",
-	name = "å…‰å½±",
+	shortAlias = "Ãâ·âÄÚ",
+	name = "¹âÓ°",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -14935,8 +14935,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "ç¾å½±",
+	shortAlias = "ÉÁ±Ü",
+	name = "î¿Ó°",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -14977,8 +14977,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "å…·æ™º",
+	shortAlias = "ÉÁ±Ü",
+	name = "¾ßÖÇ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -15023,15 +15023,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "æ— é—´å½±ç‹±",
+	shortAlias = "»¯½â",
+	name = "ÎŞ¼äÓ°Óü",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "87094D7A50A648CFAA6F8A2F3632B451",
 },
--- ä¸å¸®
+-- Ø¤°ï
 {
 	enable = true,
 	ignoreId = false,
@@ -15081,8 +15081,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬‘é†‰ç‹‚",
-	name = "ç¬‘é†‰ç‹‚",
+	shortAlias = "Ğ¦×í¿ñ",
+	name = "Ğ¦×í¿ñ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15127,8 +15127,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "é¾™å•¸ä¹å¤©",
+	shortAlias = "¼õÉË",
+	name = "ÁúĞ¥¾ÅÌì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15173,8 +15173,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "é†‰é€é¥",
+	shortAlias = "ÉÁ±Ü",
+	name = "×íåĞÒ£",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15219,8 +15219,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æ¯å…ƒ",
+	shortAlias = "¼õÉË",
+	name = "Ï¢Ôª",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15291,8 +15291,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ä¹˜é¾™æˆæ°´",
+	shortAlias = "¼õÉË",
+	name = "³ËÁúÏ·Ë®",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15339,8 +15339,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æµè¡Œ",
+	shortAlias = "¼õÉË",
+	name = "Á÷ĞĞ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -15379,8 +15379,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æˆ˜é¾™",
+	shortAlias = "¼õÉË",
+	name = "Õ½Áú",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15427,8 +15427,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "è½æ°´æ‰“ç‹—",
+	shortAlias = "¼õÉË",
+	name = "ÂäË®´ò¹·",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -15469,8 +15469,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æ”¸è¡Œ",
+	shortAlias = "¼õÉË",
+	name = "ØüĞĞ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -15511,15 +15511,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "å…±é†‰",
+	shortAlias = "ÉÁ±Ü",
+	name = "¹²×í",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "26009E857EBE49E1A9DB331BB22B12C2",
 },
--- è‹äº‘
+-- ²ÔÔÆ
 {
 	enable = true,
 	ignoreId = false,
@@ -15624,8 +15624,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ç›¾å¢™",
+	shortAlias = "¼õÉË",
+	name = "¶ÜÇ½",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15674,7 +15674,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "ç›¾å£",
+	name = "¶Ü±Ú",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15730,8 +15730,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "äº®èŠ‚",
+	shortAlias = "¼õÉË",
+	name = "ÁÁ½Ú",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -15774,7 +15774,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "ç›¾æŠ¤",
+	name = "¶Ü»¤",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15815,8 +15815,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "è‚ƒåˆ—",
+	shortAlias = "¼õÉË",
+	name = "ËàÁĞ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15865,8 +15865,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æ‰¬æ—Œ",
+	shortAlias = "¼õÉË",
+	name = "Ñïìº",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -15917,15 +15917,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "åšå®š",
+	shortAlias = "¼õÉË",
+	name = "¼á¶¨",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "8AD30CAA56724C88B25D5B32FCFA9481",
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	ignoreId = false,
@@ -15975,8 +15975,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…å°å†…",
-	name = "é«˜å±±æµæ°´",
+	shortAlias = "Ãâ·âÄÚ",
+	name = "¸ßÉ½Á÷Ë®",
 	iconid = 7080,
 	tarkungfus = {
 		all = true,
@@ -16021,8 +16021,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ç»æ­Œ",
+	shortAlias = "¼õÉË",
+	name = "¾ø¸è",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -16069,8 +16069,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "æ°”ç•¥",
+	shortAlias = "»¯½â",
+	name = "ÆøÂÔ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -16126,8 +16126,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "æ¢…èŠ±ä¸‰å¼„",
+	shortAlias = "»¯½â",
+	name = "Ã·»¨ÈıÅª",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -16185,8 +16185,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "äº‘ç”Ÿ",
-	name = "äº‘ç”Ÿç»“æµ·",
+	shortAlias = "ÔÆÉú",
+	name = "ÔÆÉú½áº£",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -16244,8 +16244,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬‘å‚²",
-	name = "ç¬‘å‚²å…‰é˜´",
+	shortAlias = "Ğ¦°Á",
+	name = "Ğ¦°Á¹âÒõ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -16290,8 +16290,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "å¤©éŸ³çŸ¥è„‰",
+	shortAlias = "¼õÉË",
+	name = "ÌìÒôÖªÂö",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -16351,8 +16351,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "å¯’æ¢…",
+	shortAlias = "¼õÉË",
+	name = "º®Ã·",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -16391,8 +16391,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ç›è¤",
+	shortAlias = "¼õÉË",
+	name = "ÕµÓ©",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -16405,7 +16405,7 @@
 	rHideOthers = false,
 	uuid = "000001F8720704E0",
 },
--- éœ¸åˆ€
+-- °Ôµ¶
 {
 	enable = true,
 	ignoreId = false,
@@ -16438,8 +16438,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æ˜“æ°´",
+	shortAlias = "¼õÉË",
+	name = "Ò×Ë®",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -16488,8 +16488,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ä¸´æ¸Šè¹ˆæ²³",
+	shortAlias = "¼õÉË",
+	name = "ÁÙÔ¨µ¸ºÓ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -16530,8 +16530,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "æµå½±",
+	shortAlias = "ÉÁ±Ü",
+	name = "Á÷Ó°",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -16589,8 +16589,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "ç ´é‡œæ²‰èˆŸ",
+	shortAlias = "¼õÉË",
+	name = "ÆÆ¸ª³ÁÖÛ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -16637,15 +16637,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "æ å…³",
+	shortAlias = "»¯½â",
+	name = "ÂÓ¹Ø",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "8EA512C616264FF1806B314923939CF6",
 },
--- è“¬è±
+-- ÅîÀ³
 {
 	enable = true,
 	rgbLongAlias = {
@@ -16680,8 +16680,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "ç–¾ç”µå±ç¾½",
+	shortAlias = "»¯½â",
+	name = "¼²µçß³Óğ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -16722,8 +16722,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "é€¸å°˜æ­¥è™š",
+	shortAlias = "ÉÁ±Ü",
+	name = "Òİ³¾²½Ğé",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -16777,8 +16777,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "éª‹é£",
+	shortAlias = "¼õÉË",
+	name = "³Ò·ç",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -16819,8 +16819,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "é¨å®‡",
+	shortAlias = "¼õÉË",
+	name = "åÛÓî",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -16874,15 +16874,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "é¸¿è½¨",
+	shortAlias = "»¯½â",
+	name = "ºè¹ì",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "5DC05BA832044FC8BE948199FB8E1216",
 },
--- å‡Œé›ªé˜
+-- ÁèÑ©¸ó
 {
 	enable = true,
 	rgbLongAlias = {
@@ -16930,8 +16930,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "çª¥æœˆ",
+	shortAlias = "¼õÉË",
+	name = "¿úÔÂ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -16976,8 +16976,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "æ–©æ— å¸¸",
+	shortAlias = "¼õÉË",
+	name = "Õ¶ÎŞ³£",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -17018,15 +17018,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "é‡‘æˆˆ",
+	shortAlias = "»¯½â",
+	name = "½ğ¸ê",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "8AD30CAA56724C88B25D5B32FCFA9481",
 },
--- è¡å¤©å®—
+-- ÑÜÌì×Ú
 {
 	enable = true,
 	rgbLongAlias = {
@@ -17061,8 +17061,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "é¾™é©¬å‡ºæ²³",
+	shortAlias = "¼õÉË",
+	name = "ÁúÂí³öºÓ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -17107,8 +17107,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ä¼¤",
-	name = "å¦è±¡Â·æ°´å",
+	shortAlias = "¼õÉË",
+	name = "ØÔÏó¡¤Ë®¿²",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -17145,8 +17145,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "é—®å‰",
+	shortAlias = "»¯½â",
+	name = "ÎÊ¼ª",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -17187,8 +17187,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…å°å†…",
-	name = "å¤©äººåˆä¸€å¢å¼ºå…å°å†…",
+	shortAlias = "Ãâ·âÄÚ",
+	name = "ÌìÈËºÏÒ»ÔöÇ¿Ãâ·âÄÚ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -17237,8 +17237,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é—ªé¿",
-	name = "è¡Œ",
+	shortAlias = "ÉÁ±Ü",
+	name = "ĞĞ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -17279,8 +17279,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åŒ–è§£",
-	name = "å»¶å¹´",
+	shortAlias = "»¯½â",
+	name = "ÑÓÄê",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -17288,8 +17288,8 @@
 	uuid = "EBEFA2C9BA754312AF4F64EEE6EB8028",
 },
 
--- çˆ†å‘
--- çº¯é˜³
+-- ±¬·¢
+-- ´¿Ñô
 {
 	enable = true,
 	ignoreId = true,
@@ -17330,8 +17330,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "ç´«æ°”ä¸œæ¥",
+	shortAlias = "±¬·¢",
+	name = "×ÏÆø¶«À´",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17371,8 +17371,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "éŸ¬å…‰å…»æ™¦",
+	shortAlias = "±¬·¢",
+	name = "èº¹âÑø»Ş",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17385,7 +17385,7 @@
 	rHideOthers = false,
 	uuid = "000001F87204DF00",
 },
--- ä¸‡èŠ±
+-- Íò»¨
 {
 	enable = true,
 	ignoreId = false,
@@ -17431,8 +17431,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "æ°´æœˆæ— é—´",
+	shortAlias = "±¬·¢",
+	name = "Ë®ÔÂÎŞ¼ä",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17481,8 +17481,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "ä¹±æ´’é’è·",
+	shortAlias = "±¬·¢",
+	name = "ÂÒÈ÷ÇàºÉ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17527,8 +17527,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "å¸ƒæ•£",
+	shortAlias = "±¬·¢",
+	name = "²¼É¢",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17603,7 +17603,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "è¡Œæ°”è¡€",
+	name = "ĞĞÆøÑª",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17674,7 +17674,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "è¡Œæ°”è¡€",
+	name = "ĞĞÆøÑª",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17683,7 +17683,7 @@
 	ignoreId = false,
 	iconid = 2032,
 },
--- å°‘æ—
+-- ÉÙÁÖ
 {
 	enable = true,
 	ignoreId = false,
@@ -17716,8 +17716,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "æ“’é¾™è¯€",
+	shortAlias = "±¬·¢",
+	name = "ÇÜÁú¾÷",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17730,7 +17730,7 @@
 	rHideOthers = false,
 	uuid = "000001F873286A70",
 },
--- ä¸ƒç§€
+-- ÆßĞã
 {
 	enable = true,
 	ignoreId = false,
@@ -17776,8 +17776,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "ç¹éŸ³æ€¥èŠ‚",
+	shortAlias = "±¬·¢",
+	name = "·±Òô¼±½Ú",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17839,7 +17839,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ˜ æ—¥",
+	name = "Ó³ÈÕ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17882,15 +17882,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "ç›ˆè¢–",
+	shortAlias = "±¬·¢",
+	name = "Ó¯Ğä",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "558A0C5CD6CB4EC382E553B5F721DB83",
 },
--- å¤©ç­–
+-- Ìì²ß
 {
 	enable = true,
 	ignoreId = true,
@@ -17923,8 +17923,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "ç–¾å¦‚é£",
+	shortAlias = "±¬·¢",
+	name = "¼²Èç·ç",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -17982,8 +17982,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "æ¸Š",
+	shortAlias = "±¬·¢",
+	name = "Ô¨",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18036,8 +18036,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "æ¿€é›·",
+	shortAlias = "±¬·¢",
+	name = "¼¤À×",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18050,7 +18050,7 @@
 	rHideOthers = false,
 	uuid = "000001F8AAC74D10",
 },
--- è—å‰‘
+-- ²Ø½£
 {
 	enable = true,
 	ignoreId = false,
@@ -18091,8 +18091,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "èºé¸£",
+	shortAlias = "±¬·¢",
+	name = "İºÃù",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18139,15 +18139,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "é—»è¸ª",
+	shortAlias = "±¬·¢",
+	name = "ÎÅ×Ù",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "227E373EA0754B1C936C9DAA326948DD",
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = true,
@@ -18180,8 +18180,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "çµè›‡çŒ®ç¥­",
+	shortAlias = "±¬·¢",
+	name = "ÁéÉßÏ×¼À",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18224,8 +18224,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "å¼•é­‚",
+	shortAlias = "±¬·¢",
+	name = "Òı»ê",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -18281,8 +18281,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "å¤ºå‘½è›Š",
+	shortAlias = "±¬·¢",
+	name = "¶áÃü¹Æ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18295,7 +18295,7 @@
 	rHideOthers = false,
 	uuid = "000001F8AAB7F9D0",
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	ignoreId = true,
@@ -18341,8 +18341,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "å¿ƒæ— æ—éª›",
+	shortAlias = "±¬·¢",
+	name = "ĞÄÎŞÅÔæğ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18391,7 +18391,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "è¿½å‘½æ— å£°",
+	name = "×·ÃüÎŞÉù",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18432,8 +18432,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "æ‰¬å¨",
+	shortAlias = "±¬·¢",
+	name = "ÑïÍş",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18478,8 +18478,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "åƒç§‹ä¸‡åŠ«",
+	shortAlias = "±¬·¢",
+	name = "Ç§ÇïÍò½Ù",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18492,7 +18492,7 @@
 	rHideOthers = false,
 	uuid = "000001F8AA70C0B0",
 },
--- æ˜æ•™
+-- Ã÷½Ì
 {
 	enable = true,
 	ignoreId = false,
@@ -18525,8 +18525,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "å…‰æ˜ç›¸",
+	shortAlias = "±¬·¢",
+	name = "¹âÃ÷Ïà",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18571,8 +18571,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "ç”Ÿç­äºˆå¤º",
+	shortAlias = "±¬·¢",
+	name = "ÉúÃğÓè¶á",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18617,8 +18617,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "è¯›æˆ®",
+	shortAlias = "±¬·¢",
+	name = "ÖïÂ¾",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18667,7 +18667,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ—¥ç›ˆ",
+	name = "ÈÕÓ¯",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18676,7 +18676,7 @@
 	ignoreId = true,
 	iconid = 9537,
 },
--- ä¸å¸®
+-- Ø¤°ï
 {
 	enable = true,
 	rgbLongAlias = {
@@ -18752,7 +18752,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "é…’ä¸­ä»™",
+	name = "¾ÆÖĞÏÉ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18793,8 +18793,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æœ‰æ”¸",
-	name = "æœ‰æ”¸",
+	shortAlias = "ÓĞØü",
+	name = "ÓĞØü",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18839,8 +18839,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "ç›ˆä¹…",
+	shortAlias = "±¬·¢",
+	name = "Ó¯¾Ã",
 	rgbShortAlias = {
 		255,
 		255,
@@ -18900,8 +18900,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "é’é¾™",
+	shortAlias = "±¬·¢",
+	name = "ÇàÁú",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -18912,7 +18912,7 @@
 	uuid = "605699E5FDF947AEBD62DF91428A0108",
 	iconid = 7221,
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	ignoreId = false,
@@ -18945,8 +18945,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "å­¤å½±åŒ–åŒ",
+	shortAlias = "±¬·¢",
+	name = "¹ÂÓ°»¯Ë«",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -18959,7 +18959,7 @@
 	rHideOthers = false,
 	uuid = "000001F8729C1CA0",
 },
--- éœ¸åˆ€
+-- °Ôµ¶
 {
 	enable = true,
 	ignoreId = false,
@@ -18992,8 +18992,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "ç–ç‹‚",
+	shortAlias = "±¬·¢",
+	name = "Êè¿ñ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -19006,7 +19006,7 @@
 	rHideOthers = false,
 	uuid = "000001F872BB21D0",
 },
--- å‡Œé›ªé˜
+-- ÁèÑ©¸ó
 {
 	enable = true,
 	rgbLongAlias = {
@@ -19041,15 +19041,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ— é—´ç‹±",
-	name = "æ— é—´ç‹±",
+	shortAlias = "ÎŞ¼äÓü",
+	name = "ÎŞ¼äÓü",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "9599201A71264A8A839E90A0AB8B6099",
 },
--- è¡å¤©å®—
+-- ÑÜÌì×Ú
 {
 	enable = true,
 	rgbLongAlias = {
@@ -19088,8 +19088,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å¤©äºº",
-	name = "å¤©äººåˆä¸€",
+	shortAlias = "ÌìÈË",
+	name = "ÌìÈËºÏÒ»",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -19097,8 +19097,8 @@
 	uuid = "DDD9C9D1C21F44AEBA428F38227671A3",
 },
 
--- å°å†…
--- çº¯é˜³
+-- ·âÄÚ
+-- ´¿Ñô
 {
 	enable = true,
 	ignoreId = true,
@@ -19160,8 +19160,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "å…«å¦æ´ç„",
+	shortAlias = "·âÄÚ",
+	name = "°ËØÔ¶´Ğş",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -19174,7 +19174,7 @@
 	uuid = "000001F880C98F70",
 	iconid = 1441,
 },
--- ä¸‡èŠ±
+-- Íò»¨
 {
 	enable = true,
 	ignoreId = false,
@@ -19207,8 +19207,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "å¥é˜´æŒ‡",
+	shortAlias = "·âÄÚ",
+	name = "ØÊÒõÖ¸",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -19221,7 +19221,7 @@
 	uuid = "000001F872378230",
 	iconid = 1513,
 },
--- å°‘æ—
+-- ÉÙÁÖ
 {
 	enable = true,
 	ignoreId = false,
@@ -19254,8 +19254,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "æŠ¢ç å¼",
+	shortAlias = "·âÄÚ",
+	name = "ÇÀÖéÊ½",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -19268,7 +19268,7 @@
 	uuid = "000001F873A932D0",
 	iconid = 1509,
 },
--- ä¸ƒç§€
+-- ÆßĞã
 {
 	enable = true,
 	ignoreId = false,
@@ -19301,8 +19301,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "å‰‘ç ´è™šç©º",
+	shortAlias = "·âÄÚ",
+	name = "½£ÆÆĞé¿Õ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -19349,8 +19349,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "ç¼ ç«¹",
+	shortAlias = "·âÄÚ",
+	name = "²øÖñ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -19391,15 +19391,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "å‰‘å¿ƒé€šæ˜",
+	shortAlias = "·âÄÚ",
+	name = "½£ĞÄÍ¨Ã÷",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "9DEFF48F79204177BA63DA3119A29C71",
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = false,
@@ -19432,8 +19432,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "å‡„åˆ‡",
+	shortAlias = "·âÄÚ",
+	name = "ÆàÇĞ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -19486,8 +19486,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "èŸ¾å•¸è¿·å¿ƒ",
+	shortAlias = "·âÄÚ",
+	name = "ó¸Ğ¥ÃÔĞÄ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -19500,7 +19500,7 @@
 	uuid = "000001F873AA9C60",
 	iconid = 2811,
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	ignoreId = true,
@@ -19519,8 +19519,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "æ¢…èŠ±é’ˆ",
+	shortAlias = "·âÄÚ",
+	name = "Ã·»¨Õë",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -19533,7 +19533,7 @@
 	uuid = "000001F8AAB487D0",
 	iconid = 13,
 },
--- æ˜æ•™
+-- Ã÷½Ì
 {
 	enable = true,
 	rgbLongAlias = {
@@ -19568,15 +19568,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "å¯’æœˆè€€",
+	shortAlias = "·âÄÚ",
+	name = "º®ÔÂÒ«",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "9DEFF48F79204177BA63DA3119A29C71",
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	rgbLongAlias = {
@@ -19611,15 +19611,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "æ¸…éŸ³é•¿å•¸",
+	shortAlias = "·âÄÚ",
+	name = "ÇåÒô³¤Ğ¥",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "93ED9C19F61149598871A80D9E90A0AB",
 },
--- è¡å¤©å®—
+-- ÑÜÌì×Ú
 {
 	enable = true,
 	ignoreId = false,
@@ -19650,8 +19650,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "çˆ†å‘",
-	name = "äº”æ˜Ÿè¿æ",
+	shortAlias = "±¬·¢",
+	name = "ÎåĞÇÁ¬¼«",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -19700,8 +19700,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°å†…",
-	name = "çš†",
+	shortAlias = "·âÄÚ",
+	name = "½Ô",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -19709,7 +19709,7 @@
 	iconid = 14165,
 },
 
--- å°è½»åŠŸ
+-- ·âÇá¹¦
 {
 	enable = true,
 	ignoreId = false,
@@ -19919,8 +19919,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°è½»åŠŸ",
-	name = "åæ—¥æœˆ",
+	shortAlias = "·âÇá¹¦",
+	name = "ÍÌÈÕÔÂ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -19965,8 +19965,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°è½»åŠŸ",
-	name = "æ°´æ¦­èŠ±ç›ˆ",
+	shortAlias = "·âÇá¹¦",
+	name = "Ë®é¿»¨Ó¯",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20024,8 +20024,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°è½»åŠŸ",
-	name = "äº‘æ™¯",
+	shortAlias = "·âÇá¹¦",
+	name = "ÔÆ¾°",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20072,8 +20072,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å°è½»åŠŸ",
-	name = "åƒå›ç™¾è½¬ï¼ˆè™šå¼±ï¼‰",
+	shortAlias = "·âÇá¹¦",
+	name = "Ç§»Ø°Ù×ª£¨ĞéÈõ£©",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -20081,8 +20081,8 @@
 	uuid = "FF1503FC6B9A43199223939CF6952071",
 },
 
--- å‡ç–—
--- çº¯é˜³
+-- ¼õÁÆ
+-- ´¿Ñô
 {
 	enable = true,
 	ignoreId = false,
@@ -20123,8 +20123,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "ç„ä¸€",
+	shortAlias = "¼õÁÆ",
+	name = "ĞşÒ»",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20137,7 +20137,7 @@
 	uuid = "000001F8AAF6A220",
 	iconid = 607,
 },
--- å°‘æ—
+-- ÉÙÁÖ
 {
 	enable = true,
 	ignoreId = false,
@@ -20183,8 +20183,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "å°˜æ¯",
+	shortAlias = "¼õÁÆ",
+	name = "³¾Ï¢",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20197,7 +20197,7 @@
 	rHideOthers = false,
 	uuid = "000001F873A96520",
 },
--- å¤©ç­–
+-- Ìì²ß
 {
 	enable = true,
 	ignoreId = false,
@@ -20230,8 +20230,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "éœ¹é›³",
+	shortAlias = "¼õÁÆ",
+	name = "Åùö¨",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20244,7 +20244,7 @@
 	uuid = "000001F89B59BB00",
 	iconid = 2986,
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = false,
@@ -20298,8 +20298,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "ç™¾è¶³æ¯æ®‹",
+	shortAlias = "¼õÁÆ",
+	name = "°Ù×ã¿İ²Ğ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20312,7 +20312,7 @@
 	uuid = "000001F836683FE0",
 	iconid = 2813,
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	ignoreId = false,
@@ -20345,8 +20345,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "ç©¿å¿ƒå¼©",
+	shortAlias = "¼õÁÆ",
+	name = "´©ĞÄåó",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20359,7 +20359,7 @@
 	uuid = "000001F8AAB427E0",
 	iconid = 3178,
 },
--- æ˜æ•™
+-- Ã÷½Ì
 {
 	enable = true,
 	ignoreId = false,
@@ -20392,8 +20392,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "æœˆåŠ«",
+	shortAlias = "¼õÁÆ",
+	name = "ÔÂ½Ù",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20406,7 +20406,7 @@
 	uuid = "000001F872BFF940",
 	iconid = 3867,
 },
--- ä¸å¸®
+-- Ø¤°ï
 {
 	enable = true,
 	ignoreId = false,
@@ -20439,8 +20439,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "ç¥é¾™é™ä¸–",
+	shortAlias = "¼õÁÆ",
+	name = "ÉñÁú½µÊÀ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20453,7 +20453,7 @@
 	uuid = "000001F833A3FA80",
 	iconid = 4886,
 },
--- è‹äº‘
+-- ²ÔÔÆ
 {
 	enable = true,
 	ignoreId = false,
@@ -20486,8 +20486,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "ç›¾å‡»",
+	shortAlias = "¼õÁÆ",
+	name = "¶Ü»÷",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20500,7 +20500,7 @@
 	uuid = "000001F8732C6F70",
 	iconid = 6339,
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	ignoreId = false,
@@ -20533,8 +20533,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "æ¥šæµ",
+	shortAlias = "¼õÁÆ",
+	name = "³ş¼Ã",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20547,7 +20547,7 @@
 	uuid = "000001F869649520",
 	iconid = 7116,
 },
--- éœ¸åˆ€
+-- °Ôµ¶
 {
 	enable = true,
 	ignoreId = false,
@@ -20580,8 +20580,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "åæ¥š",
+	shortAlias = "¼õÁÆ",
+	name = "ÍÌ³ş",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20594,7 +20594,7 @@
 	uuid = "000001F87237CD80",
 	iconid = 8512,
 },
--- è“¬è±
+-- ÅîÀ³
 {
 	enable = true,
 	rgbLongAlias = {
@@ -20629,15 +20629,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "è·ƒæ½®",
+	shortAlias = "¼õÁÆ",
+	name = "Ô¾³±",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "9F350EBCA1B34450B0151D527A29B3BD",
 },
--- è¡å¤©å®—
+-- ÑÜÌì×Ú
 {
 	enable = true,
 	rgbLongAlias = {
@@ -20672,8 +20672,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡ç–—",
-	name = "ä¼‘å›š",
+	shortAlias = "¼õÁÆ",
+	name = "ĞİÇô",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -20681,8 +20681,8 @@
 	iconid = 14042,
 },
 
--- å‡é€Ÿ
--- çº¯é˜³
+-- ¼õËÙ
+-- ´¿Ñô
 {
 	enable = true,
 	ignoreId = false,
@@ -20771,8 +20771,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "ç”Ÿå¤ªæ",
+	shortAlias = "¼õËÙ",
+	name = "ÉúÌ«¼«",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20838,8 +20838,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "ç¼ è¶³",
+	shortAlias = "¼õËÙ",
+	name = "²ø×ã",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20888,8 +20888,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "ä¸å–„",
+	shortAlias = "¼õËÙ",
+	name = "²»ÉÆ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20902,7 +20902,7 @@
 	uuid = "000001F86964ABF0",
 	iconid = 630,
 },
--- ä¸‡èŠ±
+-- Íò»¨
 {
 	enable = true,
 	ignoreId = false,
@@ -20935,8 +20935,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "å°‘é˜³æŒ‡",
+	shortAlias = "¼õËÙ",
+	name = "ÉÙÑôÖ¸",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -20949,7 +20949,7 @@
 	uuid = "000001F8AA65CC70",
 	iconid = 1517,
 },
--- å°‘æ—
+-- ÉÙÁÖ
 {
 	enable = true,
 	ignoreId = false,
@@ -20982,8 +20982,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "æŠ±æ®‹å¼",
+	shortAlias = "¼õËÙ",
+	name = "±§²ĞÊ½",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21030,15 +21030,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "ä¸šåŠ›",
+	shortAlias = "¼õËÙ",
+	name = "ÒµÁ¦",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "E14902647C7246978DA0C33AB2BF90A1",
 },
--- ä¸ƒç§€
+-- ÆßĞã
 {
 	enable = true,
 	ignoreId = false,
@@ -21101,8 +21101,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "æ­¥è¿Ÿ",
+	shortAlias = "¼õËÙ",
+	name = "²½³Ù",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21147,8 +21147,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "å†°å°",
+	shortAlias = "¼õËÙ",
+	name = "±ù·â",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21161,7 +21161,7 @@
 	uuid = "000001F869659BF0",
 	iconid = 2947,
 },
--- å¤©ç­–
+-- Ìì²ß
 {
 	enable = true,
 	ignoreId = false,
@@ -21194,8 +21194,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "ç©¿",
+	shortAlias = "¼õËÙ",
+	name = "´©",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21208,7 +21208,7 @@
 	uuid = "000001F874A4DE70",
 	iconid = 655,
 },
--- è—å‰‘
+-- ²Ø½£
 {
 	enable = true,
 	ignoreId = false,
@@ -21241,8 +21241,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "æƒŠæ¶›",
+	shortAlias = "¼õËÙ",
+	name = "¾ªÌÎ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21289,15 +21289,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "æ™¯è¡Œ",
+	shortAlias = "¼õËÙ",
+	name = "¾°ĞĞ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	uuid = "9DEFF48F79204177BA63DA3119A29C71",
 	iconid = 9532,
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = false,
@@ -21343,8 +21343,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "åƒä¸",
+	shortAlias = "¼õËÙ",
+	name = "Ç§Ë¿",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21357,7 +21357,7 @@
 	uuid = "000001F8AAB37020",
 	iconid = 2787,
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	ignoreId = false,
@@ -21390,8 +21390,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "æ¯’è’ºè—œ",
+	shortAlias = "¼õËÙ",
+	name = "¶¾İğŞ¼",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21438,8 +21438,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "æš´é›¨æ¢¨èŠ±é’ˆ",
+	shortAlias = "¼õËÙ",
+	name = "±©ÓêÀæ»¨Õë",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -21480,8 +21480,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "æ—‹è¸µ",
+	shortAlias = "¼õËÙ",
+	name = "Ğıõà",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -21535,8 +21535,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "é¸¿çˆªç•™æ³¥",
+	shortAlias = "¼õËÙ",
+	name = "ºè×¦ÁôÄà",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -21577,15 +21577,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "é‡å¼©",
+	shortAlias = "¼õËÙ",
+	name = "ÖØåó",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "C25DF93DA1C54D3980CEDF4EB52237A0",
 },
--- æ˜æ•™
+-- Ã÷½Ì
 {
 	enable = true,
 	rgbLongAlias = {
@@ -21633,8 +21633,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "ç¦ç¼š",
+	shortAlias = "¼õËÙ",
+	name = "½û¸¿",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -21673,8 +21673,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "ä¸šæµ·ç½ªç¼š",
+	shortAlias = "¼õËÙ",
+	name = "Òµº£×ï¸¿",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21734,15 +21734,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "ææœ¬æº¯æº",
+	shortAlias = "¼õËÙ",
+	name = "¼«±¾ËİÔ´",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "93ED9C19F61149598871A80D9E90A0AB",
 },
--- è‹äº‘
+-- ²ÔÔÆ
 {
 	enable = true,
 	ignoreId = false,
@@ -21775,8 +21775,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "éš¾è¡Œ",
+	shortAlias = "¼õËÙ",
+	name = "ÄÑĞĞ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21821,8 +21821,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "å·äº‘",
+	shortAlias = "¼õËÙ",
+	name = "¾íÔÆ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21835,7 +21835,7 @@
 	uuid = "000001F8732C0CB0",
 	iconid = 6345,
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	ignoreId = false,
@@ -21881,8 +21881,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "é£å…¥æ¾",
+	shortAlias = "¼õËÙ",
+	name = "·çÈëËÉ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -21927,8 +21927,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "å‰‘Â·å®«",
+	shortAlias = "¼õËÙ",
+	name = "½£¡¤¹¬",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -22001,15 +22001,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "å¾µ",
+	shortAlias = "¼õËÙ",
+	name = "áç",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	iconid = 7179,
 	rHideOthers = false,
 },
--- éœ¸åˆ€
+-- °Ôµ¶
 {
 	enable = true,
 	ignoreId = false,
@@ -22042,8 +22042,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "ä¼å°˜",
+	shortAlias = "¼õËÙ",
+	name = "·ü³¾",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -22056,7 +22056,7 @@
 	uuid = "000001F872386F10",
 	iconid = 8506,
 },
--- è“¬è±
+-- ÅîÀ³
 {
 	enable = true,
 	rgbLongAlias = {
@@ -22091,15 +22091,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "æœ¨è½é›å½’",
+	shortAlias = "¼õËÙ",
+	name = "Ä¾ÂäÑã¹é",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
 	rHideOthers = false,
 	uuid = "93ED9C19F61149598871A80D9E90A0AB",
 },
--- å‡Œé›ªé˜
+-- ÁèÑ©¸ó
 {
 	enable = true,
 	rgbLongAlias = {
@@ -22134,15 +22134,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "æ»ç§»",
+	shortAlias = "¼õËÙ",
+	name = "ÖÍÒÆ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	iconid = 12108,
 	rHideOthers = false,
 },
--- è¡å¤©å®—
+-- ÑÜÌì×Ú
 {
 	enable = true,
 	rgbLongAlias = {
@@ -22194,8 +22194,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "è€…",
+	shortAlias = "¼õËÙ",
+	name = "Õß",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -22236,8 +22236,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡é€Ÿ",
-	name = "é¬¼æ˜Ÿå¼€ç©´",
+	shortAlias = "¼õËÙ",
+	name = "¹íĞÇ¿ªÑ¨",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -22245,7 +22245,7 @@
 	iconid = 13872,
 },
 
--- å…¶ä»–
+-- ÆäËû
 {
 	enable = true,
 	rgbLongAlias = {
@@ -22328,7 +22328,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å¼¹è·³",
+	name = "µ¯Ìø",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -22367,7 +22367,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "é“¾æ¥",
+	name = "Á´½Ó",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -22379,7 +22379,7 @@
 	},
 	uuid = "605699E5FDF947AEBD62DF91428A0108",
 },
--- çº¯é˜³
+-- ´¿Ñô
 {
 	enable = true,
 	rgbLongAlias = {
@@ -22425,8 +22425,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "äº‘ä¸­å‰‘",
-	name = "äº‘ä¸­å‰‘",
+	shortAlias = "ÔÆÖĞ½£",
+	name = "ÔÆÖĞ½£",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -22495,7 +22495,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ¢¯äº‘çºµ",
+	name = "ÌİÔÆ×İ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -22549,8 +22549,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "å¹³ç¬ƒ",
+	shortAlias = "Ë²·¢",
+	name = "Æ½óÆ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -22591,7 +22591,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "é™ç¬ƒ",
+	name = "¾²óÆ",
 	iconid = 7445,
 	tarkungfus = {
 		all = true,
@@ -22644,7 +22644,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "é›¾å¤–æ±Ÿå±±",
+	name = "ÎíÍâ½­É½",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -22749,8 +22749,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ°”å‰‘ä¸€",
-	name = "æ°”å‰‘ä¸€",
+	shortAlias = "Æø½£Ò»",
+	name = "Æø½£Ò»",
 	iconid = 7511,
 	tarkungfus = {
 		all = true,
@@ -22803,8 +22803,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ°”å‰‘äºŒ",
-	name = "æ°”å‰‘äºŒ",
+	shortAlias = "Æø½£¶ş",
+	name = "Æø½£¶ş",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -22857,8 +22857,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ°”å‰‘ä¸‰",
-	name = "æ°”å‰‘ä¸‰",
+	shortAlias = "Æø½£Èı",
+	name = "Æø½£Èı",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -22911,8 +22911,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ°”å‰‘å››",
-	name = "æ°”å‰‘å››",
+	shortAlias = "Æø½£ËÄ",
+	name = "Æø½£ËÄ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -22965,8 +22965,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ°”å‰‘äº”",
-	name = "æ°”å‰‘äº”",
+	shortAlias = "Æø½£Îå",
+	name = "Æø½£Îå",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23011,8 +23011,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "é›¨é›†",
+	shortAlias = "Ë²·¢",
+	name = "Óê¼¯",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23055,8 +23055,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç§»é€Ÿ",
-	name = "è£‚äº‘",
+	shortAlias = "ÒÆËÙ",
+	name = "ÁÑÔÆ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -23090,8 +23090,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å›è“",
-	name = "åŒ–ä¸‰æ¸…",
+	shortAlias = "»ØÀ¶",
+	name = "»¯ÈıÇå",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23140,7 +23140,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å åˆƒ",
+	name = "µşÈĞ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23178,7 +23178,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "éšç‰©",
+	name = "ËæÎï",
 	rHideOthers = false,
 	tarkungfus = {
 		all = true,
@@ -23195,7 +23195,7 @@
 		0,
 	},
 },
--- ä¸‡èŠ±
+-- Íò»¨
 {
 	enable = true,
 	rgbLongAlias = {
@@ -23240,7 +23240,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ¯«é’ˆ",
+	name = "ºÁÕë",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23294,8 +23294,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç§»é€Ÿ",
-	name = "é‡‘å±‹",
+	shortAlias = "ÒÆËÙ",
+	name = "½ğÎİ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23344,8 +23344,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "æ”¾æ­Œ",
+	shortAlias = "Ë²·¢",
+	name = "·Å¸è",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23401,8 +23401,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "ä¸èˆ",
+	shortAlias = "Ë²·¢",
+	name = "²»Éá",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -23445,8 +23445,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¢§æ°´",
-	name = "ç¢§æ°´æ»”å¤©",
+	shortAlias = "±ÌË®",
+	name = "±ÌË®ÌÏÌì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23517,8 +23517,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å…°æ‘§",
-	name = "å…°æ‘§ç‰æŠ˜",
+	shortAlias = "À¼´İ",
+	name = "À¼´İÓñÕÛ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23576,8 +23576,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é’Ÿæ—",
-	name = "é’Ÿæ—æ¯“ç§€",
+	shortAlias = "ÖÓÁÖ",
+	name = "ÖÓÁÖØ¹Ğã",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23626,8 +23626,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å•†é˜³",
-	name = "å•†é˜³æŒ‡",
+	shortAlias = "ÉÌÑô",
+	name = "ÉÌÑôÖ¸",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23676,7 +23676,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æµ®èŠ±",
+	name = "¸¡»¨",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23719,8 +23719,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ä¸¢å¤±",
-	name = "ä¹˜å¢¨ç”±å¿ƒ",
+	shortAlias = "¶ªÊ§",
+	name = "³ËÄ«ÓÉĞÄ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -23774,15 +23774,15 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "è¿çº¿",
-	name = "æ´›å·ç¥éŸµ",
+	shortAlias = "Á¬Ïß",
+	name = "Âå´¨ÉñÔÏ",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
 	iconid = 14146,
 	rHideOthers = false,
 },
--- å°‘æ—
+-- ÉÙÁÖ
 {
 	enable = true,
 	rgbLongAlias = {
@@ -23884,8 +23884,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "åå¼¹",
-	name = "ç½—æ±‰é‡‘èº«",
+	shortAlias = "·´µ¯",
+	name = "ÂŞºº½ğÉí",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23930,7 +23930,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ•é£å¼",
+	name = "²¶·çÊ½",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -23975,8 +23975,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "å‡€æœ",
+	shortAlias = "Ë²·¢",
+	name = "¾»¹û",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24019,8 +24019,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å›è¡€",
-	name = "è©æèº«",
+	shortAlias = "»ØÑª",
+	name = "ÆĞÌáÉí",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -24063,7 +24063,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "è‡ªåœ¨",
+	name = "×ÔÔÚ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24072,7 +24072,7 @@
 	ignoreId = false,
 	iconid = 2980,
 },
--- ä¸ƒç§€
+-- ÆßĞã
 {
 	enable = true,
 	rgbLongAlias = {
@@ -24113,7 +24113,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ€¥æ›²",
+	name = "¼±Çú",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24140,8 +24140,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç»›å”‡",
-	name = "åŠæ­¥é¢ ",
+	shortAlias = "ç­´½",
+	name = "°ë²½µß",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24188,8 +24188,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "éœœå¤©",
-	name = "éœœå¤©å‰‘æ³ ",
+	shortAlias = "ËªÌì",
+	name = "ËªÌì½£ãö",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -24245,7 +24245,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å†¥æ³½",
+	name = "Ú¤Ôó",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24254,7 +24254,7 @@
 	ignoreId = false,
 	iconid = 2955,
 },
--- å¤©ç­–
+-- Ìì²ß
 {
 	enable = true,
 	rgbLongAlias = {
@@ -24291,7 +24291,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "é©°éª‹",
+	name = "³Û³Ò",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24349,7 +24349,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å¾å¦‚æ—",
+	name = "ĞìÈçÁÖ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24496,11 +24496,24 @@
 			iconid = 3436,
 			soundAppear = {},
 		},
+		[19317] = {
+			levels = {
+				[30] = {
+					enable = true,
+					iconid = 647,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 647,
+			soundAppear = {},
+		},
 	},
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æµè¡€",
+	name = "Á÷Ñª",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24513,7 +24526,7 @@
 	},
 	iconid = 6323,
 },
--- è—å‰‘
+-- ²Ø½£
 {
 	enable = true,
 	rgbLongAlias = {
@@ -24550,7 +24563,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å‡¤é¸£",
+	name = "·ïÃù",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24595,8 +24608,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "å£°è¶£",
+	shortAlias = "Ë²·¢",
+	name = "ÉùÈ¤",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24633,8 +24646,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å›è¡€",
-	name = "å‡­é£",
+	shortAlias = "»ØÑª",
+	name = "Æ¾·ç",
 	iconid = 7206,
 	tarkungfus = {
 		all = true,
@@ -24685,8 +24698,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "å¤œé›¨",
+	shortAlias = "Ë²·¢",
+	name = "Ò¹Óê",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -24739,8 +24752,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "å†°å¤©",
+	shortAlias = "Ë²·¢",
+	name = "±ùÌì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24790,7 +24803,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "ç¢ç‰",
+	name = "ËéÓñ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24799,7 +24812,7 @@
 	ignoreId = false,
 	iconid = 7239,
 },
--- äº”æ¯’
+-- Îå¶¾
 {
 	enable = true,
 	ignoreId = false,
@@ -24836,8 +24849,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç§»é€Ÿ",
-	name = "å½±æ»",
+	shortAlias = "ÒÆËÙ",
+	name = "Ó°ÖÍ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -24884,8 +24897,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç§»é€Ÿ",
-	name = "è¾Ÿå¯’",
+	shortAlias = "ÒÆËÙ",
+	name = "±Ùº®",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -24916,7 +24929,7 @@
 	},
 	soundAppear = {},
 	ignoreId = false,
-	name = "èè›°",
+	name = "Ğ«Õİ",
 	uuid = "567EBF2B8BC9419EBEF7CA7DEA7F63A6",
 	tarkungfus = {},
 	nameAlias = true,
@@ -24978,8 +24991,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ä¸¢å¤±",
-	name = "åœ£å…ƒ",
+	shortAlias = "¶ªÊ§",
+	name = "Ê¥Ôª",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -25022,7 +25035,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "ä¸¥å¯’",
+	name = "ÑÏº®",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25031,7 +25044,7 @@
 	ignoreId = false,
 	iconid = 2038,
 },
--- å”é—¨
+-- ÌÆÃÅ
 {
 	enable = true,
 	rgbLongAlias = {
@@ -25066,8 +25079,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æœºç”²",
-	name = "ä¹éœ„é£é›·",
+	shortAlias = "»ú¼×",
+	name = "¾ÅÏö·çÀ×",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -25119,8 +25132,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é£æ˜Ÿ",
-	name = "è¿æ˜Ÿ",
+	shortAlias = "·ÉĞÇ",
+	name = "Á¬ĞÇ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25182,8 +25195,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é¸Ÿç¿”",
-	name = "é¸Ÿç¿”ç¢§ç©º",
+	shortAlias = "ÄñÏè",
+	name = "ÄñÏè±Ì¿Õ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25241,8 +25254,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "æ— é—",
+	shortAlias = "Ë²·¢",
+	name = "ÎŞÒÅ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25287,8 +25300,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç§»é€Ÿ",
-	name = "æ¯«å‘",
+	shortAlias = "ÒÆËÙ",
+	name = "ºÁ·¢",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25335,8 +25348,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é™åŒ–åŠ²",
-	name = "ç™¾æ­¥ç©¿æ¨",
+	shortAlias = "½µ»¯¾¢",
+	name = "°Ù²½´©Ñî",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -25375,8 +25388,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ä¸¢å¤±",
-	name = "è†å¤©æ£˜åœ°",
+	shortAlias = "¶ªÊ§",
+	name = "¾£Ìì¼¬µØ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25425,7 +25438,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ— å£°",
+	name = "ÎŞÉù",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25470,7 +25483,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "åŒ–è¡€",
+	name = "»¯Ñª",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25528,7 +25541,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "ç©¿å¿ƒ",
+	name = "´©ĞÄ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25567,8 +25580,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ¯’æ‰‹",
-	name = "æ¯’æ‰‹",
+	shortAlias = "¶¾ÊÖ",
+	name = "¶¾ÊÖ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -25579,7 +25592,7 @@
 	rHideOthers = false,
 	uuid = "1E766CC0D0874492B0B50EFC343988E1",
 },
--- æ˜æ•™
+-- Ã÷½Ì
 {
 	enable = true,
 	ignoreId = false,
@@ -25612,8 +25625,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç§»é€Ÿ",
-	name = "çƒˆç«",
+	shortAlias = "ÒÆËÙ",
+	name = "ÁÒ»ğ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25626,7 +25639,7 @@
 	rHideOthers = false,
 	uuid = "000001F87328F7B0",
 },
--- ä¸å¸®
+-- Ø¤°ï
 {
 	enable = true,
 	rgbLongAlias = {
@@ -25661,8 +25674,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç§»é€Ÿ",
-	name = "çƒŸéœ",
+	shortAlias = "ÒÆËÙ",
+	name = "ÑÌÏ¼",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -25699,7 +25712,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "ä¼è™",
+	name = "·ü»¢",
 	soundAppear = {},
 	tarkungfus = {},
 	rHideOthers = false,
@@ -25744,8 +25757,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å›è“",
-	name = "ç›Šå…ƒ",
+	shortAlias = "»ØÀ¶",
+	name = "ÒæÔª",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -25823,8 +25836,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é›¨é¾™",
-	name = "äº¢é¾™æœ‰æ‚”",
+	shortAlias = "ÓêÁú",
+	name = "¿ºÁúÓĞ»Ú",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -25837,7 +25850,7 @@
 	uuid = "000001F872C54420",
 	iconid = 4900,
 },
--- è‹äº‘
+-- ²ÔÔÆ
 {
 	enable = true,
 	ignoreId = false,
@@ -25866,7 +25879,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "ç‹‚ç»",
+	name = "¿ñ¾ø",
 	iconid = 6317,
 	tarkungfus = {
 		all = true,
@@ -26021,11 +26034,24 @@
 			iconid = 3436,
 			soundAppear = {},
 		},
+		[19317] = {
+			levels = {
+				[30] = {
+					enable = true,
+					iconid = 647,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 647,
+			soundAppear = {},
+		},
 	},
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æµè¡€",
+	name = "Á÷Ñª",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -26068,8 +26094,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "é™æ”»",
-	name = "æ–­é©¬",
+	shortAlias = "½µ¹¥",
+	name = "¶ÏÂí",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -26110,7 +26136,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ— ä»‡",
+	name = "ÎŞ³ğ",
 	soundAppear = {},
 	tarkungfus = {},
 	rHideOthers = false,
@@ -26121,7 +26147,7 @@
 	},
 	uuid = "5EC254268AD340CA95C8CB5D5B32FCFA",
 },
--- é•¿æ­Œ
+-- ³¤¸è
 {
 	enable = true,
 	rgbLongAlias = {
@@ -26158,7 +26184,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "è¿´æ¢¦",
+	name = "Ş’ÃÎ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -26212,8 +26238,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç§»é€Ÿ",
-	name = "é£å…¥æ¾",
+	shortAlias = "ÒÆËÙ",
+	name = "·çÈëËÉ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -26266,8 +26292,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡Œå†¬ä¸€",
-	name = "å‡Œå†¬ä¸€",
+	shortAlias = "Áè¶¬Ò»",
+	name = "Áè¶¬Ò»",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -26324,8 +26350,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡Œå†¬äºŒ",
-	name = "å‡Œå†¬äºŒ",
+	shortAlias = "Áè¶¬¶ş",
+	name = "Áè¶¬¶ş",
 	iconid = 7130,
 	tarkungfus = {
 		all = true,
@@ -26378,8 +26404,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å‡Œå†¬ä¸‰",
-	name = "å‡Œå†¬ä¸‰",
+	shortAlias = "Áè¶¬Èı",
+	name = "Áè¶¬Èı",
 	iconid = 7130,
 	tarkungfus = {
 		all = true,
@@ -26424,7 +26450,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å•¸å½±",
+	name = "Ğ¥Ó°",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -26433,7 +26459,7 @@
 	ignoreId = false,
 	iconid = 9553,
 },
--- éœ¸åˆ€
+-- °Ôµ¶
 {
 	enable = true,
 	rgbLongAlias = {
@@ -26503,7 +26529,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "é€é¹¿",
+	name = "ÖğÂ¹",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -26552,7 +26578,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ¾çƒŸ",
+	name = "ËÉÑÌ",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -26597,7 +26623,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "ç¢æ±Ÿå¤©",
+	name = "Ëé½­Ìì",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -26642,8 +26668,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "å•¸å’",
+	shortAlias = "Ë²·¢",
+	name = "Ğ¥ß¸",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -26688,7 +26714,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "é£éª¨",
+	name = "·ç¹Ç",
 	soundAppear = {},
 	tarkungfus = {
 		all = true,
@@ -26697,7 +26723,7 @@
 	ignoreId = false,
 	iconid = 8635,
 },
--- è“¬è±
+-- ÅîÀ³
 {
 	enable = true,
 	rgbLongAlias = {
@@ -26732,8 +26758,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç§»é€Ÿ",
-	name = "æŒ¯ç¿…",
+	shortAlias = "ÒÆËÙ",
+	name = "Õñ³á",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -26770,7 +26796,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ— æ¶¯",
+	name = "ÎŞÑÄ",
 	soundAppear = {},
 	tarkungfus = {},
 	rHideOthers = false,
@@ -26781,7 +26807,7 @@
 	},
 	uuid = "FC2F785CA5BF4AE3BFF362AA3779325A",
 },
--- å‡Œé›ªé˜
+-- ÁèÑ©¸ó
 {
 	enable = true,
 	ignoreId = false,
@@ -26829,8 +26855,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç§»é€Ÿ",
-	name = "çª¥æœˆ",
+	shortAlias = "ÒÆËÙ",
+	name = "¿úÔÂ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -26884,8 +26910,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ¨ªäº‘",
-	name = "æ¨ªäº‘æ„",
+	shortAlias = "ºáÔÆ",
+	name = "ºáÔÆÒâ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -26939,8 +26965,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ¨ªäº‘",
-	name = "æ¨ªäº‘æ„",
+	shortAlias = "ºáÔÆ",
+	name = "ºáÔÆÒâ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -26981,8 +27007,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ ‡è®°",
-	name = "é’å±±å…±æˆ‘",
+	shortAlias = "±ê¼Ç",
+	name = "ÇàÉ½¹²ÎÒ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -27023,7 +27049,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "å¯‚æ´ªè’",
+	name = "¼Åºé»Ä",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = false,
@@ -27035,7 +27061,7 @@
 	},
 	uuid = "7B809A3FF4674EA2811CF1A030C74818",
 },
--- è¡å¤©å®—
+-- ÑÜÌì×Ú
 {
 	enable = true,
 	ignoreId = false,
@@ -27066,8 +27092,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç¬å‘",
-	name = "è™é",
+	shortAlias = "Ë²·¢",
+	name = "»¢¶İ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -27108,8 +27134,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç«å¦",
-	name = "ç«ç¦»",
+	shortAlias = "»ğØÔ",
+	name = "»ğÀë",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -27150,8 +27176,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "æ°´å¦",
-	name = "æ°´å",
+	shortAlias = "Ë®ØÔ",
+	name = "Ë®¿²",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -27192,8 +27218,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "å±±å¦",
-	name = "å±±è‰®",
+	shortAlias = "É½ØÔ",
+	name = "É½ôŞ",
 	soundAppear = {},
 	tarkungfus = {},
 	rgbLongAlias = {
@@ -27238,8 +27264,8 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	shortAlias = "ç«ç¦»",
-	name = "å¦è±¡Â·ç«ç¦»",
+	shortAlias = "»ğÀë",
+	name = "ØÔÏó¡¤»ğÀë",
 	soundAppear = {},
 	tarkungfus = {},
 	ignoreId = true,
@@ -27276,7 +27302,7 @@
 	nameAlias = true,
 	soundDisappear = {},
 	rHideVoid = false,
-	name = "æ›™è‰²",
+	name = "ÊïÉ«",
 	soundAppear = {},
 	tarkungfus = {},
 	rHideOthers = false,
