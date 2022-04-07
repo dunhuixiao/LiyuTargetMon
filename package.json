@@ -4,7 +4,6 @@
   "main": "index.js",
   "repository": "git@github.com:dunhuixiao/LiyuTargetMon.git",
   "author": "dunhui.xiao",
-  "license": "MIT",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
