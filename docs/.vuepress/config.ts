@@ -18,6 +18,8 @@ export default defineUserConfig<DefaultThemeOptions>({
     repo:"https://github.com/dunhuixiao/LiyuTargetMon",
     sidebar: "auto",
     editLinkText:"编辑此页",
+    docsBranch:"master",
+    docsDir:"docs",
     lastUpdatedText: "上次更新时间",
     toggleDarkMode: "切换夜间模式",
     contributors:false,
