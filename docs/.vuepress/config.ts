@@ -14,6 +14,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   themeConfig: {
     navbar: [
       { text: "使用须知", link: "/guide/start" },
+      { text: "下载", link: "/guide/download" },
       { text: "FAQ", link: "/guide/faq" },
       { text: "更新日志", link: "/guide/change-log" }
     ],
@@ -26,7 +27,8 @@ export default defineUserConfig<DefaultThemeOptions>({
     lastUpdatedText: "上次更新时间",
     toggleDarkMode: "切换夜间模式",
     contributors:false,
-    tip:" "
+    tip:" ",
+    waring:" "
   },
   //插件
   plugins: [

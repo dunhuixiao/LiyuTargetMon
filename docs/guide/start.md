@@ -8,7 +8,11 @@ title: 使用须知
 
 监控文件内容明文，可供非盈利性质的分享、修改、二次创作，如果基于以上目的，不用寻求我的同意。
 
-如果在使用中遇到问题，可以在贴吧回复 / QQ 群私聊 / GitHub Issues描述你的问题或反馈，看到后会给你回复。请尽量不要使用贴吧私信。反馈量较大的公共问题我会整理到FAQ中。
+如果在使用中遇到问题，可以在贴吧回复 / QQ 群私聊 / [GitHub Issues]() 描述你的问题或反馈，看到后会给你回复。反馈量较大的公共问题我会整理到FAQ中。
+
+:::waring 
+请尽量不要使用贴吧私信，约等于失联。
+:::
 
 ## 使用教程
 
@@ -47,14 +51,6 @@ title: 使用须知
 227172781
 ::: 
 
-## 下载地址
-<a href="/release/v1.3.7.zip" download="【鲤鱼监控】v1.3.7.zip">直接下载</a>
-
-[百度网盘](https://pan.baidu.com/s/1bX0yR_mEEecw9jVXKhAxnw) 提取码: t9rr
-
-[阿里云盘](https://www.aliyundrive.com/s/v46QasKM5Ct)
-
-[GitHub](https://github.com/dunhuixiao/LiyuTargetMon/releases)
 
 
 
