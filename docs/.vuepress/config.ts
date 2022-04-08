@@ -9,6 +9,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   lang: "zh-CN",
   title: "鲤鱼监控",
   description: "鲤鱼监控",
+  head: [['link', { rel: 'icon', href: '/LiyuTargetMon/image/favicon.ico' }]],
   // 主题和它的配置
   theme: "@vuepress/theme-default",
   themeConfig: {

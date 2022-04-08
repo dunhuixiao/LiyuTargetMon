@@ -17,7 +17,6 @@ TODOs.md
 # VuePress temp directory
 .temp
 .cache
-.dist
 
 # # Docs dist directory
 # /vuepress
