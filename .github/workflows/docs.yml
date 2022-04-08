@@ -46,7 +46,7 @@ jobs:
       # 查看 workflow 的文档来获取更多信息
       # @see https://github.com/crazy-max/ghaction-github-pages
       - name: 构建监控静态网址
-        uses: dunhuixiao/LiyuTargetMon
+        uses: crazy-max/ghaction-github-pages@v2
 
         with:
           # 部署到 docs 分支
