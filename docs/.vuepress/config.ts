@@ -6,6 +6,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   lang: "zh-CN",
   title: "鲤鱼监控",
   description: "鲤鱼监控",
+  dest: "public",
   // 主题和它的配置
   theme: "@vuepress/theme-default",
   themeConfig: {
@@ -14,7 +15,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       { text: "FAQ", link: "/guide/faq" },
       { text: "更新日志", link: "/guide/change-log" }
     ],
-    logo: "https://vuejs.org/images/logo.png",
+    logo: null,
     repo:"https://github.com/dunhuixiao/LiyuTargetMon",
     sidebar: "auto",
     editLinkText:"编辑此页",

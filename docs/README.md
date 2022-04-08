@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: /image/homeImg.JPG
-heroImageDark: /image/homeImg.JPG
+heroImage: /image/home.jpg
+heroImageDark: /image/home.jpg
 heroAlt: null
 heroText: 鲤鱼监控
 tagline: 基于茗伊监控的配置文件
@@ -14,10 +14,10 @@ actions:
   #   type: secondary
 features:
   - title: 开箱即用
-    details: 监控基于「茗伊插件集-目标监控模块」实现，可以对于全职业重要 Buff / Debuff 进行监控。
+    details: 监控基于「茗伊插件集-目标监控模块」实现，可直接导入监控数据使用。
   - title: 简洁
-    details: Buff 加入监控的条件是足够「重要」且非「常驻」，为了能够一眼抓住重要信息，会比较克制。
+    details: Buff 「重要」且非「常驻」，风格简洁克制。
   - title: 开源
-    details: 监控文件内容明文，可供非盈利性质的分享、修改、二次创作。
+    details: 监控数据内容明文，可供非盈利性质的分享、修改、二次创作。
 footer: Copyright © 2017-2022 林峋
 ---
