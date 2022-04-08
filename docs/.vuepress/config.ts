@@ -1,8 +1,11 @@
 import { defineUserConfig } from "vuepress";
 import type { DefaultThemeOptions } from "vuepress";
 
+const base="LiyuTargetMon";
+
 export default defineUserConfig<DefaultThemeOptions>({
   // 站点配置
+  base: `/${base}/`,
   lang: "zh-CN",
   title: "鲤鱼监控",
   description: "鲤鱼监控",
