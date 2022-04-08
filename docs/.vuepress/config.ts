@@ -6,7 +6,6 @@ export default defineUserConfig<DefaultThemeOptions>({
   lang: "zh-CN",
   title: "鲤鱼监控",
   description: "鲤鱼监控",
-  dest: "public",
   // 主题和它的配置
   theme: "@vuepress/theme-default",
   themeConfig: {
