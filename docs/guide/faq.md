@@ -5,13 +5,13 @@ title: FAQ
 
 在「茗伊插件集-目标-目标监控」里进行编辑。
 
-![An image](/LiyuTargetMon/image/6.png)
+![An image](/image/6.png)
 
 ### 如果我想要添加自己单独的监控怎么办？
 
 找到你想要添加 Buff / Debuff 名称，「茗伊插件集-目标-目标监控-设置监控」中新建后调整即可。
 
-![An image](/LiyuTargetMon/image/7.png)
+![An image](/image/7.png)
 
 ### 为什么有些Buff没有加入监控？
 
