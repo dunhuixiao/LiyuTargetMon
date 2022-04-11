@@ -1,5 +1,6 @@
 ---
 title: 更新日志
+prev: /guide/faq.html
 ---
 ## 1.3.7 2021/10/28
 :::tip 

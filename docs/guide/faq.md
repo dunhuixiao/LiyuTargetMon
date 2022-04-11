@@ -1,5 +1,7 @@
 ---
 title: FAQ
+prev: /guide/download.html
+next: /guide/change-log.html
 ---
 ### 如果我不喜欢倒计时、边框风格、右键点掉Buff功能，怎么办？
 

@@ -29,7 +29,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     toggleDarkMode: "切换夜间模式",
     contributors:false,
     tip:" ",
-    waring:" "
+    warning:" "
   },
   //插件
   plugins: [
