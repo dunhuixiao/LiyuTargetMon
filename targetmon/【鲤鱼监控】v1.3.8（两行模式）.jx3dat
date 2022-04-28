@@ -23,7 +23,7 @@ return {
 		cdBar = false,
 		type = "BUFF",
 		penetrable = false,
-		caption = "°æ¿”„º‡øÿ°øµ–∑ΩBuff/Debuff-v1.3.7",
+		caption = "°æ¿”„º‡øÿ°øµ–∑ΩBuff/Debuff-v1.3.8",
 		maxLineCount = 32,
 		dragable = false,
 		cdBarUITex = "./Interface/MY/MY_!Base/image/ST_UI.UITex|7",
@@ -288,11 +288,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -304,16 +300,11 @@ return {
 				maps = {},
 				ids = {
 					[20709] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 11823,
-							},
-						},
+						levels = {},
 						ignoreLevel = true,
 						enable = true,
 						soundDisappear = {},
-						iconid = 11823,
+						iconid = 16224,
 						soundAppear = {},
 					},
 				},
@@ -324,7 +315,11 @@ return {
 				name = "ÃÏπ§º◊ ø",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				rHideOthers = false,
 				uuid = "93ED9C19F61149598871A80D9E90A0AB",
 			},
@@ -1319,7 +1314,7 @@ return {
 					0,
 				},
 				capture = false,
-				rHideOthers = false,
+				uuid = "D21157803A224DF4A54F892B5ED89EE3",
 				maps = {},
 				ids = {
 					[1913] = {
@@ -1586,70 +1581,37 @@ return {
 						iconid = 11138,
 						soundAppear = {},
 					},
-					[1922] = {
+					[6471] = {
 						levels = {
 							{
 								enable = true,
-								iconid = 3114,
+								iconid = 4935,
 							},
 							{
 								enable = true,
-								iconid = 2468,
+								iconid = 8045,
 							},
 							{
 								enable = true,
-								iconid = 4936,
+								iconid = 3115,
 							},
 							{
 								enable = true,
-								iconid = 8046,
+								iconid = 11175,
 							},
 							{
 								enable = true,
-								iconid = 11176,
+								iconid = 14400,
 							},
 							{
 								enable = true,
-								iconid = 14405,
+								iconid = -1,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 3114,
-						soundAppear = {},
-					},
-					[10192] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 8047,
-							},
-							{
-								enable = true,
-								iconid = 7761,
-							},
-							{
-								enable = true,
-								iconid = 7764,
-							},
-							{
-								enable = true,
-								iconid = 7766,
-							},
-							{
-								enable = true,
-								iconid = 11178,
-							},
-							{
-								enable = true,
-								iconid = 14415,
-							},
-						},
-						ignoreLevel = false,
-						enable = true,
-						soundDisappear = {},
-						iconid = 8047,
+						iconid = 4935,
 						soundAppear = {},
 					},
 					[1915] = {
@@ -1685,6 +1647,155 @@ return {
 						iconid = 3118,
 						soundAppear = {},
 					},
+					[21803] = {
+						levels = {
+							[6] = {
+								enable = true,
+								iconid = 15888,
+							},
+							[5] = {
+								enable = true,
+								iconid = 15886,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = -1,
+						soundAppear = {},
+					},
+					[10192] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 8047,
+							},
+							{
+								enable = true,
+								iconid = 7761,
+							},
+							{
+								enable = true,
+								iconid = 7764,
+							},
+							{
+								enable = true,
+								iconid = 7766,
+							},
+							{
+								enable = true,
+								iconid = 11178,
+							},
+							{
+								enable = true,
+								iconid = 14415,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 8047,
+						soundAppear = {},
+					},
+					[18601] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 14421,
+							},
+							{
+								enable = true,
+								iconid = 14422,
+							},
+							{
+								enable = true,
+								iconid = 14423,
+							},
+							{
+								enable = true,
+								iconid = 14424,
+							},
+							{
+								enable = true,
+								iconid = 14425,
+							},
+							{
+								enable = true,
+								iconid = 14420,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 14421,
+						soundAppear = {},
+					},
+					[4931] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 3956,
+							},
+							{
+								enable = true,
+								iconid = 3954,
+							},
+							{
+								enable = true,
+								iconid = 4931,
+							},
+							{
+								enable = true,
+								iconid = 8039,
+							},
+							{
+								enable = true,
+								iconid = 11170,
+							},
+							{
+								enable = true,
+								iconid = 14410,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 3956,
+						soundAppear = {},
+					},
+					[6466] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 4807,
+							},
+							{
+								enable = true,
+								iconid = 4825,
+							},
+							{
+								enable = true,
+								iconid = 4922,
+							},
+							{
+								enable = true,
+								iconid = 8030,
+							},
+							{
+								enable = true,
+								iconid = 11159,
+							},
+							{
+								enable = true,
+								iconid = 14412,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 4807,
+						soundAppear = {},
+					},
 					[3488] = {
 						levels = {
 							{
@@ -1716,72 +1827,6 @@ return {
 						enable = true,
 						soundDisappear = {},
 						iconid = 3280,
-						soundAppear = {},
-					},
-					[10193] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 8048,
-							},
-							{
-								enable = true,
-								iconid = 7762,
-							},
-							{
-								enable = true,
-								iconid = 7763,
-							},
-							{
-								enable = true,
-								iconid = 7765,
-							},
-							{
-								enable = true,
-								iconid = 11177,
-							},
-							{
-								enable = true,
-								iconid = 14416,
-							},
-						},
-						ignoreLevel = false,
-						enable = true,
-						soundDisappear = {},
-						iconid = 8048,
-						soundAppear = {},
-					},
-					[12769] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 2737,
-							},
-							{
-								enable = true,
-								iconid = 3122,
-							},
-							{
-								enable = true,
-								iconid = 4923,
-							},
-							{
-								enable = true,
-								iconid = 8031,
-							},
-							{
-								enable = true,
-								iconid = 11161,
-							},
-							{
-								enable = true,
-								iconid = 14407,
-							},
-						},
-						ignoreLevel = false,
-						enable = true,
-						soundDisappear = {},
-						iconid = 2737,
 						soundAppear = {},
 					},
 					[4930] = {
@@ -1817,66 +1862,132 @@ return {
 						iconid = 3955,
 						soundAppear = {},
 					},
-					[6471] = {
+					[12769] = {
 						levels = {
 							{
 								enable = true,
-								iconid = 4935,
+								iconid = 2737,
 							},
 							{
 								enable = true,
-								iconid = 8045,
+								iconid = 3122,
 							},
 							{
 								enable = true,
-								iconid = 3115,
+								iconid = 4923,
 							},
 							{
 								enable = true,
-								iconid = 11175,
+								iconid = 8031,
 							},
 							{
 								enable = true,
-								iconid = 14400,
+								iconid = 11161,
+							},
+							{
+								enable = true,
+								iconid = 14407,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 4935,
+						iconid = 2737,
 						soundAppear = {},
 					},
-					[4931] = {
+					[18511] = {
 						levels = {
 							{
 								enable = true,
-								iconid = 3956,
+								iconid = 3116,
 							},
 							{
 								enable = true,
-								iconid = 3954,
+								iconid = 2464,
 							},
 							{
 								enable = true,
-								iconid = 4931,
+								iconid = 4918,
 							},
 							{
 								enable = true,
-								iconid = 8039,
+								iconid = 8026,
 							},
 							{
 								enable = true,
-								iconid = 11170,
+								iconid = 11156,
 							},
 							{
 								enable = true,
-								iconid = 14410,
+								iconid = 14401,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 3956,
+						iconid = 3116,
+						soundAppear = {},
+					},
+					[1917] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 3116,
+							},
+							{
+								enable = true,
+								iconid = 2464,
+							},
+							{
+								enable = true,
+								iconid = 4918,
+							},
+							{
+								enable = true,
+								iconid = 8026,
+							},
+							{
+								enable = true,
+								iconid = 11156,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 3116,
+						soundAppear = {},
+					},
+					[11376] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 8829,
+							},
+							{
+								enable = true,
+								iconid = 8830,
+							},
+							{
+								enable = true,
+								iconid = 8831,
+							},
+							{
+								enable = true,
+								iconid = 8832,
+							},
+							{
+								enable = true,
+								iconid = 11179,
+							},
+							{
+								enable = true,
+								iconid = 14417,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 8829,
 						soundAppear = {},
 					},
 					[16482] = {
@@ -1969,37 +2080,37 @@ return {
 						iconid = 6406,
 						soundAppear = {},
 					},
-					[6466] = {
+					[10193] = {
 						levels = {
 							{
 								enable = true,
-								iconid = 4807,
+								iconid = 8048,
 							},
 							{
 								enable = true,
-								iconid = 4825,
+								iconid = 7762,
 							},
 							{
 								enable = true,
-								iconid = 4922,
+								iconid = 7763,
 							},
 							{
 								enable = true,
-								iconid = 8030,
+								iconid = 7765,
 							},
 							{
 								enable = true,
-								iconid = 11159,
+								iconid = 11177,
 							},
 							{
 								enable = true,
-								iconid = 14412,
+								iconid = 14416,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 4807,
+						iconid = 8048,
 						soundAppear = {},
 					},
 					[12768] = {
@@ -2027,37 +2138,21 @@ return {
 						iconid = 4919,
 						soundAppear = {},
 					},
-					[1917] = {
+					[21796] = {
 						levels = {
-							{
+							[6] = {
 								enable = true,
-								iconid = 3116,
+								iconid = 15887,
 							},
-							{
+							[5] = {
 								enable = true,
-								iconid = 2464,
-							},
-							{
-								enable = true,
-								iconid = 4918,
-							},
-							{
-								enable = true,
-								iconid = 8026,
-							},
-							{
-								enable = true,
-								iconid = 11156,
-							},
-							{
-								enable = true,
-								iconid = -1,
+								iconid = 15885,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 3116,
+						iconid = -1,
 						soundAppear = {},
 					},
 					[1911] = {
@@ -2126,37 +2221,37 @@ return {
 						iconid = 3110,
 						soundAppear = {},
 					},
-					[11376] = {
+					[1922] = {
 						levels = {
 							{
 								enable = true,
-								iconid = 8829,
+								iconid = 3114,
 							},
 							{
 								enable = true,
-								iconid = 8830,
+								iconid = 2468,
 							},
 							{
 								enable = true,
-								iconid = 8831,
+								iconid = 4936,
 							},
 							{
 								enable = true,
-								iconid = 8832,
+								iconid = 8046,
 							},
 							{
 								enable = true,
-								iconid = 11179,
+								iconid = 11176,
 							},
 							{
 								enable = true,
-								iconid = 14417,
+								iconid = 14405,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 8829,
+						iconid = 3114,
 						soundAppear = {},
 					},
 				},
@@ -2167,7 +2262,7 @@ return {
 				name = "≥»Œ‰",
 				tarkungfus = {},
 				soundAppear = {},
-				uuid = "D21157803A224DF4A54F892B5ED89EE3",
+				rHideOthers = false,
 				rgbLongAlias = {
 					255,
 					255,
@@ -2883,7 +2978,7 @@ return {
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "ƒÃ±¨",
+				shortAlias = "Œ¸ ’÷Œ¡∆",
 				name = "◊‘ø‡",
 				soundAppear = {},
 				tarkungfus = {},
@@ -2929,7 +3024,7 @@ return {
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "ƒÃ±¨",
+				shortAlias = "Œ¸ ’÷Œ¡∆",
 				name = "ø›ƒæ",
 				soundAppear = {},
 				tarkungfus = {},
@@ -2940,6 +3035,89 @@ return {
 					0,
 				},
 				uuid = "D829C827F03F4721B5DEC7B19E73B85E",
+			},
+			{
+				enable = true,
+				ignoreId = true,
+				kungfus = {},
+				rgbShortAlias = {
+					255,
+					255,
+					0,
+				},
+				capture = false,
+				iconid = 15764,
+				maps = {},
+				ids = {
+					[20719] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 15764,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 15764,
+						soundAppear = {},
+					},
+				},
+				nameAlias = true,
+				soundDisappear = {},
+				rHideVoid = false,
+				name = "µ¥ΩÛ",
+				soundAppear = {},
+				tarkungfus = {},
+				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
+				uuid = "AB3101680B0C4B5287F7CBCFDF0ED4C3",
+			},
+			{
+				enable = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
+				kungfus = {},
+				rgbShortAlias = {
+					255,
+					255,
+					0,
+				},
+				capture = true,
+				iconid = 15419,
+				maps = {},
+				ids = {
+					[20188] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 15419,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 15419,
+						soundAppear = {},
+					},
+				},
+				nameAlias = true,
+				soundDisappear = {},
+				rHideVoid = false,
+				shortAlias = "Œ¸ ’÷Œ¡∆",
+				name = "◊œ“∂≥¡‚",
+				soundAppear = {},
+				tarkungfus = {},
+				ignoreId = false,
+				rHideOthers = false,
+				uuid = "BEE97DAA4EE44A31BF5B1F48BE0E0ADF",
 			},
 			{
 				enable = true,
@@ -3957,6 +4135,48 @@ return {
 				ignoreId = false,
 				iconid = 2925,
 				rHideOthers = false,
+			},
+			{
+				enable = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
+				kungfus = {},
+				rgbShortAlias = {
+					255,
+					255,
+					0,
+				},
+				capture = true,
+				iconid = 7511,
+				maps = {},
+				ids = {
+					[22676] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 7511,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 7511,
+						soundAppear = {},
+					},
+				},
+				nameAlias = true,
+				soundDisappear = {},
+				rHideVoid = false,
+				shortAlias = "—£‘Œ",
+				name = "Ω£≥ˆ∫Ë√…",
+				soundAppear = {},
+				tarkungfus = {},
+				ignoreId = false,
+				rHideOthers = false,
+				uuid = "DD6B69D6F5F342369D8BEB1874CEA953",
 			},
 			{
 				enable = true,
@@ -11331,11 +11551,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
@@ -11348,8 +11564,12 @@ return {
 				rHideOthers = false,
 				maps = {},
 				ids = {
-					[5754] = {
+					[16403] = {
 						levels = {
+							{
+								enable = true,
+								iconid = 4532,
+							},
 							{
 								enable = true,
 								iconid = 4532,
@@ -11359,6 +11579,31 @@ return {
 						enable = true,
 						soundDisappear = {},
 						iconid = 4532,
+						soundAppear = {},
+					},
+					[5754] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 4532,
+							},
+							{
+								enable = true,
+								iconid = 4532,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 4532,
+						soundAppear = {},
+					},
+					[4672] = {
+						levels = {},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 2037,
 						soundAppear = {},
 					},
 				},
@@ -11371,7 +11616,11 @@ return {
 				tarkungfus = {
 					all = true,
 				},
-				ignoreId = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "000001F872CF6940",
 				iconid = 4532,
 			},
@@ -21559,11 +21808,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
@@ -21738,6 +21983,10 @@ return {
 								enable = true,
 								iconid = 14113,
 							},
+							[43] = {
+								enable = true,
+								iconid = 15407,
+							},
 						},
 						ignoreLevel = false,
 						enable = true,
@@ -21776,7 +22025,11 @@ return {
 				tarkungfus = {
 					all = true,
 				},
-				ignoreId = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				iconid = 1445,
 				uuid = "000001F86964D850",
 			},
@@ -25103,52 +25356,6 @@ return {
 					0,
 				},
 				iconid = 1440,
-			},
-			{
-				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
-				kungfus = {
-					[10015] = false,
-					all = true,
-				},
-				soundAppear = {},
-				capture = true,
-				iconid = 2925,
-				maps = {},
-				ids = {
-					[13056] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 2925,
-							},
-						},
-						ignoreLevel = true,
-						enable = true,
-						soundDisappear = {},
-						iconid = 2925,
-						soundAppear = {},
-					},
-				},
-				nameAlias = true,
-				soundDisappear = {},
-				rHideVoid = false,
-				name = "ÀÊŒÔ",
-				uuid = "000001A3360D5640",
-				tarkungfus = {
-					all = true,
-				},
-				rHideOthers = false,
-				ignoreId = true,
-				rgbShortAlias = {
-					255,
-					255,
-					0,
-				},
 			},
 			{
 				enable = true,
@@ -29663,47 +29870,6 @@ return {
 			},
 			{
 				enable = true,
-				ignoreId = true,
-				kungfus = {},
-				rgbShortAlias = {
-					255,
-					255,
-					0,
-				},
-				capture = false,
-				iconid = 15764,
-				maps = {},
-				ids = {
-					[20719] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 15764,
-							},
-						},
-						ignoreLevel = true,
-						enable = true,
-						soundDisappear = {},
-						iconid = 15764,
-						soundAppear = {},
-					},
-				},
-				nameAlias = true,
-				soundDisappear = {},
-				rHideVoid = false,
-				name = "µ¥ΩÛ",
-				soundAppear = {},
-				tarkungfus = {},
-				rHideOthers = false,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
-				uuid = "AB3101680B0C4B5287F7CBCFDF0ED4C3",
-			},
-			{
-				enable = true,
 				rgbLongAlias = {
 					255,
 					255,
@@ -29770,7 +29936,7 @@ return {
 		cdBar = false,
 		type = "BUFF",
 		penetrable = false,
-		caption = "°æ¿”„º‡øÿ°ø◊‘…ÌBuff/Debuff-v1.3.7",
+		caption = "°æ¿”„º‡øÿ°ø◊‘…ÌBuff/Debuff-v1.3.8",
 		maxLineCount = 32,
 		dragable = false,
 		cdBarUITex = "./Interface/MY/MY_!Base/image/ST_UI.UITex|7",
@@ -30035,11 +30201,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -30051,16 +30213,11 @@ return {
 				maps = {},
 				ids = {
 					[20709] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 11823,
-							},
-						},
+						levels = {},
 						ignoreLevel = true,
 						enable = true,
 						soundDisappear = {},
-						iconid = 11823,
+						iconid = 16224,
 						soundAppear = {},
 					},
 				},
@@ -30071,7 +30228,11 @@ return {
 				name = "ÃÏπ§º◊ ø",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				rHideOthers = false,
 				uuid = "93ED9C19F61149598871A80D9E90A0AB",
 			},
@@ -31066,7 +31227,7 @@ return {
 					0,
 				},
 				capture = false,
-				rHideOthers = false,
+				uuid = "D21157803A224DF4A54F892B5ED89EE3",
 				maps = {},
 				ids = {
 					[1913] = {
@@ -31333,70 +31494,37 @@ return {
 						iconid = 11138,
 						soundAppear = {},
 					},
-					[1922] = {
+					[6471] = {
 						levels = {
 							{
 								enable = true,
-								iconid = 3114,
+								iconid = 4935,
 							},
 							{
 								enable = true,
-								iconid = 2468,
+								iconid = 8045,
 							},
 							{
 								enable = true,
-								iconid = 4936,
+								iconid = 3115,
 							},
 							{
 								enable = true,
-								iconid = 8046,
+								iconid = 11175,
 							},
 							{
 								enable = true,
-								iconid = 11176,
+								iconid = 14400,
 							},
 							{
 								enable = true,
-								iconid = 14405,
+								iconid = -1,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 3114,
-						soundAppear = {},
-					},
-					[10192] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 8047,
-							},
-							{
-								enable = true,
-								iconid = 7761,
-							},
-							{
-								enable = true,
-								iconid = 7764,
-							},
-							{
-								enable = true,
-								iconid = 7766,
-							},
-							{
-								enable = true,
-								iconid = 11178,
-							},
-							{
-								enable = true,
-								iconid = 14415,
-							},
-						},
-						ignoreLevel = false,
-						enable = true,
-						soundDisappear = {},
-						iconid = 8047,
+						iconid = 4935,
 						soundAppear = {},
 					},
 					[1915] = {
@@ -31432,6 +31560,155 @@ return {
 						iconid = 3118,
 						soundAppear = {},
 					},
+					[21803] = {
+						levels = {
+							[6] = {
+								enable = true,
+								iconid = 15888,
+							},
+							[5] = {
+								enable = true,
+								iconid = 15886,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = -1,
+						soundAppear = {},
+					},
+					[10192] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 8047,
+							},
+							{
+								enable = true,
+								iconid = 7761,
+							},
+							{
+								enable = true,
+								iconid = 7764,
+							},
+							{
+								enable = true,
+								iconid = 7766,
+							},
+							{
+								enable = true,
+								iconid = 11178,
+							},
+							{
+								enable = true,
+								iconid = 14415,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 8047,
+						soundAppear = {},
+					},
+					[18601] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 14421,
+							},
+							{
+								enable = true,
+								iconid = 14422,
+							},
+							{
+								enable = true,
+								iconid = 14423,
+							},
+							{
+								enable = true,
+								iconid = 14424,
+							},
+							{
+								enable = true,
+								iconid = 14425,
+							},
+							{
+								enable = true,
+								iconid = 14420,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 14421,
+						soundAppear = {},
+					},
+					[4931] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 3956,
+							},
+							{
+								enable = true,
+								iconid = 3954,
+							},
+							{
+								enable = true,
+								iconid = 4931,
+							},
+							{
+								enable = true,
+								iconid = 8039,
+							},
+							{
+								enable = true,
+								iconid = 11170,
+							},
+							{
+								enable = true,
+								iconid = 14410,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 3956,
+						soundAppear = {},
+					},
+					[6466] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 4807,
+							},
+							{
+								enable = true,
+								iconid = 4825,
+							},
+							{
+								enable = true,
+								iconid = 4922,
+							},
+							{
+								enable = true,
+								iconid = 8030,
+							},
+							{
+								enable = true,
+								iconid = 11159,
+							},
+							{
+								enable = true,
+								iconid = 14412,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 4807,
+						soundAppear = {},
+					},
 					[3488] = {
 						levels = {
 							{
@@ -31463,72 +31740,6 @@ return {
 						enable = true,
 						soundDisappear = {},
 						iconid = 3280,
-						soundAppear = {},
-					},
-					[10193] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 8048,
-							},
-							{
-								enable = true,
-								iconid = 7762,
-							},
-							{
-								enable = true,
-								iconid = 7763,
-							},
-							{
-								enable = true,
-								iconid = 7765,
-							},
-							{
-								enable = true,
-								iconid = 11177,
-							},
-							{
-								enable = true,
-								iconid = 14416,
-							},
-						},
-						ignoreLevel = false,
-						enable = true,
-						soundDisappear = {},
-						iconid = 8048,
-						soundAppear = {},
-					},
-					[12769] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 2737,
-							},
-							{
-								enable = true,
-								iconid = 3122,
-							},
-							{
-								enable = true,
-								iconid = 4923,
-							},
-							{
-								enable = true,
-								iconid = 8031,
-							},
-							{
-								enable = true,
-								iconid = 11161,
-							},
-							{
-								enable = true,
-								iconid = 14407,
-							},
-						},
-						ignoreLevel = false,
-						enable = true,
-						soundDisappear = {},
-						iconid = 2737,
 						soundAppear = {},
 					},
 					[4930] = {
@@ -31564,66 +31775,132 @@ return {
 						iconid = 3955,
 						soundAppear = {},
 					},
-					[6471] = {
+					[12769] = {
 						levels = {
 							{
 								enable = true,
-								iconid = 4935,
+								iconid = 2737,
 							},
 							{
 								enable = true,
-								iconid = 8045,
+								iconid = 3122,
 							},
 							{
 								enable = true,
-								iconid = 3115,
+								iconid = 4923,
 							},
 							{
 								enable = true,
-								iconid = 11175,
+								iconid = 8031,
 							},
 							{
 								enable = true,
-								iconid = 14400,
+								iconid = 11161,
+							},
+							{
+								enable = true,
+								iconid = 14407,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 4935,
+						iconid = 2737,
 						soundAppear = {},
 					},
-					[4931] = {
+					[18511] = {
 						levels = {
 							{
 								enable = true,
-								iconid = 3956,
+								iconid = 3116,
 							},
 							{
 								enable = true,
-								iconid = 3954,
+								iconid = 2464,
 							},
 							{
 								enable = true,
-								iconid = 4931,
+								iconid = 4918,
 							},
 							{
 								enable = true,
-								iconid = 8039,
+								iconid = 8026,
 							},
 							{
 								enable = true,
-								iconid = 11170,
+								iconid = 11156,
 							},
 							{
 								enable = true,
-								iconid = 14410,
+								iconid = 14401,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 3956,
+						iconid = 3116,
+						soundAppear = {},
+					},
+					[1917] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 3116,
+							},
+							{
+								enable = true,
+								iconid = 2464,
+							},
+							{
+								enable = true,
+								iconid = 4918,
+							},
+							{
+								enable = true,
+								iconid = 8026,
+							},
+							{
+								enable = true,
+								iconid = 11156,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 3116,
+						soundAppear = {},
+					},
+					[11376] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 8829,
+							},
+							{
+								enable = true,
+								iconid = 8830,
+							},
+							{
+								enable = true,
+								iconid = 8831,
+							},
+							{
+								enable = true,
+								iconid = 8832,
+							},
+							{
+								enable = true,
+								iconid = 11179,
+							},
+							{
+								enable = true,
+								iconid = 14417,
+							},
+						},
+						ignoreLevel = false,
+						enable = true,
+						soundDisappear = {},
+						iconid = 8829,
 						soundAppear = {},
 					},
 					[16482] = {
@@ -31716,37 +31993,37 @@ return {
 						iconid = 6406,
 						soundAppear = {},
 					},
-					[6466] = {
+					[10193] = {
 						levels = {
 							{
 								enable = true,
-								iconid = 4807,
+								iconid = 8048,
 							},
 							{
 								enable = true,
-								iconid = 4825,
+								iconid = 7762,
 							},
 							{
 								enable = true,
-								iconid = 4922,
+								iconid = 7763,
 							},
 							{
 								enable = true,
-								iconid = 8030,
+								iconid = 7765,
 							},
 							{
 								enable = true,
-								iconid = 11159,
+								iconid = 11177,
 							},
 							{
 								enable = true,
-								iconid = 14412,
+								iconid = 14416,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 4807,
+						iconid = 8048,
 						soundAppear = {},
 					},
 					[12768] = {
@@ -31774,37 +32051,21 @@ return {
 						iconid = 4919,
 						soundAppear = {},
 					},
-					[1917] = {
+					[21796] = {
 						levels = {
-							{
+							[6] = {
 								enable = true,
-								iconid = 3116,
+								iconid = 15887,
 							},
-							{
+							[5] = {
 								enable = true,
-								iconid = 2464,
-							},
-							{
-								enable = true,
-								iconid = 4918,
-							},
-							{
-								enable = true,
-								iconid = 8026,
-							},
-							{
-								enable = true,
-								iconid = 11156,
-							},
-							{
-								enable = true,
-								iconid = -1,
+								iconid = 15885,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 3116,
+						iconid = -1,
 						soundAppear = {},
 					},
 					[1911] = {
@@ -31873,37 +32134,37 @@ return {
 						iconid = 3110,
 						soundAppear = {},
 					},
-					[11376] = {
+					[1922] = {
 						levels = {
 							{
 								enable = true,
-								iconid = 8829,
+								iconid = 3114,
 							},
 							{
 								enable = true,
-								iconid = 8830,
+								iconid = 2468,
 							},
 							{
 								enable = true,
-								iconid = 8831,
+								iconid = 4936,
 							},
 							{
 								enable = true,
-								iconid = 8832,
+								iconid = 8046,
 							},
 							{
 								enable = true,
-								iconid = 11179,
+								iconid = 11176,
 							},
 							{
 								enable = true,
-								iconid = 14417,
+								iconid = 14405,
 							},
 						},
 						ignoreLevel = false,
 						enable = true,
 						soundDisappear = {},
-						iconid = 8829,
+						iconid = 3114,
 						soundAppear = {},
 					},
 				},
@@ -31914,7 +32175,7 @@ return {
 				name = "≥»Œ‰",
 				tarkungfus = {},
 				soundAppear = {},
-				uuid = "D21157803A224DF4A54F892B5ED89EE3",
+				rHideOthers = false,
 				rgbLongAlias = {
 					255,
 					255,
@@ -32630,7 +32891,7 @@ return {
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "ƒÃ±¨",
+				shortAlias = "Œ¸ ’÷Œ¡∆",
 				name = "◊‘ø‡",
 				soundAppear = {},
 				tarkungfus = {},
@@ -32676,7 +32937,7 @@ return {
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
-				shortAlias = "ƒÃ±¨",
+				shortAlias = "Œ¸ ’÷Œ¡∆",
 				name = "ø›ƒæ",
 				soundAppear = {},
 				tarkungfus = {},
@@ -32687,6 +32948,89 @@ return {
 					0,
 				},
 				uuid = "D829C827F03F4721B5DEC7B19E73B85E",
+			},
+			{
+				enable = true,
+				ignoreId = true,
+				kungfus = {},
+				rgbShortAlias = {
+					255,
+					255,
+					0,
+				},
+				capture = false,
+				iconid = 15764,
+				maps = {},
+				ids = {
+					[20719] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 15764,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 15764,
+						soundAppear = {},
+					},
+				},
+				nameAlias = true,
+				soundDisappear = {},
+				rHideVoid = false,
+				name = "µ¥ΩÛ",
+				soundAppear = {},
+				tarkungfus = {},
+				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
+				uuid = "AB3101680B0C4B5287F7CBCFDF0ED4C3",
+			},
+			{
+				enable = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
+				kungfus = {},
+				rgbShortAlias = {
+					255,
+					255,
+					0,
+				},
+				capture = true,
+				iconid = 15419,
+				maps = {},
+				ids = {
+					[20188] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 15419,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 15419,
+						soundAppear = {},
+					},
+				},
+				nameAlias = true,
+				soundDisappear = {},
+				rHideVoid = false,
+				shortAlias = "Œ¸ ’÷Œ¡∆",
+				name = "◊œ“∂≥¡‚",
+				soundAppear = {},
+				tarkungfus = {},
+				ignoreId = false,
+				rHideOthers = false,
+				uuid = "BEE97DAA4EE44A31BF5B1F48BE0E0ADF",
 			},
 			{
 				enable = true,
@@ -33704,6 +34048,48 @@ return {
 				ignoreId = false,
 				iconid = 2925,
 				rHideOthers = false,
+			},
+			{
+				enable = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
+				kungfus = {},
+				rgbShortAlias = {
+					255,
+					255,
+					0,
+				},
+				capture = true,
+				iconid = 7511,
+				maps = {},
+				ids = {
+					[22676] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 7511,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 7511,
+						soundAppear = {},
+					},
+				},
+				nameAlias = true,
+				soundDisappear = {},
+				rHideVoid = false,
+				shortAlias = "—£‘Œ",
+				name = "Ω£≥ˆ∫Ë√…",
+				soundAppear = {},
+				tarkungfus = {},
+				ignoreId = false,
+				rHideOthers = false,
+				uuid = "DD6B69D6F5F342369D8BEB1874CEA953",
 			},
 			{
 				enable = true,
@@ -41078,11 +41464,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
@@ -41095,8 +41477,12 @@ return {
 				rHideOthers = false,
 				maps = {},
 				ids = {
-					[5754] = {
+					[16403] = {
 						levels = {
+							{
+								enable = true,
+								iconid = 4532,
+							},
 							{
 								enable = true,
 								iconid = 4532,
@@ -41106,6 +41492,31 @@ return {
 						enable = true,
 						soundDisappear = {},
 						iconid = 4532,
+						soundAppear = {},
+					},
+					[5754] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 4532,
+							},
+							{
+								enable = true,
+								iconid = 4532,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 4532,
+						soundAppear = {},
+					},
+					[4672] = {
+						levels = {},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 2037,
 						soundAppear = {},
 					},
 				},
@@ -41118,7 +41529,11 @@ return {
 				tarkungfus = {
 					all = true,
 				},
-				ignoreId = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "000001F872CF6940",
 				iconid = 4532,
 			},
@@ -50262,7 +50677,7 @@ return {
 			},
 			{
 				enable = true,
-				ignoreId = true,
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -50270,17 +50685,27 @@ return {
 					0,
 				},
 				capture = true,
-				rHideOthers = false,
+				iconid = 16204,
 				maps = {},
-				ids = {},
+				ids = {
+					[21293] = {
+						levels = {},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 16204,
+						soundAppear = {},
+					},
+				},
 				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
 				shortAlias = "±¨∑¢",
 				name = "»’‘¬ªﬁ",
-				tarkungfus = {},
 				soundAppear = {},
+				tarkungfus = {},
 				uuid = "82E35EC2542648AD8356C8CB5D5B32FC",
+				rHideOthers = false,
 				rgbLongAlias = {
 					255,
 					255,
@@ -51347,11 +51772,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
@@ -51526,6 +51947,10 @@ return {
 								enable = true,
 								iconid = 14113,
 							},
+							[43] = {
+								enable = true,
+								iconid = 15407,
+							},
 						},
 						ignoreLevel = false,
 						enable = true,
@@ -51564,7 +51989,11 @@ return {
 				tarkungfus = {
 					all = true,
 				},
-				ignoreId = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				iconid = 1445,
 				uuid = "000001F86964D850",
 			},
@@ -54891,52 +55320,6 @@ return {
 					0,
 				},
 				iconid = 1440,
-			},
-			{
-				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
-				kungfus = {
-					[10015] = false,
-					all = true,
-				},
-				soundAppear = {},
-				capture = true,
-				iconid = 2925,
-				maps = {},
-				ids = {
-					[13056] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 2925,
-							},
-						},
-						ignoreLevel = true,
-						enable = true,
-						soundDisappear = {},
-						iconid = 2925,
-						soundAppear = {},
-					},
-				},
-				nameAlias = true,
-				soundDisappear = {},
-				rHideVoid = false,
-				name = "ÀÊŒÔ",
-				uuid = "000001A3360D5640",
-				tarkungfus = {
-					all = true,
-				},
-				rHideOthers = false,
-				ignoreId = true,
-				rgbShortAlias = {
-					255,
-					255,
-					0,
-				},
 			},
 			{
 				enable = true,
@@ -59448,47 +59831,6 @@ return {
 					0,
 				},
 				uuid = "94FD81EF99A14FB5A31216FF036B3149",
-			},
-			{
-				enable = true,
-				ignoreId = true,
-				kungfus = {},
-				rgbShortAlias = {
-					255,
-					255,
-					0,
-				},
-				capture = false,
-				iconid = 15764,
-				maps = {},
-				ids = {
-					[20719] = {
-						levels = {
-							{
-								enable = true,
-								iconid = 15764,
-							},
-						},
-						ignoreLevel = true,
-						enable = true,
-						soundDisappear = {},
-						iconid = 15764,
-						soundAppear = {},
-					},
-				},
-				nameAlias = true,
-				soundDisappear = {},
-				rHideVoid = false,
-				name = "µ¥ΩÛ",
-				soundAppear = {},
-				tarkungfus = {},
-				rHideOthers = false,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
-				uuid = "AB3101680B0C4B5287F7CBCFDF0ED4C3",
 			},
 			{
 				enable = true,
