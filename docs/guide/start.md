@@ -46,7 +46,7 @@ next: /guide/download.html
 [历史版本贴吧链接3](https://tieba.baidu.com/p/6323130138?pn=1)
 
 
-## 更新通知QQ群
+## 企鹅群
 
 ::: tip
 227172781
