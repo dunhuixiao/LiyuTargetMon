@@ -12,7 +12,7 @@ next: /guide/faq.html
 
 ## 其他下载
 
-[百度网盘](https://pan.baidu.com/s/1bX0yR_mEEecw9jVXKhAxnw) 提取码: `t9rr`
+[百度网盘](https://pan.baidu.com/s/104sxppnft5gB4f9PivKLLA?pwd=e4rz)
 
 [阿里云盘](https://www.aliyundrive.com/s/v46QasKM5Ct)
 
