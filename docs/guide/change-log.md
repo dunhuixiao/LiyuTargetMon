@@ -2,7 +2,7 @@
 title: 更新日志
 prev: /guide/faq.html
 ---
-## 1.3.8 2022/05/07
+## 1.3.8 2022/04/30
 :::tip
 * 其他
 	* 新增110级橙武 Buff 显示
@@ -11,29 +11,41 @@ prev: /guide/faq.html
 	* 新增剑出鸿蒙 DeBuff
 * 万花
 	* 修复天工甲士 Buff 显示
-* 少林
-	* 
+	* 新增挥毫墨意 Buff
+	* 新增兰瑾 Buff
+	* 新增墨意 DeBuff
 * 七秀
+	* 新增低昂 Buff
+	* 新增倩风 DeBuff
+	* 新增霜疾 Debuff
+	* 新增绰态 Debuff
 * 天策
 	* 删除驰骋 Buff
 * 藏剑
+	* 新增云台 Buff
 * 五毒
+	* 新增忘攸蛊 Buff
+	* 新增蚕引 Buff
+	* 新增忘攸蛊·束骨 Debuff
 * 唐门
+	* 修改诡面埋伏 Debuff 显示
+	* 新增窥影 Buff
+	* 新增凝形逐踪 Debuff
 * 明教
 	* 修复日月晦 Buff 显示
 * 丐帮
 	* 修复霸体 Buff 显示
+	* 新增城复于隍 Buff
+	* 新增仁德 Buff
 * 苍云
-* 长歌
-* 霸刀
-* 蓬莱
-* 凌雪阁
-* 衍天宗
+	* 修改穷战 Buff 别名为免推拉
+	* 新增怯战 Debuff
 * 北天药宗
     * 修改奶爆别名为吸收治疗
 	* 荡襟 Buff 提高优先级
 	* 添加封轻功 Debuff
 	* 新增紫叶沉疴 Debuff
+	* 新增且待时休 Debuff
 :::
 
 ## 1.3.7 2021/10/28

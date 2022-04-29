@@ -9,9 +9,6 @@ actions:
   - text: 快速上手
     link: /guide/start
     type: primary
-  # - text: 项目简介
-  #   link: /guide/
-  #   type: secondary
 features:
   - title: 开箱即用
     details: 监控基于「茗伊插件集-目标监控模块」实现，可直接导入监控数据使用。
