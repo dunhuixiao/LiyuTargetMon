@@ -8,7 +8,7 @@ next: /guide/faq.html
 
 <a href="/LiyuTargetMon/targetmon/【鲤鱼监控】v1.3.8（两行模式）.jx3dat" download="【鲤鱼监控】v1.3.8（两行模式）.jx3dat">两行模式</a>
 
-<a href="/LiyuTargetMon/targetmon/【鲤鱼监控】白云监控.jx3dat" download="【鲤鱼监控】白云监控.jx3dat">白云监控</a>
+<a href="/LiyuTargetMon/targetmon/【鲤鱼监控】v1.3.8（白云监控）.jx3dat" download="【鲤鱼监控】v1.3.8（白云监控）.jx3dat">白云监控</a>
 
 ## 其他下载
 
