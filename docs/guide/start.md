@@ -9,15 +9,15 @@ next: /guide/download.html
 
 监控文件内容明文，可供非盈利性质的分享、修改、二次创作，如果基于以上目的，不用寻求我的同意。
 
-如果在使用中遇到问题，可以在[贴吧回复](https://tieba.baidu.com/p/6470946492?see_lz=1) / [GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) / QQ 群私聊描述你的问题或反馈，看到后会给你回复。反馈量较大的公共问题我会整理到FAQ中。
+如果在使用中遇到问题，可以在[贴吧回复](https://tieba.baidu.com/p/6470946492?see_lz=1) / [GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) / QQ 群私聊描述你的问题或反馈，看到后会给你回复。反馈量较大的公共问题我会整理到 [FAQ](faq.md) 中。
 
-::: warning 
+::: warning
 请尽量不要使用贴吧私信，约等于失联。
 :::
 
 ## 使用教程
 
-下载获取最新的压缩包，解压后可获得三个文件，分别是README、更新日志、监控文件。
+下载获取最新的压缩包，解压后可获得的文件分别是 监控文件二行版本、监控文件四行版本、文档 HTML 超链接。
 
 在游戏中打开「茗伊插件集-目标-目标监控」，点击导入，选取其中后缀为 `.jx3dat` 的监控文件。
 
@@ -37,22 +37,16 @@ next: /guide/download.html
 
 ## 贴吧链接
 
-[目前版本贴吧链接](https://tieba.baidu.com/p/6470946492?see_lz=1)
+[当前贴吧链接](https://tieba.baidu.com/p/6470946492?see_lz=1)
 
-[历史版本贴吧连接1](https://tieba.baidu.com/p/5464592160?see_lz=1)
+[历史贴吧连接 1](https://tieba.baidu.com/p/5464592160?see_lz=1)
 
-[历史版本贴吧连接2](https://tieba.baidu.com/p/5314050246?see_lz=1)
- 
-[历史版本贴吧链接3](https://tieba.baidu.com/p/6323130138?pn=1)
+[历史贴吧连接 2](https://tieba.baidu.com/p/5314050246?see_lz=1)
 
+[历史贴吧链接 3](https://tieba.baidu.com/p/6323130138?pn=1)
 
 ## 企鹅群
 
 ::: tip
 227172781
-::: 
-
-
-
-
- 
+:::
