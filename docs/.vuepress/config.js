@@ -1,12 +1,9 @@
-import { defineUserConfig } from "vuepress";
-import { defaultTheme } from "@vuepress/theme-default";
-import { searchPlugin } from "@vuepress/plugin-search";
+const { searchPlugin } = require("@vuepress/plugin-search");
+const { defaultTheme } = require("vuepress");
 
-const base = "LiyuTargetMon";
-
-export default defineUserConfig({
+module.exports = {
   // 站点配置
-  base: `/${base}/`,
+  base: `/LiyuTargetMon/`,
   lang: "zh-CN",
   title: "鲤鱼监控",
   description: "鲤鱼监控",
@@ -44,4 +41,4 @@ export default defineUserConfig({
       isSearchable: (page) => page.path !== "/",
     }),
   ],
-});
+};
