@@ -7,7 +7,19 @@ module.exports = {
   lang: "zh-CN",
   title: "鲤鱼监控",
   description: "鲤鱼监控",
-  head: [["link", { rel: "icon", href: "/LiyuTargetMon/image/favicon.ico" }]],
+  head: [
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "https://cdn.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
+      },
+    ],
+    [
+      "script",
+      { type: "text/javascript", src: "/js/jsdelivr-auto-fallback/index.min.js" },
+    ],
+  ],
   // 主题和它的配置
   //theme: "@vuepress/theme-default",
   theme: defaultTheme({
