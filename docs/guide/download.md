@@ -14,7 +14,7 @@ next: /guide/faq.html
 
 ## 其他下载
 
-[百度网盘](https://pan.baidu.com/s/104sxppnft5gB4f9PivKLLA?pwd=e4rz)
+[百度网盘](https://pan.baidu.com/s/1hSyngY6mqXcMS_bRytiVSw?pwd=zzdc)
 
 [阿里云盘](https://www.aliyundrive.com/s/v46QasKM5Ct)
 
