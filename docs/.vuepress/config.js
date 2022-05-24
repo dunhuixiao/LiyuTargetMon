@@ -17,7 +17,10 @@ module.exports = {
     ],
     [
       "script",
-      { type: "text/javascript", src: "/js/jsdelivr-auto-fallback/index.min.js" },
+      {
+        type: "text/javascript",
+        src: "/js/jsdelivr-auto-fallback/index.min.js",
+      },
     ],
   ],
   // 主题和它的配置
