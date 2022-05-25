@@ -19,7 +19,7 @@ module.exports = {
       "script",
       {
         type: "text/javascript",
-        src: "/js/jsdelivr-auto-fallback/index.min.js",
+        src: "/js/jsdelivr-auto-fallback/index.js",
       },
     ],
   ],
@@ -32,7 +32,7 @@ module.exports = {
       { text: "FAQ", link: "/guide/faq" },
       { text: "更新日志", link: "/guide/change-log" },
     ],
-    logo: null,
+    logo: "https://cdn.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
     repo: "https://github.com/dunhuixiao/LiyuTargetMon",
     sidebar: "auto",
     editLinkText: "编辑此页",
