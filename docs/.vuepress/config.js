@@ -19,7 +19,7 @@ module.exports = {
       "script",
       {
         type: "text/javascript",
-        src: "/js/jsdelivr-auto-fallback/index.js",
+        src: "/LiyuTargetMon/js/jsdelivr-auto-fallback/index.js",
       },
     ],
   ],
