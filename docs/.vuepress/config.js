@@ -1,9 +1,11 @@
 const { searchPlugin } = require("@vuepress/plugin-search");
 const { defaultTheme } = require("vuepress");
 
+const basePath = "LiyuTargetMon";
+
 module.exports = {
   // 站点配置
-  base: `/LiyuTargetMon/`,
+  base: `/${basePath}/`,
   lang: "zh-CN",
   title: "鲤鱼监控",
   description: "鲤鱼监控",
@@ -19,7 +21,7 @@ module.exports = {
       "script",
       {
         type: "text/javascript",
-        src: "/LiyuTargetMon/js/jsdelivr-auto-fallback/index.js",
+        src: `/${basePath}/js/jsdelivr-auto-fallback/index.js`,
       },
     ],
   ],
