@@ -14,7 +14,7 @@ module.exports = {
       "link",
       {
         rel: "icon",
-        href: "https://cdn.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
+        href: "https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
       },
     ],
     [
@@ -34,7 +34,7 @@ module.exports = {
       { text: "FAQ", link: "/guide/faq" },
       { text: "更新日志", link: "/guide/change-log" },
     ],
-    logo: "https://cdn.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
+    logo: "https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
     repo: "https://github.com/dunhuixiao/LiyuTargetMon",
     sidebar: "auto",
     editLinkText: "编辑此页",

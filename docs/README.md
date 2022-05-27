@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: https://cdn.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs//image/home.jpg
-heroImageDark: https://cdn.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs//image/home.jpg
+heroImage: https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs//image/home.jpg
+heroImageDark: https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs//image/home.jpg
 heroAlt: null
 heroText: 鲤鱼监控
 tagline: 基于茗伊监控的配置文件
