@@ -17,13 +17,13 @@ module.exports = {
         href: "https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
       },
     ],
-    [
-      "script",
-      {
-        type: "text/javascript",
-        src: `/${basePath}/js/jsdelivr-auto-fallback/index.js`,
-      },
-    ],
+    // [
+    //   "script",
+    //   {
+    //     type: "text/javascript",
+    //     src: `/${basePath}/js/jsdelivr-auto-fallback/index.js`,
+    //   },
+    // ],
   ],
   // 主题和它的配置
   //theme: "@vuepress/theme-default",
