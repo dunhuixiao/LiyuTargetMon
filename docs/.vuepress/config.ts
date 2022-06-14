@@ -10,6 +10,15 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "鲤鱼监控",
   description: "鲤鱼监控",
+  head: [
+    [
+      "link",
+      {
+        rel: "icon",
+        href: "https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
+      },
+    ],
+  ],
   // 主题和它的配置
   theme: theme,
   //插件
