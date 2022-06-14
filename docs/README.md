@@ -1,20 +1,53 @@
 ---
 home: true
-heroImage: https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs//image/home.jpg
-heroImageDark: https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs//image/home.jpg
-heroAlt: null
+heroImage: https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/home.jpg
 heroText: 鲤鱼监控
 tagline: 基于茗伊监控的配置文件
-actions: 
-  - text: 快速上手
+actions:
+  - text: 快速上手 🍻
     link: /guide/start
     type: primary
+
 features:
   - title: 开箱即用
+    icon: launch
     details: 监控基于「茗伊插件集-目标监控模块」实现，可直接导入监控数据使用。
+
   - title: 简洁
+    icon: number
     details: Buff「重要」且「非常驻」，风格简洁、克制。
+
   - title: 开源
+    icon: github
     details: 监控数据内容明文，可供非盈利性质的分享、修改、二次创作。
-footer: Copyright © 2017-2022 林峋
 ---
+
+## 关于
+
+监控基于「茗伊插件集 - 目标监控模块」实现，可以对于全职业重要 Buff / Debuff 进行监控。
+
+监控文件内容明文，可供非盈利性质的分享、修改、二次创作，如果基于以上目的，不用寻求我的同意。
+
+如果在使用中遇到问题，可以在[贴吧回复](https://tieba.baidu.com/p/6470946492?see_lz=1) / [GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) / QQ 群私聊描述你的问题或反馈，看到后会给你回复。
+
+反馈量较大的公共问题我会整理到 [FAQ](faq.md) 中。
+
+鲤鱼监控感谢你的使用。
+
+::: warning
+请尽量不要使用贴吧私信，约等于失联。
+:::
+
+## 贴吧链接
+
+[当前贴吧链接](https://tieba.baidu.com/p/6470946492?see_lz=1)
+
+[历史贴吧连接 1](https://tieba.baidu.com/p/5464592160?see_lz=1)
+
+[历史贴吧连接 2](https://tieba.baidu.com/p/5314050246?see_lz=1)
+
+[历史贴吧链接 3](https://tieba.baidu.com/p/6323130138?pn=1)
+
+## 通知 QQ 群
+
+[点击加入](https://jq.qq.com/?_wv=1027&k=jmw5fLpn)（群号：227172781）
