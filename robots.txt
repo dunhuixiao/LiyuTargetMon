@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://dunhuixiao.github.io/LiyuTargetMon/LiyuTargetMon/sitemap.xml
