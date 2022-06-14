@@ -1,57 +1,44 @@
-name: docs
+name: 部署文档
 
 on:
-  # 每当 push 到 master 分支时触发部署
   push:
-    branches: [master]
-  # 手动触发部署
-  workflow_dispatch:
+    branches:
+      # 确保这是你正在使用的分支名称
+      - master
 
 jobs:
-  docs:
+  deploy-gh-pages:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
-          # “最近更新时间” 等 git 日志相关信息，需要拉取全部提交记录
           fetch-depth: 0
+          # 如果你文档需要 Git 子模块，取消注释下一行
+          # submodules: true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
+
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v3
         with:
-          # 选择要使用的 node 版本
-          node-version: "14"
+          node-version: 16
+          cache: yarn
 
-      # 缓存 node_modules
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        id: yarn-cache
+      - name: 安装依赖
+        run: yarn install --frozen-lockfile
+
+      - name: 构建文档
+        env:
+          NODE_OPTIONS: --max_old_space_size=4096
+        run: yarn run docs:build
+
+      - name: 部署文档
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          path: |
-            **/node_modules
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-yarn-
-      # 如果缓存没有命中，安装依赖
-      - name: Install dependencies
-        if: steps.yarn-cache.outputs.cache-hit != 'true'
-        run: yarn --frozen-lockfile
-
-      # 运行构建脚本
-      - name: Build VuePress site
-        run: yarn docs:build
-
-      # 查看 workflow 的文档来获取更多信息
-      # @see https://github.com/crazy-max/ghaction-github-pages
-      - name: 构建监控静态网址
-        uses: crazy-max/ghaction-github-pages@v2
-
-        with:
-          # 部署到 docs 分支
-          target_branch: docs
-          # 部署目录为 VuePress 的默认输出目录
-          build_dir: docs/.vuepress/dist
+          # 这是文档部署到的分支名称
+          branch: docs
+          folder: docs/.vuepress/dist
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
