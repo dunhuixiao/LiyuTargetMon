@@ -1,5 +1,5 @@
 ---
-title: FAQ 📄
+title: FAQ ✨
 prev: /guide/download.html
 next: /guide/change-log.html
 ---

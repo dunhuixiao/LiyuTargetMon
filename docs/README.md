@@ -38,6 +38,10 @@ features:
 请尽量不要使用贴吧私信，约等于失联。
 :::
 
+## 通知 QQ 群
+
+[点击加入](https://jq.qq.com/?_wv=1027&k=jmw5fLpn)（群号：227172781）
+
 ## 贴吧链接
 
 [当前贴吧链接](https://tieba.baidu.com/p/6470946492?see_lz=1)
@@ -47,7 +51,3 @@ features:
 [历史贴吧连接 2](https://tieba.baidu.com/p/5314050246?see_lz=1)
 
 [历史贴吧链接 3](https://tieba.baidu.com/p/6323130138?pn=1)
-
-## 通知 QQ 群
-
-[点击加入](https://jq.qq.com/?_wv=1027&k=jmw5fLpn)（群号：227172781）

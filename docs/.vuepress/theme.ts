@@ -11,8 +11,8 @@ export default hopeTheme({
   navbar: [
     { text: "使用教程 💡", link: "/guide/start" },
     { text: "下载 🐣", link: "/guide/download" },
-    { text: "FAQ 📄", link: "/guide/faq" },
-    { text: "更新日志 ✨", link: "/guide/change-log" },
+    { text: "FAQ ✨", link: "/guide/faq" },
+    { text: "更新日志 📄", link: "/guide/change-log" },
   ],
   sidebar: [],
   copyright: false,
