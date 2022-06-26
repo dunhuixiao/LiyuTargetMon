@@ -42,11 +42,11 @@ export default hopeTheme({
       /**
        * Using Giscus
        */
-      // provider: "Giscus",
-      // repo: "vuepress-theme-hope/giscus-discussions",
-      // repoId: "R_kgDOG_Pt2A",
-      // category: "Announcements",
-      // categoryId: "DIC_kwDOG_Pt2M4COD69",
+      provider: "Giscus",
+      repo: "dunhuixiao/LiyuTargetMon",
+      repoId: "MDEwOlJlcG9zaXRvcnkyMTkyMDM5ODE=",
+      category: "Announcements",
+      categoryId: "DIC_kwDODRDJjc4CP4oR",
       /**
        * Using Twikoo
        */
