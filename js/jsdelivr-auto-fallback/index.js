@@ -4,8 +4,8 @@
     let failed;
     let isRunning;
     const DEST_LIST = [
-      'fastly.jsdelivr.net',
-      'fastly.jsdelivr.net',
+      'gcore.jsdelivr.net',
+      'gcore.jsdelivr.net',
       'gcore.jsdelivr.net',
       'testingcf.jsdelivr.net',
       'test1.jsdelivr.net'
