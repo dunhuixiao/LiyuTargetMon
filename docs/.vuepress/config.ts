@@ -15,7 +15,7 @@ export default defineUserConfig({
       "link",
       {
         rel: "icon",
-        href: "https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
+        href: "https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
       },
     ],
   ],

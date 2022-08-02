@@ -8,13 +8,13 @@ next: /guide/change-log.html
 
 在「茗伊插件集-目标-目标监控」里进行编辑。
 
-![An image](https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/6.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/6.png)
 
 ### 如果我想要添加自己单独的监控怎么办？
 
 找到你想要添加 Buff / Debuff 名称，「茗伊插件集-目标-目标监控-设置监控」中新建后调整即可。
 
-![An image](https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/7.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/7.png)
 
 ### 为什么有些 Buff 没有加入监控？
 
@@ -38,17 +38,17 @@ Buff 加入监控的条件是足够「重要」且非「常驻」，为了整个
 
 [下载](download.md)中额外提供了只监控白云的监控文件，监控范围仅保留了特殊技能、沉默、缴械、减伤、爆发、封内，可以跟正常的 Buff 监控一起导入。
 
-![An image](https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/20220430030348.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/20220430030348.png)
 
 该监控默认监控白云，如果你需要监控小剑、斧头或是其他标记，请打开文件修改 uuid 保存后导入，再修改监控目标。
 
-![An image](https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/20220430030600.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/20220430030600.png)
 
-![An image](https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/20220430030751.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/20220430030751.png)
 
 默认显示位置在此处，如果修改导入了多个白云监控会重叠在一起，请自行拖拽到你习惯的位置。
 
-![An image](https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/20220430030945.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/20220430030945.png)
 
 ### 我该怎么调整技能 Buff 显示的顺序？
 

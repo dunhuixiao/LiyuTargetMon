@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/home.jpg
+heroImage: https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/home.jpg
 heroText: 鲤鱼监控
 tagline: 基于茗伊监控的配置文件
 actions:

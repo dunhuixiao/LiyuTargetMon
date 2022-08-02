@@ -4,7 +4,7 @@ export default hopeTheme({
   hostname: "https://dunhuixiao.github.io/LiyuTargetMon/",
   author: "Cookie🥭",
   iconAssets: "iconfont",
-  logo: "https://fastly.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
+  logo: "https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
   repo: "https://github.com/dunhuixiao/LiyuTargetMon",
   docsDir: "docs",
   docsBranch: "master",
