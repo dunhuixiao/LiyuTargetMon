@@ -2,6 +2,90 @@
 title: 更新日志 ✨
 prev: /guide/faq.html
 ---
+## 1.4.0 2022/10/30
+:::tip
+* 其他
+	* 更新至“横刀断浪”资料片
+	* 新增 120 级橙武 Buff 显示
+	* 修改所有吸收治疗 Buff / Debuff 的别名为吸疗
+* 纯阳
+	* 新增剑斩列星 Debuff
+	* 新增万象剑阵 Debuff
+	* 新增拘形 Debuff
+	* 新增镇形 Debuff
+* 万花
+	* 新增丹青 Debuff
+	* 新增坐隐 Buff
+	* 修改行气血 Buff 别名为瞬发
+	* 新增落墨 Buff
+* 天策
+	* 修复流血 Debuff 显示
+	* 新增临阵 Buff
+	* 新增铁骑 Buff
+	* 新增挥金镝 Buff
+	* 新增引金镝 Debuff
+* 少林
+	* 修复无执 Buff 显示
+	* 修复心诤 Buff 显示
+	* 新增断诛邪见 Debuff
+* 七秀
+	* 修改月出 Buff 别名为免封内
+	* 新增江海凝波剑 Buff
+	* 新增韶景 Buff
+	* 新增芳尘 Debuff
+* 藏剑
+	* 新增碎刃 Debuff
+	* 新增劫刃 Buff
+	* 修复霞流 Debuff 显示
+	* 新增云熙 Debuff
+	* 新增惊雷 Debuff
+* 五毒
+	* 修改蝎蛰 Debuff 别名为降调息
+	* 新增驭虫 Buff
+	* 新增奇术 Debuff
+	* 新增蛇悉 Buff
+	* 新增展屏 Buff
+	* 新增庇佑 Buff
+* 明教
+	* 新增清净心 Buff
+	* 新增霜月 Debuff
+* 丐帮
+	* 修改仁德 Buff 别名为无敌
+	* 新增酣畅淋漓·醉 Buff
+	* 修改豪饮·酒中仙 Buff 别名为温酒
+	* 新增龙醒 Buff
+* 苍云
+	* 修复流血 Debuff 显示
+	* 新增血誓 Debuff
+	* 修改盾壁 Buff 别名为化解
+	* 新增锋寒 Debuff
+* 长歌
+	* 新增莲魄 Buff
+	* 新增不复鼓 Buff
+* 霸刀
+	* 新增余声 Debuff
+	* 新增扬刀激尘 Buff
+* 蓬莱
+	* 新增冥意 Debuff
+	* 新增怒翼 Buff
+* 凌雪阁
+	* 新增荒狱 Debuff
+	* 新增罚罪狱 Debuff
+	* 修改链魂 Debuff 别名为封轻功
+* 衍天宗
+	* 修复神占·水坎 Buff 图标
+	* 修复神占·山艮 Debuff 图标
+	* 新增灼痕 Debuff
+* 北天药宗
+	* 新增生地 Debuff
+	* 新增肃羽 Buff
+	* 修改并蒂夺株·寒 Debuff 别名为降调息
+	* 新增绿涤 Buff
+	* 新增绿涤 Debuff
+* 刀宗
+	* 初始化刀宗 Buff / Debuff 监控
+:::
+
 ## 1.3.9 2022/05/24
 ::: tip
 * 蓬莱
