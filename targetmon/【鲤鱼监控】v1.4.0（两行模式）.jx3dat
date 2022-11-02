@@ -3041,7 +3041,6 @@ return {
 				uuid = "F6A16250DF4F4919908A01082E1E6CD0",
 				iconid = 13371,
 			},
-			
 			{
 				enable = true,
 				rgbLongAlias = {
@@ -15030,6 +15029,48 @@ return {
 				ignoreId = true,
 				rHideOthers = false,
 				uuid = "D04BD9133B524DA29E385E96114DD34B",
+			},
+			{
+				enable = true,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
+				kungfus = {},
+				rgbShortAlias = {
+					255,
+					255,
+					0,
+				},
+				capture = true,
+				iconid = 17578,
+				maps = {},
+				ids = {
+					[24184] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 17578,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 17578,
+						soundAppear = {},
+					},
+				},
+				nameAlias = true,
+				soundDisappear = {},
+				rHideVoid = false,
+				shortAlias = "Ãâ¿Ø",
+				name = "³Û·ç°Ë²½",
+				soundAppear = {},
+				tarkungfus = {},
+				ignoreId = false,
+				rHideOthers = false,
+				uuid = "11081D66F36945869A095860868924DB",
 			},
 			{
 				enable = true,
@@ -36537,8 +36578,7 @@ return {
 				},
 				uuid = "F6A16250DF4F4919908A01082E1E6CD0",
 				iconid = 13371,
-			},
-			
+			},		
 			{
 				enable = true,
 				rgbLongAlias = {
