@@ -20393,7 +20393,6 @@ return {
 				uuid = "F6A16250DF4F4919908A01082E1E6CD0",
 				iconid = 13371,
 			},
-			
 			{
 				enable = true,
 				rgbLongAlias = {
@@ -54128,7 +54127,6 @@ return {
 				uuid = "F6A16250DF4F4919908A01082E1E6CD0",
 				iconid = 13371,
 			},
-			
 			{
 				enable = true,
 				rgbLongAlias = {
