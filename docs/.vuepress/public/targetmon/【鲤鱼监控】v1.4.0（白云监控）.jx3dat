@@ -3045,7 +3045,6 @@ return {
 				iconid = 13371,
 				rHideOthers = false,
 			},
-			
 			{
 				enable = true,
 				rgbLongAlias = {

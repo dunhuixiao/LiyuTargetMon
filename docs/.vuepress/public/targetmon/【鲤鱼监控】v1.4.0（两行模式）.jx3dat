@@ -33465,6 +33465,142 @@ return {
 				iconid = 17574,
 				maps = {},
 				ids = {
+					[839] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 648,
+							},
+							[11] = {
+								enable = true,
+								iconid = 648,
+							},
+							[7] = {
+								enable = true,
+								iconid = 648,
+							},
+							[9] = {
+								enable = true,
+								iconid = 648,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 648,
+						soundAppear = {},
+					},
+					[19317] = {
+						levels = {
+							[30] = {
+								enable = true,
+								iconid = 647,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 647,
+						soundAppear = {},
+					},
+					[18365] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 2021,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 2021,
+						soundAppear = {},
+					},
+					[8249] = {
+						levels = {
+							[22] = {
+								enable = true,
+								iconid = 6323,
+							},
+							[50] = {
+								enable = true,
+								iconid = 6323,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 6323,
+						soundAppear = {},
+					},
+					[5174] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 18,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 18,
+						soundAppear = {},
+					},
+					[13689] = {
+						levels = {
+							[2] = {
+								enable = true,
+								iconid = 3436,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 3436,
+						soundAppear = {},
+					},
+					[12461] = {
+						levels = {
+							[29] = {
+								enable = true,
+								iconid = 647,
+							},
+							[30] = {
+								enable = true,
+								iconid = 647,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 647,
+						soundAppear = {},
+					},
+					[3442] = {
+						levels = {
+							[30] = {
+								enable = true,
+								iconid = 647,
+							},
+							[13] = {
+								enable = true,
+								iconid = 647,
+							},
+							[29] = {
+								enable = true,
+								iconid = 647,
+							},
+							[15] = {
+								enable = true,
+								iconid = 647,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 647,
+						soundAppear = {},
+					},
 					[24132] = {
 						levels = {
 							[17] = {
@@ -67014,6 +67150,142 @@ return {
 				iconid = 17574,
 				maps = {},
 				ids = {
+					[839] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 648,
+							},
+							[11] = {
+								enable = true,
+								iconid = 648,
+							},
+							[7] = {
+								enable = true,
+								iconid = 648,
+							},
+							[9] = {
+								enable = true,
+								iconid = 648,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 648,
+						soundAppear = {},
+					},
+					[19317] = {
+						levels = {
+							[30] = {
+								enable = true,
+								iconid = 647,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 647,
+						soundAppear = {},
+					},
+					[18365] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 2021,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 2021,
+						soundAppear = {},
+					},
+					[8249] = {
+						levels = {
+							[22] = {
+								enable = true,
+								iconid = 6323,
+							},
+							[50] = {
+								enable = true,
+								iconid = 6323,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 6323,
+						soundAppear = {},
+					},
+					[5174] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 18,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 18,
+						soundAppear = {},
+					},
+					[13689] = {
+						levels = {
+							[2] = {
+								enable = true,
+								iconid = 3436,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 3436,
+						soundAppear = {},
+					},
+					[12461] = {
+						levels = {
+							[29] = {
+								enable = true,
+								iconid = 647,
+							},
+							[30] = {
+								enable = true,
+								iconid = 647,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 647,
+						soundAppear = {},
+					},
+					[3442] = {
+						levels = {
+							[30] = {
+								enable = true,
+								iconid = 647,
+							},
+							[13] = {
+								enable = true,
+								iconid = 647,
+							},
+							[29] = {
+								enable = true,
+								iconid = 647,
+							},
+							[15] = {
+								enable = true,
+								iconid = 647,
+							},
+						},
+						ignoreLevel = true,
+						enable = false,
+						soundDisappear = {},
+						iconid = 647,
+						soundAppear = {},
+					},
 					[24132] = {
 						levels = {
 							[17] = {
