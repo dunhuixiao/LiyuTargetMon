@@ -50,7 +50,7 @@ features:
 
 [点击加入](https://jq.qq.com/?_wv=1027&k=jmw5fLpn)（1 群群号：227172781）
 
-[点击加入](https://jq.qq.com/?_wv=1027&k=l1xUlwNw)（2 群群号：156735975）
+<!-- [点击加入](https://jq.qq.com/?_wv=1027&k=l1xUlwNw)（2 群群号：156735975） -->
 
 ## 贴吧链接
 
