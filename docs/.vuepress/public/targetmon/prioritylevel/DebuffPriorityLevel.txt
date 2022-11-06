@@ -1830,7 +1830,7 @@
 				},
 				{
 					enable = true,
-					iconid = 5963,
+					iconid = 2373,
 				},
 				{
 					enable = true,
