@@ -16,6 +16,8 @@ next: /guide/change-log.html
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/7.png)
 
+右键该条监控，可以修改别名、颜色、位置等信息。
+
 ### 为什么有些 Buff 没有加入监控？
 
 Buff 加入监控的条件是足够「重要」且非「常驻」，为了整个监控的风格趋于简洁，能够一眼抓住重要信息，会比较克制。
