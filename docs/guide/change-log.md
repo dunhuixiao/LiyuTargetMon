@@ -2,6 +2,11 @@
 title: 更新日志 ✨
 prev: /guide/faq.html
 ---
+## 1.4.2 pre
+:::tip
+* 苍云
+	* 修复流血 Buff 显示
+:::
 ## 1.4.1 2022/11/7
 :::tip
 * 藏剑
