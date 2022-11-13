@@ -15,6 +15,8 @@ next: /guide/download.html
 
 两行模式监控栏从上往下分别是敌方 Buff / Debuff、自身 Buff / Debuff，均为白框显示。
 
+白云监控为只监控白云标记的监控文件，监控范围仅保留了特殊技能、沉默、缴械、减伤、爆发、封内，为白框显示，可以跟两行 / 四行一起导入。
+
 可以按 Ctrl+U，将监控栏调整到自己喜欢的界面位置。
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/3.png)
