@@ -30,6 +30,8 @@ features:
 
 如果在使用中遇到问题，可以在[贴吧回复](https://tieba.baidu.com/p/6470946492?see_lz=1) / [GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) / QQ 群私聊描述你的问题或反馈，看到后会给你回复。
 
+描述问题时，请带上能复现的案例、技能名称、具体场景、当前奇穴等信息。
+
 反馈量较大的公共问题我会整理到 [FAQ](faq.md) 中。
 
 鲤鱼监控感谢你的使用。
