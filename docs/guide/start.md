@@ -11,11 +11,11 @@ next: /guide/download.html
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/2.png)
 
-四行模式监控栏从上往下分别是敌方 Buff、敌方 Debuff、自身 Buff、自身 Debuff，Buff 为白框显示，Debuff 为红框显示。
+四行模式监控栏从上往下分别是敌方 Buff、敌方 Debuff、自身 Buff、自身 Debuff。Buff 为白色边框、黄色字体显示，Debuff 为红色边框、红色字体显示。
 
-两行模式监控栏从上往下分别是敌方 Buff / Debuff、自身 Buff / Debuff，均为白框显示。
+两行模式监控栏从上往下分别是敌方 Buff / Debuff、自身 Buff / Debuff。Buff / Debuff 均为白色边框显示，Buff 为黄色字体显示，Debuff 为红色字体显示。
 
-白云监控为只监控白云标记的监控文件，监控范围仅保留了特殊技能、沉默、缴械、减伤、爆发、封内，为白框显示，可以跟两行 / 四行一起导入。
+白云监控为只监控白云标记的监控文件，监控范围仅保留了特殊技能、沉默、缴械、减伤、爆发、封内，为白色边框显示，Buff 为黄色字体显示，Debuff 为红色字体显示，可以跟两行 / 四行一起导入。
 
 可以按 Ctrl+U，将监控栏调整到自己喜欢的界面位置。
 
