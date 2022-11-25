@@ -3,38 +3,38 @@ return {
 		cdFlash = false,
 		cdBarWidth = 50,
 		hideVoid = true,
-		embedded = false,
+		enable = true,
 		boxBgUITex = "UI/Image/Common/Box.UITex|9",
 		decimalTime = 3,
+		target = "TEAM_MARK_CLOUD",
+		cdCircle = false,
+		otherFontScale = 1,
+		sort = 10000,
+		cdReadySpark = false,
 		anchor = {
 			y = -280,
 			x = 97.175212952934,
 			s = "CENTER",
 			r = "CENTER",
 		},
-		ignoreSystemUIScale = true,
 		hideOthers = false,
-		cdCircle = false,
-		cdReadySpark = false,
-		target = "TEAM_MARK_CLOUD",
-		otherFontScale = 1,
 		showTime = true,
-		scale = 1,
+		group = "",
 		draggable = false,
 		type = "BUFF",
 		cdBar = false,
 		penetrable = false,
 		maxLineCount = 32,
-		caption = "¡¾ÀðÓã¼à¿Ø¡¿°×ÔÆ¼à¿Ø-v1.4.1",
+		caption = "¡¾ÀðÓã¼à¿Ø¡¿°×ÔÆ¼à¿Ø-v1.4.2",
 		cdBarUITex = "./Interface/MY/MY_!Base/image/ST_UI.UITex|7",
 		playSound = true,
 		showName = true,
 		iconFontScale = 1,
 		alignment = "LEFT",
 		uuid = "8719F7C551C240BAA8B9DFB265524945",
-		enable = true,
-		sort = 10000,
-		group = "",
+		scale = 1,
+		ignoreSystemUIScale = true,
+		embedded = false,
 		monitors = {
 			{
 				enable = true,
@@ -1251,11 +1251,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -1263,7 +1259,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 13870,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[21095] = {
@@ -1308,9 +1304,13 @@ return {
 				name = "ÉñÕ¼¡¤Ë®¿²",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "50645D42EFBB40E8AAF4123A6FB6F050",
+				iconid = 13870,
 			},
 			{
 				enable = true,
@@ -1364,7 +1364,7 @@ return {
 					0,
 				},
 				capture = false,
-				uuid = "D21157803A224DF4A54F892B5ED89EE3",
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[1913] = {
@@ -2416,7 +2416,7 @@ return {
 				name = "³ÈÎä",
 				tarkungfus = {},
 				soundAppear = {},
-				rHideOthers = false,
+				uuid = "D21157803A224DF4A54F892B5ED89EE3",
 				rgbLongAlias = {
 					255,
 					255,
@@ -2435,8 +2435,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F87237DAF0",
@@ -2503,8 +2503,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -2552,8 +2552,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F8732BB440",
@@ -2598,8 +2598,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -2648,8 +2648,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F8992FC3F0",
@@ -2683,8 +2683,12 @@ return {
 				rHideOthers = false,
 			},
 			{
+				enable = true,
+				ignoreId = false,
+				kungfus = {},
+				soundAppear = {},
 				capture = false,
-				rHideOthers = false,
+				uuid = "567EBF2B8BC9419EBEF7CA7DEA7F63A6",
 				maps = {},
 				ids = {
 					[12336] = {
@@ -2696,26 +2700,22 @@ return {
 						soundAppear = {},
 					},
 				},
-				enable = true,
+				nameAlias = true,
 				soundDisappear = {},
 				rHideVoid = false,
+				shortAlias = "½µµ÷Ï¢",
+				name = "Ð«ÕÝ",
+				tarkungfus = {},
 				rgbLongAlias = {
 					255,
 					255,
 					0,
 				},
-				soundAppear = {},
-				ignoreId = false,
-				shortAlias = "½µµ÷Ï¢",
-				name = "Ð«ÕÝ",
-				uuid = "567EBF2B8BC9419EBEF7CA7DEA7F63A6",
-				tarkungfus = {},
-				nameAlias = true,
-				kungfus = {},
+				rHideOthers = false,
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 			},
 			{
@@ -2730,8 +2730,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F8AAB4DBE0",
@@ -2785,8 +2785,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -2828,8 +2828,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -2887,8 +2887,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "90FFA095AB6148BB9899FD7AF662DF91",
@@ -2929,8 +2929,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "13768701718640479BF8EE0821178F46",
@@ -2967,8 +2967,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
 				rHideOthers = false,
@@ -3013,8 +3013,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
 				uuid = "F6A16250DF4F4919908A01082E1E6CD0",
@@ -3047,19 +3047,15 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
-				uuid = "94FD81EF99A14FB5A31216FF036B3149",
+				iconid = 13868,
 				maps = {},
 				ids = {
 					[21027] = {
@@ -3108,9 +3104,13 @@ return {
 				name = "ÉñÕ¼¡¤É½ôÞ",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				iconid = 13868,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				rHideOthers = false,
+				uuid = "94FD81EF99A14FB5A31216FF036B3149",
 			},
 			{
 				enable = true,
@@ -3118,8 +3118,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
 				rHideOthers = false,
@@ -3160,8 +3160,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
 				iconid = 15413,
@@ -3202,8 +3202,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
 				iconid = 15422,
@@ -3252,8 +3252,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
 				rHideOthers = false,
@@ -3289,8 +3289,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -3331,8 +3331,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -3373,8 +3373,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -3415,8 +3415,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -3453,19 +3453,15 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
-				iconid = 17741,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24186] = {
@@ -3489,25 +3485,25 @@ return {
 				name = "¶ôÔÆÊÆ",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
-				uuid = "0698ADC3EAED484DA1459CB411A2C10F",
-			},
-			{
-				enable = true,
 				rgbLongAlias = {
 					255,
 					255,
 					0,
 				},
+				uuid = "0698ADC3EAED484DA1459CB411A2C10F",
+				iconid = 17741,
+			},
+			{
+				enable = true,
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
-				uuid = "9E679C7F2EA0472E95398A40E4E9B434",
+				iconid = 14101,
 				maps = {},
 				ids = {
 					[24450] = {
@@ -3539,25 +3535,25 @@ return {
 				name = "½ûïÀ",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				iconid = 14101,
-				rHideOthers = false,
-			},
-			{
-				enable = true,
 				rgbLongAlias = {
 					255,
 					255,
 					0,
 				},
+				rHideOthers = false,
+				uuid = "9E679C7F2EA0472E95398A40E4E9B434",
+			},
+			{
+				enable = true,
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
-				iconid = 13412,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24380] = {
@@ -3581,25 +3577,25 @@ return {
 				name = "·¼³¾",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
-				uuid = "6430D583110841D6BC586B0958608689",
-			},
-			{
-				enable = true,
 				rgbLongAlias = {
 					255,
 					255,
 					0,
 				},
+				uuid = "6430D583110841D6BC586B0958608689",
+				iconid = 13412,
+			},
+			{
+				enable = true,
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
-				iconid = 10760,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24200] = {
@@ -3623,25 +3619,25 @@ return {
 				name = "Ú¤Òâ",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
-				uuid = "35E2BE4F7E7E498FA0BEBB68D788D627",
-			},
-			{
-				enable = true,
 				rgbLongAlias = {
 					255,
 					255,
 					0,
 				},
+				uuid = "35E2BE4F7E7E498FA0BEBB68D788D627",
+				iconid = 10760,
+			},
+			{
+				enable = true,
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
-				iconid = 17697,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24343] = {
@@ -3665,25 +3661,25 @@ return {
 				name = "·æº®",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
-				uuid = "F0612E621C4240FC974F5013493BF2C8",
-			},
-			{
-				enable = true,
 				rgbLongAlias = {
 					255,
 					255,
 					0,
 				},
+				uuid = "F0612E621C4240FC974F5013493BF2C8",
+				iconid = 17697,
+			},
+			{
+				enable = true,
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
-				iconid = 14076,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24358] = {
@@ -3707,9 +3703,55 @@ return {
 				name = "ÔÆÎõ",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "AD6B8B23429E4FE28AFDA456AFAF0618",
+				iconid = 14076,
+			},
+			{
+				enable = true,
+				ignoreId = true,
+				kungfus = {},
+				rgbShortAlias = {
+					255,
+					31,
+					31,
+				},
+				capture = false,
+				rHideOthers = false,
+				maps = {},
+				ids = {
+					[24356] = {
+						levels = {
+							{
+								enable = true,
+								iconid = 1458,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 1458,
+						soundAppear = {},
+					},
+				},
+				nameAlias = true,
+				soundDisappear = {},
+				rHideVoid = false,
+				shortAlias = "½ûÁÆ",
+				name = "ÖØ´´",
+				soundAppear = {},
+				tarkungfus = {},
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
+				uuid = "903138D86C2E44B2B031D54B671801C2",
+				iconid = 1458,
 			},
 			{
 				enable = true,
@@ -3717,8 +3759,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -3759,8 +3801,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F85FC42540",
@@ -3805,8 +3847,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
 				rHideOthers = false,
@@ -3871,8 +3913,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -3909,21 +3951,17 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {
 					all = true,
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
-				rHideOthers = false,
+				uuid = "000001F833A40660",
 				maps = {},
 				ids = {
 					[12321] = {
@@ -3970,9 +4008,13 @@ return {
 				tarkungfus = {
 					all = true,
 				},
-				ignoreId = false,
-				uuid = "000001F833A40660",
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				iconid = 2373,
+				rHideOthers = false,
 			},
 			{
 				enable = true,
@@ -3980,8 +4022,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "1E766CC0D0874492B0B50EFC343988E1",
@@ -4028,8 +4070,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F872C18DA0",
@@ -4074,8 +4116,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F8732C2560",
@@ -4120,8 +4162,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F880C93980",
@@ -4166,8 +4208,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F81C0EEC30",
@@ -4219,8 +4261,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -4265,8 +4307,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -4303,8 +4345,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				iconid = 14149,
@@ -4345,8 +4387,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -4391,8 +4433,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "D087492EC3AD4B5A83FC343988E17222",
@@ -4429,8 +4471,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
 				rHideOthers = false,
@@ -4497,8 +4539,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -4535,19 +4577,15 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
-				iconid = 17581,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[23982] = {
@@ -4571,25 +4609,25 @@ return {
 				name = "Ï´±øÓê",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
-				uuid = "6E2C0336B7C1461989C500E93810126E",
-			},
-			{
-				enable = true,
 				rgbLongAlias = {
 					255,
 					255,
 					0,
 				},
+				uuid = "6E2C0336B7C1461989C500E93810126E",
+				iconid = 17581,
+			},
+			{
+				enable = true,
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
-				iconid = 443,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24513] = {
@@ -4613,9 +4651,13 @@ return {
 				name = "¶ÏÖïÐ°¼û",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "9A01B99DBFB143E1941FEA82A47CD1F4",
+				iconid = 443,
 			},
 			{
 				enable = true,
@@ -5368,11 +5410,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -5380,7 +5418,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 17707,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24349] = {
@@ -5404,9 +5442,13 @@ return {
 				name = "ÂäÄ«",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "BAD59E4110544D479AEA66408B416694",
+				iconid = 17707,
 			},
 			{
 				enable = true,
@@ -5707,11 +5749,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -5719,7 +5757,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 11319,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24279] = {
@@ -5743,9 +5781,13 @@ return {
 				name = "ÎÞÖ´",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "58228B5FF52B42FA844EB17A06ED503E",
+				iconid = 11319,
 			},
 			{
 				enable = true,
@@ -6434,11 +6476,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -6446,7 +6484,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 14129,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24275] = {
@@ -6470,9 +6508,13 @@ return {
 				name = "ÌúÆï",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "742AF181BD714EAA86AE3FFDC9CAB08B",
+				iconid = 14129,
 			},
 			{
 				enable = true,
@@ -7502,11 +7544,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -7514,7 +7552,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 17709,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24473] = {
@@ -7538,9 +7576,13 @@ return {
 				name = "Õ¹ÆÁ",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "D785041635E24BE49F9882BEBB68D788",
+				iconid = 17709,
 			},
 			{
 				enable = true,
@@ -8511,11 +8553,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -8523,7 +8561,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 14091,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[23047] = {
@@ -8547,9 +8585,13 @@ return {
 				name = "ÁúÐÑ",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "AC2B419E1B424433A99050EACFB7AEE9",
+				iconid = 14091,
 			},
 			{
 				enable = true,
@@ -8671,7 +8713,11 @@ return {
 			},
 			{
 				enable = true,
-				ignoreId = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				kungfus = {
 					all = true,
 				},
@@ -8681,7 +8727,7 @@ return {
 					0,
 				},
 				capture = true,
-				rHideOthers = false,
+				uuid = "000001F87240C900",
 				maps = {},
 				ids = {
 					[8279] = {
@@ -8707,13 +8753,9 @@ return {
 				tarkungfus = {
 					all = true,
 				},
-				uuid = "000001F87240C900",
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
 				iconid = 6334,
+				rHideOthers = false,
+				ignoreId = false,
 			},
 			{
 				enable = true,
@@ -9480,11 +9522,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -9492,7 +9530,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 13448,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24313] = {
@@ -9516,9 +9554,13 @@ return {
 				name = "²»¸´¹Ä",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "2FAC114A4E604B139E06ED503E96799A",
+				iconid = 13448,
 			},
 			{
 				enable = true,
@@ -10215,11 +10257,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -10227,7 +10265,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 13870,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[21095] = {
@@ -10272,9 +10310,13 @@ return {
 				name = "ÉñÕ¼¡¤Ë®¿²",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "59A42E4EF5D3451987B0C39B2402722F",
+				iconid = 13870,
 			},
 			{
 				enable = true,
@@ -10660,11 +10702,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -10672,7 +10710,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 17765,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24233] = {
@@ -10696,9 +10734,13 @@ return {
 				name = "Ê¶Òâ",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "A59394410AD24D21A848F5EC007C7DB8",
+				iconid = 17765,
 			},
 			{
 				enable = true,
@@ -10710,7 +10752,7 @@ return {
 					0,
 				},
 				capture = false,
-				uuid = "1D3EF97B7BA648E69C4765587705A64F",
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24241] = {
@@ -10729,7 +10771,7 @@ return {
 				name = "ÊÆ¾û",
 				tarkungfus = {},
 				soundAppear = {},
-				rHideOthers = false,
+				uuid = "1D3EF97B7BA648E69C4765587705A64F",
 				rgbLongAlias = {
 					255,
 					255,
@@ -10738,11 +10780,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -10750,7 +10788,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 17696,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[23897] = {
@@ -10787,9 +10825,13 @@ return {
 				name = "ÄýÔÆÊÆ",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "BF7D50F82C904FF8A4742CE4D9EF6964",
+				iconid = 17696,
 			},
 			{
 				enable = true,
@@ -12423,11 +12465,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -12435,7 +12473,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 18286,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24321] = {
@@ -12459,9 +12497,13 @@ return {
 				name = "º¨³©ÁÜÀì¡¤×í",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "BAA3B71386F741008C222D59BA002A9D",
+				iconid = 18286,
 			},
 			{
 				enable = true,
@@ -12557,11 +12599,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -12569,7 +12607,7 @@ return {
 					0,
 				},
 				capture = false,
-				iconid = 18363,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24232] = {
@@ -12593,9 +12631,13 @@ return {
 				name = "Å­Òí",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "C8F9E1DBB7D94D1D8DDD22FA051EC968",
+				iconid = 18363,
 			},
 			{
 				enable = true,
@@ -12729,11 +12771,7 @@ return {
 			},
 			{
 				enable = true,
-				rgbLongAlias = {
-					255,
-					255,
-					0,
-				},
+				ignoreId = false,
 				kungfus = {},
 				rgbShortAlias = {
 					255,
@@ -12741,7 +12779,7 @@ return {
 					0,
 				},
 				capture = true,
-				iconid = 17576,
+				rHideOthers = false,
 				maps = {},
 				ids = {
 					[24554] = {
@@ -12770,6 +12808,19 @@ return {
 						iconid = 17576,
 						soundAppear = {},
 					},
+					[24553] = {
+						levels = {
+							[4] = {
+								enable = true,
+								iconid = 17576,
+							},
+						},
+						ignoreLevel = true,
+						enable = true,
+						soundDisappear = {},
+						iconid = 17576,
+						soundAppear = {},
+					},
 				},
 				nameAlias = true,
 				soundDisappear = {},
@@ -12778,9 +12829,13 @@ return {
 				name = "ÃðÓ°×··ç",
 				soundAppear = {},
 				tarkungfus = {},
-				ignoreId = false,
-				rHideOthers = false,
+				rgbLongAlias = {
+					255,
+					255,
+					0,
+				},
 				uuid = "EFA92D4CE5B742B59111504EA986D995",
+				iconid = 17576,
 			},
 			{
 				enable = true,
@@ -12794,8 +12849,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F880C98F70",
@@ -12869,8 +12924,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F872378230",
@@ -12915,8 +12970,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F873A932D0",
@@ -12961,8 +13016,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F8AA668AC0",
@@ -13001,8 +13056,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "A4B1DA8B027E4CB09678B0F10DD77141",
@@ -13043,8 +13098,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = false,
 				rHideOthers = false,
@@ -13091,8 +13146,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F8AAB39910",
@@ -13137,8 +13192,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F873AA9C60",
@@ -13191,8 +13246,8 @@ return {
 				},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "000001F8AAB487D0",
@@ -13217,8 +13272,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -13259,8 +13314,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				rHideOthers = false,
@@ -13301,8 +13356,8 @@ return {
 				kungfus = {},
 				rgbShortAlias = {
 					255,
-					255,
-					0,
+					31,
+					31,
 				},
 				capture = true,
 				uuid = "E14372F022544B64899E7E9EA7DB331B",

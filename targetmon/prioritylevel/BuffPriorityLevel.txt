@@ -4879,7 +4879,11 @@
 -- Ã÷½Ì
 {
 	enable = true,
-	ignoreId = false,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
 	kungfus = {
 		all = true,
 	},
@@ -4933,6 +4937,14 @@
 			iconid = 3785,
 			soundAppear = {},
 		},
+		[12492] = {
+			levels = {},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 3785,
+			soundAppear = {},
+		},
 	},
 	nameAlias = true,
 	soundDisappear = {},
@@ -4943,11 +4955,7 @@
 	tarkungfus = {
 		all = true,
 	},
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
+	ignoreId = false,
 	uuid = "000001F873289450",
 	iconid = 3785,
 },
