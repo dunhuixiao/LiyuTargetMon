@@ -37,9 +37,9 @@ features:
 鲤鱼监控感谢你的使用。
 
 :::tip
-如果你愿意的话呢，可以在 GitHub 上给这个 repo 点一个 star。
+如果你愿意的话呢，可以在 GitHub 上给这个 repo 点一个 star：
 
-具体方法为：点击 [GitHub](https://github.com/dunhuixiao/LiyuTargetMon) 进入页面后，点击右上角的 star 按钮即可。
+点击 [GitHub](https://github.com/dunhuixiao/LiyuTargetMon) 进入页面后，点击右上角的 star 按钮即可。
 :::
 
 :::warning
