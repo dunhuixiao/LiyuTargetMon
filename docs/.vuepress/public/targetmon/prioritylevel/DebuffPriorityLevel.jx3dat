@@ -5067,6 +5067,48 @@
 	rHideOthers = false,
 	uuid = "BCB3725854324E0A9D127FEBA6B78A14",
 },
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		31,
+		31,
+	},
+	capture = false,
+	iconid = 17577,
+	maps = {},
+	ids = {
+		[24169] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 17577,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 17577,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "眩晕",
+	name = "游风飘踪·眩晕",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "4E404E464E4C44E4934E4E4E4E4E4E4E",
+},
 
 -- 定身
 {
@@ -6353,6 +6395,48 @@
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "19C4706A78CA47AAB996723F992B67E9",
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		31,
+		31,
+	},
+	capture = false,
+	iconid = 17577,
+	maps = {},
+	ids = {
+		[24170] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 17577,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 17577,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "定身",
+	name = "游风飘踪·定身",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "A314A31AA3204A31A8A2A2A2A2A2A2A2",
 },
 
 -- 锁足
@@ -8033,6 +8117,48 @@
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "DFF70C98CD9B49F3AC1FCEA470B5B46D",
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		31,
+		31,
+	},
+	capture = false,
+	iconid = 17577,
+	maps = {},
+	ids = {
+		[24171] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 17577,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 17577,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "锁足",
+	name = "游风飘踪·锁足",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "F9D2F9D8F9DE4F9DBDF8F8F9F9F9F9F9",
 },
 
 -- 封内
@@ -14540,5 +14666,47 @@
 		0,
 	},
 	uuid = "A5EF758ECD534AE887BD3BB7910948F2",
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		31,
+		31,
+	},
+	capture = false,
+	iconid = 17737,
+	maps = {},
+	ids = {
+		[24181] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 17737,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 17737,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "降化劲",
+	name = "雾灭",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "E596E59CE5A24E59B8E4E4E4E4E4E4E4",
 },
 },
