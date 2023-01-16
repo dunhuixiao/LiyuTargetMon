@@ -6081,7 +6081,11 @@
 },
 {
 	enable = true,
-	ignoreId = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
 	kungfus = {
 		all = true,
 	},
@@ -6090,7 +6094,7 @@
 		255,
 		0,
 	},
-	capture = true,
+	capture = false,
 	iconid = 915,
 	maps = {},
 	ids = {
@@ -6098,13 +6102,13 @@
 			levels = {
 				[2] = {
 					enable = true,
-					iconid = 915,
+					iconid = 906,
 				},
 			},
 			ignoreLevel = true,
 			enable = true,
 			soundDisappear = {},
-			iconid = 915,
+			iconid = 906,
 			soundAppear = {},
 		},
 	},
@@ -6117,11 +6121,7 @@
 	tarkungfus = {
 		all = true,
 	},
-	rgbLongAlias = {
-		255,
-		255,
-		0,
-	},
+	ignoreId = false,
 	rHideOthers = false,
 	uuid = "000001F8AA6F9DC0",
 },
