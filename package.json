@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "vuepress-plugin-comment2": "^2.0.0-beta.83",
-    "json5": "^2.2.3"
+    "json5": "^2.2.3",
+    "d3-color": "^3.1.0"
   }
 }
