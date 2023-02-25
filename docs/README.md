@@ -56,7 +56,7 @@ features:
 请尽量不要使用贴吧私信，约等于失联。
 :::
 
-## 通知反馈群
+## QQ 群
 
 [点击加入](https://jq.qq.com/?_wv=1027&k=jmw5fLpn)
 
