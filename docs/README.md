@@ -28,16 +28,18 @@ features:
 
 监控文件内容明文，可供非盈利性质的分享、修改、二次创作，如果基于以上目的，不用寻求我的同意。
 
-如果在使用中遇到问题，可以在[贴吧回复](https://tieba.baidu.com/p/6470946492?see_lz=1) / [GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) / QQ 群私聊描述你的问题或反馈，看到后会给你回复。
+如果在使用中遇到问题，可以在[贴吧回复](https://tieba.baidu.com/p/6470946492?see_lz=1) / [GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) / [QQ群](https://jq.qq.com/?_wv=1027&k=jmw5fLpn) 私聊描述你的问题或反馈，看到后会给你回复。
 
-描述问题时，请带上能复现的案例、技能名称、具体场景、当前奇穴等信息，信息越全越能准确定位。
+描述问题时，请带上能复现的案例、技能名称、具体场景、当前奇穴等信息，信息越全越能准确定位到问题并回复。
 
 反馈量较大的公共问题我会整理到 [FAQ](faq.md) 中。
 
 鲤鱼监控感谢你的使用。
 
 :::tip
-如果你愿意的话呢，可以在 GitHub 上给这个 repo 点一个 star：
+如果你愿意的话，可以在 GitHub 上给这个 repo 点一个 star。
+
+具体方式为：
 
 点击 [GitHub](https://github.com/dunhuixiao/LiyuTargetMon) 进入页面后，点击右上角的 star 按钮即可。
 :::
@@ -53,12 +55,6 @@ features:
 ::: warning
 请尽量不要使用贴吧私信，约等于失联。
 :::
-
-## 通知 QQ 群
-
-[点击加入](https://jq.qq.com/?_wv=1027&k=jmw5fLpn)（1 群群号：227172781）
-
-<!-- [点击加入](https://jq.qq.com/?_wv=1027&k=l1xUlwNw)（2 群群号：156735975） -->
 
 ## 贴吧链接
 
