@@ -2,7 +2,50 @@
 title: 更新日志 ✨
 prev: /guide/faq.html
 ---
-## 1.4.3 2023/1/2
+## 1.4.4 2023/04/29
+:::tip
+* 其他
+	* 更新至“群侠万变”资料片
+* 纯阳
+	* 新增剑入 Debuff
+	* 新增定迹 Debuff
+* 万花
+	* 新增正骨 Buff
+	* 新增局针 Buff
+	* 新增逐月 Debuff
+	* 新增轻燕 Buff
+* 七秀
+	* 修改月出 Buff 别名为免控
+* 藏剑
+	* 修改碎刃 Debuff 别名为减疗
+	* 修改飞来 Buff 别名为闪避
+* 五毒
+	* 新增娲皇赐恩 Buff
+* 唐门
+	* 新增浴血沁骨 Debuff
+* 明教
+	* 新增极本溯源 Debuff
+	* 新增悬象著明 Buff
+* 丐帮
+	* 新增对酌 Debuff
+	* 新增将进酒 Debuff
+* 苍云
+	* 新增业火焚城 Debuff
+	* 新增麟光玄甲 Buff
+	* 新增阵云 Buff
+	* 新增移山 Buff
+* 蓬莱
+	* 新增征夷 Debuff
+* 凌雪阁
+	* 新增威刑 Debuff
+* 衍天宗
+	* 新增荧惑守心 Debuff
+	* 新增流火 Debuff
+* 北天药宗
+	* 新增流银 Buff
+:::
+
+## 1.4.3 2023/01/02
 :::tip
 * 七秀
 	* 修复玉骨 Buff 显示
