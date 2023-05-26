@@ -2,6 +2,32 @@
 -- 这里是 Buff 优先级
 -- 特殊技能（无敌、假死、复活、舍身等）
 {
+	capture = false,
+	uuid = "CFB8A3BA3BD0405282117ED40907F6C7",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====特殊技能（无敌、假死、复活、舍身等）=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
+{
 	enable = true,
 	rgbLongAlias = {
 		255,
@@ -2409,6 +2435,32 @@
 			
 -- 免控
 {
+	capture = false,
+	uuid = "887AAA526DF24137A2A6DECD55F17593",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====免控=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
+{
 	enable = true,
 	rgbLongAlias = {
 		255,
@@ -4564,6 +4616,48 @@
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "BAA2B71286F641008C222D59B9002A9C",
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = true,
+	iconid = 17214,
+	maps = {},
+	ids = {
+		[24353] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 17214,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 17214,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "免控",
+	name = "寂灭蛊",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "744208900F624180BA4A1AFACF277687",
 },
 -- 唐门
 {
@@ -7678,6 +7772,32 @@
 
 
 -- 减伤（减伤、闪避、平摊、免封内、反弹、化解）
+{
+	capture = false,
+	uuid = "D5DE4E7899F248E0B170EA2DF67EF6B2",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====减伤（减伤、闪避、平摊、免封内、反弹、化解）=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
 -- 纯阳
 {
 	enable = true,
@@ -14044,6 +14164,32 @@
 },
 
 -- 爆发
+{
+	capture = false,
+	uuid = "88A6AD2A62A04280AD24B192F45B2E20",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====爆发=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
 -- 纯阳
 {
 	enable = true,
@@ -16142,6 +16288,32 @@
 },
 
 -- 其他
+{
+	capture = false,
+	uuid = "13A401C0808440649589AB1AA7DEEB44",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====其他Buff=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
 {
 	enable = true,
 	rgbLongAlias = {
