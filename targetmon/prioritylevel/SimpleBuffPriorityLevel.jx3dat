@@ -2,6 +2,32 @@
 -- 这里是简单监控，仅保留了特殊技能、沉默、缴械、减伤、爆发、封内
 -- 特殊技能（无敌、假死、复活、舍身等）
 {
+	capture = false,
+	uuid = "CFB8A3BA3BD0405282117ED40907F6C7",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====特殊技能（无敌、假死、复活、舍身等）=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
+{
 	enable = true,
 	rgbLongAlias = {
 		255,
@@ -2407,6 +2433,32 @@
 
 -- 特殊技能（决斗、禁疗等）
 {
+	capture = false,
+	uuid = "BD6AC46255A84991AA18BA11D0464EF4",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====特殊技能（决斗、禁疗等）=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
+{
 	enable = true,
 	ignoreId = false,
 	kungfus = {
@@ -3698,8 +3750,8 @@
 	enable = true,
 	rgbLongAlias = {
 		255,
-		255,
-		0,
+		31,
+		31,
 	},
 	kungfus = {},
 	rgbShortAlias = {
@@ -4035,8 +4087,160 @@
 		0,
 	},
 },
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		31,
+		31,
+	},
+	capture = true,
+	iconid = 19189,
+	maps = {},
+	ids = {
+		[26118] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 19189,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 19189,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "怀泽蛊",
+	name = "怀泽蛊",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "25A461C2AE04466B81663B47B9720D8A",
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		31,
+		31,
+	},
+	capture = true,
+	iconid = 19190,
+	maps = {},
+	ids = {
+		[25931] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 19190,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 19190,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "泽域",
+	name = "大荒泽域",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "2096DC7E01F4489D9E23C65411AFB840",
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		31,
+		31,
+	},
+	capture = true,
+	iconid = 19190,
+	maps = {},
+	ids = {
+		[25932] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 19190,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 19190,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "泽靡",
+	name = "泽靡",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "ECE2C1AAA9AA46CF89141ABEA2104D0D",
+},
 
 -- 沉默、缴械
+{
+	capture = false,
+	uuid = "86A8572225504185946E3E511E706CDB",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====沉默、缴械=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
 {
 	enable = true,
 	ignoreId = false,
@@ -4945,6 +5149,32 @@
 },
 
 -- 减伤（减伤、闪避、平摊、免封内、反弹、化解）
+{
+	capture = false,
+	uuid = "D5DE4E7899F248E0B170EA2DF67EF6B2",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====减伤（减伤、闪避、平摊、免封内、反弹、化解）=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
 -- 纯阳
 {
 	enable = true,
@@ -11353,6 +11583,32 @@
 },
 
 -- 爆发
+{
+	capture = false,
+	uuid = "88A6AD2A62A04280AD24B192F45B2E20",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====爆发=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
 -- 纯阳
 {
 	enable = true,
@@ -13451,6 +13707,32 @@
 },
 
 -- 封内
+{
+	capture = false,
+	uuid = "8522BE8620BE483488454FE64A4B5AC4",
+	maps = {},
+	ids = {},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	ignoreId = true,
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	rHideOthers = false,
+	name = "=====封内=====",
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	tarkungfus = {},
+	enable = true,
+	kungfus = {},
+	soundAppear = {},
+},
 -- 纯阳
 {
 	enable = true,
