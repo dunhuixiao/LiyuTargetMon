@@ -24720,6 +24720,91 @@
 	rHideOthers = false,
 	uuid = "DDD9C9D1C21F44AEBA428F38227671A3",
 },
+-- 北天药宗
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = false,
+	iconid = 19199,
+	maps = {},
+	ids = {
+		[26007] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 19199,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 19199,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "爆发",
+	name = "犹解倒悬",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "73FAD2144CCE4B5DA8AF70C4E129359B",
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = false,
+	iconid = 19201,
+	maps = {},
+	ids = {
+		[26006] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 19201,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 19201,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "爆发",
+	name = "香繁饮露",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "4684D91EBEE0440C9EE780EF32874143",
+},
 -- 刀宗
 {
 	enable = true,
@@ -29503,6 +29588,61 @@
 	ignoreId = false,
 	rHideOthers = false,
 	uuid = "5BA83204FC8D4FA7A58199FB8E1216FF",
+},
+{
+	enable = true,
+	rgbLongAlias = {
+		255,
+		255,
+		0,
+	},
+	kungfus = {},
+	rgbShortAlias = {
+		255,
+		255,
+		0,
+	},
+	capture = false,
+	iconid = 20067,
+	maps = {},
+	ids = {
+		[27554] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 20067,
+				},
+			},
+			ignoreLevel = true,
+			enable = false,
+			soundDisappear = {},
+			iconid = 20067,
+			soundAppear = {},
+		},
+		[27138] = {
+			levels = {
+				{
+					enable = true,
+					iconid = 18278,
+				},
+			},
+			ignoreLevel = true,
+			enable = true,
+			soundDisappear = {},
+			iconid = 18278,
+			soundAppear = {},
+		},
+	},
+	nameAlias = true,
+	soundDisappear = {},
+	rHideVoid = false,
+	shortAlias = "移速",
+	name = "剑道万象",
+	soundAppear = {},
+	tarkungfus = {},
+	ignoreId = false,
+	rHideOthers = false,
+	uuid = "427654580BF64F92B7D15075EDEAE060",
 },
 {
 	enable = true,
