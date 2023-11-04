@@ -3,7 +3,7 @@ title: 更新日志 ✨
 prev: /guide/faq.html
 ---
 
-## 1.4.6 2023/11/01
+## 1.4.6 2023/11/05
 :::tip
 * 其他
 	* 更新至“万灵当歌”资料片
@@ -21,6 +21,10 @@ prev: /guide/faq.html
 * 五毒
 	* 新增缠惑 Buff
 * 明教
+	* 新增羁影 Debuff
+	* 新增净 Buff
+	* 新增晦冥曳 Debuff
+	* 新增冥月渡心 Buff
 * 霸刀
 	* 新增心境 Debuff
 	* 新增渊冰 Debuff
@@ -31,6 +35,8 @@ prev: /guide/faq.html
 	* 新增犹解倒悬 Buff
 	* 新增香繁饮露 Buff
 * 刀宗
+	* 新增驰心 Debuff
+	* 新增连亘 Debuff
 * 万灵山庄
 	* 初始化万灵山庄 Buff / Debuff 监控
 :::
