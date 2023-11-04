@@ -11,7 +11,7 @@ actions:
 features:
   - title: 开箱即用
     icon: launch
-    details: 监控基于「茗伊插件集-目标监控模块」实现，可直接导入监控数据使用。
+    details: 监控基于「茗伊插件集 - 目标监控模块」实现，可直接导入监控数据使用。
 
   - title: 简洁
     icon: number
@@ -23,6 +23,9 @@ features:
 ---
 
 ## 关于
+:::tip
+当前版本：v1.4.6
+:::
 
 监控基于「茗伊插件集 - 目标监控模块」实现，可以对于全职业重要 Buff / Debuff 进行监控。
 
@@ -39,12 +42,16 @@ features:
 :::tip
 如果你愿意的话，可以在 GitHub 上给这个 repo 点一个 star。
 
-具体方式为：
+点击 [GitHub](https://github.com/dunhuixiao/LiyuTargetMon) 进入页面，点击右上角的 star 按钮即可。
 
-点击 [GitHub](https://github.com/dunhuixiao/LiyuTargetMon) 进入页面后，点击右上角的 star 按钮即可。
+如果你更加愿意的话，可以对鲤鱼监控提供爱心支持，你的支持可以让我更有动力持续的更新和维护。
+
+点击 [爱发电](https://afdian.net/a/cookie_mango) 赞助，请我喝一杯咖啡或者吃一顿金拱门。
 :::
 
-:::warning
+## 注意事项
+
+::: warning
 该文档地址为鲤鱼监控唯一指定下载地址，个人没有在其他任何论坛或是下载站点发布，在 [下载](download.md) 中直接下载的监控文件后缀为 `.jx3dat`，可以直接导入茗伊插件。
 
 从百度网盘、阿里云盘、GitHub 下载的压缩包，解压后应为 `.jx3dat` 后缀文件加上本文档地址超链接，没有任何 `.exe` 程序。
