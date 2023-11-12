@@ -2,6 +2,25 @@
 title: 更新日志 ✨
 prev: /guide/faq.html
 ---
+## 1.4.7 2023/11/12
+:::tip
+* 藏剑
+	* 新增剑鸣 Debuff
+	* 新增逍遥 Buff
+	* 新增冰天 Buff
+	* 新增峰聚 Buff
+	* 新增淬灵 Buff
+* 霸刀
+	* 修复擒龙 Debuff 显示
+* 万灵山庄
+	* 新增承契 Buff
+	* 新增佩弦 Buff
+	* 新增合神 Buff
+	* 新增汇灵合契时的无敌帧 Buff
+	* 新增标鹄 Debuff
+	* 新增风纵 Debuff
+	* 新增风尽 Debuff
+:::
 
 ## 1.4.6 2023/11/05
 :::tip
