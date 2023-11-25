@@ -1,4 +1,6 @@
 {
+	-- 这里是 Buff 优先级
+	-- 特殊技能（无敌、假死、复活、舍身等）
 	{
 		nStackNum = 0,
 		szUUID = "CFB8A3BA3BD0405282117ED40907F6C7-0-0",
@@ -55,6 +57,7 @@
 		bFlipHideOthers = false,
 		aSoundDisappear = {},
 	},
+	-- 纯阳
 	{
 		szNote = "镇山河",
 		bFlipHideVoid = false,
@@ -115,6 +118,7 @@
 		dwID = 377,
 		aSoundDisappear = {},
 	},
+	-- 万花
 	{
 		szNote = "南风吐月",
 		bFlipHideVoid = false,
@@ -231,6 +235,7 @@
 		dwID = 20709,
 		aSoundDisappear = {},
 	},
+	-- 少林
 	{
 		szNote = "非梵",
 		bFlipHideVoid = false,
@@ -289,6 +294,7 @@
 		dwID = 1242,
 		aSoundDisappear = {},
 	},
+	-- 七秀
 	{
 		szNote = "冥泽",
 		bFlipHideVoid = false,
@@ -318,6 +324,7 @@
 		dwID = 6182,
 		aSoundDisappear = {},
 	},
+	-- 天策
 	{
 		szNote = "啸如虎",
 		bFlipHideVoid = false,
@@ -376,6 +383,7 @@
 		dwID = 360,
 		aSoundDisappear = {},
 	},
+	-- 五毒
 	{
 		szNote = "凤凰蛊",
 		bFlipHideVoid = false,
@@ -405,6 +413,7 @@
 		dwID = 2313,
 		aSoundDisappear = {},
 	},
+	-- 唐门
 	{
 		szNote = "鬼斧神工",
 		bFlipHideVoid = false,
@@ -434,6 +443,7 @@
 		dwID = 3425,
 		aSoundDisappear = {},
 	},
+	-- 藏剑
 	{
 		szNote = "乘风",
 		bFlipHideVoid = false,
@@ -463,6 +473,7 @@
 		dwID = 27197,
 		aSoundDisappear = {},
 	},
+	-- 明教
 	{
 		szNote = "净",
 		bFlipHideVoid = false,
@@ -492,6 +503,7 @@
 		dwID = 27088,
 		aSoundDisappear = {},
 	},
+	-- 丐帮
 	{
 		szNote = "乘龙戏水",
 		bFlipHideVoid = false,
@@ -550,6 +562,7 @@
 		dwID = 23180,
 		aSoundDisappear = {},
 	},
+	-- 苍云
 	{
 		szNote = "盾立",
 		bFlipHideVoid = false,
@@ -666,6 +679,7 @@
 		dwID = 18105,
 		aSoundDisappear = {},
 	},
+	-- 长歌
 	{
 		szNote = "平沙落雁",
 		bFlipHideVoid = false,
@@ -695,6 +709,7 @@
 		dwID = 10173,
 		aSoundDisappear = {},
 	},
+	-- 霸刀
 	{
 		szNote = "散流霞",
 		bFlipHideVoid = false,
@@ -724,6 +739,7 @@
 		bFlipHideOthers = false,
 		aSoundDisappear = {},
 	},
+	-- 凌雪
 	{
 		szNote = "十方玄机",
 		bFlipHideVoid = false,
@@ -814,6 +830,7 @@
 		dwID = 15621,
 		aSoundDisappear = {},
 	},
+	-- 衍天
 	{
 		szNote = "巨门北落",
 		bFlipHideVoid = false,
@@ -872,6 +889,7 @@
 		dwID = 17596,
 		aSoundDisappear = {},
 	},
+	-- 万灵
 	{
 		szNote = "汇灵合契无敌帧",
 		bFlipHideVoid = false,
@@ -901,6 +919,8 @@
 		dwID = 27523,
 		aSoundDisappear = {},
 	},
+
+	-- 橙武
 	{
 		szNote = "花间橙武",
 		bFlipHideVoid = false,
@@ -6769,6 +6789,8 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+
+	-- 免控
 	{
 		nStackNum = 0,
 		aSoundDisappear = {},
@@ -6825,6 +6847,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 纯阳
 	{
 		szNote = "生太极",
 		bFlipHideVoid = false,
@@ -6972,6 +6995,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 万花
 	{
 		szNote = "星楼月影",
 		bFlipHideVoid = false,
@@ -7148,6 +7172,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 少林
 	{
 		szNote = "折骨",
 		bFlipHideVoid = false,
@@ -7293,6 +7318,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 七秀
 	{
 		szNote = "鹊踏枝",
 		bFlipHideVoid = false,
@@ -7467,6 +7493,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 天策
 	{
 		szNote = "长征",
 		bFlipHideVoid = false,
@@ -7670,6 +7697,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 藏剑
 	{
 		szNote = "啸日",
 		bFlipHideVoid = false,
@@ -7815,6 +7843,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 五毒
 	{
 		szNote = "蛊虫献祭",
 		bFlipHideVoid = false,
@@ -8138,6 +8167,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 唐门
 	{
 		szNote = "浮光掠影",
 		bFlipHideVoid = false,
@@ -8401,6 +8431,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 明教
 	{
 		szNote = "暗尘弥散",
 		bFlipHideVoid = false,
@@ -8876,6 +8907,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 丐帮
 	{
 		szNote = "霸体",
 		bFlipHideVoid = false,
@@ -9052,6 +9084,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 苍云
 	{
 		szNote = "无惧",
 		bFlipHideVoid = false,
@@ -9226,6 +9259,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 长歌
 	{
 		szNote = "捣衣",
 		bFlipHideVoid = false,
@@ -9520,6 +9554,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 霸刀
 	{
 		szNote = "尘身",
 		bFlipHideVoid = false,
@@ -9684,6 +9719,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 蓬莱
 	{
 		szNote = "浮游天地",
 		bFlipHideVoid = false,
@@ -9802,6 +9838,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 凌雪
 	{
 		szNote = "日月吴钩",
 		bFlipHideVoid = false,
@@ -10005,6 +10042,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 衍天
 	{
 		szNote = "起卦",
 		bFlipHideVoid = false,
@@ -10102,8 +10140,8 @@
 		aContentColor = {
 			255,
 			255,
-			0,
-		},
+			0,-
+		},-
 		szUUID = "453ADBFF02E84B1683CE686F1A95F14B-18418-1",
 		nStackNum = 0,
 		bFlipHideOthers = false,
@@ -10121,6 +10159,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 药宗
 	{
 		szNote = "且待时休",
 		bFlipHideVoid = false,
@@ -10382,6 +10421,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 刀宗
 	{
 		szNote = "驰风八步",
 		bFlipHideVoid = false,
@@ -10500,6 +10540,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 万灵
 	{
 		szNote = "澄神",
 		bFlipHideVoid = false,
@@ -10587,6 +10628,8 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+
+	-- 减伤（减伤、闪避、平摊、免封内、反弹、化解） 
 	{
 		nStackNum = 0,
 		aSoundDisappear = {},
@@ -10614,6 +10657,7 @@
 		},
 		szUUID = "D5DE4E7899F248E0B170EA2DF67EF6B2-0-0",
 	},
+	-- 纯阳
 	{
 		szNote = "转乾坤",
 		bFlipHideVoid = false,
@@ -10878,6 +10922,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 万花
 	{
 		szNote = "春泥护花",
 		bFlipHideVoid = false,
@@ -11230,6 +11275,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 少林
 	{
 		szNote = "无相诀",
 		bFlipHideVoid = false,
@@ -11468,6 +11514,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 七秀
 	{
 		szNote = "天地低昂",
 		bFlipHideVoid = false,
@@ -11760,6 +11807,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 天策
 	{
 		szNote = "守如山",
 		bFlipHideVoid = false,
@@ -11936,6 +11984,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 藏剑
 	{
 		szNote = "叠泉",
 		bFlipHideVoid = false,
@@ -12112,6 +12161,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 五毒
 	{
 		szNote = "女娲补天",
 		bFlipHideVoid = false,
@@ -12728,6 +12778,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 唐门
 	{
 		szNote = "惊鸿游龙",
 		bFlipHideVoid = false,
@@ -12875,6 +12926,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 明教
 	{
 		szNote = "贪魔体",
 		bFlipHideVoid = false,
@@ -13081,6 +13133,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 丐帮
 	{
 		szNote = "笑醉狂",
 		bFlipHideVoid = false,
@@ -13431,6 +13484,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 苍云
 	{
 		szNote = "盾墙",
 		bFlipHideVoid = false,
@@ -13663,6 +13717,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 长歌
 	{
 		szNote = "高山流水",
 		bFlipHideVoid = false,
@@ -14013,6 +14068,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 霸刀
 	{
 		szNote = "易水",
 		bFlipHideVoid = false,
@@ -14187,6 +14243,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 蓬莱
 	{
 		szNote = "疾电叱羽",
 		bFlipHideVoid = false,
@@ -14303,6 +14360,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 凌雪
 	{
 		szNote = "窥月",
 		bFlipHideVoid = false,
@@ -14419,6 +14477,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 衍天
 	{
 		szNote = "龙马出河",
 		bFlipHideVoid = false,
@@ -14654,6 +14713,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 北天药宗
 	{
 		szNote = "千枝绽蕊",
 		bFlipHideVoid = false,
@@ -14828,6 +14888,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 刀宗
 	{
 		szNote = "识意",
 		bFlipHideVoid = false,
@@ -14915,6 +14976,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 万灵山庄
 	{
 		szNote = "应天授命",
 		bFlipHideVoid = false,
@@ -15060,6 +15122,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 爆发
 	{
 		nStackNum = 0,
 		aSoundDisappear = {},
@@ -15087,6 +15150,7 @@
 		},
 		szUUID = "88A6AD2A62A04280AD24B192F45B2E20-0-0",
 	},
+	-- 纯阳
 	{
 		szNote = "紫气东来",
 		bFlipHideVoid = false,
@@ -15116,6 +15180,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 万花
 	{
 		szNote = "水月无间",
 		bFlipHideVoid = false,
@@ -15232,6 +15297,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 少林
 	{
 		szNote = "擒龙诀",
 		bFlipHideVoid = false,
@@ -15261,6 +15327,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 七秀
 	{
 		szNote = "繁音急节",
 		bFlipHideVoid = false,
@@ -15406,6 +15473,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 天策
 	{
 		szNote = "渊",
 		bFlipHideVoid = false,
@@ -15464,6 +15532,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 藏剑
 	{
 		szNote = "莺鸣",
 		bFlipHideVoid = false,
@@ -15551,6 +15620,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 五毒
 	{
 		szNote = "灵蛇献祭",
 		bFlipHideVoid = false,
@@ -15638,6 +15708,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 唐门
 	{
 		szNote = "心无旁骛",
 		bFlipHideVoid = false,
@@ -15813,6 +15884,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 明教
 	{
 		szNote = "光明相",
 		bFlipHideVoid = false,
@@ -16015,6 +16087,7 @@
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 丐帮
 	{
 		aSoundDisappear = {},
 		nStackNum = 0,
