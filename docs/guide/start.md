@@ -5,7 +5,7 @@ next: /guide/download.html
 
 下载获取最新的压缩包，解压后可获得的文件为监控文件和文档链接。
 
-在游戏中打开「茗伊插件集 - 目标 - 目标监控」，点击导入，选取其中后缀为 `.jx3dat` 的监控文件。
+在游戏中打开「茗伊插件集 - 目标 - 目标监控 - 打开设置面板」，点击导入本地数据，选取其中后缀为 `.jx3dat` 的监控文件。
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1.png)
 
@@ -21,10 +21,6 @@ next: /guide/download.html
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/3.png)
 
-点击「茗伊插件集 - 目标 - 目标监控 - 设为默认」可以设置为默认监控文件，小退保存，本机切换其他角色会自动同步。
-
-如果没有同步，删除目前已有监控后点击「茗伊插件集 - 目标 - 目标监控 - 恢复默认 - 默认设置」，或者重新导入一份数据。
+导入后，在「茗伊插件集 - 目标 - 目标监控」点击勾选「使用通用数据」，本机所有角色将会同步使用同一份监控数据。
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/4.png)
-
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/5.png)
