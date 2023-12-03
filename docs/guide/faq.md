@@ -8,7 +8,7 @@ next: /guide/change-log.html
 
 在「茗伊插件集 - 目标 - 目标监控 - 打开设置面板 - 设置」里进行编辑。
 
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/6.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/6.jpg)
 
 ### 如果我想要添加自己单独的监控怎么办？
 
@@ -17,9 +17,9 @@ next: /guide/change-log.html
 1. 「茗伊插件集 - 目标 - 目标监控 - 打开设置面板」中点击「新建条目」创建
 2. 找到你想插入 buff 的位置，点击右键插入
 
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/7.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/7.jpg)
 
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/9.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/9.jpg)
 
 点击该条监控，可以修改提示名、颜色、监控组等信息。
 
@@ -45,13 +45,13 @@ Buff 加入监控的条件是足够「重要」且非「常驻」，为了整个
 
 [下载](download.md)中额外提供了只监控白云的监控文件，监控范围仅保留了特殊技能、沉默、缴械、减伤、爆发、封内，可以跟正常的 Buff 监控一起导入。
 
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1700999727309.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1700999727309.jpg)
 
 该监控默认监控白云，如果你需要监控小剑、斧头或是其他标记，请打开文件修改 uuid 保存后导入，再修改监控目标。
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1700999874470.png)
 
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1700999917723.png)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1700999917723.jpg)
 
 默认显示位置在此处，如果修改导入了多个标记监控会重叠在一起，请自行拖拽到你习惯的位置。
 
