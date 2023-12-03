@@ -30,6 +30,7 @@ prev: /guide/faq.html
 * 长歌
 	* 删除凌冬 Buff
 	* 修复风入松 Buff 显示
+	* 修复徵 Buff 显示
 * 霸刀
 	* 新增定身 Debuff
 * 北天药宗
