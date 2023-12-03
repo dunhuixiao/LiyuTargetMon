@@ -2,6 +2,42 @@
 title: 更新日志 ✨
 prev: /guide/faq.html
 ---
+## 1.4.9 2023/12/3
+:::tip
+* 纯阳
+	* 修复剑冲阴阳 Debuff 显示
+	* 修复叠刃 Debuff 显示
+	* 修复剑道万象 Debuff 显示
+	* 修复气剑 Buff 显示
+	* 修复剑出鸿蒙 Debuff 显示
+* 万花
+	* 修复少阳指 Debuff 显示
+	* 修复兰摧玉折 Debuff 显示
+	* 修复布散 Buff 显示
+	* 修复芙蓉并蒂 Debuff 显示
+	* 修复着墨 Debuff 显示
+	* 修复落英 Debuff 显示
+	* 新增流溢 Buff 显示
+	* 修复笼花 Buff 显示
+* 七秀
+	* 修复天地低昂 Buff 显示
+	* 修复鹊踏枝 Buff 显示
+	* 修复帝骖龙翔 Debuff 显示
+	* 修复雷霆震怒 Debuff 显示
+* 五毒
+	* 新增生发 Debuff
+	* 删除夺命蛊 Buff
+* 长歌
+	* 删除凌冬 Buff
+	* 修复风入松 Buff 显示
+* 霸刀
+	* 新增定身 Debuff
+* 北天药宗
+	* 修复当归四逆 Buff 显示
+	* 修复渡若 Buff 显示
+	* 修复惊鸿掠水 Debuff 显示
+:::
+
 ## 1.4.8 2023/11/28
 :::tip
 * 其他
