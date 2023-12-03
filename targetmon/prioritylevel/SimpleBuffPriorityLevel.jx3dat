@@ -170,7 +170,7 @@ return {
 		tTargetKungfu = {
 			bAll = true,
 		},
-		nIconID = 7510,
+		nIconID = 16602,
 		tMap = {
 			bAll = true,
 		},
@@ -8550,6 +8550,36 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- 少林
+	{
+		szNote = "断诛邪见",
+		bFlipHideVoid = false,
+		tKungfu = {
+			bAll = true,
+		},
+		szGroupID = "9A01B99DBFB143E1941FEA82A47CD1F4",
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szUUID = "9A01B99DBFB143E1941FEA82A47CD1F4-24513-1",
+		nStackNum = 0,
+		bFlipHideOthers = false,
+		dwID = 24513,
+		nLevel = 1,
+		bEnable = true,
+		szContent = "缴械",
+		nIconID = 443,
+		tTargetKungfu = {
+			bAll = true,
+		},
+		tMap = {
+			bAll = true,
+		},
+		aSoundAppear = {},
+		aSoundDisappear = {},
+	},
 	-- 七秀
 	{
 		szNote = "月出东山",
@@ -8600,36 +8630,6 @@ return {
 		bEnable = true,
 		szContent = "沉默",
 		nIconID = 11882,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	-- 少林
-	{
-		szNote = "断诛邪见",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "9A01B99DBFB143E1941FEA82A47CD1F4",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "9A01B99DBFB143E1941FEA82A47CD1F4-24513-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 24513,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "缴械",
-		nIconID = 443,
 		tTargetKungfu = {
 			bAll = true,
 		},
@@ -9559,22 +9559,22 @@ return {
 		nStackNum = 0,
 		szGroup = "坐忘减伤",
 		bFlipHideOthers = false,
-		dwID = 2983,
-		nLevel = 2,
+		aSoundAppear = {},
+		nLevel = 0,
 		bEnable = true,
 		szContent = "减伤",
-		nIconID = 620,
 		tTargetKungfu = {
 			bAll = true,
 		},
+		nIconID = 620,
 		tMap = {
 			bAll = true,
 		},
-		aSoundAppear = {},
+		dwID = 2983,
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "无我",
+		szNote = "秘籍无我",
 		bFlipHideVoid = false,
 		tKungfu = {
 			bAll = true,
@@ -9589,22 +9589,22 @@ return {
 		nStackNum = 0,
 		szGroup = "坐忘减伤",
 		bFlipHideOthers = false,
-		dwID = 10066,
-		nLevel = 1,
+		aSoundAppear = {},
+		nLevel = 0,
 		bEnable = true,
 		szContent = "减伤",
-		nIconID = 620,
 		tTargetKungfu = {
 			bAll = true,
 		},
+		nIconID = 620,
 		tMap = {
 			bAll = true,
 		},
-		aSoundAppear = {},
+		dwID = 10066,
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "坐忘无我",
+		szNote = "不争坐忘无我",
 		bFlipHideVoid = false,
 		tKungfu = {
 			bAll = true,
@@ -9619,18 +9619,18 @@ return {
 		nStackNum = 0,
 		szGroup = "坐忘减伤",
 		bFlipHideOthers = false,
-		dwID = 16730,
+		aSoundAppear = {},
 		nLevel = 1,
 		bEnable = true,
 		szContent = "减伤",
-		nIconID = 620,
 		tTargetKungfu = {
 			bAll = true,
 		},
+		nIconID = 620,
 		tMap = {
 			bAll = true,
 		},
-		aSoundAppear = {},
+		dwID = 16730,
 		aSoundDisappear = {},
 	},
 	{
@@ -10131,6 +10131,22 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "流溢",
+		dwID = 11321,
+		nIconID = 7229,
+		szUUID = "1D54998E-6362-4843-9D9C-8EEFB6702C82",
+		nStackNum = 0,
+		nStackNumOp = "==",
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "减伤",
+		bEnable = true,
+	},
 	-- 少林
 	{
 		szNote = "无相诀",
@@ -10387,7 +10403,7 @@ return {
 		nStackNum = 0,
 		bFlipHideOthers = false,
 		dwID = 684,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "减伤",
 		nIconID = 1498,
@@ -14112,7 +14128,7 @@ return {
 		nStackNum = 0,
 		bFlipHideOthers = false,
 		dwID = 1487,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "爆发",
 		nIconID = 327,
@@ -14527,35 +14543,6 @@ return {
 		bEnable = true,
 		szContent = "爆发",
 		nIconID = 2715,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "夺命蛊",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F8AAB7F9D0",
-		aContentColor = {
-			255,
-			255,
-			0,
-		},
-		szUUID = "000001F8AAB7F9D0-6246-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 6246,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "爆发",
-		nIconID = 2776,
 		tTargetKungfu = {
 			bAll = true,
 		},
