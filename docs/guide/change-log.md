@@ -2,6 +2,30 @@
 title: 更新日志 ✨
 prev: /guide/faq.html
 ---
+## 1.5.0 2023/12/10
+:::tip
+* 藏剑
+	* 新增锁足 Debuff
+	* 新增碧归 Debuff
+* 唐门
+	* 修复连星 Buff 显示
+	* 修复雷震子 Debuff 显示
+	* 修复千秋万劫 Buff 显示
+	* 修复洞彻机微 Buff 显示
+* 霸刀
+	* 新增闹须弥 Debuff
+	* 修复尘身 Buff 显示
+	* 修复临渊蹈河 Buff 显示
+	* 修复逐鹿 Buff 显示
+* 凌雪阁
+	* 修复窥月 Buff 显示
+	* 修复斩无常 Buff 显示
+* 衍天宗
+	* 新增司命 Buff
+	* 修复流火 Debuff 显示
+:::
+
+
 ## 1.4.9 2023/12/3
 :::tip
 * 纯阳
