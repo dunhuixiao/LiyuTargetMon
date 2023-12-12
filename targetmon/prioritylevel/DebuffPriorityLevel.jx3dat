@@ -8072,36 +8072,6 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "‘∆æ∞",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F8732CB7F0",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F8732CB7F0-12324-1",
-		nStackNum = 0,
-		szGroup = "∑‚«·π¶",
-		bFlipHideOthers = false,
-		dwID = 12324,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "∑‚«·π¶",
-		nIconID = 2912,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "«ßªÿ∞Ÿ◊™£®–È»ı£©",
 		bFlipHideVoid = false,
 		tKungfu = {
