@@ -2,6 +2,23 @@
 title: 更新日志 ✨
 prev: /guide/faq.html
 ---
+## 1.5.1 2023/12/24
+:::tip
+* 藏剑
+	* 新增云景 Buff
+	* 修复松涛 Debuff 显示
+* 衍天宗
+	* 新增定辰 Buff
+* 苍云
+	* 修复撼地 Debuff 显示
+	* 修复盾壁 Buff 显示
+	* 修复劫化 Buff 显示
+* 丐帮
+	* 新增共醉 Buff
+	* 删除游君 Debuff
+	* 修复酒中仙 Buff 显示
+:::
+
 ## 1.5.0 2023/12/10
 :::tip
 * 藏剑
