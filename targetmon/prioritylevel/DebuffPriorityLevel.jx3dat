@@ -3312,35 +3312,6 @@ return {
 	},
 	-- 丐帮
 	{
-		szNote = "游君",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "FDF97AE0F6A14625B791428A01082E1E",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "FDF97AE0F6A14625B791428A01082E1E-18086-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 18086,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "眩晕",
-		nIconID = 11843,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "将进酒",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -3472,7 +3443,7 @@ return {
 		nStackNum = 0,
 		bFlipHideOthers = false,
 		dwID = 8329,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "眩晕",
 		nIconID = 6350,
@@ -3501,7 +3472,7 @@ return {
 		nStackNum = 0,
 		bFlipHideOthers = false,
 		dwID = 18109,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "眩晕",
 		nIconID = 14087,
@@ -4442,7 +4413,7 @@ return {
 		nStackNum = 0,
 		bFlipHideOthers = false,
 		dwID = 1857,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "定身",
 		nIconID = 2365,
@@ -11785,6 +11756,22 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "定辰",
+		dwID = 20944,
+		szContent = "定辰",
+		nIconID = 14019,
+		szUUID = "6524BC30-6218-4561-A4A8-2299E171A95F",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "",
+		bEnable = true,
 	},
 	-- 北天药宗
 	{
