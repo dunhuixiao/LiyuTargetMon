@@ -16559,7 +16559,7 @@ return {
 				nStackNum = 0,
 				bFlipHideOthers = false,
 				aSoundAppear = {},
-				nLevel = 1,
+				nLevel = 0,
 				bEnable = true,
 				szContent = "Ãâ¿Ø",
 				tTargetKungfu = {
@@ -47781,7 +47781,7 @@ return {
 				nStackNum = 0,
 				bFlipHideOthers = false,
 				aSoundAppear = {},
-				nLevel = 1,
+				nLevel = 0,
 				bEnable = true,
 				szContent = "Ãâ¿Ø",
 				tTargetKungfu = {
