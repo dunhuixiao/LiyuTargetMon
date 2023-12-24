@@ -17,6 +17,8 @@ prev: /guide/faq.html
 	* 新增共醉 Buff
 	* 删除游君 Debuff
 	* 修复酒中仙 Buff 显示
+* 衍天宗
+	* 修复起卦 Buff 显示
 :::
 
 ## 1.5.0 2023/12/10
