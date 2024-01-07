@@ -10351,7 +10351,7 @@ return {
 		nStackNum = 0,
 		bFlipHideOthers = false,
 		dwID = 25276,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "Ãâ¿Ø",
 		nIconID = 15423,
