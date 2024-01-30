@@ -43,6 +43,10 @@ Buff 加入监控的条件是足够「重要」且非「常驻」，为了整个
 
 ### 如果我想要单独对云剑斧进行重要 Buff 监控怎么办？
 
+:::warning
+因为茗伊插件监控数量的上限限制，白云监控已于v1.5.3版本废弃，不会再更新与打包
+:::
+
 [下载](download.md)中额外提供了只监控白云的监控文件，监控范围仅保留了特殊技能、沉默、缴械、减伤、爆发、封内，可以跟正常的 Buff 监控一起导入。
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1700999727309.jpg)

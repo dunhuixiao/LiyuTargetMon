@@ -1107,6 +1107,24 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "÷ÿ¥¥",
+		dwID = 27115,
+		nIconID = 19607,
+		szUUID = "938407EA-7504-4CAA-9F1C-05BBABDCFEBD",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "Ω˚¡∆",
+		bEnable = true,
+		tMap = {
+			bAll = true,
+		},
+	},
 	-- Ω˚Ô¿
 	{
 		szNote = "∫Ë√…ÃÏΩ˚",
