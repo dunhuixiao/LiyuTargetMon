@@ -24,7 +24,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		aSoundDisappear = {},
 	},
@@ -46,7 +46,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szContent = "太虚",
 		szGroupID = "000001F872CE6BD0",
@@ -68,7 +68,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872053310-3851-1",
 		nStackNum = 0,
@@ -98,7 +98,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872053310-377-1",
 		nStackNum = 0,
@@ -129,7 +129,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87208F200-9934-1",
 		nStackNum = 0,
@@ -158,7 +158,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872090830-9933-1",
 		nStackNum = 0,
@@ -195,7 +195,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szContent = "大针",
 		szGroupID = "54268AD30CAA4567B2CB5D5B32FCFA94",
@@ -216,7 +216,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "93ED9C19F61149598871A80D9E90A0AB-20709-0",
 		nStackNum = 0,
@@ -246,7 +246,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "1E766CC0D0874492B0B50EFC343988E1-16012-1",
 		nStackNum = 0,
@@ -275,7 +275,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739E34E0-1242-1",
 		nStackNum = 0,
@@ -305,7 +305,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F874A3C7B0-6182-1",
 		nStackNum = 0,
@@ -335,7 +335,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAC6C520-203-5",
 		nStackNum = 0,
@@ -364,7 +364,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAC72E20-360-6",
 		nStackNum = 0,
@@ -394,7 +394,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "605699E5FDF947AEBD62DF91428A0108-2313-1",
 		nStackNum = 0,
@@ -424,7 +424,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729B9A00-3425-1",
 		nStackNum = 0,
@@ -454,7 +454,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F180BD70EAAC4193AB3EFCC8C9AF8BF4-27197-1",
 		nStackNum = 0,
@@ -484,7 +484,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C820F3B211C245D99B2851F9A11BCF72-27088-1",
 		nStackNum = 0,
@@ -514,7 +514,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "818FC72F54804285BDF94ECBA2690455-18084-1",
 		nStackNum = 0,
@@ -543,7 +543,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "FF219A3199AF4BA0B25F872CE25BF12A-23180-1",
 		nStackNum = 0,
@@ -581,7 +581,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szContent = "盾立",
 		szGroupID = "000001F872412260",
@@ -602,7 +602,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9DEFF48F79204177BA63DA3119A29C71-13927-1",
 		nStackNum = 0,
@@ -631,7 +631,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9C19F611959942019CA80D9E90A0AB8B-14319-1",
 		nStackNum = 0,
@@ -660,7 +660,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "8BBB605699E54FDF9EF662DF91428A01-18105-1",
 		nStackNum = 0,
@@ -690,7 +690,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872074720-10173-1",
 		nStackNum = 0,
@@ -728,7 +728,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szContent = "散流霞",
 		szGroupID = "000001F872B96F70",
@@ -750,7 +750,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "8A1DE72306484A28A216A7DD8FC8CA76-15717-1",
 		nStackNum = 0,
@@ -780,7 +780,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "8A1DE72306484A28A216A7DD8FC8CA76-15717-2",
 		nStackNum = 0,
@@ -810,7 +810,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "8B935544C2D343C9A83416781ABC1647-15621-1",
 		nStackNum = 0,
@@ -841,7 +841,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "8BB3E727AF494063ADBB4AAB2DC502A2-18049-1",
 		nStackNum = 0,
@@ -870,7 +870,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "50645D42EFBB40E8AAF4123A6FB6F050-17596-3",
 		nStackNum = 0,
@@ -916,7 +916,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "A43456AEAF044AF98118BE502CFE9373-27523-0",
 		nStackNum = 0,
@@ -960,7 +960,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "887AAA526DF24137A2A6DECD55F17593-0-0",
 	},
@@ -974,7 +974,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "249A661A4E724E9BA283F2584CC28FA5-17639-1",
 		nStackNum = 0,
@@ -1004,7 +1004,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAC77880-374-1",
 		nStackNum = 0,
@@ -1034,7 +1034,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAC77880-11991-1",
 		nStackNum = 0,
@@ -1064,7 +1064,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAC63380-2781-1",
 		nStackNum = 0,
@@ -1093,7 +1093,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F892448BD0-12372-1",
 		nStackNum = 0,
@@ -1122,7 +1122,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "31F019AAA28B49C99CA4825E548A0C56-17939-1",
 		nStackNum = 0,
@@ -1152,7 +1152,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872034C80-411-1",
 		nStackNum = 0,
@@ -1182,7 +1182,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872034C80-11808-1",
 		nStackNum = 0,
@@ -1212,7 +1212,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873A35F90-8458-1",
 		nStackNum = 0,
@@ -1241,7 +1241,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "03FC6B9A319A449688939CF6952071A8-17901-1",
 		nStackNum = 0,
@@ -1270,7 +1270,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "050ACB7F81B743EBBCF089EB2ED215D9-24148-1",
 		nStackNum = 0,
@@ -1299,7 +1299,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "58D6A80853184C95AE30880B4F451EE6-25702-1",
 		nStackNum = 0,
@@ -1329,7 +1329,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873276E40-1186-1",
 		nStackNum = 0,
@@ -1358,7 +1358,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9DEFF48F79204177BA63DA3119A29C71-14273-1",
 		nStackNum = 0,
@@ -1387,7 +1387,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E35EC2542648AD8356C8CB5D5B32FC-16348-1",
 		nStackNum = 0,
@@ -1416,7 +1416,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "99E5FDF97AE04F6A98DF91428A01082E-17882-1",
 		nStackNum = 0,
@@ -1445,7 +1445,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "D785041635E24BE49F9882BEBB68D788-20780-1",
 		nStackNum = 0,
@@ -1475,7 +1475,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F874A55F30-677-5",
 		nStackNum = 0,
@@ -1504,7 +1504,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F874A37C10-9855-1",
 		nStackNum = 0,
@@ -1533,7 +1533,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "4BDE1A961B7A4070960204EA4AF8048D-14515-1",
 		nStackNum = 0,
@@ -1562,7 +1562,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "1D8271F272C24A259E566B2A5ADE7A7A-14930-2",
 		nStackNum = 0,
@@ -1591,7 +1591,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C76DEFA92D4C4E5B8A4511504EA986D9-24376-1",
 		nStackNum = 0,
@@ -1620,7 +1620,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "81EF99A1FB5948EA8416FF036B314923-17973-1",
 		nStackNum = 0,
@@ -1650,7 +1650,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8720484B0-6361-1",
 		nStackNum = 0,
@@ -1679,7 +1679,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872A1FE50-6131-1",
 		nStackNum = 0,
@@ -1708,7 +1708,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872A21DE0-2756-1",
 		nStackNum = 0,
@@ -1737,7 +1737,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872A1ABD0-855-3",
 		nStackNum = 0,
@@ -1766,7 +1766,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873A33420-10245-1",
 		nStackNum = 0,
@@ -1795,7 +1795,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C3ADB5AB0E9A4FCF8D3988E17222B626-17888-1",
 		nStackNum = 0,
@@ -1824,7 +1824,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "554E2F0AC4554F068B1C0F5F4F501349-24524-1",
 		nStackNum = 0,
@@ -1854,7 +1854,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87205BB30-1903-1",
 		nStackNum = 0,
@@ -1883,7 +1883,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87241F000-1686-1",
 		nStackNum = 0,
@@ -1912,7 +1912,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872061CB0-9848-1",
 		nStackNum = 0,
@@ -1941,7 +1941,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87241C5D0-1856-1",
 		nStackNum = 0,
@@ -1970,7 +1970,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872963F80-1676-1",
 		nStackNum = 0,
@@ -2000,7 +2000,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F892D2D4D0-5950-1",
 		nStackNum = 0,
@@ -2029,7 +2029,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F892D34AF0-2544-1",
 		nStackNum = 0,
@@ -2058,7 +2058,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CEEAB0-2830-1",
 		nStackNum = 0,
@@ -2088,7 +2088,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CEEAB0-2840-1",
 		nStackNum = 0,
@@ -2118,7 +2118,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872057B20-8864-1",
 		nStackNum = 0,
@@ -2147,7 +2147,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F89244D810-12559-1",
 		nStackNum = 0,
@@ -2177,7 +2177,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F89244D810-6247-1",
 		nStackNum = 0,
@@ -2207,7 +2207,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "0FB8792027FC4760AAB62BC02FB9F70F-19313-1",
 		nStackNum = 0,
@@ -2236,7 +2236,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "0ECCA32DFB5B4314B67709096EEA593E-24329-1",
 		nStackNum = 0,
@@ -2265,7 +2265,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "BAA2B71286F641008C222D59B9002A9C-25919-1",
 		nStackNum = 0,
@@ -2294,7 +2294,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "744208900F624180BA4A1AFACF277687-24353-1",
 		nStackNum = 0,
@@ -2313,6 +2313,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "穿蝶化羽",
+		dwID = 28187,
+		nIconID = 19184,
+		szUUID = "C02AC962-9C66-44B3-9A17-B51D1A00D014",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "免控",
+		bEnable = true,
+	},
 	-- 唐门
 	{
 		szNote = "浮光掠影",
@@ -2324,7 +2339,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87228A5A0-3203-1",
 		nStackNum = 0,
@@ -2353,7 +2368,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729B17B0-3279-1",
 		nStackNum = 0,
@@ -2382,7 +2397,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000002032FD06840-12857-1",
 		nStackNum = 0,
@@ -2411,7 +2426,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "6C32947FD6BD4AD799D4753332AA135D-14247-1",
 		nStackNum = 0,
@@ -2440,7 +2455,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729AFBE0-3275-2",
 		nStackNum = 0,
@@ -2469,7 +2484,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA67B560-12483-1",
 		nStackNum = 0,
@@ -2499,7 +2514,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA67B560-12481-1",
 		nStackNum = 0,
@@ -2529,7 +2544,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729AC8A0-6087-1",
 		nStackNum = 0,
@@ -2559,7 +2574,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873289450-4052-1",
 		nStackNum = 0,
@@ -2589,7 +2604,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873289450-4052-2",
 		nStackNum = 0,
@@ -2619,7 +2634,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873289450-4052-3",
 		nStackNum = 0,
@@ -2649,7 +2664,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873289450-4052-5",
 		nStackNum = 0,
@@ -2679,7 +2694,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873289450-4052-8",
 		nStackNum = 0,
@@ -2773,7 +2788,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873289450-12492-0",
 		nStackNum = 0,
@@ -2802,7 +2817,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873293180-4421-0",
 		nStackNum = 0,
@@ -2831,7 +2846,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CE92E0-4468-1",
 		nStackNum = 0,
@@ -2860,7 +2875,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E35EC2542648AD8356C8CB5D5B32FC-12491-1",
 		nStackNum = 0,
@@ -2889,7 +2904,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA693E30-12665-1",
 		nStackNum = 0,
@@ -2918,7 +2933,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87296EAC0-6284-1",
 		nStackNum = 0,
@@ -2947,7 +2962,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "1E766CC0D0874492B0B50EFC343988E1-18075-1",
 		nStackNum = 0,
@@ -2976,7 +2991,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "554E2F0AC4554F068B1C0F5F4F501349-24369-1",
 		nStackNum = 0,
@@ -3005,7 +3020,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9A00B99CBFB043E1941FE982A37CD0F3-27034-1",
 		nStackNum = 0,
@@ -3035,7 +3050,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CF6940-16403-1",
 		nStackNum = 0,
@@ -3065,7 +3080,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CF6940-5754-1",
 		nStackNum = 0,
@@ -3095,7 +3110,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CF2E80-6015-1",
 		nStackNum = 0,
@@ -3124,7 +3139,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "93ED9C19F61149598871A80D9E90A0AB-10258-1",
 		nStackNum = 0,
@@ -3153,7 +3168,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "0C5A818FC72F45488AF6F94ECBA26904-14082-1",
 		nStackNum = 0,
@@ -3182,7 +3197,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "268863F447B842C388D0054E72707BF7-21745-1",
 		nStackNum = 0,
@@ -3212,7 +3227,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872428BA0-8247-1",
 		nStackNum = 0,
@@ -3241,7 +3256,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87242B850-8449-1",
 		nStackNum = 0,
@@ -3270,7 +3285,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA7031E0-8483-1",
 		nStackNum = 0,
@@ -3299,7 +3314,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873A2E330-8293-1",
 		nStackNum = 0,
@@ -3328,7 +3343,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873A18580-8716-1",
 		nStackNum = 0,
@@ -3357,7 +3372,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C3ADB5AB0E9A4FCF8D3988E17222B626-21233-1",
 		nStackNum = 0,
@@ -3387,7 +3402,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729C5170-9999-1",
 		nStackNum = 0,
@@ -3416,7 +3431,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F892D39640-9294-1",
 		nStackNum = 0,
@@ -3445,7 +3460,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872069910-9509-1",
 		nStackNum = 0,
@@ -3474,7 +3489,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87206C930-9342-1",
 		nStackNum = 0,
@@ -3503,7 +3518,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739F2620-9693-1",
 		nStackNum = 0,
@@ -3533,7 +3548,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739F2620-9506-1",
 		nStackNum = 0,
@@ -3563,7 +3578,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739F2620-9694-1",
 		nStackNum = 0,
@@ -3593,7 +3608,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739F2620-9695-1",
 		nStackNum = 0,
@@ -3623,7 +3638,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "033CCECDDF0744E7AD2237A0B14C6C9D-21209-1",
 		nStackNum = 0,
@@ -3652,7 +3667,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "050ACB7F81B743EBBCF089EB2ED215D9-24202-1",
 		nStackNum = 0,
@@ -3682,7 +3697,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873D865D0-11361-1",
 		nStackNum = 0,
@@ -3712,7 +3727,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873D865D0-11322-1",
 		nStackNum = 0,
@@ -3758,7 +3773,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9DEFF48F79204177BA63DA3119A29C71-11385-1",
 		nStackNum = 0,
@@ -3787,7 +3802,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E35EC2542648AD8356C8CB5D5B32FC-14972-1",
 		nStackNum = 0,
@@ -3817,7 +3832,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E35EC2542648AD8356C8CB5D5B32FC-13735-1",
 		nStackNum = 0,
@@ -3846,7 +3861,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "1E766CC0D0874492B0B50EFC343988E1-14356-1",
 		nStackNum = 0,
@@ -3875,7 +3890,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "4CD46CFE9D674AAD8C6948DDC4D69FD2-13742-4",
 		nStackNum = 0,
@@ -3905,7 +3920,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "4CD46CFE9D674AAD8C6948DDC4D69FD2-14105-1",
 		nStackNum = 0,
@@ -3936,7 +3951,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F7DB1E300A9241A9844921124F79B53F-15826-1",
 		nStackNum = 0,
@@ -3965,7 +3980,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "FC2F785CA5BF4AE3BFF362AA3779325A-15845-1",
 		nStackNum = 0,
@@ -3994,7 +4009,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9F43C18F55FC410AAEE44318C4BBE7A5-15749-2",
 		nStackNum = 0,
@@ -4023,7 +4038,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "B45743B80B7A43BDB5B1FF5B6C5EE755-15933-1",
 		nStackNum = 0,
@@ -4052,7 +4067,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "410C34F869D84A1AB7C9C24AE8428F38-15735-2",
 		nStackNum = 0,
@@ -4081,7 +4096,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "EDB3D9F998434636B07260F4843B86DD-16448-1",
 		nStackNum = 0,
@@ -4110,7 +4125,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "5BA83204FC8D4FA7A58199FB8E1216FF-18189-1",
 		nStackNum = 0,
@@ -4140,7 +4155,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C72F548028544F65BE4ECBA2690455AC-18124-1",
 		nStackNum = 0,
@@ -4169,7 +4184,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E5919158D04051B94A5327AC413469-17905-1",
 		nStackNum = 0,
@@ -4198,7 +4213,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "3AAEEFA9AD7F43C1A7A594865C98F277-18228-1",
 		nStackNum = 0,
@@ -4227,7 +4242,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "453ADBFF02E84B1683CE686F1A95F14B-18418-1",
 		nStackNum = 0,
@@ -4257,7 +4272,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E35EC2542648AD8356C8CB5D5B32FC-20666-1",
 		nStackNum = 0,
@@ -4286,7 +4301,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "1E766CC0D0874492B0B50EFC343988E1-20072-1",
 		nStackNum = 0,
@@ -4315,7 +4330,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "4CD46CFE9D674AAD8C6948DDC4D69FD2-21276-1",
 		nStackNum = 0,
@@ -4344,7 +4359,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "0C5A818FC72F45488AF6F94ECBA26904-20128-1",
 		nStackNum = 0,
@@ -4373,7 +4388,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "AC434FF0591A4116B6D5C4353E50491A-20199-1",
 		nStackNum = 0,
@@ -4417,7 +4432,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9F43C18F55FC410AAEE44318C4BBE7A5-21202-1",
 		nStackNum = 0,
@@ -4446,7 +4461,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "D04BD9133B524DA29E385E96114DD34B-20704-1",
 		nStackNum = 0,
@@ -4475,7 +4490,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F06AF070F0784F07BBEFEFEFEFEFEFEF-25276-1",
 		nStackNum = 0,
@@ -4505,7 +4520,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "11081D66F36945869A095860868924DB-24184-1",
 		nStackNum = 0,
@@ -4534,7 +4549,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C5FD4F648C7B41B3A9BAB7861031222D-24172-1",
 		nStackNum = 0,
@@ -4563,7 +4578,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "896D733C669E48B59B77F422B13039D9-23898-1",
 		nStackNum = 0,
@@ -4593,7 +4608,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "896D733C669E48B59B77F422B13039D9-23898-2",
 		nStackNum = 0,
@@ -4624,7 +4639,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "B062D3B27E3046ECB0E4D36BDF0CCC9E-26858-1",
 		nStackNum = 0,
@@ -4653,7 +4668,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "850E0EFAB0DE478095E0E611F93A7A6C-26952-1",
 		nStackNum = 0,
@@ -4682,7 +4697,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "3DBE51B493C24F99B3FE562F0F8B3315-27121-1",
 		nStackNum = 0,
@@ -4700,6 +4715,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "划云",
+		dwID = 28307,
+		nIconID = 15766,
+		szUUID = "8FBA7802-0058-4789-B6C2-E16990168010",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "免控",
+		bEnable = true,
 	},
 
 	-- 减伤（减伤、闪避、平摊、免封内、反弹、化解） 
@@ -4726,7 +4756,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "D5DE4E7899F248E0B170EA2DF67EF6B2-0-0",
 	},
@@ -4741,7 +4771,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAC5F320-384-1",
 		nStackNum = 0,
@@ -4770,7 +4800,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872BA3C20-2983-2",
 		nStackNum = 0,
@@ -4800,7 +4830,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872BA3C20-10066-1",
 		nStackNum = 0,
@@ -4830,7 +4860,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F48F792017744E8398DA3119A29C71A4-16730-1",
 		nStackNum = 0,
@@ -4860,7 +4890,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872BA9670-6350-1",
 		nStackNum = 0,
@@ -4889,7 +4919,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F0416A98A6274E0988D9C2D8C8F072D7-19217-1",
 		nStackNum = 0,
@@ -4918,7 +4948,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872BA07F0-6299-1",
 		nStackNum = 0,
@@ -4947,7 +4977,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "B3AB3B70D9F14EB6B10F27064857E200-9171-1",
 		nStackNum = 0,
@@ -4976,7 +5006,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8722872B0-12558-1",
 		nStackNum = 0,
@@ -5006,7 +5036,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872085C50-122-7",
 		nStackNum = 0,
@@ -5036,7 +5066,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872085C50-6257-1",
 		nStackNum = 0,
@@ -5066,7 +5096,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872085C50-11920-7",
 		nStackNum = 0,
@@ -5096,7 +5126,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872085C50-6264-7",
 		nStackNum = 0,
@@ -5126,7 +5156,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA7171E0-6256-1",
 		nStackNum = 0,
@@ -5155,7 +5185,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87203A590-6262-1",
 		nStackNum = 0,
@@ -5184,7 +5214,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "7126A8A50D1C49E4A4A0AB8B6099FD7A-17015-1",
 		nStackNum = 0,
@@ -5213,7 +5243,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "DF910E1ED4634C3B81FC78A5AEFFF362-20741-1",
 		nStackNum = 0,
@@ -5242,7 +5272,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "6918487ADDFB4C46B59FD2690C81C754-22425-1",
 		nStackNum = 0,
@@ -5271,7 +5301,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "BAD59E4110544D479AEA66408B416694-24349-1",
 		nStackNum = 0,
@@ -5300,7 +5330,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "AD12B20A49EC42B48C9BC3F482992471-2177-1",
 		nStackNum = 0,
@@ -5329,7 +5359,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "0B3C4AC4A430474B9E3D093197C97C96-26136-1",
 		nStackNum = 0,
@@ -5364,6 +5394,29 @@ return {
 		szContent = "减伤",
 		bEnable = true,
 	},
+	{
+		szNote = "皓空",
+		dwID = 27044,
+		nIconID = 20083,
+		szUUID = "6C8EA55E-77C0-432F-BADE-50A7D0AFCE57",
+		nStackNum = 0,
+		tTargetKungfu = {
+			bAll = true,
+			[10021] = false,
+			[10028] = false,
+		},
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "减伤",
+		bEnable = true,
+		tMap = {
+			bAll = true,
+		},
+	},
 	-- 少林
 	{
 		szNote = "无相诀",
@@ -5375,7 +5428,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873282A60-399-4",
 		nStackNum = 0,
@@ -5405,7 +5458,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873282A60-9803-4",
 		nStackNum = 0,
@@ -5435,7 +5488,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873282A60-15919-2",
 		nStackNum = 0,
@@ -5465,7 +5518,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873282A60-13044-4",
 		nStackNum = 0,
@@ -5495,7 +5548,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA689D40-10486-1",
 		nStackNum = 0,
@@ -5525,7 +5578,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA689D40-10493-1",
 		nStackNum = 0,
@@ -5555,7 +5608,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA68FC40-12488-1",
 		nStackNum = 0,
@@ -5584,7 +5637,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E35EC2542648AD8356C8CB5D5B32FC-7171-1",
 		nStackNum = 0,
@@ -5614,7 +5667,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8720957E0-684-1",
 		nStackNum = 0,
@@ -5660,7 +5713,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F874A39E70-6174-1",
 		nStackNum = 0,
@@ -5689,7 +5742,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA6FC660-12361-1",
 		nStackNum = 0,
@@ -5718,7 +5771,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873A26810-10618-1",
 		nStackNum = 0,
@@ -5748,7 +5801,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873A26810-10619-1",
 		nStackNum = 0,
@@ -5778,7 +5831,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8720977C0-10618-1",
 		nStackNum = 0,
@@ -5807,7 +5860,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA6F9DC0-2805-2",
 		nStackNum = 0,
@@ -5836,7 +5889,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "B995550EB9C14B9B8DBC6B75F09EF22A-16545-1",
 		nStackNum = 0,
@@ -5865,7 +5918,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "CB17A27D69FA404595AC4F5911DBD5C4-22875-12",
 		nStackNum = 0,
@@ -5894,7 +5947,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "FF62CD3CAA5A4BACA610D36AE965408B-27094-1",
 		nStackNum = 0,
@@ -5924,7 +5977,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872A1DAB0-367-1",
 		nStackNum = 0,
@@ -5954,7 +6007,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872A1DAB0-6163-1",
 		nStackNum = 0,
@@ -5984,7 +6037,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA692080-6120-1",
 		nStackNum = 0,
@@ -6013,7 +6066,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA712AF0-2778-1",
 		nStackNum = 0,
@@ -6042,7 +6095,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "B509227E373E4A07AC4C6C9DAA326948-17890-1",
 		nStackNum = 0,
@@ -6071,13 +6124,13 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "742AF181BD714EAA86AE3FFDC9CAB08B-24275-1",
 		nStackNum = 0,
 		bFlipHideOthers = false,
 		dwID = 24275,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "化解",
 		nIconID = 14129,
@@ -6101,7 +6154,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "0000017AEC76D9E0-9904-1",
 		nStackNum = 0,
@@ -6130,7 +6183,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872421A80-6143-1",
 		nStackNum = 0,
@@ -6160,7 +6213,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872421A80-5735-1",
 		nStackNum = 0,
@@ -6190,7 +6243,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87205F0F0-5668-1",
 		nStackNum = 0,
@@ -6219,7 +6272,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872426120-2065-1",
 		nStackNum = 0,
@@ -6248,7 +6301,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "5EC254268AD340CA95C8CB5D5B32FCFA-22894-1",
 		nStackNum = 0,
@@ -6278,7 +6331,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAB798F0-2315-1",
 		nStackNum = 0,
@@ -6307,7 +6360,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872059E70-2953-1",
 		nStackNum = 0,
@@ -6337,7 +6390,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872059E70-6637-2",
 		nStackNum = 0,
@@ -6367,7 +6420,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872059E70-6636-2",
 		nStackNum = 0,
@@ -6397,7 +6450,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872059E70-8839-2",
 		nStackNum = 0,
@@ -6427,7 +6480,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAB73810-5777-1",
 		nStackNum = 0,
@@ -6456,7 +6509,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAB7CD70-2849-2",
 		nStackNum = 0,
@@ -6485,7 +6538,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CEAFF0-14637-1",
 		nStackNum = 0,
@@ -6515,7 +6568,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CEAFF0-3447-1",
 		nStackNum = 0,
@@ -6545,7 +6598,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CEAFF0-6240-1",
 		nStackNum = 0,
@@ -6575,7 +6628,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F89243FCB0-9873-1",
 		nStackNum = 0,
@@ -6604,7 +6657,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA70B3E0-9874-1",
 		nStackNum = 0,
@@ -6633,7 +6686,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F892D2F910-6224-1",
 		nStackNum = 0,
@@ -6662,7 +6715,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9DEFF48F79204177BA63DA3119A29C71-2542-1",
 		nStackNum = 0,
@@ -6691,7 +6744,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "72F02254B6474260A77E9EA7DB331BB2-17047-1",
 		nStackNum = 0,
@@ -6720,7 +6773,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "5DC05BA832044FC8BE948199FB8E1216-17990-1",
 		nStackNum = 0,
@@ -6749,7 +6802,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "03FC6B9A319A449688939CF6952071A8-17991-1",
 		nStackNum = 0,
@@ -6778,7 +6831,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F6119599201A4712AA0D9E90A0AB8B60-20802-1",
 		nStackNum = 0,
@@ -6807,7 +6860,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "5EC254268AD340CA95C8CB5D5B32FCFA-22698-1",
 		nStackNum = 0,
@@ -6836,7 +6889,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "D785041635E24BE49F9882BEBB68D788-24473-1",
 		nStackNum = 0,
@@ -6865,7 +6918,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F3B211C25DA046EB8951F9A11BCF7257-27001-1",
 		nStackNum = 0,
@@ -6895,7 +6948,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729B3EC0-3214-1",
 		nStackNum = 0,
@@ -6924,7 +6977,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8720443B0-3274-2",
 		nStackNum = 0,
@@ -6954,7 +7007,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8720443B0-9073-1",
 		nStackNum = 0,
@@ -6984,7 +7037,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA679D50-12580-1",
 		nStackNum = 0,
@@ -7013,7 +7066,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729BCC50-3315-2",
 		nStackNum = 0,
@@ -7043,7 +7096,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739E4C00-5744-1",
 		nStackNum = 0,
@@ -7073,7 +7126,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739E4C00-4439-6",
 		nStackNum = 0,
@@ -7103,7 +7156,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739E4C00-6279-1",
 		nStackNum = 0,
@@ -7133,7 +7186,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E35EC2542648AD8356C8CB5D5B32FC-6414-1",
 		nStackNum = 0,
@@ -7162,7 +7215,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "94FD81EF99A14FB5A31216FF036B3149-15234-1",
 		nStackNum = 0,
@@ -7191,7 +7244,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9599201A71264A8A839E90A0AB8B6099-18071-1",
 		nStackNum = 0,
@@ -7220,7 +7273,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "87094D7A50A648CFAA6F8A2F3632B451-19222-1",
 		nStackNum = 0,
@@ -7250,7 +7303,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CFDB00-5995-1",
 		nStackNum = 0,
@@ -7279,7 +7332,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CFAA90-6200-1",
 		nStackNum = 0,
@@ -7308,7 +7361,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872CFC200-6434-1",
 		nStackNum = 0,
@@ -7337,7 +7390,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA6841B0-6739-1",
 		nStackNum = 0,
@@ -7366,7 +7419,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F892443E00-12411-1",
 		nStackNum = 0,
@@ -7396,7 +7449,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F892443E00-12530-1",
 		nStackNum = 0,
@@ -7426,7 +7479,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9DEFF48F79204177BA63DA3119A29C71-14149-1",
 		nStackNum = 0,
@@ -7455,7 +7508,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA687040-7790-1",
 		nStackNum = 0,
@@ -7484,7 +7537,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E35EC2542648AD8356C8CB5D5B32FC-6154-1",
 		nStackNum = 0,
@@ -7513,7 +7566,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "94FD81EF99A14FB5A31216FF036B3149-14546-1",
 		nStackNum = 0,
@@ -7542,7 +7595,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "26009E857EBE49E1A9DB331BB22B12C2-18088-1",
 		nStackNum = 0,
@@ -7571,7 +7624,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "AC2B419E1B424433A99050EACFB7AEE9-23047-1",
 		nStackNum = 0,
@@ -7616,7 +7669,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8724140B0-8300-1",
 		nStackNum = 0,
@@ -7645,7 +7698,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87240C900-8279-1",
 		nStackNum = 0,
@@ -7674,7 +7727,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "54268AD30CAA4567B2CB5D5B32FCFA94-9896-1",
 		nStackNum = 0,
@@ -7703,7 +7756,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87240F150-8291-1",
 		nStackNum = 0,
@@ -7732,7 +7785,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA6FF1D0-8302-1",
 		nStackNum = 0,
@@ -7761,7 +7814,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA700260-10213-2",
 		nStackNum = 0,
@@ -7790,7 +7843,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "8AD30CAA56724C88B25D5B32FCFA9481-8424-2",
 		nStackNum = 0,
@@ -7819,7 +7872,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "DCA0C47626904F449AA8ADF0169A7653-25885-1",
 		nStackNum = 0,
@@ -7838,6 +7891,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "莫朽",
+		dwID = 28073,
+		nIconID = 21954,
+		szUUID = "6DD28412-977E-4F60-AE32-8B7EA990C57F",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "化解",
+		bEnable = true,
+	},
 	-- 长歌
 	{
 		szNote = "高山流水",
@@ -7849,7 +7917,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001A39540F830-9377-3",
 		nStackNum = 0,
@@ -7878,7 +7946,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8722859B0-10014-1",
 		nStackNum = 0,
@@ -7907,7 +7975,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "605699E5FDF947AEBD62DF91428A0108-15948-1",
 		nStackNum = 0,
@@ -7936,7 +8004,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872065590-9334-1",
 		nStackNum = 0,
@@ -7965,7 +8033,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729A6180-9266-1",
 		nStackNum = 0,
@@ -7994,7 +8062,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729A7A30-9544-1",
 		nStackNum = 0,
@@ -8023,7 +8091,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872283FC0-9515-1",
 		nStackNum = 0,
@@ -8052,7 +8120,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "1E766CC0D0874492B0B50EFC343988E1-9337-1",
 		nStackNum = 0,
@@ -8082,7 +8150,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "1E766CC0D0874492B0B50EFC343988E1-9336-1",
 		nStackNum = 0,
@@ -8112,7 +8180,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8720704E0-10000-1",
 		nStackNum = 0,
@@ -8141,7 +8209,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "2854F65DF91944E4B2A2690455AC4F59-21117-1",
 		nStackNum = 0,
@@ -8170,7 +8238,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "2FAC114A4E604B139E06ED503E96799A-24313-1",
 		nStackNum = 0,
@@ -8200,7 +8268,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872BB3D00-11457-1",
 		nStackNum = 0,
@@ -8229,7 +8297,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873D82750-11319-1",
 		nStackNum = 0,
@@ -8258,7 +8326,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F89243D230-11201-1",
 		nStackNum = 0,
@@ -8287,7 +8355,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872B94DB0-11344-1",
 		nStackNum = 0,
@@ -8316,7 +8384,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "8EA512C616264FF1806B314923939CF6-18148-1",
 		nStackNum = 0,
@@ -8345,7 +8413,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E35EC2542648AD8356C8CB5D5B32FC-20832-1",
 		nStackNum = 0,
@@ -8375,7 +8443,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9DEFF48F79204177BA63DA3119A29C71-13771-1",
 		nStackNum = 0,
@@ -8404,7 +8472,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "605699E5FDF947AEBD62DF91428A0108-13778-1",
 		nStackNum = 0,
@@ -8433,7 +8501,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "2254B647260049E89F9EA7DB331BB22B-14355-1",
 		nStackNum = 0,
@@ -8462,7 +8530,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F987F8B501E042F98CCDB94D6683BE69-14067-1",
 		nStackNum = 0,
@@ -8492,7 +8560,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9DEFF48F79204177BA63DA3119A29C71-15967-1",
 		nStackNum = 0,
@@ -8521,7 +8589,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "8AD30CAA56724C88B25D5B32FCFA9481-17028-1",
 		nStackNum = 0,
@@ -8551,7 +8619,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "466A797809624BB49AD464285C3BBF96-18039-1",
 		nStackNum = 0,
@@ -8580,7 +8648,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "FC2F785CA5BF4AE3BFF362AA3779325A-17596-1",
 		nStackNum = 0,
@@ -8610,7 +8678,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "FC2F785CA5BF4AE3BFF362AA3779325A-17596-2",
 		nStackNum = 0,
@@ -8640,7 +8708,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "59A42E4EF5D3451987B0C39B2402722F-21095-0",
 		nStackNum = 0,
@@ -8670,7 +8738,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "4D50660883ED4BEF9A8C9FC15510BBE4-18203-1",
 		nStackNum = 0,
@@ -8699,7 +8767,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "91C7D39F9407466D909104F553FD256D-18065-1",
 		nStackNum = 0,
@@ -8728,7 +8796,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "4CD46CFE9D674AAD8C6948DDC4D69FD2-17585-1",
 		nStackNum = 0,
@@ -8757,7 +8825,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "EBEFA2C9BA754312AF4F64EEE6EB8028-17997-1",
 		nStackNum = 0,
@@ -8802,7 +8870,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C25DF93DA1C54D3980CEDF4EB52237A0-20075-1",
 		nStackNum = 0,
@@ -8831,7 +8899,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9F350EBCA1B34450B0151D527A29B3BD-20667-1",
 		nStackNum = 0,
@@ -8860,7 +8928,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "8A1DE72306484A28A216A7DD8FC8CA76-20398-1",
 		nStackNum = 0,
@@ -8889,7 +8957,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "E6654AE053E64274AB413469A1DDC9C2-20799-1",
 		nStackNum = 0,
@@ -8918,7 +8986,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "B6B5BB354A644AB98BC502A2FA0DC2AC-20882-1",
 		nStackNum = 0,
@@ -8947,7 +9015,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "6180FE14113849D0A9EFD95D2AE075D8-26010-50",
 		nStackNum = 0,
@@ -8977,7 +9045,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "A59394410AD24D21A848F5EC007C7DB8-24233-1",
 		nStackNum = 0,
@@ -9006,7 +9074,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "1D3EF97B7BA648E69C4765587705A64F-24241-0",
 		nStackNum = 0,
@@ -9035,7 +9103,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "BF7D50F82C904FF8A4742CE4D9EF6964-23898-1",
 		nStackNum = 0,
@@ -9065,7 +9133,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "71D6E7860F1C4D7BAC2359E5DF196F78-26951-1",
 		nStackNum = 0,
@@ -9094,7 +9162,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "7B76712811144BE2970A2C6D1EDE0923-27459-1",
 		nStackNum = 0,
@@ -9123,7 +9191,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "FE86D23272784C318C5E0EEF476BA7F4-27126-1",
 		nStackNum = 0,
@@ -9152,7 +9220,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "8E528D3E2A9C4E4E966C1FFA1A87C542-27408-1",
 		nStackNum = 0,
@@ -9181,7 +9249,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "3550821CC4D4488B8085DF773E488B9B-27409-1",
 		nStackNum = 0,
@@ -9225,7 +9293,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "88A6AD2A62A04280AD24B192F45B2E20-0-0",
 	},
@@ -9240,7 +9308,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872BABCE0-2757-1",
 		nStackNum = 0,
@@ -9270,7 +9338,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872089490-412-1",
 		nStackNum = 0,
@@ -9299,7 +9367,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87208B8D0-2719-1",
 		nStackNum = 0,
@@ -9328,7 +9396,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739E0240-1487-1",
 		nStackNum = 0,
@@ -9357,7 +9425,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "5EC254268AD340CA95C8CB5D5B32FCFA-22808-1",
 		nStackNum = 0,
@@ -9387,7 +9455,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873286A70-2686-1",
 		nStackNum = 0,
@@ -9417,7 +9485,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87207B4D0-538-4",
 		nStackNum = 0,
@@ -9447,7 +9515,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87207B4D0-9769-1",
 		nStackNum = 0,
@@ -9473,7 +9541,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		dwID = 12287,
 		szGroupID = "000001F892450E20",
@@ -9519,7 +9587,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F892450E20-10121-1",
 	},
@@ -9533,7 +9601,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "558A0C5CD6CB4EC382E553B5F721DB83-17967-1",
 		nStackNum = 0,
@@ -9563,7 +9631,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA70EBD0-2779-1",
 		nStackNum = 0,
@@ -9592,7 +9660,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAC74D10-6363-1",
 		nStackNum = 0,
@@ -9611,6 +9679,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "背水一战",
+		dwID = 28176,
+		nIconID = 13432,
+		szUUID = "01F29A46-22E4-418A-9E2E-0C6C331C4C9C",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "爆发",
+		bEnable = true,
+	},
 	-- 藏剑
 	{
 		szNote = "莺鸣",
@@ -9622,7 +9705,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F874A3F4B0-1728-1",
 		nStackNum = 0,
@@ -9651,7 +9734,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "227E373EA0754B1C936C9DAA326948DD-18008-1",
 		nStackNum = 0,
@@ -9680,7 +9763,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "1E766CC0D0874492B0B50EFC343988E1-21236-1",
 		nStackNum = 0,
@@ -9710,7 +9793,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87229F590-2543-1",
 		nStackNum = 0,
@@ -9739,7 +9822,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "93ED9C19F61149598871A80D9E90A0AB-16103-1",
 		nStackNum = 0,
@@ -9769,7 +9852,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729B6760-3468-1",
 		nStackNum = 0,
@@ -9799,7 +9882,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729B6760-8210-1",
 		nStackNum = 0,
@@ -9843,7 +9926,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873A2C350-3276-1",
 	},
@@ -9857,7 +9940,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729BFA40-3316-2",
 		nStackNum = 0,
@@ -9901,7 +9984,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "568E34503BEE40BC82D075645AA75C6C-22750-1",
 		nStackNum = 0,
@@ -9931,7 +10014,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872967180-4423-1",
 		nStackNum = 0,
@@ -9960,7 +10043,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873294D00-4056-1",
 		nStackNum = 0,
@@ -9989,7 +10072,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA677410-4754-2",
 		nStackNum = 0,
@@ -10032,7 +10115,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA674710-12487-1",
 	},
@@ -10046,7 +10129,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "82E35EC2542648AD8356C8CB5D5B32FC-21293-0",
 		nStackNum = 0,
@@ -10075,7 +10158,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "BFB03E1852CE41F4B982A37CD0F373D6-25716-1",
 		nStackNum = 0,
@@ -10104,7 +10187,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "BFB03E1852CE41F4B982A37CD0F373D6-25716-2",
 		nStackNum = 0,
@@ -10149,7 +10232,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "93ED9C19F61149598871A80D9E90A0AB-20939-2",
 		nStackNum = 0,
@@ -10178,7 +10261,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8924420A0-7118-1",
 		nStackNum = 0,
@@ -10207,7 +10290,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001E3269807C0-12356-3",
 		nStackNum = 0,
@@ -10236,7 +10319,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "605699E5FDF947AEBD62DF91428A0108-10221-1",
 		nStackNum = 0,
@@ -10265,7 +10348,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "BAA3B71386F741008C222D59BA002A9D-24321-1",
 		nStackNum = 0,
@@ -10295,7 +10378,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "742AF180BD704EA986AE3EFCC8C9AF8B-25941-1",
 		nStackNum = 0,
@@ -10325,7 +10408,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729C1CA0-9284-1",
 		nStackNum = 0,
@@ -10355,7 +10438,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872BB21D0-11456-1",
 		nStackNum = 0,
@@ -10385,7 +10468,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C8F9E1DBB7D94D1D8DDD22FA051EC968-24232-1",
 		nStackNum = 0,
@@ -10415,7 +10498,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9599201A71264A8A839E90A0AB8B6099-17037-1",
 		nStackNum = 0,
@@ -10445,7 +10528,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "5514AC434FF0459184DBD5C4353E5049-18248-1",
 		nStackNum = 0,
@@ -10474,7 +10557,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "DDD9C9D1C21F44AEBA428F38227671A3-17654-1",
 		nStackNum = 0,
@@ -10504,7 +10587,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "73FAD2144CCE4B5DA8AF70C4E129359B-26007-1",
 		nStackNum = 0,
@@ -10533,7 +10616,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "4684D91EBEE0440C9EE780EF32874143-26006-1",
 		nStackNum = 0,
@@ -10562,7 +10645,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "EFA92D4CE5B742B59111504EA986D995-24554-4",
 		nStackNum = 0,
@@ -10592,7 +10675,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "EFA92D4CE5B742B59111504EA986D995-24168-4",
 		nStackNum = 0,
@@ -10622,7 +10705,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "D934955076FA475D9616E1460A8A5771-26944-1",
 		nStackNum = 0,
@@ -10651,7 +10734,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "79349A00B99C4BFA8F521FE982A37CD0-26857-1",
 		nStackNum = 0,
@@ -10695,7 +10778,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "13A401C0808440649589AB1AA7DEEB44-0-0",
 	},
@@ -10723,7 +10806,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872B99220-208-1",
 	},
@@ -10738,7 +10821,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "9DEFF48F79204177BA63DA3119A29C71-14982-0",
 		nStackNum = 0,
@@ -10800,7 +10883,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAC685B0-12546-10",
 		nStackNum = 0,
@@ -10829,7 +10912,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAC685B0-1900-10",
 		nStackNum = 0,
@@ -10869,7 +10952,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872BAD8B0-9962-1",
 		nStackNum = 0,
@@ -10899,7 +10982,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872BAD8B0-10078-1",
 		nStackNum = 0,
@@ -10943,7 +11026,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001A394F7C8A0-11815-1",
 	},
@@ -10971,7 +11054,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F892D3AD10-5666-1",
 	},
@@ -11060,7 +11143,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872050480-999-1",
 		nStackNum = 0,
@@ -11089,7 +11172,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "5BA83204FC8D4FA7A58199FB8E1216FF-17933-1",
 		nStackNum = 0,
@@ -11109,21 +11192,6 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "剑道万象",
-		dwID = 27554,
-		nIconID = 20067,
-		szUUID = "30A2B540-4B1E-4E9A-82D4-F85E270BB8E6",
-		nStackNum = 0,
-		nLevel = 0,
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szContent = "标记",
-		bEnable = true,
-	},
-	{
 		szNote = "化三清",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -11133,7 +11201,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F89243C4C0-373-0",
 		nStackNum = 0,
@@ -11152,6 +11220,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "剑道万象",
+		dwID = 27138,
+		nIconID = 18278,
+		szUUID = "7BAE5D92-B53A-4839-AB9B-5A8F2890C07E",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "移速",
+		bEnable = true,
+	},
 	-- 万花
 	{
 		szNote = "金屋",
@@ -11163,7 +11246,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8720374D0-6261-1",
 		nStackNum = 0,
@@ -11192,7 +11275,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87203D060-8491-1",
 		nStackNum = 0,
@@ -11221,7 +11304,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "561863A06BD44EBBA85E82999ECCC13D-15340-1",
 		nStackNum = 0,
@@ -11251,7 +11334,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "561863A06BD44EBBA85E82999ECCC13D-14946-1",
 		nStackNum = 0,
@@ -11295,7 +11378,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8720821E0-9724-6",
 	},
@@ -11309,7 +11392,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739DB150-113-1",
 		nStackNum = 0,
@@ -11339,7 +11422,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739D6380-9809-1",
 		nStackNum = 0,
@@ -11369,7 +11452,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739D6380-9806-1",
 		nStackNum = 0,
@@ -11399,7 +11482,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739D6380-11980-1",
 		nStackNum = 0,
@@ -11429,7 +11512,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739D6380-11981-1",
 		nStackNum = 0,
@@ -11459,7 +11542,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739D6380-2797-6",
 		nStackNum = 0,
@@ -11489,7 +11572,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739D6380-11979-1",
 		nStackNum = 0,
@@ -11533,7 +11616,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87203FB30-854-1",
 	},
@@ -11547,7 +11630,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87327EE10-9801-1",
 		nStackNum = 0,
@@ -11576,7 +11659,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "94FD81EF99A14FB5A31216FF036B3149-6416-1",
 		nStackNum = 0,
@@ -11620,7 +11703,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "605699E5FDF947AEBD62DF91428A0108-21115-1",
 	},
@@ -11634,7 +11717,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "554E2F0AC4554F068B1C0F5F4F501349-24260-1",
 		nStackNum = 0,
@@ -11678,7 +11761,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AAC703F0-198-5",
 	},
@@ -11692,7 +11775,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "3704CD0D0466437690212E833AFA61BD-24465-1",
 		nStackNum = 0,
@@ -11736,7 +11819,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872047790-2701-3",
 	},
@@ -11750,7 +11833,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA687A90-3858-1",
 		nStackNum = 0,
@@ -11779,7 +11862,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "0000017B34C51270-9700-1",
 		nStackNum = 0,
@@ -11808,7 +11891,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "93ED9C19F61149598871A80D9E90A0AB-2704-1",
 		nStackNum = 0,
@@ -11837,7 +11920,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "69DC3E6E23024D1BA8274F6056132DEB-26988-1",
 		nStackNum = 0,
@@ -11866,7 +11949,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "BEB23BAEFE9C4F0F8B6BC235ECBA84E5-20796-1",
 		nStackNum = 0,
@@ -11895,7 +11978,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C45007C60CA84D48AAFEC1E5CADBCDE5-19184-0",
 		nStackNum = 0,
@@ -11924,7 +12007,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "69727800E4204804A48DCE8CF3EBD60E-24368-1",
 		nStackNum = 0,
@@ -11953,7 +12036,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C586776E4FD0490B8C56A76B9E156DDD-24368-2",
 		nStackNum = 0,
@@ -11982,7 +12065,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "A4ECC8DA0C8C447DB07F04E79CD15D3A-24368-3",
 		nStackNum = 0,
@@ -12011,7 +12094,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "6DEC65B4C8CC46B8A6C0958A26EA494D-24368-4",
 		nStackNum = 0,
@@ -12040,7 +12123,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "74FE070044404D289DBF67F00E4FF8A3-24368-5",
 		nStackNum = 0,
@@ -12069,7 +12152,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "162EB97E6BF2419C9BB34656C63168D4-24368-6",
 		nStackNum = 0,
@@ -12114,7 +12197,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F892D32390-6239-1",
 		nStackNum = 0,
@@ -12143,7 +12226,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "90FFA095AB6148BB9899FD7AF662DF91-13950-1",
 		nStackNum = 0,
@@ -12172,7 +12255,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "FDF97AE0F6A14625B791428A01082E1E-2844-1",
 		nStackNum = 0,
@@ -12201,7 +12284,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "FDBFB6F1F15D4C1F8E504DE8075F232F-24332-2",
 		nStackNum = 0,
@@ -12230,7 +12313,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "27BAD76D5FD44050B2813EF3F089EB2E-24439-1",
 		nStackNum = 0,
@@ -12260,7 +12343,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "4CD46CFE9D674AAD8C6948DDC4D69FD2-15083-1",
 		nStackNum = 0,
@@ -12289,7 +12372,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729AB090-11886-1",
 		nStackNum = 0,
@@ -12319,7 +12402,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8729AB090-11887-1",
 		nStackNum = 0,
@@ -12349,7 +12432,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA67DB80-3217-1",
 		nStackNum = 0,
@@ -12378,7 +12461,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA681C80-5781-1",
 		nStackNum = 0,
@@ -12408,7 +12491,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8AA681C80-11838-1",
 		nStackNum = 0,
@@ -12438,7 +12521,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8722A1480-3280-2",
 		nStackNum = 0,
@@ -12481,7 +12564,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F880CA5B30-3399-1",
 	},
@@ -12495,7 +12578,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87328F7B0-4471-2",
 		nStackNum = 0,
@@ -12540,7 +12623,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "A45D82E35EC24542A20C56C8CB5D5B32-6379-1",
 		nStackNum = 0,
@@ -12583,7 +12666,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "81EF99A1FB5948EA8416FF036B314923-6345-1",
 	},
@@ -12597,7 +12680,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "6CFE9D67AADF43249A48DDC4D69FD269-18083-1",
 		nStackNum = 0,
@@ -12641,7 +12724,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "0000017A8352E940-8451-1",
 	},
@@ -12669,7 +12752,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "201A7126A8A540D1A790A0AB8B6099FD-20746-1",
 	},
@@ -12697,7 +12780,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "201A7126A8A540D1A790A0AB8B6099FD-20747-1",
 	},
@@ -12711,7 +12794,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "22586FB4067E42AE94AA01F5758BFCAE-22993-1",
 		nStackNum = 0,
@@ -12754,7 +12837,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F8739DD590-9277-1",
 	},
@@ -12769,7 +12852,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F872072AB0-9395-1",
 		nStackNum = 0,
@@ -12814,7 +12897,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873D7E150-11333-1",
 		nStackNum = 0,
@@ -12858,7 +12941,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873D7AA50-11156-1",
 	},
@@ -12886,7 +12969,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F873D84AA0-11001-1",
 	},
@@ -12900,7 +12983,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "000001F87207FC10-11206-1",
 		nStackNum = 0,
@@ -12929,7 +13012,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "6FA84B2CAA4749BE9B029BEFC5B16DE8-10815-1",
 		nStackNum = 0,
@@ -12958,7 +13041,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "0E6843D0D709491796951B7580FD620C-10816-1",
 		nStackNum = 0,
@@ -12987,7 +13070,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "4560184E2F3A4C239BFDDE34C27A6EF0-10814-1",
 		nStackNum = 0,
@@ -13016,7 +13099,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F3B311C25DA046EB8A51FAA21BD07358-24643-1",
 		nStackNum = 0,
@@ -13046,7 +13129,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "C25DF93DA1C54D3980CEDF4EB52237A0-14097-1",
 		nStackNum = 0,
@@ -13076,7 +13159,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "AB3101680B0C4B5287F7CBCFDF0ED4C3-15801-1",
 		nStackNum = 0,
@@ -13105,7 +13188,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "060C8DB5588C49A785E713EC10BF5C19-15897-1",
 		nStackNum = 0,
@@ -13135,7 +13218,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "3204FC8DFA7D494FA099FB8E1216FF03-17996-1",
 		nStackNum = 0,
@@ -13164,7 +13247,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "DBA933EA1B524B268A12C2F9A1D303CE-17802-1",
 		nStackNum = 0,
@@ -13193,7 +13276,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "4E7EB509227E4373A8B14C6C9DAA3269-17588-1",
 		nStackNum = 0,
@@ -13222,7 +13305,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "DDFBC465D6C949F9B4690C81C75428F6-17801-1",
 		nStackNum = 0,
@@ -13252,7 +13335,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "6E2C0336B7C1461989C500E93810126E-24448-1",
 		nStackNum = 0,
@@ -13297,7 +13380,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F3B311C25DA046EB8A51FAA21BD07358-24110-0",
 		nStackNum = 0,
@@ -13326,7 +13409,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "F52B2FAC114A44E6AC7A06ED503E9679-24029-0",
 		nStackNum = 0,
@@ -13355,7 +13438,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "3FC46550246849BCB3DA284BC9E5789E-24211-1",
 		nStackNum = 0,
@@ -13384,7 +13467,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "050ACB7F81B743EBBCF089EB2ED215D9-24108-1",
 		nStackNum = 0,
@@ -13414,7 +13497,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "7390D6E4C76C4EF98BE42B4411504EA9-27128-1",
 		nStackNum = 0,
@@ -13443,7 +13526,7 @@ return {
 		aContentColor = {
 			255,
 			255,
-			0,
+			31,
 		},
 		szUUID = "E6125B10E5524DE2ABE6E766C19897DC-27123-1",
 		nStackNum = 0,
