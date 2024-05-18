@@ -47,20 +47,6 @@ Buff 加入监控的条件是足够「重要」且非「常驻」，为了整个
 因为茗伊插件监控数量的上限限制，白云监控已于 v1.5.3 版本废弃，不会再进行更新与打包
 :::
 
-[下载](download.md)中额外提供了只监控白云的监控文件，监控范围仅保留了特殊技能、沉默、缴械、减伤、爆发、封内，可以跟正常的 Buff 监控一起导入。
-
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1700999727309.jpg)
-
-该监控默认监控白云，如果你需要监控小剑、斧头或是其他标记，请打开文件修改 uuid 保存后导入，再修改监控目标。
-
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1700999874470.png)
-
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1700999917723.jpg)
-
-默认显示位置在此处，如果修改导入了多个标记监控会重叠在一起，请自行拖拽到你习惯的位置。
-
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/20220430030945.png)
-
 ### 我该怎么调整技能 Buff 显示的顺序？
 
 使用编辑器用 `GBK` 编码格式打开 `.jx3dat` 文件，里面数据结构可以使用 `Lua` 语言格式化查看，找到你想调整的 Buff，将该 Buff 调整到你想调整的位置，注意每个 Buff 的花括号作用范围。
