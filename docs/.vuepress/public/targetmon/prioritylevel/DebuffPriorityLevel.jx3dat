@@ -11371,6 +11371,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "重影",
+		dwID = 28230,
+		nIconID = 20079,
+		szUUID = "232C471A-29A4-4206-9091-7CB82A96F2C2",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "重影",
+		bEnable = true,
+	},
 	-- 丐帮
 	{
 		szNote = "亢龙有悔",
