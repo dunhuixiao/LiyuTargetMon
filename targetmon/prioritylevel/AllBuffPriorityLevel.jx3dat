@@ -10182,7 +10182,7 @@ return {
 		nStackNum = 0,
 		bFlipHideOthers = false,
 		dwID = 9999,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "免控",
 		nIconID = 7165,
@@ -16807,6 +16807,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "云合影从",
+		dwID = 28229,
+		nIconID = 20079,
+		szUUID = "EF98490A-B3D4-400F-855F-C3BE46E8F977",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "爆发",
+		bEnable = true,
+	},
 	-- 明教
 	{
 		szNote = "光明相",
@@ -23249,7 +23264,7 @@ return {
 		nStackNum = 0,
 		bFlipHideOthers = false,
 		dwID = 2844,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "瞬发",
 		nIconID = 3019,
@@ -23947,6 +23962,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "重影",
+		dwID = 28230,
+		nIconID = 20079,
+		szUUID = "232C471A-29A4-4206-9091-7CB82A96F2C2",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "重影",
+		bEnable = true,
 	},
 	-- 丐帮
 	{
