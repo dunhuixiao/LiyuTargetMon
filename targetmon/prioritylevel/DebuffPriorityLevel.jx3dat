@@ -11344,32 +11344,18 @@ return {
 	},
 	{
 		szNote = "凝形逐踪",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "8EB1952736A24997BA24B57C8278B0A8",
+		dwID = 22749,
+		nIconID = 17179,
+		szUUID = "7A227972-98EC-4BB9-B0FD-E62997AEBABC",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "8EB1952736A24997BA24B57C8278B0A8-22749-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 22749,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "标记",
-		nIconID = 17179,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		bEnable = true,
 	},
 	{
 		szNote = "重影",
