@@ -63,10 +63,6 @@ features:
 请尽量不要使用贴吧私信，约等于失联。
 :::
 
-## QQ 群
-
-[点击加入](https://jq.qq.com/?_wv=1027&k=jmw5fLpn)
-
 ## 贴吧链接
 
 [当前贴吧链接](https://tieba.baidu.com/p/6470946492?see_lz=1)

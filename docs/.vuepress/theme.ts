@@ -9,10 +9,11 @@ export default hopeTheme({
   docsDir: "docs",
   docsBranch: "master",
   navbar: [
-    { text: "使用教程 💡", link: "/guide/start" },
-    { text: "下载 🐣", link: "/guide/download" },
-    { text: "FAQ 📄", link: "/guide/faq" },
-    { text: "更新日志 ✨", link: "/guide/change-log" },
+    { text: "💡 使用教程", link: "/guide/start" },
+    { text: "🐣 下载", link: "/guide/download" },
+    { text: "📄 FAQ", link: "/guide/faq" },
+    { text: "✨ 更新日志", link: "/guide/change-log" },
+    { text: "🐧 点击加入", link: "https://jq.qq.com/?_wv=1027&k=jmw5fLpn" },
   ],
   sidebar: [],
   copyright: false,
@@ -72,3 +73,5 @@ export default hopeTheme({
     },
   },
 });
+
+
