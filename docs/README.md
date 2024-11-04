@@ -63,9 +63,11 @@ features:
 请尽量不要使用贴吧私信，约等于失联。
 :::
 
-## 贴吧链接
+## 论坛链接
 
-[当前贴吧链接](https://tieba.baidu.com/p/6470946492?see_lz=1)
+[剑三魔盒](https://www.jx3box.com/dbm/pkg/1287)
+
+[历史贴吧链接](https://tieba.baidu.com/p/6470946492?see_lz=1)
 
 [历史贴吧连接 1](https://tieba.baidu.com/p/5464592160?see_lz=1)
 
