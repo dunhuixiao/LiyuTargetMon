@@ -4731,6 +4731,37 @@ return {
 		szContent = "√‚øÿ",
 		bEnable = true,
 	},
+	-- ∂Œ œ
+	{
+		szNote = "—©÷ÿª®¬˙",
+		dwID = 28968,
+		nIconID = 22808,
+		szUUID = "81E4413A-51CE-4D82-ABA4-848C6F7DB4D7",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "√‚øÿ",
+		bEnable = true,
+	},
+	{
+		szNote = "ﬁ“∑Á√‚øÿ",
+		dwID = 29167,
+		nIconID = 22814,
+		szUUID = "2FAC64CC-A7A0-4BF5-AF96-C5E00E1E6DB3",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "√‚øÿ",
+		bEnable = true,
+	},
 
 	-- ºı…À£®ºı…À°¢…¡±‹°¢∆ΩÃØ°¢√‚∑‚ƒ⁄°¢∑¥µØ°¢ªØΩ‚£© 
 	{
@@ -9268,6 +9299,52 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	-- ∂Œ œ
+	{
+		szNote = "‘¬¬‰≤Œ∫·",
+		dwID = 28965,
+		nIconID = 22809,
+		szUUID = "64A2F92C-1CB4-4658-BA42-D6CFC69C454C",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "√‚…À",
+		bEnable = true,
+	},
+	{
+		szNote = "‘¬¬‰≤Œ∫·",
+		dwID = 29534,
+		nIconID = 22809,
+		szUUID = "70F0D794-3A46-49A2-9F6D-46CB8A6FA9D1",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "ºı…À",
+		bEnable = true,
+	},
+	{
+		szNote = "ﬁ“∑Á",
+		dwID = 29683,
+		nIconID = 22814,
+		szUUID = "7060FF64-FFAE-485A-8C75-3D64523C4F5C",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "ªØΩ‚",
+		bEnable = true,
+	},
 	
 	-- ±¨∑¢
 	{
@@ -10785,6 +10862,22 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	-- ∂Œ œ
+	{
+		szNote = "À∑∑Á—Ô≥æ",
+		dwID = 29232,
+		nIconID = 22874,
+		szUUID = "D210AA90-4E28-4E86-B8FA-C33154E025C6",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "±¨∑¢",
+		bEnable = true,
 	},
 
 	-- ∆‰À˚
@@ -13577,5 +13670,36 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	-- ∂Œ œ
+	{
+		szNote = "—≠––",
+		dwID = 28756,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szUUID = "7A261AEE-EAA0-4D3C-904F-EFAE4E2EDEA7",
+		nStackNum = 0,
+		nLevel = 0,
+		nIconID = 22818,
+		szContent = "—≠––",
+		bEnable = true,
+	},
+	{
+		szNote = "‘∆…¢",
+		dwID = 29180,
+		nIconID = 22807,
+		szUUID = "2A54B76E-CAE0-45B2-B5A0-8B69517E8C49",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "‘∆…¢",
+		bEnable = true,
 	},
 }
