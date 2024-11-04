@@ -9241,7 +9241,36 @@ return {
 				aSoundAppear = {},
 				aSoundDisappear = {},
 			},
-			
+			{
+				szNote = "月落参横",
+				dwID = 28965,
+				nIconID = 22809,
+				szUUID = "64A2F92C-1CB4-4658-BA42-D6CFC69C454C",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "免伤",
+				bEnable = true,
+			},
+			{
+				szNote = "月落参横",
+				dwID = 29534,
+				nIconID = 22809,
+				szUUID = "70F0D794-3A46-49A2-9F6D-46CB8A6FA9D1",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "减伤",
+				bEnable = true,
+			},
 			{
 				szNote = "抟风",
 				dwID = 29683,
