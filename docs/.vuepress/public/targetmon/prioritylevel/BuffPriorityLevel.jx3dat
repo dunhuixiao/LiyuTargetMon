@@ -1113,33 +1113,19 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "合虚",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "31F019AAA28B49C99CA4825E548A0C56",
+		szNote = "无尤",
+		dwID = 29221,
+		nIconID = 13386,
+		szUUID = "0C782A4E-1CC6-402C-AC21-CDF839BA5215",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			255,
 			31,
 		},
-		szUUID = "31F019AAA28B49C99CA4825E548A0C56-17939-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 17939,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "免控",
-		nIconID = 14079,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		bEnable = true,
 	},
 	-- 万花
 	{
@@ -5000,32 +4986,18 @@ return {
 	},
 	{
 		szNote = "玄德",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "B3AB3B70D9F14EB6B10F27064857E200",
+		dwID = 9171,
+		nIconID = 621,
+		szUUID = "7E684504-1886-4536-9FE5-D84C634810FD",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			255,
 			31,
 		},
-		szUUID = "B3AB3B70D9F14EB6B10F27064857E200-9171-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 9171,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "减内伤",
-		nIconID = 621,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		bEnable = true,
 	},
 	{
 		szNote = "合真",
@@ -10937,6 +10909,21 @@ return {
 		szUUID = "000001F872B99220-208-1",
 	},
 	-- 纯阳
+	{
+		szNote = "人剑合一",
+		dwID = 29204,
+		nIconID = 14078,
+		szUUID = "FABE7EE0-7562-4D86-BA3E-3915C5750738",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "人剑",
+		bEnable = true,
+	},
 	{
 		szNote = "云中剑",
 		bFlipHideVoid = false,
