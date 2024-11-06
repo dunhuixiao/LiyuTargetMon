@@ -12,6 +12,7 @@ prev: /guide/faq.html
 	* 新增大道无术·至柔 Debuff
 	* 删除合虚 Buff
 	* 删除剑入 Debuff
+	* 修复剑斩列星 Debuff 显示
 * 万花
 * 七秀
 * 少林
@@ -19,15 +20,30 @@ prev: /guide/faq.html
 * 藏剑
 * 五毒
 * 明教
+	* 修复霜月 Debuff 显示
 * 丐帮
 * 苍云
 * 长歌
 * 霸刀
 * 凌雪阁
+	* 新增厄辞 Debuff
+	* 新增绝界封疆 Debuff
+	* 修复枭影 Debuff 显示
+	* 新增飞刃回转 Debuff
+	* 修复罚罪狱 Debuff 显示
 * 衍天宗
+	* 新增列宿游 Debuff
+	* 删除神占·山艮 Debuff
+	* 新增知微 Buff
+	* 删除五星连极 Buff
+	* 删除天杀 Debuff
+	* 新增连极阵 Buff
 * 北天药宗
+	* 新增谢枝 Debuff
+	* 新增南草 Buff
 * 刀宗
 * 万灵山庄
+	* 修复应天授命 Buff 显示
 :::
 
 ## 1.5.7 2024/11/05

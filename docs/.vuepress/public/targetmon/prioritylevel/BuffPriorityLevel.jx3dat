@@ -9128,32 +9128,18 @@ return {
 	-- 万灵山庄
 	{
 		szNote = "应天授命",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "71D6E7860F1C4D7BAC2359E5DF196F78",
+		dwID = 26951,
+		nIconID = 19605,
+		szUUID = "E24A92AE-D47E-47DF-9E34-7B392B9F7E5F",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			255,
 			31,
 		},
-		szUUID = "71D6E7860F1C4D7BAC2359E5DF196F78-26951-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 26951,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "授命",
-		nIconID = 19605,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		bEnable = true,
 	},
 	{
 		szNote = "汇灵合契",
@@ -10583,33 +10569,19 @@ return {
 	},
 	-- 衍天宗
 	{
-		szNote = "五星连极",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "5514AC434FF0459184DBD5C4353E5049",
+		szNote = "连极阵",
+		dwID = 29271,
+		nIconID = 14164,
+		szUUID = "8E7EA3DA-D33E-4100-8A42-8FFD17E1FB8E",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			255,
 			31,
 		},
-		szUUID = "5514AC434FF0459184DBD5C4353E5049-18248-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 18248,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "爆发",
-		nIconID = 14164,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		bEnable = true,
 	},
 	{
 		szNote = "天人合一",
@@ -13480,6 +13452,21 @@ return {
 			31,
 		},
 		szContent = "织翠",
+		bEnable = true,
+	},
+	{
+		szNote = "南草",
+		dwID = 29316,
+		nIconID = 15749,
+		szUUID = "79602888-BFFC-4F93-8024-5D48003A7C31",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "移速",
 		bEnable = true,
 	},
 	-- 刀宗
