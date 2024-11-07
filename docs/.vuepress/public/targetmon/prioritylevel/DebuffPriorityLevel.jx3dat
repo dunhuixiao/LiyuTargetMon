@@ -11227,6 +11227,21 @@ return {
 		szContent = "破军",
 		bEnable = true,
 	},
+	{
+		szNote = "啸西风",
+		dwID = 29347,
+		nIconID = 23480,
+		szUUID = "DD04C8DA-09DA-4F5A-9BE3-7E6927DC2BC8",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "啸西风",
+		bEnable = true,
+	},
 	-- 藏剑
 	{
 		aSoundDisappear = {},
@@ -11274,7 +11289,7 @@ return {
 		dwID = 25987,
 		nLevel = 1,
 		bEnable = true,
-		szContent = "剑鸣",
+		szContent = "标记",
 		nIconID = 14075,
 		tTargetKungfu = {
 			bAll = true,
@@ -11284,6 +11299,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "曳兵",
+		dwID = 24484,
+		nIconID = 18274,
+		szUUID = "03B0206A-0AF8-41B0-91D2-1C972BC24E52",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "降攻",
+		bEnable = true,
 	},
 	-- 五毒
 	{

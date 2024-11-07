@@ -15,12 +15,26 @@ prev: /guide/faq.html
 	* 修复剑斩列星 Debuff 显示
 * 万花
 * 七秀
-* 少林
+	* 修改玉骨 Buff 别名为减内伤
+	* 新增寒籁 Buff
+	* 新增拂袂 Buff
 * 天策
+	* 删除铁骑 Buff
+	* 新增啸西风 Debuff
+	* 新增戎行·盾 Buff
+* 少林
 * 藏剑
+	* 新增曳兵 Debuff
+	* 删除百锻 Buff
+	* 新增剑锋百锻 Buff
+	* 删除冰天 Debuff
+	* 删除逍遥 Debuff
+	* 修改剑鸣 Debuff 别名为标记
 * 五毒
 * 明教
 	* 修复霜月 Debuff 显示
+	* 删除烈火 Buff
+	* 新增燎原烈火 Buff
 * 丐帮
 * 苍云
 * 长歌
