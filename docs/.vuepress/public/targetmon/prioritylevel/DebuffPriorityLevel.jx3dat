@@ -2,33 +2,6 @@ return {
 	-- 这里是 Debuff 优先级
 	-- 特殊技能（决斗、禁疗等）
 	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====特殊技能（决斗、禁疗等）=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "BD6AC46255A84991AA18BA11D0464EF4",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "BD6AC46255A84991AA18BA11D0464EF4-0-0",
-	},
-	{
 		szNote = "尘身",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -1051,7 +1024,7 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "云熙",
+		szNote = "重创",
 		bFlipHideVoid = false,
 		tKungfu = {
 			bAll = true,
@@ -1620,33 +1593,6 @@ return {
 	
 	-- 沉默、缴械
 	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====沉默、缴械=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "86A8572225504185946E3E511E706CDB",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "86A8572225504185946E3E511E706CDB-0-0",
-	},
-	{
 		szNote = "沉默",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -1856,73 +1802,18 @@ return {
 	-- 藏剑
 	{
 		szNote = "霞流",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F833A40660",
+		dwID = 12321,
+		nIconID = 2373,
+		szUUID = "8E6A05F4-6F62-43C4-B274-1FA4C9DDB3AC",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "000001F833A40660-12321-1",
-		nStackNum = 0,
-		szGroup = "霞流缴械",
-		bFlipHideOthers = false,
-		dwID = 12321,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "缴械",
-		nIconID = 2373,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		nStackNum = 0,
-		szGroup = "霞流缴械",
-		szNote = "霞流",
-		nLevel = 2,
-		szContent = "缴械",
-		dwID = 12321,
 		bEnable = true,
-		nIconID = 2373,
-		szUUID = "5D2E4706-38D0-47BC-9D93-84FAD3D8C689",
-	},
-	{
-		szNote = "霞流",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F833A40660",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F833A40660-12321-3",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 12321,
-		nLevel = 3,
-		bEnable = true,
-		szContent = "缴械",
-		nIconID = 9532,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
 	},
 	{
 		szNote = "长致",
@@ -2318,33 +2209,6 @@ return {
 	},
 	
 	-- 眩晕、击倒
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====眩晕、击倒=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "AFA02540E5524C91A6609B04FA9A707F",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "AFA02540E5524C91A6609B04FA9A707F-0-0",
-	},
 	{
 		aSoundDisappear = {},
 		nStackNum = 0,
@@ -4174,33 +4038,6 @@ return {
 	
 	-- 定身
 	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====定身=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "9B280502F360459DBB29E2F35AD36914",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "9B280502F360459DBB29E2F35AD36914-0-0",
-	},
-	{
 		aSoundDisappear = {},
 		nStackNum = 0,
 		nIconID = 9550,
@@ -5327,33 +5164,6 @@ return {
 	},
 	
 	-- 锁足
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====锁足=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "8E3A8A8A5B684793914F8577FC8E528D",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "8E3A8A8A5B684793914F8577FC8E528D-0-0",
-	},
 	-- 纯阳
 	{
 		szNote = "三才化生",
@@ -6479,33 +6289,6 @@ return {
 	},
 	
 	-- 封内
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====封内=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "8522BE8620BE483488454FE64A4B5AC4",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "8522BE8620BE483488454FE64A4B5AC4-0-0",
-	},
 	-- 纯阳
 	{
 		szNote = "八卦洞玄",
@@ -6896,33 +6679,6 @@ return {
 	},
 	
 	-- 封轻功
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====封轻功=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "4D8499E610E644C4868B102E9D06F649",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "4D8499E610E644C4868B102E9D06F649-0-0",
-	},
 	{
 		szNote = "吞日月",
 		bFlipHideVoid = false,
@@ -8465,33 +8221,6 @@ return {
 	-- 减疗
 	{
 		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====减疗=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "05948656A80C42258CA85D559967432D",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "05948656A80C42258CA85D559967432D-0-0",
-	},
-	{
-		nStackNum = 0,
 		szGroup = "玄一减疗",
 		szNote = "玄一",
 		nLevel = 0,
@@ -8700,32 +8429,35 @@ return {
 	},
 	{
 		szNote = "月劫",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F872BFF940",
+		dwID = 4030,
+		nIconID = 3867,
+		szUUID = "8B1EE65A-5568-4D45-A19C-0A89CFDEF975",
+		nStackNum = 0,
+		szGroup = "月劫减疗",
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "000001F872BFF940-4030-2",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 4030,
-		nLevel = 2,
-		bEnable = true,
 		szContent = "减疗",
-		nIconID = 3867,
-		tTargetKungfu = {
-			bAll = true,
+		bEnable = true,
+	},
+	{
+		szNote = "月劫",
+		dwID = 28143,
+		nIconID = 21961,
+		szUUID = "01EAB7E8-D00A-4633-BD20-E099211057D9",
+		nStackNum = 0,
+		szGroup = "月劫减疗",
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
 		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		szContent = "减疗",
+		bEnable = true,
 	},
 	{
 		szNote = "神龙降世",
@@ -9034,33 +8766,6 @@ return {
 	},
 	
 	-- 减速
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====减速=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "2650E9CE4F864CDAA085513EE11D4CA3",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "2650E9CE4F864CDAA085513EE11D4CA3-0-0",
-	},
 	-- 纯阳
 	{
 		szNote = "生太极",
@@ -10382,33 +10087,6 @@ return {
 	},
 	
 	-- 其他
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====其他Debuff=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "C314539A733245B487EA14E81740F4DB",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "C314539A733245B487EA14E81740F4DB-0-0",
-	},
 	{
 		aSoundDisappear = {},
 		nStackNum = 0,

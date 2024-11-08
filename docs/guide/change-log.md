@@ -4,6 +4,8 @@ prev: /guide/faq.html
 ---
 ## 1.5.8 2024/11/11
 :::tip
+* 其他
+	* 删除各类 Buff 分隔线，腾空位置
 * 纯阳
 	* 新增人剑合一 Buff
 	* 修复玄德 Buff 显示
@@ -13,6 +15,9 @@ prev: /guide/faq.html
 	* 删除合虚 Buff
 	* 删除剑入 Debuff
 	* 修复剑斩列星 Debuff 显示
+	* 修复梯云纵 Buff 显示
+	* 删除平笃 Buff
+	* 删除静笃 Buff
 * 万花
 * 七秀
 	* 修改玉骨 Buff 别名为减内伤
@@ -30,13 +35,21 @@ prev: /guide/faq.html
 	* 删除冰天 Debuff
 	* 删除逍遥 Debuff
 	* 修改剑鸣 Debuff 别名为标记
+	* 修改云熙 Debuff 别名为重创
+	* 修复霞流 Debuff 显示
+	* 删除凤鸣 Buff
+	* 删除凭风 Buff
 * 五毒
+	* 新增蟾噬 Buff
+	* 新增悬日 Buff
 * 明教
 	* 修复霜月 Debuff 显示
 	* 删除烈火 Buff
 	* 新增燎原烈火 Buff
+	* 修复月劫 Debuff 显示
 * 丐帮
 * 苍云
+	* 删除怒涌 Buff
 * 长歌
 * 霸刀
 * 凌雪阁
