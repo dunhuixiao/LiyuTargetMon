@@ -19,6 +19,8 @@ prev: /guide/faq.html
 	* 删除平笃 Buff
 	* 删除静笃 Buff
 * 万花
+	* 新增劫 Buff
+	* 新增提子 Debuff
 * 七秀
 	* 修改玉骨 Buff 别名为减内伤
 	* 新增寒籁 Buff
@@ -42,16 +44,34 @@ prev: /guide/faq.html
 * 五毒
 	* 新增蟾噬 Buff
 	* 新增悬日 Buff
+* 唐门
+	* 删除夺魄眩晕 Debuff
+	* 新增破绽 Debuff
 * 明教
 	* 修复霜月 Debuff 显示
 	* 删除烈火 Buff
 	* 新增燎原烈火 Buff
 	* 修复月劫 Debuff 显示
 * 丐帮
+	* 新增醉酒 Debuff
+	* 新增将进酒 Debuff
+	* 新增苍龙 Buff
+	* 删除息元 Buff
+	* 删除乘龙戏水 Buff
+	* 删除攸行 Buff
 * 苍云
 	* 删除怒涌 Buff
 * 长歌
 * 霸刀
+	* 删除爆体 Buff
+	* 新增斩狂枭 Buff
+	* 删除掠关 Buff
+	* 修复尘身 Buff 显示
+	* 新增鸣震九霄 Buff
+	* 新增横断山河 Buff
+	* 删除冥鼔 Buff
+	* 删除冻土 Debuff
+	* 删除横断 Debuff
 * 凌雪阁
 	* 新增厄辞 Debuff
 	* 新增绝界封疆 Debuff
