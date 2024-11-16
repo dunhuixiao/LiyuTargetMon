@@ -25,12 +25,25 @@ prev: /guide/faq.html
 	* 修改玉骨 Buff 别名为减内伤
 	* 新增寒籁 Buff
 	* 新增拂袂 Buff
+	* 删除霜疾 Debuff
 * 天策
 	* 删除铁骑 Buff
 	* 新增啸西风 Debuff
 	* 新增戎行·盾 Buff
+	* 删除崩 Debuff
 * 少林
+	* 删除断诛邪见 Debuff
+	* 新增大狮子吼 Debuff
+	* 新增正念 Buff
+	* 删除菩提身 Buff
+	* 修复擒龙诀 Buff 显示
+	* 新增空识 Debuff
+	* 修复醍醐灌顶 Buff 显示
+	* 删除自在 Debuff
+	* 删除临捕 Debuff
+	* 删除二业 Buff
 * 藏剑
+	* 删除碎刃 Debuff
 	* 新增曳兵 Debuff
 	* 删除百锻 Buff
 	* 新增剑锋百锻 Buff
@@ -47,11 +60,18 @@ prev: /guide/faq.html
 * 唐门
 	* 删除夺魄眩晕 Debuff
 	* 新增破绽 Debuff
+	* 新增嘹然有声 Buff
+	* 修改追命无声 Buff 别名为瞬发
+	* 新增确固不拔 Debuff
+	* 删除毫发 Buff
+	* 删除无遗 Buff
 * 明教
 	* 修复霜月 Debuff 显示
 	* 删除烈火 Buff
 	* 新增燎原烈火 Buff
 	* 修复月劫 Debuff 显示
+	* 删除业海罪缚 Debuff
+	* 修复贪魔体 Buff 显示
 * 丐帮
 	* 新增醉酒 Debuff
 	* 新增将进酒 Debuff
@@ -61,7 +81,13 @@ prev: /guide/faq.html
 	* 删除攸行 Buff
 * 苍云
 	* 删除怒涌 Buff
+	* 修复麾远 Debuff 显示
+	* 删除阵云 Buff
+	* 删除亮节 Buff
 * 长歌
+	* 修复切剑 Buff 显示
+	* 新增残影 Buff
+	* 删除啸影 Debuff
 * 霸刀
 	* 删除爆体 Buff
 	* 新增斩狂枭 Buff
@@ -72,12 +98,20 @@ prev: /guide/faq.html
 	* 删除冥鼔 Buff
 	* 删除冻土 Debuff
 	* 删除横断 Debuff
+* 蓬莱
+	* 修复浮游天地 Debuff 显示
+	* 新增海佑 Buff
+	* 新增鲲鹏逐空 Buff
+	* 新增重创 Debuff
+	* 删除时移 Buff
+	*  焚生 陌归
 * 凌雪阁
 	* 新增厄辞 Debuff
 	* 新增绝界封疆 Debuff
 	* 修复枭影 Debuff 显示
 	* 新增飞刃回转 Debuff
 	* 修复罚罪狱 Debuff 显示
+	* 删除焚生 Buff
 * 衍天宗
 	* 新增列宿游 Debuff
 	* 删除神占·山艮 Debuff
@@ -85,10 +119,16 @@ prev: /guide/faq.html
 	* 删除五星连极 Buff
 	* 删除天杀 Debuff
 	* 新增连极阵 Buff
+	* 删除虎遁 Buff
+	* 删除灼痕 Debuff
 * 北天药宗
 	* 新增谢枝 Debuff
 	* 新增南草 Buff
+	* 删除连诛 Debuff
 * 刀宗
+
+
+
 * 万灵山庄
 	* 修复应天授命 Buff 显示
 :::
