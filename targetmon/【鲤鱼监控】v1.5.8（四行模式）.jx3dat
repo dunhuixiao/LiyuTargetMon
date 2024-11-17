@@ -10836,21 +10836,6 @@ return {
 				aSoundDisappear = {},
 			},
 			{
-				nStackNum = 0,
-				szNote = "½Ù",
-				nLevel = 0,
-				szContent = "½Ù",
-				bEnable = true,
-				dwID = 29281,
-				aContentColor = {
-					255,
-					255,
-					31,
-				},
-				nIconID = 17705,
-				szUUID = "D8CEE304-B312-431B-8D2C-0095BBBE64CC",
-			},
-			{
 				szNote = "ÂÞºº½ðÉí",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -35388,21 +35373,6 @@ return {
 				},
 				aSoundAppear = {},
 				aSoundDisappear = {},
-			},
-			{
-				nStackNum = 0,
-				szNote = "½Ù",
-				nLevel = 0,
-				szContent = "½Ù",
-				bEnable = true,
-				dwID = 29281,
-				aContentColor = {
-					255,
-					255,
-					31,
-				},
-				nIconID = 17705,
-				szUUID = "D8CEE304-B312-431B-8D2C-0095BBBE64CC",
 			},
 			{
 				szNote = "ÂÞºº½ðÉí",
