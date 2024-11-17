@@ -2,33 +2,6 @@ return {
 	-- ÕâÀïÊÇ Debuff ÓÅÏÈ¼¶
 	-- ÌØÊâ¼¼ÄÜ£¨¾ö¶·¡¢½ûÁÆµÈ£©
 	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====ÌØÊâ¼¼ÄÜ£¨¾ö¶·¡¢½ûÁÆµÈ£©=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "BD6AC46255A84991AA18BA11D0464EF4",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "BD6AC46255A84991AA18BA11D0464EF4-0-0",
-	},
-	{
 		szNote = "³¾Éí",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -117,35 +90,6 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "Ì°Ä§Ìå",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F872C01F10",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F872C01F10-4033-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 4033,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "¼õÉË",
-		nIconID = 4178,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "¾ö¶·",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -165,126 +109,6 @@ return {
 		bEnable = true,
 		szContent = "¾ö¶·",
 		nIconID = 7505,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "Çå¾øÓ°¸è",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F8AAB327F0",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F8AAB327F0-9693-1",
-		nStackNum = 0,
-		szGroup = "ÇÐ½£",
-		bFlipHideOthers = false,
-		dwID = 9693,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "ÇÐ½£",
-		nIconID = 7063,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "Çå¾øÓ°¸è",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F8AAB327F0",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F8AAB327F0-9506-1",
-		nStackNum = 0,
-		szGroup = "ÇÐ½£",
-		bFlipHideOthers = false,
-		dwID = 9506,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "ÇÐ½£",
-		nIconID = 7063,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "Çå¾øÓ°¸è",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F8AAB327F0",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F8AAB327F0-9694-1",
-		nStackNum = 0,
-		szGroup = "ÇÐ½£",
-		bFlipHideOthers = false,
-		dwID = 9694,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "ÇÐ½£",
-		nIconID = 7063,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "Çå¾øÓ°¸è",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F8AAB327F0",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F8AAB327F0-9695-1",
-		nStackNum = 0,
-		szGroup = "ÇÐ½£",
-		bFlipHideOthers = false,
-		dwID = 9695,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "ÇÐ½£",
-		nIconID = 7063,
 		tTargetKungfu = {
 			bAll = true,
 		},
@@ -474,32 +298,18 @@ return {
 	},
 	{
 		szNote = "¸¡ÓÎÌìµØ",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "94FD81EF99A14FB5A31216FF036B3149",
+		dwID = 14540,
+		nIconID = 10765,
+		szUUID = "2A503954-BC86-4A99-995D-23B454F68DD0",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "94FD81EF99A14FB5A31216FF036B3149-13735-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 13735,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "¸¡¿Õ",
-		nIconID = 10631,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		bEnable = true,
 	},
 	{
 		szNote = "ÓÎÌ«Çå",
@@ -531,33 +341,19 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "ÉñÕ¼¡¤É½ôÞ",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "94FD81EF99A14FB5A31216FF036B3149",
+		szNote = "ÁÐËÞÓÎ",
+		dwID = 21097,
+		nIconID = 17712,
+		szUUID = "56528F12-629E-4A37-A39A-F525231B2165",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "94FD81EF99A14FB5A31216FF036B3149-21097-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 21097,
-		nLevel = 0,
+		szContent = "»Ã»¯",
 		bEnable = true,
-		szContent = "±äÐÎ",
-		nIconID = 16228,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
 	},
 	{
 		szNote = "Ä«Òâ",
@@ -1065,7 +861,7 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "ÔÆÎõ",
+		szNote = "ÖØ´´",
 		bFlipHideVoid = false,
 		tKungfu = {
 			bAll = true,
@@ -1140,6 +936,21 @@ return {
 			bAll = true,
 		},
 	},
+	{
+		szNote = "ÖØ´´",
+		dwID = 29420,
+		nIconID = 14112,
+		szUUID = "76A6C0CE-19DC-40A8-B628-58F6EFED8C64",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "½ûÁÆ",
+		bEnable = true,
+	},
 	-- ½ûïÀ
 	{
 		szNote = "ºèÃÉÌì½û",
@@ -1200,91 +1011,114 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "½ûïÀ",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "9E679C7F2EA0472E95398A40E4E9B434",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "9E679C7F2EA0472E95398A40E4E9B434-24450-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
+		szNote = "·£×ïÓü",
 		dwID = 24450,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "½ûïÀ",
 		nIconID = 14101,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "½ûïÀ",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "9E679C7F2EA0472E95398A40E4E9B434",
+		szUUID = "02C8FF90-3F08-4D60-AA06-D6E17797066B",
+		nStackNum = 0,
+		szGroup = "·£×ïÓü½ûïÀ",
+		nLevel = 1,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "9E679C7F2EA0472E95398A40E4E9B434-24450-2",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 24450,
-		nLevel = 2,
-		bEnable = true,
 		szContent = "½ûïÀ",
+		bEnable = true,
+	},
+	{
+		szNote = "½£Õ¶ÁÐÐÇ",
+		dwID = 24450,
 		nIconID = 18277,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "½ûïÀ",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "9E679C7F2EA0472E95398A40E4E9B434",
+		szUUID = "8826B332-4E46-4C9B-83CD-6324AA46C725",
+		nStackNum = 0,
+		nLevel = 2,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "9E679C7F2EA0472E95398A40E4E9B434-24450-3",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 24450,
-		nLevel = 3,
-		bEnable = true,
 		szContent = "½ûïÀ",
+		bEnable = true,
+	},
+	{
+		szNote = "ËªÔÂ",
+		dwID = 24450,
 		nIconID = 18290,
-		tTargetKungfu = {
-			bAll = true,
+		szUUID = "9BCE2FE2-41B8-4016-904D-27E3CA599681",
+		nStackNum = 0,
+		nLevel = 3,
+		aContentColor = {
+			255,
+			31,
+			31,
 		},
-		tMap = {
-			bAll = true,
+		szContent = "½ûïÀ",
+		bEnable = true,
+	},
+	{
+		szNote = "·£×ïÓü",
+		dwID = 24450,
+		nIconID = 14101,
+		szUUID = "9B2862CC-6DE0-426F-B9D0-FA0B551253C6",
+		nStackNum = 0,
+		szGroup = "·£×ïÓü½ûïÀ",
+		nLevel = 4,
+		aContentColor = {
+			255,
+			31,
+			31,
 		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		szContent = "½ûïÀ",
+		bEnable = true,
+	},
+	{
+		szNote = "·£×ïÓü",
+		dwID = 24450,
+		nIconID = 14101,
+		szUUID = "2A0057E4-CBD2-46F0-88F0-2AE6AA51709F",
+		nStackNum = 0,
+		szGroup = "·£×ïÓü½ûïÀ",
+		nLevel = 5,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "½ûïÀ",
+		bEnable = true,
+	},
+	{
+		szNote = "·£×ïÓü",
+		dwID = 24450,
+		nIconID = 14101,
+		szUUID = "51C609A4-7B4A-4D2E-B6C5-BEC9050AFD2C",
+		nStackNum = 0,
+		szGroup = "·£×ïÓü½ûïÀ",
+		nLevel = 6,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "½ûïÀ",
+		bEnable = true,
+	},
+	{
+		szNote = "·£×ïÓü",
+		dwID = 24450,
+		nIconID = 14101,
+		szUUID = "F23A19F4-3A50-476E-8E09-389CD6C61939",
+		nStackNum = 0,
+		szGroup = "·£×ïÓü½ûïÀ",
+		nLevel = 7,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "½ûïÀ",
+		bEnable = true,
 	},
 	-- ½µµ÷Ï¢
 	{
@@ -1611,33 +1445,6 @@ return {
 	
 	-- ³ÁÄ¬¡¢½ÉÐµ
 	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====³ÁÄ¬¡¢½ÉÐµ=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "86A8572225504185946E3E511E706CDB",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "86A8572225504185946E3E511E706CDB-0-0",
-	},
-	{
 		szNote = "³ÁÄ¬",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -1756,35 +1563,6 @@ return {
 		aSoundDisappear = {},
 	},
 	-- ÉÙÁÖ
-	{
-		szNote = "¶ÏÖïÐ°¼û",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "9A01B99DBFB143E1941FEA82A47CD1F4",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "9A01B99DBFB143E1941FEA82A47CD1F4-24513-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 24513,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "½ÉÐµ",
-		nIconID = 443,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
 	-- ÆßÐã
 	{
 		szNote = "ÔÂ³ö¶«É½",
@@ -1847,73 +1625,18 @@ return {
 	-- ²Ø½£
 	{
 		szNote = "Ï¼Á÷",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F833A40660",
+		dwID = 12321,
+		nIconID = 2373,
+		szUUID = "8E6A05F4-6F62-43C4-B274-1FA4C9DDB3AC",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "000001F833A40660-12321-1",
-		nStackNum = 0,
-		szGroup = "Ï¼Á÷½ÉÐµ",
-		bFlipHideOthers = false,
-		dwID = 12321,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "½ÉÐµ",
-		nIconID = 2373,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		nStackNum = 0,
-		szGroup = "Ï¼Á÷½ÉÐµ",
-		szNote = "Ï¼Á÷",
-		nLevel = 2,
-		szContent = "½ÉÐµ",
-		dwID = 12321,
 		bEnable = true,
-		nIconID = 2373,
-		szUUID = "5D2E4706-38D0-47BC-9D93-84FAD3D8C689",
-	},
-	{
-		szNote = "Ï¼Á÷",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F833A40660",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F833A40660-12321-3",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 12321,
-		nLevel = 3,
-		bEnable = true,
-		szContent = "½ÉÐµ",
-		nIconID = 9532,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
 	},
 	{
 		szNote = "³¤ÖÂ",
@@ -2310,33 +2033,6 @@ return {
 	
 	-- Ñ£ÔÎ¡¢»÷µ¹
 	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====Ñ£ÔÎ¡¢»÷µ¹=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "AFA02540E5524C91A6609B04FA9A707F",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "AFA02540E5524C91A6609B04FA9A707F-0-0",
-	},
-	{
 		aSoundDisappear = {},
 		nStackNum = 0,
 		nIconID = 2027,
@@ -2511,33 +2207,36 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "½£Èë",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "B5EA4892260641F482AB7EB8B9CE54D1",
+		szNote = "´óµÀÎÞÊõ¡¤ÖÁÈá",
+		dwID = 29490,
+		nIconID = 13383,
+		szUUID = "F20ACAF4-48E6-4CDD-9DAE-4B8E571A7DD3",
+		nStackNum = 0,
+		szGroup = "´óµÀÑ£ÔÎ",
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "B5EA4892260641F482AB7EB8B9CE54D1-25968-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 25968,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "Ñ£ÔÎ",
-		nIconID = 2927,
-		tTargetKungfu = {
-			bAll = true,
+		bEnable = true,
+	},
+	{
+		szNote = "´óµÀÎÞÊõ¡¤ÖÁÈá",
+		dwID = 29491,
+		nIconID = 13383,
+		szUUID = "037E03BE-D7E4-4721-87E4-EB11A6330B5C",
+		nStackNum = 0,
+		szGroup = "´óµÀÑ£ÔÎ",
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
 		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		szContent = "Ñ£ÔÎ",
+		bEnable = true,
 	},
 	-- ÉÙÁÖ
 	{
@@ -2617,6 +2316,22 @@ return {
 		aSoundDisappear = {},
 	},
 	{
+		szNote = "´óÊ¨×Óºð",
+		dwID = 29303,
+		nIconID = 430,
+		szUUID = "51788898-B480-4744-B098-F359389969D4",
+		nStackNum = 0,
+		szGroup = "´óÊ¨×ÓºðÑ£ÔÎ",
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "Ñ£ÔÎ",
+		bEnable = true,
+	},
+	{
 		szNote = "Ç§½ï×¹",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -2674,35 +2389,6 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
-	{
-		szNote = "ÁÙ²¶",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "19A272A844C0415DAB90E293769A48FB",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "19A272A844C0415DAB90E293769A48FB-19290-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 19290,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "Ñ£ÔÎ",
-		nIconID = 7450,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
 	-- ÆßÐã
 	{
 		szNote = "À×öªÕðÅ­",
@@ -2733,35 +2419,6 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
-	{
-		szNote = "Ëª¼²",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "B5AB0E9AFCF7434C8E88E17222B6269E",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "B5AB0E9AFCF7434C8E88E17222B6269E-22714-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 22714,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "Ñ£ÔÎ",
-		nIconID = 17168,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
 	-- Ìì²ß
 	{
 		szNote = "¶Ï»ê´Ì",
@@ -2783,35 +2440,6 @@ return {
 		bEnable = true,
 		szContent = "Ñ£ÔÎ",
 		nIconID = 642,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "±À",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F869661580",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F869661580-727-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 727,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "Ñ£ÔÎ",
-		nIconID = 1481,
 		tTargetKungfu = {
 			bAll = true,
 		},
@@ -3103,35 +2731,6 @@ return {
 		},
 		szContent = "Ñ£ÔÎ",
 		bEnable = true,
-	},
-	{
-		szNote = "¶áÆÇÑ£ÔÎ",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "93ED9C19F61149598871A80D9E90A0AB",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "93ED9C19F61149598871A80D9E90A0AB-14933-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 14933,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "Ñ£ÔÎ",
-		nIconID = 3168,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
 	},
 	{
 		szNote = "åó»÷",
@@ -3513,6 +3112,21 @@ return {
 		szContent = "Ñ£ÔÎ",
 		bEnable = true,
 	},
+	{
+		szNote = "½«½ø¾Æ",
+		dwID = 18086,
+		nIconID = 13388,
+		szUUID = "2CB84CFE-EF86-40AB-828B-A781B67A8555",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "Ñ£ÔÎ",
+		bEnable = true,
+	},
 	-- ²ÔÔÆ
 	{
 		szNote = "¶ÜÒã",
@@ -3662,10 +3276,10 @@ return {
 	{
 		szNote = "÷âÔ¶",
 		dwID = 28096,
-		nIconID = 11866,
-		szUUID = "83DC6A42-04A8-4058-B911-24BC7E0B0F2A",
+		nIconID = 21953,
+		szUUID = "645EF896-7DAA-4141-A754-EA541C8FCBEA",
 		nStackNum = 0,
-		nLevel = 1,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
@@ -4026,35 +3640,36 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
-	-- µ¶×Ú
 	{
-		szNote = "Ï®·¥",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "BCB3725854324E0A9D127FEBA6B78A14",
+		szNote = "ÖªÎ¢",
+		dwID = 29404,
+		nIconID = 14058,
+		szUUID = "00D21EE6-EC88-4236-B579-58DE3115A93F",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "BCB3725854324E0A9D127FEBA6B78A14-24449-0",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 24449,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "Ñ£ÔÎ",
-		nIconID = 17568,
-		tTargetKungfu = {
-			bAll = true,
+		bEnable = true,
+	},
+	-- µ¶×Ú
+	{
+		szNote = "Ï®·¥",
+		dwID = 24449,
+		nIconID = 17732,
+		szUUID = "7A42C0FC-AF32-4E43-BB42-E792FA5E633F",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
 		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		szContent = "Ñ£ÔÎ",
+		bEnable = true,
 	},
 	{
 		szNote = "ÓÎ·çÆ®×Ù¡¤Ñ£ÔÎ",
@@ -4146,33 +3761,6 @@ return {
 	},
 	
 	-- ¶¨Éí
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====¶¨Éí=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "9B280502F360459DBB29E2F35AD36914",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "9B280502F360459DBB29E2F35AD36914-0-0",
-	},
 	{
 		aSoundDisappear = {},
 		nStackNum = 0,
@@ -5152,32 +4740,18 @@ return {
 	-- µ¶×Ú
 	{
 		szNote = "Ï®·¥",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "19C4706A78CA47AAB996723F992B67E9",
+		dwID = 24178,
+		nIconID = 17732,
+		szUUID = "7E043AD2-DE7C-47BA-91BD-EBC7435ACEB9",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "19C4706A78CA47AAB996723F992B67E9-24178-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 24178,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "¶¨Éí",
-		nIconID = 17568,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		bEnable = true,
 	},
 	{
 		szNote = "ÓÎ·çÆ®×Ù¡¤¶¨Éí",
@@ -5300,33 +4874,6 @@ return {
 	},
 	
 	-- Ëø×ã
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====Ëø×ã=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "8E3A8A8A5B684793914F8577FC8E528D",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "8E3A8A8A5B684793914F8577FC8E528D-0-0",
-	},
 	-- ´¿Ñô
 	{
 		szNote = "Èý²Å»¯Éú",
@@ -6229,35 +5776,6 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "¶³ÍÁ",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F89930C8E0",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F89930C8E0-11309-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 11309,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "Ëø×ã",
-		nIconID = 8508,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "ÇÜÁú",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -6273,39 +5791,10 @@ return {
 		nStackNum = 0,
 		bFlipHideOthers = false,
 		dwID = 11369,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "Ëø×ã",
 		nIconID = 8568,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "ºá¶Ï",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "9DEFF48F79204177BA63DA3119A29C71",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "9DEFF48F79204177BA63DA3119A29C71-11369-2",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 11369,
-		nLevel = 2,
-		bEnable = true,
-		szContent = "Ëø×ã",
-		nIconID = 11907,
 		tTargetKungfu = {
 			bAll = true,
 		},
@@ -6375,64 +5864,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
-	{
-		szNote = "ÌìÉ±",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "E9933358FE1D4D0FAF5273222C5110EE",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "E9933358FE1D4D0FAF5273222C5110EE-18426-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 18426,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "Ëø×ã",
-		nIconID = 14164,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
 	-- µ¶×Ú
 	{
 		szNote = "¹ËÃì",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "DFF70C98CD9B49F3AC1FCEA470B5B46D",
+		dwID = 24176,
+		nIconID = 17730,
+		szUUID = "D8DA09A8-77EC-4B16-98E3-EAC850FDB043",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "DFF70C98CD9B49F3AC1FCEA470B5B46D-24176-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 24176,
-		nLevel = 1,
-		bEnable = true,
 		szContent = "Ëø×ã",
-		nIconID = 17580,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		bEnable = true,
 	},
 	{
 		szNote = "ÓÎ·çÆ®×Ù¡¤Ëø×ã",
@@ -6481,33 +5927,6 @@ return {
 	},
 	
 	-- ·âÄÚ
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====·âÄÚ=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "8522BE8620BE483488454FE64A4B5AC4",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "8522BE8620BE483488454FE64A4B5AC4-0-0",
-	},
 	-- ´¿Ñô
 	{
 		szNote = "°ËØÔ¶´Ðþ",
@@ -6898,33 +6317,6 @@ return {
 	},
 	
 	-- ·âÇá¹¦
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====·âÇá¹¦=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "4D8499E610E644C4868B102E9D06F649",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "4D8499E610E644C4868B102E9D06F649-0-0",
-	},
 	{
 		szNote = "ÍÌÈÕÔÂ",
 		bFlipHideVoid = false,
@@ -8467,33 +7859,6 @@ return {
 	-- ¼õÁÆ
 	{
 		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====¼õÁÆ=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "05948656A80C42258CA85D559967432D",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "05948656A80C42258CA85D559967432D-0-0",
-	},
-	{
-		nStackNum = 0,
 		szGroup = "ÐþÒ»¼õÁÆ",
 		szNote = "ÐþÒ»",
 		nLevel = 0,
@@ -8614,35 +7979,6 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "ËéÈÐ",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "2F0AC455F06142E6870F5F4F5013493B",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "2F0AC455F06142E6870F5F4F5013493B-24484-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 24484,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "¼õÁÆ",
-		nIconID = 18274,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "°Ù×ã¿Ý²Ð",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -8702,32 +8038,35 @@ return {
 	},
 	{
 		szNote = "ÔÂ½Ù",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F872BFF940",
+		dwID = 4030,
+		nIconID = 3867,
+		szUUID = "8B1EE65A-5568-4D45-A19C-0A89CFDEF975",
+		nStackNum = 0,
+		szGroup = "ÔÂ½Ù¼õÁÆ",
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "000001F872BFF940-4030-2",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 4030,
-		nLevel = 2,
-		bEnable = true,
 		szContent = "¼õÁÆ",
-		nIconID = 3867,
-		tTargetKungfu = {
-			bAll = true,
+		bEnable = true,
+	},
+	{
+		szNote = "ÔÂ½Ù",
+		dwID = 28143,
+		nIconID = 21961,
+		szUUID = "01EAB7E8-D00A-4633-BD20-E099211057D9",
+		nStackNum = 0,
+		szGroup = "ÔÂ½Ù¼õÁÆ",
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
 		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		szContent = "¼õÁÆ",
+		bEnable = true,
 	},
 	{
 		szNote = "ÉñÁú½µÊÀ",
@@ -9036,33 +8375,6 @@ return {
 	},
 	
 	-- ¼õËÙ
-	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====¼õËÙ=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "2650E9CE4F864CDAA085513EE11D4CA3",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "2650E9CE4F864CDAA085513EE11D4CA3-0-0",
-	},
 	-- ´¿Ñô
 	{
 		szNote = "ÉúÌ«¼«",
@@ -9876,35 +9188,6 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "Òµº£×ï¸¿",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F836671C00",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F836671C00-4054-3",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 4054,
-		nLevel = 3,
-		bEnable = true,
-		szContent = "¼õËÙ",
-		nIconID = 3804,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "¼«±¾ËÝÔ´",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -10385,33 +9668,6 @@ return {
 	
 	-- ÆäËû
 	{
-		nStackNum = 0,
-		aSoundDisappear = {},
-		bEnable = true,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		dwID = 0,
-		szNote = "=====ÆäËûDebuff=====",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "C314539A733245B487EA14E81740F4DB",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "C314539A733245B487EA14E81740F4DB-0-0",
-	},
-	{
 		aSoundDisappear = {},
 		nStackNum = 0,
 		nIconID = 12105,
@@ -10560,6 +9816,21 @@ return {
 		dwID = 27554,
 		nIconID = 20067,
 		szUUID = "30A2B540-4B1E-4E9A-82D4-F85E270BB8E6",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "±ê¼Ç",
+		bEnable = true,
+	},
+	{
+		szNote = "½£ÊÆ",
+		dwID = 29231,
+		nIconID = 1447,
+		szUUID = "EDB4E3C4-FBC0-45B2-81F2-174DF9CBF2CA",
 		nStackNum = 0,
 		nLevel = 0,
 		aContentColor = {
@@ -10902,34 +10173,36 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
-	-- ÉÙÁÖ
 	{
-		aSoundDisappear = {},
 		nStackNum = 0,
-		nIconID = 2980,
+		szNote = "Ìá×Ó",
+		nLevel = 0,
+		szContent = "½µ¹¥",
 		bEnable = true,
-		dwID = 3870,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		szNote = "×ÔÔÚ",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F833A2CA20",
-		tMap = {
-			bAll = true,
-		},
+		dwID = 29282,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "000001F833A2CA20-3870-1",
+		nIconID = 23481,
+		szUUID = "102E0A14-575E-4755-9826-66F445234E65",
+	},
+	-- ÉÙÁÖ
+	{
+		szNote = "¿ÕÊ¶",
+		dwID = 29299,
+		nIconID = 419,
+		szUUID = "FEB6CF86-F6E6-4DE2-8349-2E5528E92DA2",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "½µÌåÖÊ",
+		bEnable = true,
 	},
 	-- ÆßÐã
 	{
@@ -11214,6 +10487,21 @@ return {
 		szContent = "ÆÆ¾ü",
 		bEnable = true,
 	},
+	{
+		szNote = "Ð¥Î÷·ç",
+		dwID = 29347,
+		nIconID = 23480,
+		szUUID = "DD04C8DA-09DA-4F5A-9BE3-7E6927DC2BC8",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "Ð¥Î÷·ç",
+		bEnable = true,
+	},
 	-- ²Ø½£
 	{
 		aSoundDisappear = {},
@@ -11261,7 +10549,7 @@ return {
 		dwID = 25987,
 		nLevel = 1,
 		bEnable = true,
-		szContent = "½£Ãù",
+		szContent = "±ê¼Ç",
 		nIconID = 14075,
 		tTargetKungfu = {
 			bAll = true,
@@ -11271,6 +10559,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "Ò·±ø",
+		dwID = 24484,
+		nIconID = 18274,
+		szUUID = "03B0206A-0AF8-41B0-91D2-1C972BC24E52",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "½µ¹¥",
+		bEnable = true,
 	},
 	-- Îå¶¾
 	{
@@ -11623,6 +10926,36 @@ return {
 		szContent = "ÖØÓ°",
 		bEnable = true,
 	},
+	{
+		szNote = "ÆÆÕÀ",
+		dwID = 14933,
+		nIconID = 14132,
+		szUUID = "34D272EE-2B40-4162-955E-09DB05D27EF6",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "ÆÆÕÀ",
+		bEnable = true,
+	},
+	{
+		szNote = "È·¹Ì²»°Î",
+		dwID = 29470,
+		nIconID = 21975,
+		szUUID = "34A6303A-30DA-4714-84FE-4459FE2B65B6",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "½µÌåÖÊ",
+		bEnable = true,
+	},
 	-- Ø¤°ï
 	{
 		szNote = "¿ºÁúÓÐ»Ú",
@@ -11683,6 +11016,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "×í¾Æ",
+		dwID = 29334,
+		nIconID = 11303,
+		szUUID = "CBE4CADA-6132-47BC-92C8-0EF3EE0CDA8A",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "×í¾Æ",
+		bEnable = true,
 	},
 	-- ²ÔÔÆ
 	{
@@ -11832,35 +11180,6 @@ return {
 		aSoundDisappear = {},
 	},
 	-- ³¤¸è
-	{
-		szNote = "Ð¥Ó°",
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		dwID = 12612,
-		nIconID = 9553,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		nStackNum = 0,
-		bEnable = true,
-		bFlipHideOthers = false,
-		nLevel = 1,
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szContent = "Ð¥Ó°",
-		bFlipHideVoid = false,
-		szGroupID = "000001F833A44FD0",
-		tMap = {
-			bAll = true,
-		},
-		szUUID = "000001F833A44FD0-12612-1",
-		aSoundDisappear = {},
-	},
 	-- °Ôµ¶
 	{
 		aSoundDisappear = {},
@@ -12109,6 +11428,66 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "¶ò´Ç",
+		dwID = 29397,
+		nIconID = 23465,
+		szUUID = "2D0062F2-B8C2-49F3-9181-E5ED56B7F222",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "¶ò´Ç",
+		bEnable = true,
+	},
+	{
+		szNote = "¾ø½ç·â½®",
+		dwID = 29393,
+		nIconID = 23464,
+		szUUID = "2BCA2F6C-976E-4DB0-A718-724AF32B1887",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "·â½®",
+		bEnable = true,
+	},
+	{
+		szNote = "èÉÓ°",
+		dwID = 28236,
+		nIconID = 16202,
+		szUUID = "BC64E6C0-F506-4FA7-93B8-ED719B2A5AA6",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "èÉÓ°",
+		bEnable = true,
+	},
+	{
+		szNote = "·ÉÈÐ»Ø×ª",
+		dwID = 21312,
+		nIconID = 12391,
+		szUUID = "AC30CB6E-B424-4598-8C18-367CFC635CCC",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "±ê¼Ç",
+		bEnable = true,
+	},
 	-- ÑÜÌì×Ú
 	{
 		szNote = "ØÔÏó¡¤»ðÀë",
@@ -12244,62 +11623,19 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "Á¬Öï",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "FC2F785CA5BF4AE3BFF362AA3779325A",
+		szNote = "Ð»Ö¦",
+		dwID = 20684,
+		nIconID = 15741,
+		szUUID = "1764C1EC-5946-4BDB-AF86-00FC144EA385",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "FC2F785CA5BF4AE3BFF362AA3779325A-20708-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 20708,
-		nLevel = 1,
+		szContent = "½µ»¯¾¢",
 		bEnable = true,
-		szContent = "½µÆøÑª",
-		nIconID = 15758,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "×ÆºÛ",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "501EF899B6D343409E4EE169FF633CAF",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "501EF899B6D343409E4EE169FF633CAF-24427-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 24427,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "½µÆøÑª",
-		nIconID = 18322,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
 	},
 	-- µ¶×Ú
 	{
@@ -12462,6 +11798,53 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "Ôó·çÍ¬³Ð",
+		dwID = 24718,
+		nIconID = 17767,
+		szUUID = "926A8DF8-45A4-46F8-A325-94F66BB11465",
+		nStackNum = 0,
+		szGroup = "Ôó·çÁ´½Ó",
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "Á´½Ó",
+		bEnable = true,
+	},
+	{
+		szNote = "Ôó·çÍ¬³Ð",
+		dwID = 24719,
+		nIconID = 17767,
+		szUUID = "203A7EBC-AE1E-4E99-9698-B1D5DD92104A",
+		nStackNum = 0,
+		szGroup = "Ôó·çÁ´½Ó",
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "Á´½Ó",
+		bEnable = true,
+	},
+	{
+		szNote = "½çÆÆ",
+		dwID = 24221,
+		nIconID = 17757,
+		szUUID = "E79052A8-93B2-4F76-B262-847EE5CFC40B",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "½µÌåÖÊ",
+		bEnable = true,
 	},
 	-- ÍòÁéÉ½×¯
 	{
