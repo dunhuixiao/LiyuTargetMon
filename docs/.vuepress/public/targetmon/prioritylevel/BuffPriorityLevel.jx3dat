@@ -10920,21 +10920,6 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
-	{
-		nStackNum = 0,
-		szNote = "劫",
-		nLevel = 0,
-		szContent = "劫",
-		bEnable = true,
-		dwID = 29281,
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		nIconID = 17705,
-		szUUID = "D8CEE304-B312-431B-8D2C-0095BBBE64CC",
-	},
 	-- 少林
 	{
 		szNote = "罗汉金身",

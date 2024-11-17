@@ -19,7 +19,6 @@ prev: /guide/faq.html
 	* 删除平笃 Buff
 	* 删除静笃 Buff
 * 万花
-	* 新增劫 Buff
 	* 新增提子 Debuff
 * 七秀
 	* 修改玉骨 Buff 别名为减内伤
