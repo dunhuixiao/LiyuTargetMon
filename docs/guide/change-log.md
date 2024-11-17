@@ -2,7 +2,7 @@
 title: 更新日志 ✨
 prev: /guide/faq.html
 ---
-## 1.5.8 2024/11/11
+## 1.5.8 2024/11/17
 :::tip
 * 其他
 	* 删除各类 Buff 分隔线，腾空位置
@@ -104,7 +104,6 @@ prev: /guide/faq.html
 	* 新增鲲鹏逐空 Buff
 	* 新增重创 Debuff
 	* 删除时移 Buff
-	*  焚生 陌归
 * 凌雪阁
 	* 新增厄辞 Debuff
 	* 新增绝界封疆 Debuff
@@ -126,9 +125,13 @@ prev: /guide/faq.html
 	* 新增南草 Buff
 	* 删除连诛 Debuff
 * 刀宗
-
-
-
+	* 修复凝云势 Buff 显示
+	* 新增泽风同承 Debuff
+	* 修复顾渺 Debuff 显示
+	* 修复袭伐 Debuff 显示
+	* 修复游风飘踪 Buff 显示
+	* 修复势钧 Buff 显示
+	* 新增界破 Debuff
 * 万灵山庄
 	* 修复应天授命 Buff 显示
 :::
