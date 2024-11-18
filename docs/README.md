@@ -31,7 +31,7 @@ features:
 
 监控文件内容明文，可供非盈利性质的分享、修改、二次创作，如果基于以上目的，不用寻求我的同意。
 
-如果在使用中遇到问题，可以在[贴吧回复](https://tieba.baidu.com/p/6470946492?see_lz=1) / [GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) / [QQ群](https://jq.qq.com/?_wv=1027&k=jmw5fLpn) 私聊描述你的问题或反馈，看到后会给你回复。
+如果在使用中遇到问题，可以在[GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) / [QQ群](https://jq.qq.com/?_wv=1027&k=jmw5fLpn) 私聊描述你的问题或反馈，看到后会给你回复。
 
 描述问题时，请带上能复现的案例、技能名称、具体场景、当前奇穴等信息，信息越全越能准确定位到问题并回复。
 
@@ -54,7 +54,7 @@ features:
 ::: warning
 该文档地址为鲤鱼监控唯一指定下载地址，个人没有在其他任何论坛或是下载站点发布，在 [下载](guide/download.md) 中直接下载的监控文件后缀为 `.jx3dat`，可以直接导入茗伊插件。
 
-从百度网盘、阿里云盘、GitHub 下载的压缩包，解压后应为 `.jx3dat` 后缀文件加上本文档地址超链接，没有任何 `.exe` 程序。
+从 QQ 群、GitHub 下载的压缩包，解压后应为 `.jx3dat` 后缀文件加上本文档地址超链接，没有任何 `.exe` 程序。
 
 如果你解压出来的文件不对，请不要点击，直接删除文件。
 :::
