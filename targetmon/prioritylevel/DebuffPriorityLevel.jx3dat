@@ -11948,6 +11948,23 @@ return {
 			31,
 		},
 		szContent = "พ๘ย๖",
+		szGroup = "พ๘ย๖ื้",
+		bEnable = true,
+	},
+	{
+		szNote = "พ๘ย๖",
+		dwID = 28760,
+		nIconID = 22817,
+		szUUID = "1F8AB62C-01E8-4313-8903-CC050A226A5D",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "พ๘ย๖",
+		szGroup = "พ๘ย๖ื้",
 		bEnable = true,
 	},
 	{

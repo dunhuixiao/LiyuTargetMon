@@ -6855,11 +6855,11 @@ return {
 	-- Ã÷½Ì
 	{
 		szNote = "Ì°Ä§Ìå",
-		dwID = 4033,
+		dwID = 4439,
 		nIconID = 4178,
-		szUUID = "108AF060-C218-4611-A387-9F32C9DF2108",
+		szUUID = "1A0E0CB0-810E-4AD0-B08A-FC15AE1FEF11",
 		nStackNum = 0,
-		nLevel = 1,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			255,
