@@ -6,6 +6,8 @@
 
 [文档地址](https://dunhuixiao.github.io/LiyuTargetMon/)
 
+[剑三魔盒](https://www.jx3box.com/tool/95702)
+
 ## 赞助
 
 [爱发电](https://afdian.com/a/cookie_mango)
