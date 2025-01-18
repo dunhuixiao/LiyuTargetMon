@@ -24,7 +24,7 @@ features:
 
 ## 关于
 :::tip
-当前版本：v1.5.8
+当前版本：v1.5.9
 :::
 
 监控基于「茗伊插件集 - 目标监控模块」实现，可以对于全职业重要 Buff / Debuff 进行监控。
@@ -65,7 +65,7 @@ features:
 
 ## 论坛链接
 
-[剑三魔盒](https://www.jx3box.com/dbm/pkg/1287)
+[剑三魔盒](https://www.jx3box.com/tool/95702)
 
 [历史贴吧链接](https://tieba.baidu.com/p/6470946492?see_lz=1)
 

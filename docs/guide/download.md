@@ -6,15 +6,15 @@ next: /guide/faq.html
 
 ## 直接下载
 
-<a href="https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/targetmon/%E3%80%90%E9%B2%A4%E9%B1%BC%E7%9B%91%E6%8E%A7%E3%80%91v1.5.8%EF%BC%88%E5%9B%9B%E8%A1%8C%E6%A8%A1%E5%BC%8F%EF%BC%89.jx3dat" download="【鲤鱼监控】v1.5.8（四行模式）.jx3dat">四行模式</a>
+<a href="https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/targetmon/%E3%80%90%E9%B2%A4%E9%B1%BC%E7%9B%91%E6%8E%A7%E3%80%91v1.5.9%EF%BC%88%E5%9B%9B%E8%A1%8C%E6%A8%A1%E5%BC%8F%EF%BC%89.jx3dat" download="【鲤鱼监控】v1.5.9（四行模式）.jx3dat">四行模式</a>
 
-<a href="https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/targetmon/%E3%80%90%E9%B2%A4%E9%B1%BC%E7%9B%91%E6%8E%A7%E3%80%91v1.5.8%EF%BC%88%E4%B8%A4%E8%A1%8C%E6%A8%A1%E5%BC%8F%EF%BC%89.jx3dat" download="【鲤鱼监控】v1.5.8（两行模式）.jx3dat">两行模式</a>
+<a href="https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/targetmon/%E3%80%90%E9%B2%A4%E9%B1%BC%E7%9B%91%E6%8E%A7%E3%80%91v1.5.9%EF%BC%88%E4%B8%A4%E8%A1%8C%E6%A8%A1%E5%BC%8F%EF%BC%89.jx3dat" download="【鲤鱼监控】v1.5.9（两行模式）.jx3dat">两行模式</a>
 
 ## 其他下载
 
 [百度网盘](https://pan.baidu.com/s/1pi6m2ErZq7WWQf9c5wzpig?pwd=ksvq)
 
-[阿里云盘](https://www.alipan.com/s/Asr4VinYiqpt)
+[阿里云盘](https://www.alipan.com/s/Qyn1eTTzFjq)
 
 [GitHub](https://github.com/dunhuixiao/LiyuTargetMon/releases)
 
