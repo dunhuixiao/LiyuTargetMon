@@ -19,7 +19,7 @@ features:
 
   - title: 开源
     icon: github
-    details: 监控数据内容明文，可供非盈利性质的分享、修改、二次创作。
+    details: 监控数据内容明文，可用于遵从 MIT 开源协议的分享、修改、二次创作。
 ---
 
 ## 关于
@@ -29,7 +29,7 @@ features:
 
 监控基于「茗伊插件集 - 目标监控模块」实现，可以对于全职业重要 Buff / Debuff 进行监控。
 
-监控文件内容明文，可供非盈利性质的分享、修改、二次创作，如果基于以上目的，不用寻求我的同意。
+监控文件内容明文，可用于遵从 MIT 开源协议的分享、修改、二次创作，如果基于以上目的，不用寻求我的同意。
 
 如果在使用中遇到问题，可以在[GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) / [QQ群](https://jq.qq.com/?_wv=1027&k=jmw5fLpn) 私聊描述你的问题或反馈，看到后会给你回复。
 
