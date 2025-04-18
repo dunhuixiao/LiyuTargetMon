@@ -1,5 +1,5 @@
 ---
-title: 更新日志 ✨
+title: ✨更新日志
 prev: /guide/faq.html
 ---
 ## 1.5.9 2025/1/19
