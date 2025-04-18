@@ -1,8 +1,9 @@
 ---
-title: 💡使用教程
+title: 💡 使用教程
 next: /guide/download.html
 ---
 ## 游戏内订阅
+
 :::tip
 推荐更新方式
 :::
@@ -25,8 +26,11 @@ next: /guide/download.html
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/14.png)
 
-
 ## 压缩包
+
+:::warning
+已废弃，不推荐
+:::
 
 下载获取最新的压缩包，解压后可获得的文件为监控文件和文档链接。
 

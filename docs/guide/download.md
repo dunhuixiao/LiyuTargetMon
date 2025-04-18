@@ -1,5 +1,5 @@
 ---
-title: 🐣下载
+title: 🐣 下载
 prev: /guide/start.html
 next: /guide/faq.html
 ---
