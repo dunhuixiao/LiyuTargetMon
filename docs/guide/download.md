@@ -16,6 +16,10 @@ next: /guide/faq.html
 
 ## 其他下载
 
+:::warning
+网盘已废弃，不推荐，可以通过 GitHub 或是加入 QQ 群下载
+:::
+
 [百度网盘](https://pan.baidu.com/s/1pi6m2ErZq7WWQf9c5wzpig?pwd=ksvq)
 
 [阿里云盘](https://www.alipan.com/s/Qyn1eTTzFjq)

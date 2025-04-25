@@ -26,19 +26,15 @@ next: /guide/download.html
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/14.png)
 
-## 压缩包
+## 下载文件
 
-:::warning
-已废弃，不推荐
-:::
+在 [下载](guide/download.md) 中直接下载监控文件。
 
-下载获取最新的压缩包，解压后可获得的文件为监控文件和文档链接。
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/2.png)
 
 在游戏中打开「茗伊插件集 - 目标 - 目标监控 - 打开设置面板」，点击导入本地数据，选取其中后缀为 `.jx3dat` 的监控文件。
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/1.jpg)
-
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/2.png)
 
 ## 监控内容区分
 
