@@ -20,8 +20,6 @@ next: /guide/download.html
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/12.png)
 
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/13.png)
-
 如果你已经订阅，想要获取最新版本，请点击检查更新按钮，如果远端有最新的版本可以重新加载。
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/14.png)
