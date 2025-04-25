@@ -14,7 +14,7 @@ next: /guide/change-log.html
 
 找到你想要添加 buffid，有以下两种添加方式
 
-1. 「茗伊插件集 - 目标 - 目标监控 - 打开设置面板」中点击「新建条目」创建
+1. 「茗伊插件集 - 目标 - 目标监控 - 打开设置面板」中，选择到你想创建的监控集合，点击「新建条目」创建
 2. 找到你想插入 buff 的位置，点击右键插入
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/7.jpg)

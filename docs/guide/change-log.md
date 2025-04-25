@@ -2,6 +2,156 @@
 title: ✨ 更新日志
 prev: /guide/faq.html
 ---
+
+## 1.6.0 2025/4/26
+:::tip
+* 其他
+	* 新增特殊控制免疫 Buff，别名统一为免特控
+* 纯阳
+	* 新增凭霄破云·吞日月 Debuff
+	* 删除剑斩列星 Debuff
+	* 新增坐忘无我 Buff
+	* 删除剑道万象 Buff、Debuff
+	* 删除镇形 Debuff
+	* 删除拘形 Debuff
+	* 新增剑道万象 Debuff
+	* 删除玄德 Buff
+	* 删除合真 Buff
+* 万花
+	* 新增针砭 Debuff
+	* 新增寒芒 Debuff
+	* 修改游斤 Debuff 别名为封轻功
+	* 删除皓空 Buff
+	* 新增沃土 Buff
+* 七秀
+	* 新增雾雨 Buff
+	* 删除月出东山 Debuff
+	* 新增悲秋 Debuff
+	* 删除玳弦 Debuff
+	* 删除飞竹 Debuff
+	* 删除棠梨 Buff
+	* 删除映日 Buff
+* 天策
+	* 删除挥金镝 Buff
+	* 删除戎行·盾 Buff
+	* 修复重创 Debuff 图标显示
+* 藏剑
+	* 删除长致 Debuff
+	* 新增浮云 Debuff
+	* 新增云景 Debuff
+	* 修复重创 Debuff 显示
+	* 删除闻踪 Buff
+* 五毒
+	* 新增蛛王之触 Debuff
+	* 新增圣手织天 Buff
+	* 修复千蝶吐瑞 Buff 显示
+	* 删除辟寒 Buff
+	* 新增五色石 Buff
+	* 删除圣元 Debuff
+* 唐门
+	* 删除嘹然有声 Buff
+* 明教
+	* 删除幻相 Debuff
+	* 删除冥月渡心 Buff
+	* 修复日盈 Buff 图标显示
+	* 删除清净心 Buff
+	* 删除净 Buff
+	* 删除暗尘弥散 Buff
+* 丐帮
+	* 新增酒中仙 Buff
+	* 新增逍遥 Buff
+	* 删除乘龙戏水 Buff
+	* 删除酣畅淋漓 Buff
+	* 新增龙战于野 Debuff
+	* 删除亢龙有悔 Debuff
+	* 新增灼烧 Debuff
+	* 新增翻江 Debuff
+	* 删除神龙降世 Debuff
+	* 删除醉逍遥 Buff
+	* 新增满盈·醉酒 Debuff
+	* 新增沉醉 Debuff
+	* 新增恶狗拦路·克己 Debuff
+	* 新增飞龙 Buff
+	* 修改笑醉狂 Buff 别名为免控
+	* 新增笑醉狂 Buff
+	* 删除酣畅淋漓·醉 Buff
+	* 删除豪饮·酒中仙 Buff
+	* 删除将进酒 Debuff
+	* 删除游君 Debuff
+	* 删除宽野 Buff
+	* 删除有攸 Buff
+	* 删除盈久 Buff
+	* 删除共醉 Buff
+	* 删除益元 Buff
+	* 删除落水打狗 Buff
+* 苍云
+	* 新增盾守 Buff
+	* 删除狂绝 Buff
+	* 删除业火焚城 Debuff
+	* 删除锋寒 Debuff
+	* 新增祭血关山 Buff
+	* 删除摧城 Debuff
+* 长歌
+	* 新增青霄飞羽 Buff
+	* 修改剑·羽 Debuff 别名为定身
+	* 新增剑·角 Debuff
+	* 新增剑·角 Buff
+	* 新增剑·徵锁足 Debuff
+	* 新增剑·徵 Buff
+	* 删除剑·宫 Debuff
+	* 新增缓步 Debuff
+	* 新增停拍 Debuff
+	* 新增不愧君 Debuff
+	* 删除石间意 Buff
+	* 删除高山流水 Buff
+	* 新增思议 Buff
+* 霸刀
+	* 删除割据秦宫 Debuff
+	* 新增龙骧虎步 Buff
+	* 删除尘身 Buff
+	* 新增尘身 Buff
+	* 删除余声 Debuff
+	* 新增掠关 Buff
+	* 新增掠关 Debuff
+	* 新增鹿殆 Debuff
+	* 新增击鼎 Debuff
+	* 新增尘封 Debuff
+	* 新增鸣震九霄 Debuff
+	* 新增横断山河 Buff
+	* 删除踏宴扬旗 Debuff
+* 蓬莱
+	* 新增物化天行 Buff
+	* 修改乘龙 Buff 别名为减伤
+	* 新增海佑· 护 Buff
+	* 新增驾澜护盾 Buff
+	* 新增浪斥 Debuff
+	* 新增鲲鹏 Buff
+	* 新增鲲鹏逐空 Buff
+* 凌雪阁
+	* 删除洪荒 Debuff
+	* 删除嵬崖 Buff
+	* 删除厄辞 Debuff
+	* 新增幽都 Debuff
+	* 删除威刑 Debuff
+	* 删除罚罪狱 Debuff
+	* 删除链魂 Debuff
+* 衍天宗
+	* 新增镇星 Buff
+* 北天药宗
+	* 新增旋生飞草 Debuff
+	* 新增崖香 Buff
+* 刀宗
+	* 新增弱点 Debuff
+	* 删除识破 Buff
+	* 修复雾灭 Debuff 显示
+	* 新增溃延 Buff
+	* 删除踏罡 Buff
+* 段氏
+	* 新增遥以心照 Buff
+	* 删除霰珠 Debuff
+	* 删除泽前 Debuff
+:::
+
 ## 1.5.9 2025/1/19
 :::tip
 * 纯阳

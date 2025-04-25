@@ -40,6 +40,8 @@ next: /guide/download.html
 
 ![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/2.png)
 
+## 监控内容区分
+
 四行模式监控栏从上往下分别是敌方 Buff、敌方 Debuff、自身 Buff、自身 Debuff。Buff 为白色边框、黄色字体显示，Debuff 为红色边框、红色字体显示。
 
 两行模式监控栏从上往下分别是敌方 Buff / Debuff、自身 Buff / Debuff。Buff / Debuff 均为白色边框显示，Buff 为黄色字体显示，Debuff 为红色字体显示。
