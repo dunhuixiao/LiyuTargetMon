@@ -17,9 +17,9 @@ next: /guide/change-log.html
 1. 「茗伊插件集 - 目标 - 目标监控 - 打开设置面板」中，选择到你想创建的监控集合，点击「新建条目」创建
 2. 找到你想插入 buff 的位置，点击右键插入
 
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/7.jpg)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/7.png)
 
-![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/9.jpg)
+![An image](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/9.png)
 
 点击该条监控，可以修改提示名、颜色、监控组等信息。
 
