@@ -16,6 +16,8 @@ next: /guide/faq.html
 
 ## 其他下载
 
+[剑三魔盒](https://www.jx3box.com/tool/95702)
+
 [百度网盘](https://pan.baidu.com/s/1pi6m2ErZq7WWQf9c5wzpig?pwd=ksvq)
 
 [阿里云盘](https://www.alipan.com/s/Qyn1eTTzFjq)
