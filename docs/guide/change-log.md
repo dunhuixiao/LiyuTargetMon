@@ -2,6 +2,358 @@
 title: ✨ 更新日志
 prev: /guide/faq.html
 ---
+## 1.6.1 2025/11/
+:::tip
+* 其他
+	* 更新至「山海源流」资料片
+	* 调整了部分 Buff / Debuff 的归类以及顺序
+	* 删除蹑云逐月 Buff
+* 纯阳
+	* 新增生太极 Buff
+	* 新增云游 Buff
+	* 修复重创 Debuff 显示
+	* 修改凌云剑 Debuff 别名为眩晕
+	* 新增玄德 Buff
+	* 删除云中剑·生太极 Debuff
+	* 新增长生 Buff
+	* 删除化三清 Buff
+	* 删除雨集 Buff
+	* 删除五方行尽·捉影 Debuff
+	* 删除长生 Debuff
+	* 删除万象剑阵 Debuff
+	* 删除自化 Debuff
+	* 删除利刃 Buff
+* 万花
+	* 修复大针 Buff 显示
+	* 新增笼花·御 Buff
+	* 新增听风同命 Buff
+	* 删除坐隐 Buff
+	* 删除局针 Buff
+	* 删除金屋 Buff
+	* 删除正骨 Buff
+	* 删除月斜 Buff
+	* 删除兰瑾 Buff
+	* 删除护本 Buff
+	* 删除落墨 Buff
+	* 删除流溢 Buff
+	* 删除布散 Buff
+	* 删除挥毫墨意 Buff
+	* 删除放歌 Buff
+	* 删除不舍 Buff
+	* 修复毫针 Buff 显示
+	* 删除墨意 Debuff
+	* 删除同归 Debuff
+	* 删除金针 Debuff
+	* 删除丹青 Debuff
+	* 删除乘墨由心 Debuff
+	* 删除着墨 Debuff
+	* 删除落英 Debuff
+	* 删除逐月 Debuff
+* 少林
+	* 新增二业 Buff
+	* 修改捕风式 Buff 别名为瞬发
+	* 新增承缘 Buff
+	* 删除妙法 Buff
+	* 删除心诤 Buff
+	* 删除正念 Buff
+	* 删除抱残式 Debuff
+	* 删除空识 Debuff
+	* 删除滞影 Debuff
+* 七秀
+	* 新增沉梦 Debuff
+	* 修复音韵 Buff 显示
+	* 新增玳弦 Debuff
+	* 删除绛唇珠袖 Debuff
+	* 删除红绡倩风 Debuff
+	* 新增迎雪 Buff
+	* 新增朝云暮雪 Buff
+	* 新增望朝云 Buff
+	* 删除霓裳 Buff
+	* 修复低昂 Buff 显示
+	* 删除两生 Buff
+	* 删除璇妗 Buff
+	* 删除云洗 Buff
+	* 删除盈袖 Buff
+	* 删除留风 Buff
+	* 删除江海凝波剑 Buff
+	* 修复水榭定身 Debuff 显示
+	* 删除霜天剑泠 Debuff
+	* 删除芳尘 Debuff
+* 天策
+	* 修改啸西风 Debuff 别名为减疗
+	* 新增雷 Debuff
+	* 新增围魏 Buff
+	* 删除徐如林 Buff
+	* 删除青阳 Buff
+	* 删除盘蛇 Buff
+	* 删除临阵 Buff
+	* 删除引金镝 Debuff
+	* 删除穿 Debuff
+* 藏剑
+	* 修复平湖断月 Debuff 显示
+	* 修复危楼 Debuff 显示
+	* 删除叠泉 Buff
+	* 删除声趣 Buff
+	* 删除夜雨 Buff
+	* 删除峰聚 Buff
+	* 删除淬灵 Buff
+	* 删除惊雷 Debuff
+	* 删除山倾 Debuff
+	* 删除剑鸣 Debuff
+	* 删除曳兵 Debuff
+* 五毒
+	* 新增风蜈献祭 Buff
+	* 删除蝎蛰 Debuff
+	* 新增迷濛 Debuff
+	* 新增蟾啸夺命 Debuff
+	* 新增蝉蜕 Buff
+	* 删除风蜈献祭 Buff
+	* 删除娲皇赐恩 Buff
+	* 删除曳光 Buff
+	* 删除散影 Buff
+	* 删除枭泣 Buff
+	* 删除寒蟾 Buff
+	* 删除茧灵 Buff
+	* 删除展屏 Buff
+	* 删除五色石 Buff
+	* 删除引魂 Buff
+	* 删除蚀心蛊 Debuff
+	* 删除禁疗 Debuff
+	* 删除活祭 Debuff
+	* 删除丝牵 Debuff
+	* 删除缠心 Debuff
+	* 删除天蛛献祭 Debuff
+	* 删除迷幻 Debuff
+	* 删除残废 Debuff
+	* 删除天蛛·禁 Debuff
+	* 删除蛛王之触 Debuff
+	* 删除寂灭 Debuff
+	* 删除篾片蛊 Debuff
+* 唐门
+	* 新增惊心 Buff
+	* 修复穿杨 Debuff 显示
+	* 新增击搏挽裂 Buff
+	* 新增禁疗 Debuff
+	* 修复飞鸢逐月 Buff 显示
+	* 修复扬威 Buff 显示
+	* 修改鬼斧神工 Buff 别名为无敌
+	* 删除逐星 Buff
+	* 删除护体 Buff
+	* 删除云合影从 Buff
+	* 删除浴血沁骨 Debuff
+	* 删除弩击 Debuff
+	* 删除山风满楼 Debuff
+	* 删除孔雀翎 Debuff
+	* 删除暴雨梨花针 Debuff
+	* 删除旋踵 Debuff
+	* 删除重弩 Debuff
+	* 删除坠凌花 Debuff
+	* 删除重影 Debuff
+	* 删除破绽 Debuff
+	* 删除确固不拔 Debuff
+	* 删除坠凌花·结 Debuff
+	* 删除断魂 Debuff
+* 明教
+	* 修复日劫 Debuff 显示
+	* 修复烈火 Buff 显示
+	* 修改日盈 Buff 别名为爆发
+	* 新增灵光破晓 Debuff
+	* 新增清静心 Debuff
+	* 修复暗尘弥散 Buff 显示
+	* 删除寒月耀 Debuff
+	* 删除灵辉 Buff
+	* 删除圣法光明 Buff
+	* 删除微妙风 Buff
+	* 删除羁影 Buff
+	* 删除具智 Buff
+	* 删除无间影狱 Buff
+	* 删除燎原烈火 Buff
+	* 删除诛戮 Buff
+	* 删除幻光步 Debuff
+	* 删除伏夜·晕 Debuff
+	* 删除镇魔 Debuff
+	* 删除晦冥曳 Debuff
+	* 删除极本溯源 Debuff
+	* 删除伏夜·定 Debuff
+	* 删除伏夜·缠 Debuff
+	* 删除影狱 Debuff
+	* 删除幻相 Debuff
+	* 删除日月封轻功 Debuff
+	* 删除霜月 Debuff
+* 丐帮
+	* 修改逍遥 Buff 别名为免控
+	* 删除霸体 Buff
+	* 删除龙跃于渊 Buff
+	* 删除飞龙 Buff
+	* 删除战龙 Buff
+	* 删除流行 Buff
+	* 删除龙醒 Buff
+	* 删除苍龙 Buff
+	* 删除青龙 Buff
+	* 删除伏虎 Buff
+	* 删除苍龙戾天 Debuff
+	* 删除苍龙戾天·迟缓 Debuff
+	* 删除复征 Debuff
+	* 删除恶狗拦路·克己 Debuff
+	* 删除对酌 Debuff
+* 苍云
+	* 新增流血 Debuff
+	* 新增战绝 Buff
+	* 删除捍卫 Buff
+	* 新增捍卫 Buff
+	* 删除穷战 Buff
+	* 删除盾护 Buff
+	* 删除肃列 Buff
+	* 删除扬旌 Buff
+	* 删除坚定 Buff
+	* 删除移山 Buff
+	* 删除莫朽 Buff
+	* 删除祭血关山 Buff
+	* 删除盾毅 Debuff
+	* 删除断马 Debuff
+* 长歌
+	* 新增持剑姿态 Buff
+	* 新增清绝影歌 Buff
+	* 修复笑傲光阴 Buff 显示
+	* 修复云生结海 Buff 显示
+	* 新增剑·角 Buff
+	* 修复剑·角 Debuff 显示
+	* 新增宫 Debuff
+	* 新增清角 Debuff
+	* 删除楚济 Debuff
+	* 新增飞鸾动羽 Buff
+	* 新增飞鸾动羽 Debuff
+	* 新增入月 Debuff
+	* 新增引芳 Buff
+	* 新增凤求凰 Buff
+	* 修复孤影 Buff 显示
+	* 删除清绝影歌 Buff
+	* 删除不愧君 Buff
+	* 删除绝歌 Buff
+	* 删除气略 Buff
+	* 删除天音知脉 Buff
+	* 删除盏萤 Buff
+	* 删除敛意 Buff
+	* 删除不复鼓 Buff
+	* 删除思议 Buff
+	* 删除停拍 Debuff
+	* 删除游太清 Debuff
+	* 删除冲秋冥 Debuff
+* 霸刀
+	* 新增掠关 Debuff
+	* 新增楚河 Debuff
+	* 修复龙骧虎步 Buff 显示
+	* 新增霜云 Debuff
+	* 删除流影 Buff
+	* 删除心境 Debuff
+	* 删除伏尘 Debuff
+* 蓬莱
+	* 新增飞倾列缺 Debuff
+	* 新增乘龙 Buff
+	* 新增鸿渐于飞 Buff
+	* 新增驾澜 Buff
+	* 修复澜息 Debuff 显示
+	* 删除鲲鹏逐空 Buff
+	* 删除海佑 Buff
+	* 删除乘龙 Buff
+	* 删除海佑·护 Buff
+	* 删除驾澜护盾 Buff
+	* 删除鲲鹏 Buff
+	* 删除怒翼 Buff
+	* 删除振翅 Buff
+	* 删除冥意 Debuff
+	* 删除征夷 Debuff
+	* 删除无涯 Debuff
+* 凌雪阁
+	* 修复十方玄机 Buff 显示
+	* 修复无间狱 Buff 显示
+	* 新增判决 Debuff
+	* 新增度鬼门 Debuff
+	* 新增追魂索魄 Debuff
+	* 修改飞刃回转 Debuff 别名为飞刃
+	* 删除天堑 Buff
+	* 删除窥月 Buff
+	* 删除金戈 Buff
+	* 删除燕歌 Debuff
+	* 删除长绝 Debuff
+	* 删除荒狱 Debuff
+	* 删除尘劫 Debuff
+	* 删除枭影 Debuff
+	* 删除绝界封疆 Debuff
+* 衍天宗
+	* 新增斗转星移 Debuff
+	* 新增踏斗 Debuff
+	* 新增神占 Buff
+	* 新增算尽 Debuff
+	* 新增神皆寂 Debuff
+	* 修复祝由·水坎 Buff 显示
+	* 删除龙马出河 Buff
+	* 删除神占·水坎 Buff
+	* 删除风遁 Buff
+	* 删除镇星 Buff
+	* 删除连极阵 Buff
+	* 删除列宿游 Debuff
+	* 删除流火 Debuff
+	* 删除知微 Debuff
+	* 删除皆 Debuff
+	* 删除荧惑守心 Debuff
+	* 删除定辰 Debuff
+* 北天药宗
+	* 修复荡襟 Debuff 显示
+	* 修复紫叶沉疴种子 Debuff 显示
+	* 新增且待时休滞眠封轻功 Debuff
+	* 新增渍形 Debuff
+	* 新增妒茵 Buff
+	* 新增辛夷 Buff
+	* 新增若木 Buff
+	* 新增连情 Buff
+	* 新增渍形 Debuff
+	* 新增霜解 Debuff
+	* 删除摧蕊 Buff
+	* 删除青绦 Buff
+	* 删除自馨 Buff
+	* 删除肃羽 Buff
+	* 删除织翠 Buff
+	* 删除崖香 Buff
+	* 删除并蒂夺株·寒 Debuff
+	* 删除生地 Debuff
+	* 删除绿涤 Debuff
+	* 删除谢枝 Debuff
+* 刀宗
+	* 新增遏流 Buff
+	* 新增飞云 Buff
+	* 新增急潮 Buff
+	* 修复留客 Debuff 显示
+	* 删除溃延 Buff
+	* 删除驰心 Debuff
+	* 删除顾渺 Debuff
+	* 删除雾灭 Debuff
+	* 删除连亘 Debuff
+	* 删除界破 Debuff
+* 万灵山庄
+	* 新增乘黄之威 Buff
+	* 修改沃焦 Debuff 别名为沉默
+	* 删除畴野 Buff
+	* 修改承契 Buff 别名为承契
+	* 删除徙林 Buff
+	* 删除减疗 Debuff
+	* 删除风纵 Debuff
+	* 删除风尽 Debuff
+* 段氏
+	* 修复雪重花满 Buff 显示
+	* 新增落雪 Buff
+	* 新增流梨 Buff
+	* 新增抟风令 Buff
+	* 新增遏尘 Debuff
+	* 新增风徊絮转 Debuff
+	* 新增絮转 Debuff
+	* 删除抟风免控 Buff
+	* 删除落雪 Debuff
+	* 删除凝阴 Debuff
+	* 删除飒星 Debuff
+* 无相楼
+	* 初始化无相楼 Buff / Debuff 监控
+:::
 
 ## 1.6.0 2025/4/26
 :::tip
@@ -296,7 +648,7 @@ prev: /guide/faq.html
 ## 1.5.7 2024/11/05
 :::tip
 * 其他
-	* 更新至“丝路风雨”资料片
+	* 更新至「丝路风雨」资料片
 	* 修复全职业封轻功 Debuff 显示
 * 段氏
 	* 初始化段氏 Buff / Debuff 监控
@@ -324,7 +676,7 @@ prev: /guide/faq.html
 ## 1.5.4 2024/05/18
 :::tip
 * 其他
-	* 更新至“雾海寻龙”资料片
+	* 更新至「雾海寻龙」资料片
 * 纯阳
 	* 新增剑道万象 Buff
 * 万花
@@ -487,7 +839,7 @@ prev: /guide/faq.html
 ## 1.4.6 2023/11/05
 :::tip
 * 其他
-	* 更新至“万灵当歌”资料片
+	* 更新至「万灵当歌」资料片
 	* 新增万灵山庄橙武 Buff 显示
 * 纯阳
 	* 新增剑道万象 Buff
@@ -539,7 +891,7 @@ prev: /guide/faq.html
 ## 1.4.4 2023/04/29
 :::tip
 * 其他
-	* 更新至“群侠万变”资料片
+	* 更新至「群侠万变」资料片
 * 纯阳
 	* 新增剑入 Debuff
 	* 新增定迹 Debuff
@@ -620,7 +972,7 @@ prev: /guide/faq.html
 ## 1.4.0 2022/10/30
 :::tip
 * 其他
-	* 更新至“横刀断浪”资料片
+	* 更新至「横刀断浪」资料片
 	* 新增 120 级橙武 Buff 显示
 	* 修改所有吸收治疗 Buff / Debuff 的别名为吸疗
 * 纯阳
@@ -756,7 +1108,7 @@ prev: /guide/faq.html
 ## 1.3.7 2021/10/28
 ::: tip 
 * 其他
-	* 更新至适用“北天药宗”资料片测试服二改
+	* 更新至适用「北天药宗」资料片测试服二改
     * 修复流血 Debuff 显示
 * 纯阳
     * 新增太牢 Debuff 
@@ -883,7 +1235,7 @@ prev: /guide/faq.html
 ## 1.3.3 2020/10/31
 ::: tip
 * 其他
-	* 更新至适用“奉天证道”资料片
+	* 更新至适用「奉天证道」资料片
 	* 新增除衍天宗外的所有110级橙武 Buff 
 * 衍天宗
 	* 全部 Buff / Debuff 图标实装
@@ -898,7 +1250,7 @@ prev: /guide/faq.html
 ## 1.3.2 2020/10/17
 ::: tip
 * 其他
-	* 更新至适用“奉天证道”资料片测试服二改
+	* 更新至适用「奉天证道」资料片测试服二改
 * 纯阳
 	* 新增裂云 Buff 
 	* 新增合虚 Buff 
@@ -968,7 +1320,7 @@ prev: /guide/faq.html
 ## 1.3.1 2020/08/03
 ::: tip
 * 其他
-	* 更新至适用“同筑山水居”资料片
+	* 更新至适用「同筑山水居」资料片
 * 通用
 	* 新增蹑云逐月 Buff 
 * 唐门
@@ -978,7 +1330,7 @@ prev: /guide/faq.html
 ## 1.3.0 2020/05/17
 ::: tip
 * 其他
-	* 更新至适用“结庐在人境”资料片测试服二改
+	* 更新至适用「结庐在人境」资料片测试服二改
 	* 游戏内名称上加了版本号，方便在游戏内确认版本
 * 纯阳
 	* 删除凌太虚 Buff 
@@ -1071,7 +1423,7 @@ prev: /guide/faq.html
 ## 1.2.4 2019/11/29
 ::: tip
 * 其他
-	* 更新至“凌雪藏锋”资料片正式服
+	* 更新至「凌雪藏锋」资料片正式服
 	* 修复两行模式下 Buff 重复的一些问题
 	* 修复橙武 Buff 的一些显示问题，并新增凌雪阁100级橙武
 * 万花
@@ -1102,7 +1454,7 @@ prev: /guide/faq.html
 ## 1.2.3 2019/11/16
 ::: tip
 * 其他
-	* 更新至适用“凌雪藏锋”资料片测试服二改
+	* 更新至适用「凌雪藏锋」资料片测试服二改
 	* 删除了一些没必要监控/点奇穴为常驻的 Buff / Debuff 
 	* 新增两行模式的文件
 	* 修改 Buff / Debuff 展示优先级，现在四行模式下 Buff 按照无敌>橙武>免控=特殊技能（如隐身、切剑等）>减伤=免封内>爆发>其他、 Debuff 按照特殊技能（如决斗、缴械等）=沉默>击倒>眩晕>定身>锁足>封内=封轻功>减疗>减速>其他，以上显示优先级进行排列；两行模式下按照无敌>橙武>特殊技能（如决斗、缴械等）=沉默>击倒>眩晕>定身>锁足>免控=特殊技能(如隐身、切剑等)>减伤>爆发>封内=封轻功>减疗>减速>其他，以上显示优先级进行排列
@@ -1150,7 +1502,7 @@ prev: /guide/faq.html
 ## 1.2.2 2019/11/03
 ::: tip
 * 其他
-	* 更新至适用“凌雪藏锋”资料片测试服一改
+	* 更新至适用「凌雪藏锋」资料片测试服一改
 	* 新增100级橙武 Buff 
 * 纯阳
 	* 新增玄德 Buff 
@@ -1490,7 +1842,7 @@ prev: /guide/faq.html
 	* 新增布散 Buff ，方便更好的监控水月乱洒
 * 少林
 	* 新增灵越金身、五识金身的 Buff 
-	* 修复舍身监控 Buff 为“为目标承受100%的伤害”，而不是之前的“对方减伤30%”，方便更好的监控
+	* 修复舍身监控 Buff 为「为目标承受100%的伤害」，而不是之前的「对方减伤30%」，方便更好的监控
 :::
 
 ## 1.0.6 2017/09/10
