@@ -255,6 +255,21 @@ return {
 		szContent = "不死",
 		bEnable = true,
 	},
+	{
+		nStackNum = 0,
+		szNote = "雷霆震怒",
+		nLevel = 0,
+		szContent = "无敌",
+		bEnable = true,
+		dwID = 24614,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		nIconID = 18143,
+		szUUID = "1304CF56-2672-4933-8C69-A65E28B1BF08",
+	},
 	-- 天策
 	{
 		szNote = "啸如虎",
@@ -1348,6 +1363,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "点绛唇",
+		dwID = 14930,
+		nIconID = 7265,
+		szUUID = "2C46EF34-BB40-4D16-9C56-4B1C9DBA9C6F",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "免控",
+		bEnable = true,
+	},
 	-- 天策
 	{
 		szNote = "长征",
@@ -1435,6 +1465,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "青阳",
+		dwID = 6131,
+		nIconID = 4576,
+		szUUID = "B1864C74-FBFA-4A74-9194-6C3D63D06DD0",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "免控",
+		bEnable = true,
 	},
 	{
 		szNote = "破重围",
@@ -3856,6 +3901,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "流溢",
+		dwID = 11321,
+		nIconID = 7229,
+		szUUID = "F000BF32-1278-42BE-8872-5082882B021E",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "减伤",
+		bEnable = true,
 	},
 	{
 		szNote = "轻燕",
@@ -7732,6 +7792,21 @@ return {
 		bEnable = true,
 	},
 	-- 七秀
+	{
+		szNote = "留风",
+		dwID = 21115,
+		nIconID = 16209,
+		szUUID = "F62CB952-3014-4999-91F9-A1FBD776B9F9",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "留风",
+		bEnable = true,
+	},
 	-- 天策
 	-- 藏剑
 	{

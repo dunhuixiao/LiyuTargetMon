@@ -255,6 +255,21 @@ return {
 		szContent = "²»ËÀ",
 		bEnable = true,
 	},
+	{
+		nStackNum = 0,
+		szNote = "À×öªÕðÅ­",
+		nLevel = 0,
+		szContent = "ÎÞµÐ",
+		bEnable = true,
+		dwID = 24614,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		nIconID = 18143,
+		szUUID = "1304CF56-2672-4933-8C69-A65E28B1BF08",
+	},
 	-- Ìì²ß
 	{
 		szNote = "Ð¥Èç»¢",
@@ -1246,6 +1261,36 @@ return {
 		aSoundDisappear = {},
 	},
 	-- ±±ÌìÒ©×Ú
+	{
+		szNote = "²¢µÙ¶áÖê¡¤º®",
+		dwID = 20787,
+		nIconID = 16020,
+		szUUID = "A67EA910-B122-4AE6-89D4-BBFD6E99BF89",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "½µµ÷Ï¢",
+		bEnable = true,
+	},
+	{
+		szNote = "²¢µÙ¶áÖê¡¤ÎÂ",
+		dwID = 20789,
+		nIconID = 16022,
+		szUUID = "804EEE14-98DC-4C89-8061-4B6E20F485CB",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "·´µ¯",
+		bEnable = true,
+	},
 	-- ÍòÁéÉ½×¯
 	{
 		szNote = "¿Ö¾å",
@@ -6038,6 +6083,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "µãç­´½",
+		dwID = 14930,
+		nIconID = 7265,
+		szUUID = "2C46EF34-BB40-4D16-9C56-4B1C9DBA9C6F",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "Ãâ¿Ø",
+		bEnable = true,
+	},
 	-- Ìì²ß
 	{
 		szNote = "³¤Õ÷",
@@ -6125,6 +6185,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "ÇàÑô",
+		dwID = 6131,
+		nIconID = 4576,
+		szUUID = "B1864C74-FBFA-4A74-9194-6C3D63D06DD0",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "Ãâ¿Ø",
+		bEnable = true,
 	},
 	{
 		szNote = "ÆÆÖØÎ§",
@@ -8589,6 +8664,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "Á÷Òç",
+		dwID = 11321,
+		nIconID = 7229,
+		szUUID = "F000BF32-1278-42BE-8872-5082882B021E",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "¼õÉË",
+		bEnable = true,
 	},
 	{
 		szNote = "ÇáÑà",
@@ -15224,6 +15314,21 @@ return {
 		bEnable = true,
 	},
 	-- ÆßÐã
+	{
+		szNote = "Áô·ç",
+		dwID = 21115,
+		nIconID = 16209,
+		szUUID = "F62CB952-3014-4999-91F9-A1FBD776B9F9",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "Áô·ç",
+		bEnable = true,
+	},
 	{
 		szNote = "¼±Çú",
 		aSoundAppear = {},
