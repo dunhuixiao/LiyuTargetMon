@@ -3,7 +3,6 @@ import { hopeTheme } from "vuepress-theme-hope";
 export default hopeTheme({
   hostname: "https://dunhuixiao.github.io/LiyuTargetMon/",
   author: "Cookie🥭",
-  iconAssets: "iconfont",
   logo: "https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
   repo: "https://github.com/dunhuixiao/LiyuTargetMon",
   docsDir: "docs",
@@ -36,6 +35,17 @@ export default hopeTheme({
   },
 
   plugins: {
+    // 图标插件配置
+    icon: {
+      assets: "fontawesome",
+    },
+    search: {
+      locales: {
+        "/": { placeholder: "搜索" },
+        "/en/": { placeholder: "Search" },
+      },
+      isSearchable: (page) => page.path !== "/",
+    },
     // 如果你不需要评论，可以直接删除 comment 配置，
     // 以下配置仅供体验，如果你需要评论，请自行配置并使用自己的环境，详见文档。
     // 为了避免打扰主题开发者以及消耗他的资源，请不要在你的正式环境中直接使用下列配置!!!!!
@@ -62,11 +72,6 @@ export default hopeTheme({
 
     mdEnhance: {
       enableAll: true,
-      locales: {
-        "/":{
-          tip:" "
-        }
-      },
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },

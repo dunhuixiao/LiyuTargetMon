@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
+import { viteBundler } from "@vuepress/bundler-vite";
 import theme from "./theme";
-import { searchPlugin } from "@vuepress/plugin-search";
 
 const basePath = "LiyuTargetMon";
 
@@ -21,16 +21,7 @@ export default defineUserConfig({
   ],
   // 主题和它的配置
   theme: theme,
+  bundler: viteBundler(),
   //插件
-  plugins: [
-    searchPlugin({
-      locales: {
-        "/": { placeholder: "搜索" },
-        "/en/": { placeholder: "Search" },
-      },
-      // hotKeys:['CTRL','K'],
-      // 排除首页
-      isSearchable: (page) => page.path !== "/",
-    }),
-  ],
+  plugins: [],
 });

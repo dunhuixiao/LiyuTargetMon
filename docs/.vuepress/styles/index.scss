@@ -1,3 +1,21 @@
-.custom-container.tip .custom-container-title::before{
-    background-image:none !important;
-}
+// /* 自定义 info 容器样式 - 无标题紧凑样式（覆盖默认蓝色） */
+// .hint-container.info,
+// .custom-container.info,
+// div.hint-container.info {
+//     border-left: 4px solid #42b983 !important;
+//     border-top: none !important;
+//     border-right: none !important;
+//     border-bottom: none !important;
+//     background-color: rgba(66, 185, 131, 0.1) !important;
+//     padding: 0.5rem 1rem !important;
+//     margin: 1rem 0 !important;
+//     border-radius: 4px !important;
+// }
+
+// /* 隐藏 info 容器的标题 */
+// .hint-container.info > .hint-container-title,
+// .hint-container.info .hint-container-title,
+// .custom-container.info .custom-container-title,
+// div.hint-container.info > .hint-container-title {
+//     display: none !important;
+// }

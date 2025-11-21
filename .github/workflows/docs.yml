@@ -23,15 +23,15 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: yarn
+          cache: npm
 
       - name: 安装依赖
-        run: yarn install --frozen-lockfile
+        run: npm ci --legacy-peer-deps
 
       - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=4096
-        run: yarn run docs:build
+        run: npm run docs:build
 
       - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4

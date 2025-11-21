@@ -10,44 +10,38 @@ actions:
 
 features:
   - title: 开箱即用
-    icon: launch
+    icon: rocket
     details: 监控基于「茗伊插件集 - 目标监控模块」实现，可直接导入监控数据使用。
 
   - title: 简洁
-    icon: number
+    icon: list-ol
     details: Buff「重要」且「非常驻」，风格简洁、克制。
 
   - title: 开源
-    icon: github
+    icon: code-branch
     details: 监控数据内容明文，可用于遵从 MIT 开源协议的分享、修改、二次创作。
 ---
 
 ## 关于
 
-:::tip
+:::info
 当前版本：v1.6.1
 :::
 
-监控基于「茗伊插件集 - 目标监控模块」实现，可以对于全职业重要 Buff / Debuff 进行监控。
+监控基于「茗伊插件集 - 目标监控模块」实现，可以对于全职业重要 Buff / Debuff 进行监控。监控文件内容明文，可用于遵从 MIT 开源协议的分享、修改、二次创作。
 
-监控文件内容明文，可用于遵从 MIT 开源协议的分享、修改、二次创作，如果基于以上目的，不用寻求我的同意。
-
-如果在使用中遇到问题，可以在[GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) / [QQ群](https://jq.qq.com/?_wv=1027&k=jmw5fLpn) 私聊描述你的问题或反馈，看到后会给你回复。
+如果在使用中遇到问题，可以在 [GitHub Issues](https://github.com/dunhuixiao/LiyuTargetMon/issues) 或 [QQ 群](https://jq.qq.com/?_wv=1027&k=jmw5fLpn)反馈，看到后会给你回复。
 
 描述问题时，请带上能复现的案例、技能名称、具体场景、当前奇穴等信息，信息越全越能准确定位到问题并回复。
 
-反馈量较大的公共问题我会整理到 [FAQ](faq.md) 中。
+反馈量较大的公共问题我会整理到 [FAQ](guide/faq.md) 中。
 
 鲤鱼监控感谢你的使用。
 
-:::tip
-如果你愿意的话，可以在 GitHub 上给这个 repo 点一个 star。
+:::info
+如果你愿意的话，可以点击 [GitHub](https://github.com/dunhuixiao/LiyuTargetMon) 进入页面，点击右上角的 star。
 
-点击 [GitHub](https://github.com/dunhuixiao/LiyuTargetMon) 进入页面，点击右上角的 star 按钮即可。
-
-如果你更加愿意的话，可以对鲤鱼监控提供爱心支持，你的支持可以让我更有动力持续的更新和维护。
-
-点击 [爱发电](https://afdian.com/a/cookie_mango) 赞助，请我喝一杯咖啡或者吃一顿金拱门。
+如果你更加愿意的话，可以对鲤鱼监控提供[支持](https://afdian.com/a/cookie_mango)，你的支持可以让我更有动力持续的更新和维护。
 :::
 
 ## 注意事项
@@ -70,8 +64,8 @@ features:
 
 [历史贴吧链接](https://tieba.baidu.com/p/6470946492?see_lz=1)
 
-[历史贴吧连接 1](https://tieba.baidu.com/p/5464592160?see_lz=1)
+[历史贴吧链接 1](https://tieba.baidu.com/p/5464592160?see_lz=1)
 
-[历史贴吧连接 2](https://tieba.baidu.com/p/5314050246?see_lz=1)
+[历史贴吧链接 2](https://tieba.baidu.com/p/5314050246?see_lz=1)
 
 [历史贴吧链接 3](https://tieba.baidu.com/p/6323130138?pn=1)
