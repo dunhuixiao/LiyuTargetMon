@@ -390,6 +390,36 @@ return {
 		aSoundDisappear = {},
 	},
 	-- 北天药宗
+	{
+		szNote = "并蒂夺株·寒",
+		dwID = 20787,
+		nIconID = 16020,
+		szUUID = "A67EA910-B122-4AE6-89D4-BBFD6E99BF89",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "降调息",
+		bEnable = true,
+	},
+	{
+		szNote = "并蒂夺株·温",
+		dwID = 20789,
+		nIconID = 16022,
+		szUUID = "804EEE14-98DC-4C89-8061-4B6E20F485CB",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "反弹",
+		bEnable = true,
+	},
 	-- 万灵山庄
 	{
 		szNote = "恐惧",
