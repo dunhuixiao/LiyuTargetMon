@@ -41,7 +41,7 @@ features:
 :::info
 如果你愿意的话，可以点击 [GitHub](https://github.com/dunhuixiao/LiyuTargetMon) 进入页面，点击右上角的 star。
 
-如果你更加愿意的话，可以对鲤鱼监控提供[支持](https://afdian.com/a/cookie_mango)，你的支持可以让我更有动力持续的更新和维护。
+如果你更加愿意的话，可以请作者喝一杯咖啡 [爱发电](https://afdian.com/a/cookie_mango)，你的支持可以让我更有动力持续的更新和维护。
 :::
 
 ## 注意事项
