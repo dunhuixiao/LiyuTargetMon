@@ -3,7 +3,7 @@ title: ✨ 更新日志
 prev: /guide/faq.html
 ---
 ## 1.6.2 2025/11/15
-:::tip
+:::info 更新信息
 * 万花
 	* 新增流溢 Buff
 * 七秀
