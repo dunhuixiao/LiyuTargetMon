@@ -21,17 +21,49 @@ export default hopeTheme({
   displayFooter: true,
   //主题色
   fullscreen: true,
-  themeColor: {
-      blue: "#2196f3",
-      red: "#f26d6d",
-      green: "#3eaf7c",
-      orange: "#fb9b5f",
-    },
+  themeColor: true,
   // 加密配置
   encrypt: {
     config: {
       "/guide/encrypt.html": ["1234"],
     },
+  },
+
+  // Markdown 增强配置（新版格式）
+  markdown: {
+    align: true,
+    attrs: true,
+    breaks: false,
+    component: true,
+    demo: true,
+    figure: true,
+    footnote: true,
+    gfm: true,
+    imgLazyload: true,
+    imgSize: true,
+    include: true,
+    mark: true,
+    plantuml: true,
+    spoiler: true,
+    stylize: [
+      {
+        matcher: "Recommended",
+        replacer: ({ tag }) => {
+          if (tag === "em")
+            return {
+              tag: "Badge",
+              attrs: { type: "tip" },
+              content: "Recommended",
+            };
+        },
+      },
+    ],
+    sub: true,
+    sup: true,
+    tabs: true,
+    tasklist: true,
+    vPre: true,
+    codeTabs: true,
   },
 
   plugins: {
@@ -70,12 +102,12 @@ export default hopeTheme({
       // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
     },
 
-    mdEnhance: {
-      enableAll: true,
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
-    },
+    // mdEnhance: {
+    //   enableAll: true,
+    //   presentation: {
+    //     plugins: ["highlight", "math", "search", "notes", "zoom"],
+    //   },
+    // },
   },
 });
 
