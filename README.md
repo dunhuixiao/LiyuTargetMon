@@ -16,4 +16,4 @@
 
 [MIT](LICENCE)
 
-Copyright © 2017 - present Cookie🥭
+Copyright © 2017 - present Sora

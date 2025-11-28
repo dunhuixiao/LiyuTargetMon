@@ -2,7 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 export default hopeTheme({
   hostname: "https://dunhuixiao.github.io/LiyuTargetMon/",
-  author: "Cookie🥭",
+  author: "Sora",
   logo: "https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/favicon.ico",
   repo: "https://github.com/dunhuixiao/LiyuTargetMon",
   docsDir: "docs",
@@ -17,7 +17,7 @@ export default hopeTheme({
   sidebar: [],
   copyright: false,
   footer:
-    ' Copyright © 2017 - present <a href="https://github.com/dunhuixiao" target="_blank">Cookie🥭</a>',
+    ' Copyright © 2017 - present <a href="https://github.com/dunhuixiao" target="_blank">Sora</a>',
   displayFooter: true,
   //主题色
   fullscreen: true,
