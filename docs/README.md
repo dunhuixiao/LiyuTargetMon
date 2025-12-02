@@ -1,4 +1,5 @@
 ---
+title: 首页
 home: true
 heroImage: https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/home.jpg
 heroText: 鲤鱼监控
