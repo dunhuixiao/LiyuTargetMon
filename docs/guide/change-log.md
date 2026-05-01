@@ -2,6 +2,88 @@
 title: ✨ 更新日志
 prev: /guide/faq.html
 ---
+## 1.6.3 2026/05/02
+:::info 更新信息
+* 其他
+	* 更新至「暗影千机」资料片
+* 纯阳
+	* 修复北斗 Debuff 显示
+	* 新增尘定 Debuff
+	* 新增大成 Debuff
+	* 新增拘形 Debuff
+	* 新增玄通 Debuff
+* 万花
+	* 新增金屋 Buff
+	* 新增月斜 Buff
+	* 新增见雪 Buff
+	* 新增针刺 Debuff
+* 少林
+	* 修复尘息 Debuff 显示
+* 七秀
+	* 删除玳弦 Debuff
+	* 修改寒籁 Buff 别名为减伤
+	* 修改玉骨 Buff 别名为减伤
+	* 新增剑舞长空 Buff
+	* 新增剑破虚空 Debuff
+* 天策
+	* 修复百折 Buff 显示
+	* 新增铁骑 Buff
+* 五毒
+	* 新增鳞粉 Debuff
+	* 新增灵蛇献祭 Debuff
+	* 新增枯脉 Debuff
+	* 新增降厄 Buff
+	* 新增岚屏 Buff
+* 唐门
+	* 修改梅花针 Debuff 别名为沉默
+	* 新增折影同渊 Debuff
+* 明教
+	* 删除秘影 Buff
+	* 新增幽罚 Debuff
+	* 删除灵光破晓 Debuff
+* 丐帮
+	* 删除逍遥 Buff
+	* 删除酒中仙 Buff
+	* 新增龙跃于渊 Buff
+	* 新增龙醒 Buff
+	* 新增乘龙戏水 Buff
+* 苍云
+	* 删除麟光玄甲 Buff
+* 长歌
+	* 新增流音 Buff
+	* 新增影护 Buff
+	* 新增影微 Debuff
+* 蓬莱
+	* 新增揽尘 Debuff
+* 凌雪阁
+	* 删除链魂Debuff
+	* 删除日月吴钩 Buff
+	* 新增危兆 Debuff
+	* 新增沉默 Debuff
+	* 新增飞琼 Buff
+* 衍天宗
+	* 新增巨门北落 Buff
+	* 新增龙马出河 Debuff
+	* 修改神皆寂 Debuff 别名为封内
+* 北天药宗
+	* 新增繁枝 Debuff
+	* 新增双生 Buff
+	* 新增千枝花·子株 Buff
+	* 新增自馨 Buff
+	* 新增自馨调息 Debuff
+	* 删除霜解 Debuff
+* 刀宗
+	* 切换无相楼的情况下，修复单持、双持 Buff 显示
+	* 新增曳引 Debuff
+* 万灵山庄
+	* 新增同渡 Buff
+* 段氏
+	 * 删除落雪 Buff
+* 无相楼
+	* 新增游丝 Buff
+	* 修复夹线 Debuff 显示
+:::
+
 ## 1.6.2 2025/11/15
 :::info 更新信息
 * 万花
