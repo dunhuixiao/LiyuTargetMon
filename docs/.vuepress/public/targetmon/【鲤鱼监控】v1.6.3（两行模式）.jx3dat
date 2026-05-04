@@ -11870,6 +11870,21 @@ return {
 				aSoundDisappear = {},
 			},
 			{
+				szNote = "三星",
+				dwID = 17996,
+				nIconID = 14032,
+				szUUID = "1E988D8E-B5FA-4BE9-BD3C-442A9824DA9B",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "瞬发",
+				bEnable = true,
+			},
+			{
 				szNote = "犹解倒悬",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -29342,6 +29357,21 @@ return {
 				},
 				dwID = 17654,
 				aSoundDisappear = {},
+			},
+			{
+				szNote = "三星",
+				dwID = 17996,
+				nIconID = 14032,
+				szUUID = "1E988D8E-B5FA-4BE9-BD3C-442A9824DA9B",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "瞬发",
+				bEnable = true,
 			},
 			{
 				szNote = "犹解倒悬",

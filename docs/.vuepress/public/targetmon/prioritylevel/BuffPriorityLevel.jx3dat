@@ -7196,6 +7196,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "三星",
+		dwID = 17996,
+		nIconID = 14032,
+		szUUID = "1E988D8E-B5FA-4BE9-BD3C-442A9824DA9B",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "瞬发",
+		bEnable = true,
+	},
 	-- 北天药宗
 	{
 		szNote = "犹解倒悬",
