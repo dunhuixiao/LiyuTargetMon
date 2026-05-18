@@ -134,6 +134,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "鳞粉",
+		dwID = 28204,
+		nIconID = 13443,
+		szUUID = "8E30B1E4-D270-424A-A241-AE46E9245B88",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "致盲",
+		bEnable = true,
+	},
 	-- 苍云
 	{
 		szNote = "决斗",
@@ -623,6 +638,22 @@ return {
 	},
 	
 	-- 吸疗
+	-- 五毒
+	{
+		szNote = "枯脉",
+		dwID = 33075,
+		nIconID = 27149,
+		szUUID = "C27EB872-3C58-4364-848A-2D00421502EA",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "吸疗",
+		bEnable = true,
+	},
 	-- 藏剑
 	{
 		szNote = "浮云",
@@ -641,10 +672,10 @@ return {
 	},
 	-- 明教
 	{
-		szNote = "灵光破晓",
+		szNote = "幽罚",
 		dwID = 31571,
-		nIconID = 24972,
-		szUUID = "D410EFA2-C8F8-4182-BD3B-2D67826BB61E",
+		nIconID = 14105,
+		szUUID = "63F681F2-D41C-4980-9781-0C01B75EE6C3",
 		nStackNum = 0,
 		nLevel = 0,
 		aContentColor = {
@@ -1034,6 +1065,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "剑破虚空",
+		dwID = 2838,
+		nIconID = 2949,
+		szUUID = "27206938-F4AA-4F97-A70B-AD9289040D42",
+		nStackNum = 0,
+		nLevel = 4,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "沉默",
+		bEnable = true,
+	},
 	-- 天策
 	{
 		szNote = "雷",
@@ -1127,6 +1173,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "梅花针",
+		dwID = 3227,
+		nIconID = 3174,
+		szUUID = "FC7CE12A-1D80-462B-BD8C-C0F1824866B0",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "沉默",
+		bEnable = true,
 	},
 	-- 明教
 	{
@@ -1325,12 +1386,27 @@ return {
 		bEnable = true,
 	},
 	-- 凌雪阁
+	{
+		szNote = "沉默",
+		dwID = 33189,
+		nIconID = 12382,
+		szUUID = "AA987372-9DAC-4967-AC79-B04CA0E69888",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "沉默",
+		bEnable = true,
+	},
 	-- 衍天宗
 	{
-		szNote = "神皆寂",
-		dwID = 31801,
-		nIconID = 14165,
-		szUUID = "06C4F352-E10A-4831-9298-2C2CE170C9ED",
+		szNote = "龙马出河",
+		dwID = 33135,
+		nIconID = 14028,
+		szUUID = "005857EE-780C-4C4E-BB65-07D4B0C89426",
 		nStackNum = 0,
 		nLevel = 0,
 		aContentColor = {
@@ -1499,32 +1575,18 @@ return {
 	-- 纯阳
 	{
 		szNote = "北斗",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F872C0B920",
+		dwID = 2755,
+		nIconID = 618,
+		szUUID = "3D04A520-85F4-43D5-A5CE-5F6B912BEF51",
+		nStackNum = 0,
+		nLevel = 0,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szUUID = "000001F872C0B920-2755-2",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 2755,
-		nLevel = 2,
-		bEnable = true,
 		szContent = "眩晕",
-		nIconID = 618,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
+		bEnable = true,
 	},
 	{
 		szNote = "羽化",
@@ -2196,6 +2258,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "折影同渊",
+		dwID = 33120,
+		nIconID = 27128,
+		szUUID = "F170B3AC-C8EA-4D23-9086-A8E984106E99",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "眩晕",
+		bEnable = true,
 	},
 	-- 明教
 	{
@@ -2873,6 +2950,51 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "尘定",
+		dwID = 33524,
+		nIconID = 4938,
+		szUUID = "EA4A8E80-BBD2-4F4C-967E-015DFC570AE6",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "定身",
+		bEnable = true,
+	},
+	{
+		szNote = "大成",
+		dwID = 33139,
+		nIconID = 27090,
+		szUUID = "262E2DEC-CC26-4C07-898C-CC8149E2C8ED",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "定身",
+		bEnable = true,
+	},
+	{
+		szNote = "拘形",
+		dwID = 24378,
+		nIconID = 25374,
+		szUUID = "CEE2FF10-E722-473E-9CB0-568EE8CCD286",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "定身",
+		bEnable = true,
+	},
 	-- 万花
 	{
 		szNote = "芙蓉并蒂",
@@ -2902,6 +3024,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "针刺",
+		dwID = 33143,
+		nIconID = 13440,
+		szUUID = "CFC871D4-9616-49A6-825E-BE24D44299DC",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "定身",
+		bEnable = true,
 	},
 	-- 七秀
 	{
@@ -3021,6 +3158,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "灵蛇献祭",
+		dwID = 33055,
+		nIconID = 2812,
+		szUUID = "7F5AF300-511C-4E2F-8816-EA7DA0FC27BC",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "定身",
+		bEnable = true,
 	},
 	-- 唐门
 	{
@@ -3444,6 +3596,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "曳引",
+		dwID = 33523,
+		nIconID = 27094,
+		szUUID = "392E13DC-A762-449F-9CCB-AD7A81551E88",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "定身",
+		bEnable = true,
+	},
 	-- 万灵山庄
 	{
 		szNote = "空弦惊雁·定身",
@@ -3527,7 +3694,7 @@ return {
 		nIconID = 24895,
 		szUUID = "E7922778-6EA4-452D-A267-F63E1C14EF39",
 		nStackNum = 0,
-		nLevel = 0,
+		nLevel = 1,
 		aContentColor = {
 			255,
 			31,
@@ -4282,6 +4449,21 @@ return {
 		szContent = "锁足",
 		bEnable = true,
 	},
+	{
+		szNote = "龙马出河",
+		dwID = 33134,
+		nIconID = 14028,
+		szUUID = "AF00894C-AB60-4561-8D32-1D2230D18FE2",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "锁足",
+		bEnable = true,
+	},
 	-- 刀宗
 	{
 		szNote = "游风飘踪·锁足",
@@ -4615,35 +4797,6 @@ return {
 		aSoundDisappear = {},
 	},
 	-- 唐门
-	{
-		szNote = "梅花针",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F8AAB487D0",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F8AAB487D0-0-0",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 3227,
-		nLevel = 0,
-		bEnable = true,
-		szContent = "封内",
-		nIconID = 3174,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
 	-- 明教
 	-- 长歌
 	{
@@ -4676,6 +4829,21 @@ return {
 		aSoundDisappear = {},
 	},
 	-- 衍天宗
+	{
+		szNote = "神皆寂",
+		dwID = 31801,
+		nIconID = 14165,
+		szUUID = "06C4F352-E10A-4831-9298-2C2CE170C9ED",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "封内",
+		bEnable = true,
+	},
 	-- 无相楼
 	{
 		szNote = "三合",
@@ -5537,22 +5705,6 @@ return {
 		bEnable = true,
 	},
 	{
-		szNote = "链魂",
-		dwID = 562,
-		nIconID = 16201,
-		szUUID = "89286B48-1BAC-40B9-A9BC-AD00FA8311B9",
-		nStackNum = 0,
-		szGroup = "封轻功",
-		nLevel = 51,
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szContent = "封轻功",
-		bEnable = true,
-	},
-	{
 		szNote = "云景",
 		dwID = 562,
 		nIconID = 2374,
@@ -5761,13 +5913,13 @@ return {
 		bEnable = true,
 	},
 	{
-		szNote = "玳弦",
+		szNote = "霜云",
 		dwID = 562,
-		nIconID = 2947,
-		szUUID = "15CE6264-9962-43AF-8A5C-B38FEDBCE13F",
+		nIconID = 8518,
+		szUUID = "E67A7CEA-0DE0-4540-8C1E-4FB999C5DD42",
 		nStackNum = 0,
 		szGroup = "封轻功",
-		nLevel = 68,
+		nLevel = 69,
 		aContentColor = {
 			255,
 			31,
@@ -5777,13 +5929,29 @@ return {
 		bEnable = true,
 	},
 	{
-		szNote = "霜云",
+		szNote = "揽尘",
 		dwID = 562,
-		nIconID = 8518,
-		szUUID = "E67A7CEA-0DE0-4540-8C1E-4FB999C5DD42",
+		nIconID = 10936,
+		szUUID = "A60AA62C-0568-4922-843C-057713DDCF05",
 		nStackNum = 0,
 		szGroup = "封轻功",
-		nLevel = 69,
+		nLevel = 71,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "封轻功",
+		bEnable = true,
+	},
+	{
+		szNote = "玄通",
+		dwID = 562,
+		nIconID = 27085,
+		szUUID = "2B30DF94-F120-42FA-A6D7-2FD2035B6DE4",
+		nStackNum = 0,
+		szGroup = "封轻功",
+		nLevel = 72,
 		aContentColor = {
 			255,
 			31,
@@ -5890,7 +6058,7 @@ return {
 		szGroup = "尘息减疗",
 		bFlipHideOthers = false,
 		dwID = 16559,
-		nLevel = 1,
+		nLevel = 0,
 		bEnable = true,
 		szContent = "减疗",
 		nIconID = 437,
@@ -8023,6 +8191,21 @@ return {
 		szUUID = "5EC254268AD340CA95C8CB5D5B32FCFA-18106-1",
 	},
 	-- 长歌
+	{
+		szNote = "影微",
+		dwID = 33080,
+		nIconID = 7136,
+		szUUID = "7D6E3402-1FD0-477A-AF8C-E7F5C9AE4120",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "影微",
+		bEnable = true,
+	},
 	-- 霸刀
 	{
 		aSoundDisappear = {},
@@ -8202,6 +8385,21 @@ return {
 		szContent = "标记",
 		bEnable = true,
 	},
+	{
+		szNote = "危兆",
+		dwID = 33162,
+		nIconID = 12379,
+		szUUID = "3C228A0E-079C-420E-9182-2F4C5060D033",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "标记",
+		bEnable = true,
+	},
 	-- 衍天宗
 	{
 		szNote = "祝由·火离",
@@ -8308,18 +8506,18 @@ return {
 		bEnable = true,
 	},
 	{
-		szNote = "霜解",
-		dwID = 31776,
-		nIconID = 15763,
-		szUUID = "2D7E3370-72C0-48AB-B805-5AEAE1776C74",
+		szNote = "自馨调息",
+		dwID = 33148,
+		nIconID = 15703,
+		szUUID = "2CB6F880-0ECE-4DAB-959D-0548FC28080A",
 		nStackNum = 0,
-		nLevel = 0,
+		nLevel = 1,
 		aContentColor = {
 			255,
 			31,
 			31,
 		},
-		szContent = "降化劲",
+		szContent = "自馨",
 		bEnable = true,
 	},
 	-- 刀宗
