@@ -10,6 +10,8 @@
 
 ## 赞助
 
+![赞赏码](https://gcore.jsdelivr.net/gh/dunhuixiao/LiyuTargetMon@docs/image/support/8160823_206_15.jpg)
+
 [爱发电](https://afdian.com/a/cookie_mango)
 
 ## License
