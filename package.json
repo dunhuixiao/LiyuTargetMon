@@ -14,15 +14,15 @@
     "start": "vuepress dev docs"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.26",
-    "@vuepress/plugin-search": "2.0.0-rc.26",
-    "vue": "3.5.22",
-    "vuepress": "2.0.0-rc.26",
-    "vuepress-theme-hope": "2.0.0-rc.98"
+    "@vuepress/bundler-vite": "2.0.0-rc.30",
+    "@vuepress/plugin-slimsearch": "2.0.0-rc.130",
+    "sass-embedded": "1.100.0",
+    "vue": "3.5.38",
+    "vuepress": "2.0.0-rc.30",
+    "vuepress-theme-hope": "2.0.0-rc.107"
   },
   "dependencies": {
     "d3-color": "3.1.0",
-    "json5": "2.2.3",
-    "vuepress-plugin-comment2": "2.0.0-rc.30"
+    "json5": "2.2.3"
   }
 }

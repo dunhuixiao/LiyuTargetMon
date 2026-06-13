@@ -71,7 +71,7 @@ export default hopeTheme({
     icon: {
       assets: "fontawesome",
     },
-    search: {
+    slimsearch: {
       locales: {
         "/": { placeholder: "搜索" },
         "/en/": { placeholder: "Search" },
