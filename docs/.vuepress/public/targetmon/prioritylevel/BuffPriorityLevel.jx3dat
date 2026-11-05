@@ -3724,6 +3724,21 @@ return {
 		nIconID = 621,
 		szUUID = "90742460-7DD2-4CDB-9C31-EF2D99C9B172",
 	},
+	{
+		szNote = "御极",
+		dwID = 35836,
+		nIconID = 14079,
+		szUUID = "B888702A-EE0D-4891-BA8C-B87592F9233E",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "化解",
+		bEnable = true,
+	},
 	-- 万花
 	{
 		szNote = "春泥护花",

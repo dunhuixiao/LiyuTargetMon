@@ -2,6 +2,21 @@
 title: ✨ 更新日志
 prev: /guide/faq.html
 ---
+## 1.6.4 2026/11/12
+:::info 更新信息
+* 其他
+	* 更新至「苍生铸世」资料片
+* 纯阳
+	* 删除凌云剑 Debuff
+	* 删除凌云剑·破 Debuff
+	* 删除合真 Buff
+	* 新增御极 Buff
+	* 新增环月 Debuff
+	* 新增剑归无极 Debuff
+	* 新增行兆 Debuff
+	* 新增无相 Debuff
+:::
+
 ## 1.6.3 2026/05/02
 :::info 更新信息
 * 其他
