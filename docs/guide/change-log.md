@@ -23,6 +23,9 @@ prev: /guide/faq.html
 	* 新增天工 Buff
 	* 新增浊玉乱红 Debuff
 	* 新增碧波荡 Debuff
+* 少林
+	* 新增伏魔身 Buff
+	* 新增威服 Buff
 * 七秀
 	* 删除剑舞长空 Buff
 	* 新增水榭 Buff
