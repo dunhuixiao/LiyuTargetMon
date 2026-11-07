@@ -42,6 +42,14 @@ prev: /guide/faq.html
 	* 新增戎行 Debuff
 	* 修复青阳 Debuff 显示
 	* 修复百折 Buff 显示
+* 五毒
+	* 删除忘攸蛊·束骨 Debuff
+	* 新增蛊佑 Buff
+	* 新增生发 Buff
+	* 新增残魂生 Buff
+	* 新增萦丛 Buff
+	* 新增展屏 Buff
+	* 新增弥生 Buff
 :::
 
 ## 1.6.3 2026/05/02
