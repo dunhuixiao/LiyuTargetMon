@@ -7345,6 +7345,21 @@ return {
 		szContent = "减速",
 		bEnable = true,
 	},
+	{
+		szNote = "傀梦令",
+		dwID = 34446,
+		nIconID = 25075,
+		szUUID = "8E3B10E1-B91D-4255-95E6-EE01D721F041",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "减速",
+		bEnable = true,
+	},
 	
 	-- 其他
 	{

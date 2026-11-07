@@ -6714,6 +6714,21 @@ return {
 		szContent = "化解",
 		bEnable = true,
 	},
+	{
+		szNote = "慢煞",
+		dwID = 31716,
+		nIconID = 25051,
+		szUUID = "BFDEC177-B480-4C18-8B60-68BE007F39EB",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "化解",
+		bEnable = true,
+	},
 	
 	-- 爆发
 	-- 纯阳

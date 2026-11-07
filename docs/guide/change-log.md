@@ -50,6 +50,9 @@ prev: /guide/faq.html
 	* 新增萦丛 Buff
 	* 新增展屏 Buff
 	* 新增弥生 Buff
+* 无相楼
+	* 新增傀梦令 Debuff
+	* 新增慢煞 Buff
 :::
 
 ## 1.6.3 2026/05/02

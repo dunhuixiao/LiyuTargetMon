@@ -1427,6 +1427,7 @@ return {
 		szContent = "降距离",
 		bEnable = true,
 	},
+	-- 无相楼
 	{
 		szNote = "障幕",
 		dwID = 31785,
@@ -11588,6 +11589,21 @@ return {
 		szContent = "化解",
 		bEnable = true,
 	},
+	{
+		szNote = "慢煞",
+		dwID = 31716,
+		nIconID = 25051,
+		szUUID = "BFDEC177-B480-4C18-8B60-68BE007F39EB",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "化解",
+		bEnable = true,
+	},
 	
 	-- 爆发
 	-- 纯阳
@@ -14998,6 +15014,21 @@ return {
 		szUUID = "3CC437AC-6D8C-42B0-B672-ED774036613A",
 		nStackNum = 0,
 		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "减速",
+		bEnable = true,
+	},
+	{
+		szNote = "傀梦令",
+		dwID = 34446,
+		nIconID = 25075,
+		szUUID = "8E3B10E1-B91D-4255-95E6-EE01D721F041",
+		nStackNum = 0,
+		nLevel = 1,
 		aContentColor = {
 			255,
 			31,
