@@ -15,6 +15,11 @@ prev: /guide/faq.html
 	* 新增剑归无极 Debuff
 	* 新增行兆 Debuff
 	* 新增无相 Debuff
+* 七秀
+	* 删除剑舞长空 Buff
+	* 新增水榭 Buff
+	* 新增秋月 Buff
+	* 修复剑破虚空 Debuff 显示
 :::
 
 ## 1.6.3 2026/05/02
