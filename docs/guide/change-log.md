@@ -6,6 +6,7 @@ prev: /guide/faq.html
 :::info 更新信息
 * 其他
 	* 更新至「苍生铸世」资料片
+	* 新增额外减疗 Debuff
 * 纯阳
 	* 删除凌云剑 Debuff
 	* 删除凌云剑·破 Debuff
@@ -31,6 +32,16 @@ prev: /guide/faq.html
 	* 新增水榭 Buff
 	* 新增秋月 Buff
 	* 修复剑破虚空 Debuff 显示
+* 天策
+	* 删除啸西风 Debuff
+	* 新增戎戈 Buff
+	* 新增风骁 Buff
+	* 新增卷千旗 Buff
+	* 新增卷千旗 Debuff
+	* 新增断云落 Buff
+	* 新增戎行 Debuff
+	* 修复青阳 Debuff 显示
+	* 修复百折 Buff 显示
 :::
 
 ## 1.6.3 2026/05/02
