@@ -2893,35 +2893,6 @@ return {
 	},
 	-- 万花
 	{
-		szNote = "立眩",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "0C5A818FC72F45488AF6F94ECBA26904",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "0C5A818FC72F45488AF6F94ECBA26904-20725-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 20725,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "眩晕",
-		nIconID = 2019,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "风欲催",
 		dwID = 28282,
 		nIconID = 21977,
@@ -3955,21 +3926,6 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
-	},
-	{
-		szNote = "针刺",
-		dwID = 33143,
-		nIconID = 13440,
-		szUUID = "CFC871D4-9616-49A6-825E-BE24D44299DC",
-		nStackNum = 0,
-		nLevel = 0,
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szContent = "定身",
-		bEnable = true,
 	},
 	-- 七秀
 	{
@@ -8883,12 +8839,27 @@ return {
 		bEnable = true,
 	},
 	{
-		szNote = "见雪",
-		dwID = 33141,
-		nIconID = 27139,
-		szUUID = "4C7ADE9A-55EE-43C2-A899-2AA5A1038695",
+		szNote = "承机",
+		dwID = 17060,
+		nIconID = 28363,
+		szUUID = "CF59F576-FF96-4016-B694-E2E1045C3384",
 		nStackNum = 0,
-		nLevel = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "化解",
+		bEnable = true,
+	},
+	{
+		szNote = "天工",
+		dwID = 35847,
+		nIconID = 28363,
+		szUUID = "8AE99543-DCF7-4895-B8AF-A168437F65AF",
+		nStackNum = 0,
+		nLevel = 1,
 		aContentColor = {
 			255,
 			255,
@@ -13493,6 +13464,22 @@ return {
 		nIconID = 613,
 		szUUID = "2E3A8FEA-3A6C-4310-AE59-9F5B3F8C72AD",
 	},
+	-- 万花
+	{
+		szNote = "浊玉乱红",
+		dwID = 34541,
+		nIconID = 16199,
+		szUUID = "15F0621F-DC11-45A0-8B29-8BFA2CDB1FC7",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "减疗",
+		bEnable = true,
+	},
 	-- 少林
 	{
 		szNote = "尘息",
@@ -14072,6 +14059,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "碧波荡",
+		dwID = 34540,
+		nIconID = 16197,
+		szUUID = "3F4F9E8A-792F-4DD0-8256-38009D0CA020",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "减速",
+		bEnable = true,
 	},
 	-- 少林
 	{

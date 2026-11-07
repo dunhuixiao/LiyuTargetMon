@@ -15,6 +15,14 @@ prev: /guide/faq.html
 	* 新增剑归无极 Debuff
 	* 新增行兆 Debuff
 	* 新增无相 Debuff
+* 万花
+	* 删除立眩 Debuff
+	* 删除见雪 Buff
+	* 删除针刺 Debuff
+	* 新增承机 Buff
+	* 新增天工 Buff
+	* 新增浊玉乱红 Debuff
+	* 新增碧波荡 Debuff
 * 七秀
 	* 删除剑舞长空 Buff
 	* 新增水榭 Buff
