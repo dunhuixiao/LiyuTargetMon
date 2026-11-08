@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "*.jx3dat": "lua"
+  },
+  "[lua]": {
+    "files.encoding": "gbk",
+    "files.autoGuessEncoding": false
+  }
+}

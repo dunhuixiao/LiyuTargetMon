@@ -12,7 +12,8 @@ node_modules
 TODOs.md
 
 # Editors
-.vscode
+.vscode/*
+!.vscode/settings.json
 .idea
 
 # VuePress temp directory
