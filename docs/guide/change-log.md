@@ -65,6 +65,13 @@ prev: /guide/faq.html
 * 明教
 	* 新增燎原烈火 Buff
 	* 修复焚心 Debuff 显示
+* 丐帮
+	* 新增交错 Debuff
+	* 新增恶狗拦路 Debuff
+	* 新增贞固 Buff
+	* 修复断江流 Buff 显示
+	* 修复翻江 Debuff 门派注释
+	* 修复沉醉 Debuff 显示（四行模式）
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff

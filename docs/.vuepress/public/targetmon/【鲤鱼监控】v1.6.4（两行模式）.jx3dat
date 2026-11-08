@@ -4131,6 +4131,21 @@ return {
 				aSoundDisappear = {},
 			},
 			{
+				szNote = "交错",
+				dwID = 34116,
+				nIconID = 13389,
+				szUUID = "CD3D110F-7C77-416A-A567-887081645BF5",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "定身",
+				bEnable = true,
+			},
+			{
 				szNote = "别鹤",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -7051,9 +7066,9 @@ return {
 				aSoundDisappear = {},
 			},
 			{
-				szNote = "龙跃于渊",
+				szNote = "断江流",
 				dwID = 6015,
-				nIconID = 4899,
+				nIconID = 12723,
 				szUUID = "01C68D0C-F112-442C-A87C-560C89791787",
 				nStackNum = 0,
 				nLevel = 0,
@@ -14379,6 +14394,21 @@ return {
 				aSoundDisappear = {},
 			},
 			{
+				szNote = "恶狗拦路",
+				dwID = 6336,
+				nIconID = 2020,
+				szUUID = "921F0C51-60B0-49D1-A56F-B28F930C32DE",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "减速",
+				bEnable = true,
+			},
+			{
 				szNote = "难行",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -16448,6 +16478,21 @@ return {
 					31,
 				},
 				szContent = "醉酒",
+				bEnable = true,
+			},
+			{
+				szNote = "贞固",
+				dwID = 29341,
+				nIconID = 4893,
+				szUUID = "EB6D6BE3-BA6B-466C-AB72-08B5A998F3C5",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "贞固",
 				bEnable = true,
 			},
 			{
@@ -21910,6 +21955,21 @@ return {
 				aSoundDisappear = {},
 			},
 			{
+				szNote = "交错",
+				dwID = 34116,
+				nIconID = 13389,
+				szUUID = "CD3D110F-7C77-416A-A567-887081645BF5",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "定身",
+				bEnable = true,
+			},
+			{
 				szNote = "别鹤",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -24830,9 +24890,9 @@ return {
 				aSoundDisappear = {},
 			},
 			{
-				szNote = "龙跃于渊",
+				szNote = "断江流",
 				dwID = 6015,
-				nIconID = 4899,
+				nIconID = 12723,
 				szUUID = "01C68D0C-F112-442C-A87C-560C89791787",
 				nStackNum = 0,
 				nLevel = 0,
@@ -32158,6 +32218,21 @@ return {
 				aSoundDisappear = {},
 			},
 			{
+				szNote = "恶狗拦路",
+				dwID = 6336,
+				nIconID = 2020,
+				szUUID = "921F0C51-60B0-49D1-A56F-B28F930C32DE",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "减速",
+				bEnable = true,
+			},
+			{
 				szNote = "难行",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -34227,6 +34302,21 @@ return {
 					31,
 				},
 				szContent = "醉酒",
+				bEnable = true,
+			},
+			{
+				szNote = "贞固",
+				dwID = 29341,
+				nIconID = 4893,
+				szUUID = "EB6D6BE3-BA6B-466C-AB72-08B5A998F3C5",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "贞固",
 				bEnable = true,
 			},
 			{

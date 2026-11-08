@@ -2354,9 +2354,9 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "¡˙‘æ”⁄‘®",
+		szNote = "∂œΩ≠¡˜",
 		dwID = 6015,
-		nIconID = 4899,
+		nIconID = 12723,
 		szUUID = "01C68D0C-F112-442C-A87C-560C89791787",
 		nStackNum = 0,
 		nLevel = 0,
@@ -8515,6 +8515,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "’ÍπÃ",
+		dwID = 29341,
+		nIconID = 4893,
+		szUUID = "EB6D6BE3-BA6B-466C-AB72-08B5A998F3C5",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "’ÍπÃ",
+		bEnable = true,
 	},
 	-- ≤‘‘∆
 	{
