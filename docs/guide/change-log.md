@@ -6,6 +6,7 @@ prev: /guide/faq.html
 :::info 更新信息
 * 其他
 	* 更新至「苍生铸世」资料片
+	* 调整了部分 Buff / Debuff 的归类以及顺序
 	* 新增额外减疗 Debuff
 * 纯阳
 	* 删除凌云剑 Debuff
@@ -52,16 +53,14 @@ prev: /guide/faq.html
 	* 新增弥生 Buff
 * 藏剑
 	* 新增峙峰 Debuff
-	* 新增峙峰断川 Debuff（定身）
-	* 新增峙峰断川 Debuff（眩晕）
+	* 新增峙峰断川 Debuff
 	* 新增云墟 Debuff
 	* 新增云墟 Buff
 * 唐门
 	* 删除生死之交 Buff
 	* 删除无声 Buff
-	* 删除雷震子 Debuff（ID 27204）
+	* 删除雷震子 Debuff
 	* 新增穿心弩 Debuff
-	* 修改追命无声 Buff 分类为其他
 * 明教
 	* 新增燎原烈火 Buff
 	* 修复焚心 Debuff 显示
@@ -70,8 +69,7 @@ prev: /guide/faq.html
 	* 新增恶狗拦路 Debuff
 	* 新增贞固 Buff
 	* 修复断江流 Buff 显示
-	* 修复翻江 Debuff 门派注释
-	* 修复沉醉 Debuff 显示（四行模式）
+	* 修复沉醉 Debuff 显示
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff
