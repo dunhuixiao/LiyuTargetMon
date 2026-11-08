@@ -8217,6 +8217,21 @@ return {
 		szContent = "瞬发",
 		bEnable = true,
 	},
+	{
+		szNote = "云墟",
+		dwID = 34435,
+		nIconID = 2920,
+		szUUID = "97E82C5F-E265-491B-AE3C-D83345D0F0FD",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "瞬发",
+		bEnable = true,
+	},
 	-- 五毒
 	{
 		szNote = "影滞",

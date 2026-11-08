@@ -50,6 +50,12 @@ prev: /guide/faq.html
 	* 新增萦丛 Buff
 	* 新增展屏 Buff
 	* 新增弥生 Buff
+* 藏剑
+	* 新增峙峰 Debuff
+	* 新增峙峰断川 Debuff（定身）
+	* 新增峙峰断川 Debuff（眩晕）
+	* 新增云墟 Debuff
+	* 新增云墟 Buff
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff
