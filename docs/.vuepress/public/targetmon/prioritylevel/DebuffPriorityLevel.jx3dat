@@ -2172,22 +2172,6 @@ return {
 		bEnable = true,
 	},
 	{
-		szNote = "À×Õð×Ó",
-		dwID = 27204,
-		nIconID = 3171,
-		szUUID = "3AB40364-08E4-4F00-A376-8FF202E26DB5",
-		nStackNum = 0,
-		szGroup = "À×Õð×Ó×é",
-		nLevel = 0,
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szContent = "Ñ£ÔÎ",
-		bEnable = true,
-	},
-	{
 		szNote = "³å×²",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -6224,6 +6208,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "´©ÐÄåó",
+		dwID = 3195,
+		nIconID = 3178,
+		szUUID = "8F1807E4-042D-4F90-A4EE-CCDF2440ADDC",
+		nStackNum = 0,
+		nLevel = 16,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "¼õÁÆ",
+		bEnable = true,
 	},
 	-- Ã÷½Ì
 	{

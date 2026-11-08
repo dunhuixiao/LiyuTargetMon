@@ -56,6 +56,12 @@ prev: /guide/faq.html
 	* 新增峙峰断川 Debuff（眩晕）
 	* 新增云墟 Debuff
 	* 新增云墟 Buff
+* 唐门
+	* 删除生死之交 Buff
+	* 删除无声 Buff
+	* 删除雷震子 Debuff（ID 27204）
+	* 新增穿心弩 Debuff
+	* 修改追命无声 Buff 分类为其他
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff

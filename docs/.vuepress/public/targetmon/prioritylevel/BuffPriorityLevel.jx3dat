@@ -2103,35 +2103,6 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "生死之交",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F8729B17B0",
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "000001F8729B17B0-3279-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 3279,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "免控",
-		nIconID = 3234,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "飞鸢逐月",
 		dwID = 12857,
 		nIconID = 2948,
@@ -7034,35 +7005,6 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "追命无声",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F873A2C350",
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "000001F873A2C350-3276-1",
-		nStackNum = 0,
-		bEnable = true,
-		aSoundAppear = {},
-		nLevel = 1,
-		nIconID = 3177,
-		szContent = "瞬发",
-		dwID = 3276,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		bFlipHideOthers = false,
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "扬威",
 		dwID = 3316,
 		nIconID = 3226,
@@ -8440,34 +8382,6 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		aSoundDisappear = {},
-		nStackNum = 0,
-		nIconID = 3235,
-		bEnable = true,
-		dwID = 3399,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		szNote = "无声",
-		bFlipHideOthers = false,
-		nLevel = 1,
-		bFlipHideVoid = false,
-		aSoundAppear = {},
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F880CA5B30",
-		tMap = {
-			bAll = true,
-		},
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "000001F880CA5B30-3399-1",
-	},
-	{
 		szNote = "洞烛机微",
 		dwID = 15921,
 		nIconID = 3232,
@@ -8511,6 +8425,35 @@ return {
 		},
 		szContent = "瞬发",
 		bEnable = true,
+	},
+	{
+		szNote = "追命无声",
+		bFlipHideVoid = false,
+		tKungfu = {
+			bAll = true,
+		},
+		szGroupID = "000001F873A2C350",
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szUUID = "000001F873A2C350-3276-1",
+		nStackNum = 0,
+		bEnable = true,
+		aSoundAppear = {},
+		nLevel = 1,
+		nIconID = 3177,
+		szContent = "瞬发",
+		dwID = 3276,
+		tTargetKungfu = {
+			bAll = true,
+		},
+		tMap = {
+			bAll = true,
+		},
+		bFlipHideOthers = false,
+		aSoundDisappear = {},
 	},
 	-- 明教
 	{
