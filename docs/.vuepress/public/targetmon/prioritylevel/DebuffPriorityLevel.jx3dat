@@ -6985,7 +6985,7 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "极本溯源",
+		szNote = "焚心",
 		bFlipHideVoid = false,
 		tKungfu = {
 			bAll = true,
@@ -7003,7 +7003,7 @@ return {
 		nLevel = 1,
 		bEnable = true,
 		szContent = "减速",
-		nIconID = 3841,
+		nIconID = 11832,
 		tTargetKungfu = {
 			bAll = true,
 		},

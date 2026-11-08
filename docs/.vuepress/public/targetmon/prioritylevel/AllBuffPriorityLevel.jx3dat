@@ -10206,6 +10206,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "燎原烈火",
+		dwID = 29193,
+		nIconID = 3943,
+		szUUID = "7E60C794-72B9-4D8D-9890-CA94B3DB0C3D",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "化解",
+		bEnable = true,
+	},
 	-- 丐帮
 	{
 		szNote = "龙啸九天",
@@ -14604,7 +14619,7 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "极本溯源",
+		szNote = "焚心",
 		bFlipHideVoid = false,
 		tKungfu = {
 			bAll = true,
@@ -14622,7 +14637,7 @@ return {
 		nLevel = 1,
 		bEnable = true,
 		szContent = "减速",
-		nIconID = 3841,
+		nIconID = 11832,
 		tTargetKungfu = {
 			bAll = true,
 		},

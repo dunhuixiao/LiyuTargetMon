@@ -5317,6 +5317,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "燎原烈火",
+		dwID = 29193,
+		nIconID = 3943,
+		szUUID = "7E60C794-72B9-4D8D-9890-CA94B3DB0C3D",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "化解",
+		bEnable = true,
+	},
 	-- 丐帮
 	{
 		szNote = "龙啸九天",

@@ -62,6 +62,9 @@ prev: /guide/faq.html
 	* 删除雷震子 Debuff（ID 27204）
 	* 新增穿心弩 Debuff
 	* 修改追命无声 Buff 分类为其他
+* 明教
+	* 新增燎原烈火 Buff
+	* 修复焚心 Debuff 显示
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff
