@@ -5481,6 +5481,36 @@ return {
 		szContent = "减伤",
 		bEnable = true,
 	},
+	{
+		szNote = "无惧",
+		dwID = 25439,
+		nIconID = 6299,
+		szUUID = "8182E5C3-A4A5-4BAA-98F4-1AECAADA11FC",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "减伤",
+		bEnable = true,
+	},
+	{
+		szNote = "盾护",
+		dwID = 8291,
+		nIconID = 6292,
+		szUUID = "EB76C38C-9071-441D-BC1B-01490B7B4474",
+		nStackNum = 0,
+		nLevel = 2,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "化解",
+		bEnable = true,
+	},
 	-- 长歌
 	{
 		szNote = "梅花三弄",

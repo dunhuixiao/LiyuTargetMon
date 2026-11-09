@@ -70,6 +70,11 @@ prev: /guide/faq.html
 	* 新增贞固 Buff
 	* 修复断江流 Buff 显示
 	* 修复沉醉 Debuff 显示
+* 苍云
+	* 删除怯战 Debuff
+	* 新增无惧 Buff
+	* 新增盾护 Buff
+	* 新增矢尽兵穷 Debuff
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff
