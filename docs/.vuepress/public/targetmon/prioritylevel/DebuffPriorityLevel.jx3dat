@@ -675,9 +675,9 @@ return {
 	},
 	-- ≥§∏Ë
 	{
-		szNote = "»Î‘¬",
+		szNote = "æª÷≤",
 		dwID = 31458,
-		nIconID = 7109,
+		nIconID = 23489,
 		szUUID = "5642DA60-4E1A-46C8-AC30-5E8F9AAE2629",
 		nStackNum = 0,
 		nLevel = 0,

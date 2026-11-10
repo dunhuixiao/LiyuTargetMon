@@ -2575,35 +2575,6 @@ return {
 		bEnable = true,
 	},
 	{
-		szNote = "Á«ÆÇ",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "050ACB7F81B743EBBCF089EB2ED215D9",
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "050ACB7F81B743EBBCF089EB2ED215D9-24202-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 24202,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "Ãâ¿Ø",
-		nIconID = 18324,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "¹ÂÓ°",
 		dwID = 9294,
 		nIconID = 7169,
@@ -5628,7 +5599,7 @@ return {
 			255,
 			31,
 		},
-		szContent = "¼õÉË",
+		szContent = "»¯½â",
 		bEnable = true,
 	},
 	{
@@ -5750,6 +5721,35 @@ return {
 		},
 		szContent = "»¯½â",
 		bEnable = true,
+	},
+	{
+		szNote = "Á«ÆÇ",
+		bFlipHideVoid = false,
+		tKungfu = {
+			bAll = true,
+		},
+		szGroupID = "050ACB7F81B743EBBCF089EB2ED215D9",
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szUUID = "050ACB7F81B743EBBCF089EB2ED215D9-24202-1",
+		nStackNum = 0,
+		bFlipHideOthers = false,
+		dwID = 24202,
+		nLevel = 1,
+		bEnable = true,
+		szContent = "»¯½â",
+		nIconID = 18324,
+		tTargetKungfu = {
+			bAll = true,
+		},
+		tMap = {
+			bAll = true,
+		},
+		aSoundAppear = {},
+		aSoundDisappear = {},
 	},
 	-- °Ôµ¶
 	{
@@ -7300,6 +7300,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "³¬È»",
+		dwID = 34621,
+		nIconID = 7169,
+		szUUID = "ABEC7C1A-FCDC-42DE-9EB0-18B296AB2B4C",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "±¬·¢",
+		bEnable = true,
 	},
 	-- °Ôµ¶
 	{

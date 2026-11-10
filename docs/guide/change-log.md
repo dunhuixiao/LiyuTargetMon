@@ -75,6 +75,11 @@ prev: /guide/faq.html
 	* 新增无惧 Buff
 	* 新增盾护 Buff
 	* 新增矢尽兵穷 Debuff
+* 长歌
+	* 修改凤求凰 Buff 别名为化解
+	* 修改莲魄 Buff 别名为化解
+	* 修复净植 Debuff 显示
+	* 新增超然 Buff
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff
