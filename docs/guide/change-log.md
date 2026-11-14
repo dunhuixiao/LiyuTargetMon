@@ -125,6 +125,9 @@ prev: /guide/faq.html
 	* 新增万隙一斩 Buff
 	* 新增万隙一斩 Debuff
 	* 新增游风飘踪 Debuff
+* 万灵山庄
+	* 修改乘黄之威 Buff 别名为减伤
+	* 新增空弦惊雁·锁足 Debuff
 * 段氏
 	* 删除絮转 Debuff
 	* 新增飒飒 Debuff
