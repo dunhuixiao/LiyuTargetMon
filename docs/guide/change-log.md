@@ -119,6 +119,12 @@ prev: /guide/faq.html
 	* 修复连情 Buff 显示
 	* 修复自馨 Buff 显示
 	* 修复自馨调息 Debuff 显示
+* 刀宗
+	* 删除飞云 Buff
+	* 删除泽风同承 Debuff
+	* 新增万隙一斩 Buff
+	* 新增万隙一斩 Debuff
+	* 新增游风飘踪 Debuff
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff

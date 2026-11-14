@@ -3392,6 +3392,21 @@ return {
 		szContent = "免控",
 		bEnable = true,
 	},
+	{
+		szNote = "万隙一斩",
+		dwID = 34505,
+		nIconID = 18238,
+		szUUID = "43E03D21-DA0B-4D2A-AD03-10131DA18407",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "免控",
+		bEnable = true,
+	},
 	-- 万灵山庄
 	{
 		szNote = "澄神",
@@ -9168,21 +9183,6 @@ return {
 		nLevel = 0,
 		nIconID = 17572,
 		szContent = "双持",
-		bEnable = true,
-	},
-	{
-		szNote = "飞云",
-		dwID = 31585,
-		nIconID = 24955,
-		szUUID = "E9CADC8E-655C-450F-9F12-9EC2B60A070E",
-		nStackNum = 0,
-		nLevel = 0,
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szContent = "移速",
 		bEnable = true,
 	},
 	-- 万灵山庄
