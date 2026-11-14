@@ -3344,35 +3344,6 @@ return {
 	},
 	-- 霸刀
 	{
-		szNote = "渊冰",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "5FD4050ACB7E481A8FF2EF88EA2ED215",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "5FD4050ACB7E481A8FF2EF88EA2ED215-27240-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 27240,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "定身",
-		nIconID = 8514,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "定身",
 		dwID = 25956,
 		nIconID = 18266,
@@ -5035,36 +5006,6 @@ return {
 		bEnable = true,
 		szContent = "封轻功",
 		nIconID = 7506,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
-		szNote = "行泽",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "000001F86964D850",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "000001F86964D850-562-21",
-		nStackNum = 0,
-		szGroup = "封轻功",
-		bFlipHideOthers = false,
-		dwID = 562,
-		nLevel = 21,
-		bEnable = true,
-		szContent = "封轻功",
-		nIconID = 8537,
 		tTargetKungfu = {
 			bAll = true,
 		},

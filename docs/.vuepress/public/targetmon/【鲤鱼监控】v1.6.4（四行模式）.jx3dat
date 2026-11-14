@@ -5698,35 +5698,6 @@ return {
 				aSoundDisappear = {},
 			},
 			{
-				szNote = "易水",
-				bFlipHideVoid = false,
-				tKungfu = {
-					bAll = true,
-				},
-				szGroupID = "000001F872BB3D00",
-				aContentColor = {
-					255,
-					255,
-					31,
-				},
-				szUUID = "000001F872BB3D00-11457-1",
-				nStackNum = 0,
-				bFlipHideOthers = false,
-				dwID = 11457,
-				nLevel = 1,
-				bEnable = true,
-				szContent = "减伤",
-				nIconID = 8531,
-				tTargetKungfu = {
-					bAll = true,
-				},
-				tMap = {
-					bAll = true,
-				},
-				aSoundAppear = {},
-				aSoundDisappear = {},
-			},
-			{
 				szNote = "临渊蹈河",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -8823,6 +8794,21 @@ return {
 				},
 				aSoundAppear = {},
 				aSoundDisappear = {},
+			},
+			{
+				szNote = "荡岳",
+				dwID = 30738,
+				nIconID = 28303,
+				szUUID = "06301A25-04FC-432A-AD78-71C21084FE9D",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "荡岳",
+				bEnable = true,
 			},
 			{
 				szNote = "窥月",
@@ -12447,35 +12433,6 @@ return {
 				bEnable = true,
 			},
 			{
-				szNote = "渊冰",
-				bFlipHideVoid = false,
-				tKungfu = {
-					bAll = true,
-				},
-				szGroupID = "5FD4050ACB7E481A8FF2EF88EA2ED215",
-				aContentColor = {
-					255,
-					31,
-					31,
-				},
-				szUUID = "5FD4050ACB7E481A8FF2EF88EA2ED215-27240-1",
-				nStackNum = 0,
-				bFlipHideOthers = false,
-				aSoundAppear = {},
-				nLevel = 1,
-				bEnable = true,
-				szContent = "定身",
-				tTargetKungfu = {
-					bAll = true,
-				},
-				nIconID = 8514,
-				tMap = {
-					bAll = true,
-				},
-				dwID = 27240,
-				aSoundDisappear = {},
-			},
-			{
 				szNote = "定身",
 				dwID = 25956,
 				nIconID = 18266,
@@ -14101,36 +14058,6 @@ return {
 					bAll = true,
 				},
 				nIconID = 7506,
-				tMap = {
-					bAll = true,
-				},
-				dwID = 562,
-				aSoundDisappear = {},
-			},
-			{
-				szNote = "行泽",
-				bFlipHideVoid = false,
-				tKungfu = {
-					bAll = true,
-				},
-				szGroupID = "000001F86964D850",
-				aContentColor = {
-					255,
-					31,
-					31,
-				},
-				szUUID = "000001F86964D850-562-21",
-				nStackNum = 0,
-				szGroup = "封轻功",
-				bFlipHideOthers = false,
-				aSoundAppear = {},
-				nLevel = 21,
-				bEnable = true,
-				szContent = "封轻功",
-				tTargetKungfu = {
-					bAll = true,
-				},
-				nIconID = 8537,
 				tMap = {
 					bAll = true,
 				},
@@ -23577,35 +23504,6 @@ return {
 				aSoundDisappear = {},
 			},
 			{
-				szNote = "易水",
-				bFlipHideVoid = false,
-				tKungfu = {
-					bAll = true,
-				},
-				szGroupID = "000001F872BB3D00",
-				aContentColor = {
-					255,
-					255,
-					31,
-				},
-				szUUID = "000001F872BB3D00-11457-1",
-				nStackNum = 0,
-				bFlipHideOthers = false,
-				dwID = 11457,
-				nLevel = 1,
-				bEnable = true,
-				szContent = "减伤",
-				nIconID = 8531,
-				tTargetKungfu = {
-					bAll = true,
-				},
-				tMap = {
-					bAll = true,
-				},
-				aSoundAppear = {},
-				aSoundDisappear = {},
-			},
-			{
 				szNote = "临渊蹈河",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -26702,6 +26600,21 @@ return {
 				},
 				aSoundAppear = {},
 				aSoundDisappear = {},
+			},
+			{
+				szNote = "荡岳",
+				dwID = 30738,
+				nIconID = 28303,
+				szUUID = "06301A25-04FC-432A-AD78-71C21084FE9D",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "荡岳",
+				bEnable = true,
 			},
 			{
 				szNote = "窥月",
@@ -30326,35 +30239,6 @@ return {
 				bEnable = true,
 			},
 			{
-				szNote = "渊冰",
-				bFlipHideVoid = false,
-				tKungfu = {
-					bAll = true,
-				},
-				szGroupID = "5FD4050ACB7E481A8FF2EF88EA2ED215",
-				aContentColor = {
-					255,
-					31,
-					31,
-				},
-				szUUID = "5FD4050ACB7E481A8FF2EF88EA2ED215-27240-1",
-				nStackNum = 0,
-				bFlipHideOthers = false,
-				aSoundAppear = {},
-				nLevel = 1,
-				bEnable = true,
-				szContent = "定身",
-				tTargetKungfu = {
-					bAll = true,
-				},
-				nIconID = 8514,
-				tMap = {
-					bAll = true,
-				},
-				dwID = 27240,
-				aSoundDisappear = {},
-			},
-			{
 				szNote = "定身",
 				dwID = 25956,
 				nIconID = 18266,
@@ -31980,36 +31864,6 @@ return {
 					bAll = true,
 				},
 				nIconID = 7506,
-				tMap = {
-					bAll = true,
-				},
-				dwID = 562,
-				aSoundDisappear = {},
-			},
-			{
-				szNote = "行泽",
-				bFlipHideVoid = false,
-				tKungfu = {
-					bAll = true,
-				},
-				szGroupID = "000001F86964D850",
-				aContentColor = {
-					255,
-					31,
-					31,
-				},
-				szUUID = "000001F86964D850-562-21",
-				nStackNum = 0,
-				szGroup = "封轻功",
-				bFlipHideOthers = false,
-				aSoundAppear = {},
-				nLevel = 21,
-				bEnable = true,
-				szContent = "封轻功",
-				tTargetKungfu = {
-					bAll = true,
-				},
-				nIconID = 8537,
 				tMap = {
 					bAll = true,
 				},

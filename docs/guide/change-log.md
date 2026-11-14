@@ -80,6 +80,11 @@ prev: /guide/faq.html
 	* 修改莲魄 Buff 别名为化解
 	* 修复净植 Debuff 显示
 	* 新增超然 Buff
+* 霸刀
+	* 删除易水 Buff
+	* 删除渊冰 Debuff
+	* 删除行泽 Debuff
+	* 新增荡岳 Buff
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff
