@@ -3111,6 +3111,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "入舆",
+		dwID = 30774,
+		nIconID = 18318,
+		szUUID = "8A8E60BE-7DCB-4AE7-A92C-615E0563DC14",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "免控",
+		bEnable = true,
+	},
 	-- 药宗
 	{
 		szNote = "且待时休",
@@ -6079,35 +6094,6 @@ return {
 		aSoundDisappear = {},
 	},
 	{
-		szNote = "天人合一增强免封内",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "91C7D39F9407466D909104F553FD256D",
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szUUID = "91C7D39F9407466D909104F553FD256D-18065-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 18065,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "免封内",
-		nIconID = 13877,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "行",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -6193,6 +6179,21 @@ return {
 			31,
 		},
 		szContent = "减伤",
+		bEnable = true,
+	},
+	{
+		szNote = "镇星环",
+		dwID = 28878,
+		nIconID = 18319,
+		szUUID = "B10104CB-1109-42A6-86A5-F099DA28F6EA",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "免封内",
 		bEnable = true,
 	},
 	-- 北天药宗
@@ -7396,21 +7397,6 @@ return {
 	},
 	-- 衍天宗
 	{
-		szNote = "连极阵",
-		dwID = 29271,
-		nIconID = 14164,
-		szUUID = "8E7EA3DA-D33E-4100-8A42-8FFD17E1FB8E",
-		nStackNum = 0,
-		nLevel = 0,
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szContent = "爆发",
-		bEnable = true,
-	},
-	{
 		szNote = "天人合一",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -7438,21 +7424,6 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
-	},
-	{
-		szNote = "三星",
-		dwID = 17996,
-		nIconID = 14032,
-		szUUID = "1E988D8E-B5FA-4BE9-BD3C-442A9824DA9B",
-		nStackNum = 0,
-		nLevel = 0,
-		aContentColor = {
-			255,
-			255,
-			31,
-		},
-		szContent = "瞬发",
-		bEnable = true,
 	},
 	-- 北天药宗
 	{
@@ -9118,6 +9089,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "三星",
+		dwID = 17996,
+		nIconID = 14032,
+		szUUID = "1E988D8E-B5FA-4BE9-BD3C-442A9824DA9B",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "瞬发",
+		bEnable = true,
 	},
 	-- 北天药宗
 	{

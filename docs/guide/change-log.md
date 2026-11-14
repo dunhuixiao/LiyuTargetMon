@@ -101,6 +101,15 @@ prev: /guide/faq.html
 * 凌雪阁
 	* 新增日月吴钩 Buff
 	* 新增霆锢 Debuff
+* 衍天宗
+	* 删除龙马出河 Debuff
+	* 删除华盖 Buff
+	* 删除连极阵 Buff
+	* 新增龙马出河 Debuff
+	* 新增入舆 Buff
+	* 新增镇星环 Buff
+	* 新增列宿游 Debuff
+	* 修复神皆寂 Debuff 显示
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff

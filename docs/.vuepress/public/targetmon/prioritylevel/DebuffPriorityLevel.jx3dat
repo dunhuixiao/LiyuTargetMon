@@ -766,6 +766,22 @@ return {
 		szContent = "吸疗",
 		bEnable = true,
 	},
+	-- 衍天宗
+	{
+		szNote = "龙马出河",
+		dwID = 18039,
+		nIconID = 14028,
+		szUUID = "3E8D1ADF-CFEC-4125-ADA0-441E0523B7C6",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "吸疗",
+		bEnable = true,
+	},
 	-- 北天药宗
 	{
 		szNote = "自苦",
@@ -1389,21 +1405,6 @@ return {
 		bEnable = true,
 	},
 	-- 衍天宗
-	{
-		szNote = "龙马出河",
-		dwID = 33135,
-		nIconID = 14028,
-		szUUID = "005857EE-780C-4C4E-BB65-07D4B0C89426",
-		nStackNum = 0,
-		nLevel = 0,
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szContent = "沉默",
-		bEnable = true,
-	},
 	-- 北天药宗
 	{
 		szNote = "且待时休",
@@ -2603,6 +2604,21 @@ return {
 			31,
 		},
 		szContent = "眩晕",
+		bEnable = true,
+	},
+	{
+		szNote = "列宿游",
+		dwID = 21097,
+		nIconID = 17712,
+		szUUID = "56528F12-629E-4A37-A39A-F525231B2165",
+		nStackNum = 0,
+		nLevel = 0,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "击倒",
 		bEnable = true,
 	},
 	-- 北天药宗
@@ -4394,21 +4410,6 @@ return {
 		szContent = "锁足",
 		bEnable = true,
 	},
-	{
-		szNote = "龙马出河",
-		dwID = 33134,
-		nIconID = 14028,
-		szUUID = "AF00894C-AB60-4561-8D32-1D2230D18FE2",
-		nStackNum = 0,
-		nLevel = 0,
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szContent = "锁足",
-		bEnable = true,
-	},
 	-- 刀宗
 	{
 		szNote = "游风飘踪·锁足",
@@ -4775,8 +4776,8 @@ return {
 	},
 	-- 衍天宗
 	{
-		szNote = "神皆寂",
-		dwID = 31801,
+		szNote = "寂",
+		dwID = 34401,
 		nIconID = 14165,
 		szUUID = "06C4F352-E10A-4831-9298-2C2CE170C9ED",
 		nStackNum = 0,

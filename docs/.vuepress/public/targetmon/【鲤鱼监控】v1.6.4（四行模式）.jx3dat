@@ -3077,6 +3077,21 @@ return {
 				aSoundDisappear = {},
 			},
 			{
+				szNote = "入舆",
+				dwID = 30774,
+				nIconID = 18318,
+				szUUID = "8A8E60BE-7DCB-4AE7-A92C-615E0563DC14",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "免控",
+				bEnable = true,
+			},
+			{
 				szNote = "且待时休",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -6021,35 +6036,6 @@ return {
 				aSoundDisappear = {},
 			},
 			{
-				szNote = "天人合一增强免封内",
-				bFlipHideVoid = false,
-				tKungfu = {
-					bAll = true,
-				},
-				szGroupID = "91C7D39F9407466D909104F553FD256D",
-				aContentColor = {
-					255,
-					255,
-					31,
-				},
-				szUUID = "91C7D39F9407466D909104F553FD256D-18065-1",
-				nStackNum = 0,
-				bFlipHideOthers = false,
-				dwID = 18065,
-				nLevel = 1,
-				bEnable = true,
-				szContent = "免封内",
-				nIconID = 13877,
-				tTargetKungfu = {
-					bAll = true,
-				},
-				tMap = {
-					bAll = true,
-				},
-				aSoundAppear = {},
-				aSoundDisappear = {},
-			},
-			{
 				szNote = "行",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -6135,6 +6121,21 @@ return {
 					31,
 				},
 				szContent = "减伤",
+				bEnable = true,
+			},
+			{
+				szNote = "镇星环",
+				dwID = 28878,
+				nIconID = 18319,
+				szUUID = "B10104CB-1109-42A6-86A5-F099DA28F6EA",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "免封内",
 				bEnable = true,
 			},
 			{
@@ -7315,21 +7316,6 @@ return {
 				bEnable = true,
 			},
 			{
-				szNote = "连极阵",
-				dwID = 29271,
-				nIconID = 14164,
-				szUUID = "8E7EA3DA-D33E-4100-8A42-8FFD17E1FB8E",
-				nStackNum = 0,
-				nLevel = 0,
-				aContentColor = {
-					255,
-					255,
-					31,
-				},
-				szContent = "爆发",
-				bEnable = true,
-			},
-			{
 				szNote = "天人合一",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -7357,21 +7343,6 @@ return {
 				},
 				aSoundAppear = {},
 				aSoundDisappear = {},
-			},
-			{
-				szNote = "三星",
-				dwID = 17996,
-				nIconID = 14032,
-				szUUID = "1E988D8E-B5FA-4BE9-BD3C-442A9824DA9B",
-				nStackNum = 0,
-				nLevel = 0,
-				aContentColor = {
-					255,
-					255,
-					31,
-				},
-				szContent = "瞬发",
-				bEnable = true,
 			},
 			{
 				szNote = "犹解倒悬",
@@ -9016,6 +8987,21 @@ return {
 				aSoundDisappear = {},
 			},
 			{
+				szNote = "三星",
+				dwID = 17996,
+				nIconID = 14032,
+				szUUID = "1E988D8E-B5FA-4BE9-BD3C-442A9824DA9B",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "瞬发",
+				bEnable = true,
+			},
+			{
 				szNote = "南草",
 				dwID = 29316,
 				nIconID = 15749,
@@ -9971,6 +9957,21 @@ return {
 				bEnable = true,
 			},
 			{
+				szNote = "龙马出河",
+				dwID = 18039,
+				nIconID = 14028,
+				szUUID = "3E8D1ADF-CFEC-4125-ADA0-441E0523B7C6",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "吸疗",
+				bEnable = true,
+			},
+			{
 				szNote = "自苦",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -10563,21 +10564,6 @@ return {
 				dwID = 33189,
 				nIconID = 12382,
 				szUUID = "AA987372-9DAC-4967-AC79-B04CA0E69888",
-				nStackNum = 0,
-				nLevel = 0,
-				aContentColor = {
-					255,
-					31,
-					31,
-				},
-				szContent = "沉默",
-				bEnable = true,
-			},
-			{
-				szNote = "龙马出河",
-				dwID = 33135,
-				nIconID = 14028,
-				szUUID = "005857EE-780C-4C4E-BB65-07D4B0C89426",
 				nStackNum = 0,
 				nLevel = 0,
 				aContentColor = {
@@ -11766,6 +11752,21 @@ return {
 					31,
 				},
 				szContent = "眩晕",
+				bEnable = true,
+			},
+			{
+				szNote = "列宿游",
+				dwID = 21097,
+				nIconID = 17712,
+				szUUID = "56528F12-629E-4A37-A39A-F525231B2165",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "击倒",
 				bEnable = true,
 			},
 			{
@@ -13520,21 +13521,6 @@ return {
 				bEnable = true,
 			},
 			{
-				szNote = "龙马出河",
-				dwID = 33134,
-				nIconID = 14028,
-				szUUID = "AF00894C-AB60-4561-8D32-1D2230D18FE2",
-				nStackNum = 0,
-				nLevel = 0,
-				aContentColor = {
-					255,
-					31,
-					31,
-				},
-				szContent = "锁足",
-				bEnable = true,
-			},
-			{
 				szNote = "游风飘踪·锁足",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -13886,8 +13872,8 @@ return {
 				aSoundDisappear = {},
 			},
 			{
-				szNote = "神皆寂",
-				dwID = 31801,
+				szNote = "寂",
+				dwID = 34401,
 				nIconID = 14165,
 				szUUID = "06C4F352-E10A-4831-9298-2C2CE170C9ED",
 				nStackNum = 0,
@@ -20990,6 +20976,21 @@ return {
 				aSoundDisappear = {},
 			},
 			{
+				szNote = "入舆",
+				dwID = 30774,
+				nIconID = 18318,
+				szUUID = "8A8E60BE-7DCB-4AE7-A92C-615E0563DC14",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "免控",
+				bEnable = true,
+			},
+			{
 				szNote = "且待时休",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -23934,35 +23935,6 @@ return {
 				aSoundDisappear = {},
 			},
 			{
-				szNote = "天人合一增强免封内",
-				bFlipHideVoid = false,
-				tKungfu = {
-					bAll = true,
-				},
-				szGroupID = "91C7D39F9407466D909104F553FD256D",
-				aContentColor = {
-					255,
-					255,
-					31,
-				},
-				szUUID = "91C7D39F9407466D909104F553FD256D-18065-1",
-				nStackNum = 0,
-				bFlipHideOthers = false,
-				dwID = 18065,
-				nLevel = 1,
-				bEnable = true,
-				szContent = "免封内",
-				nIconID = 13877,
-				tTargetKungfu = {
-					bAll = true,
-				},
-				tMap = {
-					bAll = true,
-				},
-				aSoundAppear = {},
-				aSoundDisappear = {},
-			},
-			{
 				szNote = "行",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -24048,6 +24020,21 @@ return {
 					31,
 				},
 				szContent = "减伤",
+				bEnable = true,
+			},
+			{
+				szNote = "镇星环",
+				dwID = 28878,
+				nIconID = 18319,
+				szUUID = "B10104CB-1109-42A6-86A5-F099DA28F6EA",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "免封内",
 				bEnable = true,
 			},
 			{
@@ -25228,21 +25215,6 @@ return {
 				bEnable = true,
 			},
 			{
-				szNote = "连极阵",
-				dwID = 29271,
-				nIconID = 14164,
-				szUUID = "8E7EA3DA-D33E-4100-8A42-8FFD17E1FB8E",
-				nStackNum = 0,
-				nLevel = 0,
-				aContentColor = {
-					255,
-					255,
-					31,
-				},
-				szContent = "爆发",
-				bEnable = true,
-			},
-			{
 				szNote = "天人合一",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -25270,21 +25242,6 @@ return {
 				},
 				aSoundAppear = {},
 				aSoundDisappear = {},
-			},
-			{
-				szNote = "三星",
-				dwID = 17996,
-				nIconID = 14032,
-				szUUID = "1E988D8E-B5FA-4BE9-BD3C-442A9824DA9B",
-				nStackNum = 0,
-				nLevel = 0,
-				aContentColor = {
-					255,
-					255,
-					31,
-				},
-				szContent = "瞬发",
-				bEnable = true,
 			},
 			{
 				szNote = "犹解倒悬",
@@ -26929,6 +26886,21 @@ return {
 				aSoundDisappear = {},
 			},
 			{
+				szNote = "三星",
+				dwID = 17996,
+				nIconID = 14032,
+				szUUID = "1E988D8E-B5FA-4BE9-BD3C-442A9824DA9B",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					255,
+					31,
+				},
+				szContent = "瞬发",
+				bEnable = true,
+			},
+			{
 				szNote = "南草",
 				dwID = 29316,
 				nIconID = 15749,
@@ -27884,6 +27856,21 @@ return {
 				bEnable = true,
 			},
 			{
+				szNote = "龙马出河",
+				dwID = 18039,
+				nIconID = 14028,
+				szUUID = "3E8D1ADF-CFEC-4125-ADA0-441E0523B7C6",
+				nStackNum = 0,
+				nLevel = 1,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "吸疗",
+				bEnable = true,
+			},
+			{
 				szNote = "自苦",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -28476,21 +28463,6 @@ return {
 				dwID = 33189,
 				nIconID = 12382,
 				szUUID = "AA987372-9DAC-4967-AC79-B04CA0E69888",
-				nStackNum = 0,
-				nLevel = 0,
-				aContentColor = {
-					255,
-					31,
-					31,
-				},
-				szContent = "沉默",
-				bEnable = true,
-			},
-			{
-				szNote = "龙马出河",
-				dwID = 33135,
-				nIconID = 14028,
-				szUUID = "005857EE-780C-4C4E-BB65-07D4B0C89426",
 				nStackNum = 0,
 				nLevel = 0,
 				aContentColor = {
@@ -29679,6 +29651,21 @@ return {
 					31,
 				},
 				szContent = "眩晕",
+				bEnable = true,
+			},
+			{
+				szNote = "列宿游",
+				dwID = 21097,
+				nIconID = 17712,
+				szUUID = "56528F12-629E-4A37-A39A-F525231B2165",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "击倒",
 				bEnable = true,
 			},
 			{
@@ -31433,21 +31420,6 @@ return {
 				bEnable = true,
 			},
 			{
-				szNote = "龙马出河",
-				dwID = 33134,
-				nIconID = 14028,
-				szUUID = "AF00894C-AB60-4561-8D32-1D2230D18FE2",
-				nStackNum = 0,
-				nLevel = 0,
-				aContentColor = {
-					255,
-					31,
-					31,
-				},
-				szContent = "锁足",
-				bEnable = true,
-			},
-			{
 				szNote = "游风飘踪·锁足",
 				bFlipHideVoid = false,
 				tKungfu = {
@@ -31799,8 +31771,8 @@ return {
 				aSoundDisappear = {},
 			},
 			{
-				szNote = "神皆寂",
-				dwID = 31801,
+				szNote = "寂",
+				dwID = 34401,
 				nIconID = 14165,
 				szUUID = "06C4F352-E10A-4831-9298-2C2CE170C9ED",
 				nStackNum = 0,
