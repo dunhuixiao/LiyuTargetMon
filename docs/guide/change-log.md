@@ -110,6 +110,15 @@ prev: /guide/faq.html
 	* 新增镇星环 Buff
 	* 新增列宿游 Debuff
 	* 修复神皆寂 Debuff 显示
+* 北天药宗
+	* 新增荆障 Debuff
+	* 新增繁枝 Debuff
+	* 修复千枝绽蕊 Buff 显示
+	* 修复绿野蔓生 Buff 显示
+	* 修复自苦 Debuff 显示
+	* 修复连情 Buff 显示
+	* 修复自馨 Buff 显示
+	* 修复自馨调息 Debuff 显示
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff

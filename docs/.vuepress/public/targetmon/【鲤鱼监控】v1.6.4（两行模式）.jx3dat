@@ -1684,7 +1684,7 @@ return {
 				nStackNum = 0,
 				bFlipHideOthers = false,
 				aSoundAppear = {},
-				nLevel = 1,
+				nLevel = 0,
 				bEnable = true,
 				szContent = "吸疗",
 				tTargetKungfu = {
@@ -4328,6 +4328,36 @@ return {
 				dwID = 32049,
 				nIconID = 24434,
 				szUUID = "B748001A-5C32-4379-A6B8-7798B48DF7EB",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "定身",
+				bEnable = true,
+			},
+			{
+				szNote = "荆障",
+				dwID = 27039,
+				nIconID = 15744,
+				szUUID = "67793FC0-245C-42C4-A20F-F4102E9B8476",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "定身",
+				bEnable = true,
+			},
+			{
+				szNote = "繁枝",
+				dwID = 33084,
+				nIconID = 27492,
+				szUUID = "0ED12CC7-01F1-40C7-B0C8-55ED40C6171F",
 				nStackNum = 0,
 				nLevel = 0,
 				aContentColor = {
@@ -7921,7 +7951,7 @@ return {
 				nStackNum = 0,
 				bFlipHideOthers = false,
 				aSoundAppear = {},
-				nLevel = 1,
+				nLevel = 0,
 				bEnable = true,
 				szContent = "免控",
 				tTargetKungfu = {
@@ -10852,7 +10882,7 @@ return {
 				nStackNum = 0,
 				bFlipHideOthers = false,
 				aSoundAppear = {},
-				nLevel = 1,
+				nLevel = 0,
 				bEnable = true,
 				szContent = "减伤",
 				tTargetKungfu = {
@@ -11014,7 +11044,7 @@ return {
 			{
 				szNote = "连情",
 				dwID = 31826,
-				nIconID = 15413,
+				nIconID = 25020,
 				szUUID = "1628EC44-D1D2-42AD-AE73-9BF6DF5F3148",
 				nStackNum = 0,
 				nLevel = 0,
@@ -11059,7 +11089,7 @@ return {
 			{
 				szNote = "自馨",
 				dwID = 33203,
-				nIconID = 15703,
+				nIconID = 27155,
 				szUUID = "094064D0-20B0-40AB-B5A4-A4E283C28B5F",
 				nStackNum = 0,
 				nLevel = 0,
@@ -17424,7 +17454,7 @@ return {
 			{
 				szNote = "自馨调息",
 				dwID = 33148,
-				nIconID = 15703,
+				nIconID = 27155,
 				szUUID = "2CB6F880-0ECE-4DAB-959D-0548FC28080A",
 				nStackNum = 0,
 				nLevel = 1,
@@ -19559,7 +19589,7 @@ return {
 				nStackNum = 0,
 				bFlipHideOthers = false,
 				aSoundAppear = {},
-				nLevel = 1,
+				nLevel = 0,
 				bEnable = true,
 				szContent = "吸疗",
 				tTargetKungfu = {
@@ -22203,6 +22233,36 @@ return {
 				dwID = 32049,
 				nIconID = 24434,
 				szUUID = "B748001A-5C32-4379-A6B8-7798B48DF7EB",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "定身",
+				bEnable = true,
+			},
+			{
+				szNote = "荆障",
+				dwID = 27039,
+				nIconID = 15744,
+				szUUID = "67793FC0-245C-42C4-A20F-F4102E9B8476",
+				nStackNum = 0,
+				nLevel = 0,
+				aContentColor = {
+					255,
+					31,
+					31,
+				},
+				szContent = "定身",
+				bEnable = true,
+			},
+			{
+				szNote = "繁枝",
+				dwID = 33084,
+				nIconID = 27492,
+				szUUID = "0ED12CC7-01F1-40C7-B0C8-55ED40C6171F",
 				nStackNum = 0,
 				nLevel = 0,
 				aContentColor = {
@@ -25796,7 +25856,7 @@ return {
 				nStackNum = 0,
 				bFlipHideOthers = false,
 				aSoundAppear = {},
-				nLevel = 1,
+				nLevel = 0,
 				bEnable = true,
 				szContent = "免控",
 				tTargetKungfu = {
@@ -28727,7 +28787,7 @@ return {
 				nStackNum = 0,
 				bFlipHideOthers = false,
 				aSoundAppear = {},
-				nLevel = 1,
+				nLevel = 0,
 				bEnable = true,
 				szContent = "减伤",
 				tTargetKungfu = {
@@ -28889,7 +28949,7 @@ return {
 			{
 				szNote = "连情",
 				dwID = 31826,
-				nIconID = 15413,
+				nIconID = 25020,
 				szUUID = "1628EC44-D1D2-42AD-AE73-9BF6DF5F3148",
 				nStackNum = 0,
 				nLevel = 0,
@@ -28934,7 +28994,7 @@ return {
 			{
 				szNote = "自馨",
 				dwID = 33203,
-				nIconID = 15703,
+				nIconID = 27155,
 				szUUID = "094064D0-20B0-40AB-B5A4-A4E283C28B5F",
 				nStackNum = 0,
 				nLevel = 0,
@@ -35299,7 +35359,7 @@ return {
 			{
 				szNote = "自馨调息",
 				dwID = 33148,
-				nIconID = 15703,
+				nIconID = 27155,
 				szUUID = "2CB6F880-0ECE-4DAB-959D-0548FC28080A",
 				nStackNum = 0,
 				nLevel = 1,
