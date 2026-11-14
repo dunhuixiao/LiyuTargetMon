@@ -6018,6 +6018,21 @@ return {
 		szContent = "化解",
 		bEnable = true,
 	},
+	{
+		szNote = "日月吴钩",
+		dwID = 34724,
+		nIconID = 12110,
+		szUUID = "54EE5B57-CAB2-48A3-AE02-D62093195A2F",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "减伤",
+		bEnable = true,
+	},
 	-- 衍天
 	{
 		szNote = "祝由·水坎",

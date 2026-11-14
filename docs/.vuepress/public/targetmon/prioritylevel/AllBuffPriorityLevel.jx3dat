@@ -10866,6 +10866,21 @@ return {
 		szContent = "化解",
 		bEnable = true,
 	},
+	{
+		szNote = "日月吴钩",
+		dwID = 34724,
+		nIconID = 12110,
+		szUUID = "54EE5B57-CAB2-48A3-AE02-D62093195A2F",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "减伤",
+		bEnable = true,
+	},
 	-- 衍天
 	{
 		szNote = "祝由·水坎",
@@ -13547,6 +13562,22 @@ return {
 		nStackNum = 0,
 		szGroup = "封轻功",
 		nLevel = 72,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "封轻功",
+		bEnable = true,
+	},
+	{
+		szNote = "霆锢",
+		dwID = 562,
+		nIconID = 12419,
+		szUUID = "6D648BC0-CB80-4DD7-84DC-BEC3704CD21B",
+		nStackNum = 0,
+		szGroup = "封轻功",
+		nLevel = 73,
 		aContentColor = {
 			255,
 			31,

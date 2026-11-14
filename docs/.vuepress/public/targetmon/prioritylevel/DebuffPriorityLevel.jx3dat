@@ -5876,6 +5876,22 @@ return {
 		bEnable = true,
 	},
 	{
+		szNote = "öªïÀ",
+		dwID = 562,
+		nIconID = 12419,
+		szUUID = "6D648BC0-CB80-4DD7-84DC-BEC3704CD21B",
+		nStackNum = 0,
+		szGroup = "·âÇá¹¦",
+		nLevel = 73,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "·âÇá¹¦",
+		bEnable = true,
+	},
+	{
 		szNote = "¾íÇ§Æì",
 		dwID = 562,
 		nIconID = 28360,
