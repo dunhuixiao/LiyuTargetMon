@@ -85,6 +85,19 @@ prev: /guide/faq.html
 	* 删除渊冰 Debuff
 	* 删除行泽 Debuff
 	* 新增荡岳 Buff
+* 蓬莱
+	* 删除鸿渐于飞 Buff
+	* 删除横绝 Debuff
+	* 修复乘龙 Buff 显示
+	* 修复揽尘 Debuff 显示
+	* 新增乘龙 Debuff
+	* 新增苍梧 Buff
+	* 新增穹庐 Buff
+	* 新增飞翼 Debuff
+	* 新增碧海逍遥 Buff
+	* 新增碧海逍遥 Debuff
+	* 新增吞苍莽 Debuff
+	* 新增垂云揽尘 Buff
 * 无相楼
 	* 新增傀梦令 Debuff
 	* 新增慢煞 Buff

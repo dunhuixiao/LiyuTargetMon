@@ -2907,11 +2907,11 @@ return {
 	},
 	{
 		szNote = "≥À¡˙",
-		dwID = 14082,
-		nIconID = 10837,
+		dwID = 34345,
+		nIconID = 28330,
 		szUUID = "D02059FE-B87E-4DF0-9F3E-DBBAD537F98D",
 		nStackNum = 0,
-		nLevel = 0,
+		nLevel = 1,
 		aContentColor = {
 			255,
 			255,
@@ -2921,18 +2921,18 @@ return {
 		bEnable = true,
 	},
 	{
-		szNote = "∫ËΩ•”⁄∑…",
-		dwID = 31654,
+		szNote = "±Ã∫£Â–“£",
+		dwID = 34354,
 		nIconID = 10842,
-		szUUID = "99F491AE-E28A-4BBA-BB1F-6CA2281D476C",
+		szUUID = "3B559405-571E-4441-9511-47120B510561",
 		nStackNum = 0,
-		nLevel = 0,
+		nLevel = 1,
 		aContentColor = {
 			255,
 			255,
 			31,
 		},
-		szContent = "√‚øÿ",
+		szContent = "√‚¥Ú∂œ",
 		bEnable = true,
 	},
 	-- ¡Ë—©∏Û
@@ -5972,6 +5972,36 @@ return {
 		szContent = "ªØΩ‚",
 		bEnable = true,
 	},
+	{
+		szNote = "≤‘Œ‡",
+		dwID = 34342,
+		nIconID = 10882,
+		szUUID = "5DA77305-2AAE-460A-9ADE-BDCAADA9ED82",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "ªØΩ‚",
+		bEnable = true,
+	},
+	{
+		szNote = "Ò∑¬Æ",
+		dwID = 34705,
+		nIconID = 10852,
+		szUUID = "203BFEBE-A61C-4997-B2F9-9BD93A53B4C2",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "ºı…À",
+		bEnable = true,
+	},
 	-- ¡Ë—©∏Û
 	{
 		szNote = "∑…«Ì",
@@ -8912,6 +8942,21 @@ return {
 		bEnable = true,
 	},
 	-- ≈Ó¿≥
+	{
+		szNote = "¥π‘∆¿ø≥æ",
+		dwID = 34348,
+		nIconID = 28331,
+		szUUID = "5228E7FA-C147-4A38-8621-8DCD0D07FBE5",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "¥π‘∆¿ø≥æ",
+		bEnable = true,
+	},
 	-- ¡Ë—©∏Û
 	{
 		szNote = "ø˙‘¬",

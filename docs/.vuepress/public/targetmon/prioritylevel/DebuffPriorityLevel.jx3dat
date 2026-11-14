@@ -705,6 +705,22 @@ return {
 		szContent = "Œ¸¡∆",
 		bEnable = true,
 	},
+	-- ≈Ó¿≥
+	{
+		szNote = "≥À¡˙",
+		dwID = 34346,
+		nIconID = 28330,
+		szUUID = "18BBB435-6239-427C-BC91-AB30A4B89E3C",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "Œ¸¡∆",
+		bEnable = true,
+	},
 	-- ¡Ë—©∏Û
 	{
 		szNote = "æ˜”¸",
@@ -2516,35 +2532,6 @@ return {
 	},
 	-- ¡Ë—©∏Û
 	{
-		szNote = "∫·æ¯",
-		bFlipHideVoid = false,
-		tKungfu = {
-			bAll = true,
-		},
-		szGroupID = "7B809A3FF4674EA2811CF1A030C74818",
-		aContentColor = {
-			255,
-			31,
-			31,
-		},
-		szUUID = "7B809A3FF4674EA2811CF1A030C74818-15100-1",
-		nStackNum = 0,
-		bFlipHideOthers = false,
-		dwID = 15100,
-		nLevel = 1,
-		bEnable = true,
-		szContent = "—£‘Œ",
-		nIconID = 2019,
-		tTargetKungfu = {
-			bAll = true,
-		},
-		tMap = {
-			bAll = true,
-		},
-		aSoundAppear = {},
-		aSoundDisappear = {},
-	},
-	{
 		szNote = "±¯∏Í",
 		bFlipHideVoid = false,
 		tKungfu = {
@@ -3374,6 +3361,21 @@ return {
 		bEnable = true,
 	},
 	-- ≈Ó¿≥
+	{
+		szNote = "±Ã∫£Â–“£",
+		dwID = 34468,
+		nIconID = 28328,
+		szUUID = "AF0CFE25-BE86-4DB9-BD14-C3681207440E",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "∂®…Ì",
+		bEnable = true,
+	},
 	-- ¡Ë—©∏Û
 	{
 		szNote = "◊∑ªÍÀ˜∆«",
@@ -5844,7 +5846,7 @@ return {
 	{
 		szNote = "¿ø≥æ",
 		dwID = 562,
-		nIconID = 10936,
+		nIconID = 28331,
 		szUUID = "A60AA62C-0568-4922-843C-057713DDCF05",
 		nStackNum = 0,
 		szGroup = "∑‚«·π¶",
@@ -6364,6 +6366,21 @@ return {
 		},
 		aSoundAppear = {},
 		aSoundDisappear = {},
+	},
+	{
+		szNote = "∑…“Ì",
+		dwID = 34343,
+		nIconID = 28332,
+		szUUID = "2522CA69-B84C-48C9-B577-8A6EF0931358",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "ºı¡∆",
+		bEnable = true,
 	},
 	-- —‹ÃÏ◊⁄
 	{
@@ -7170,6 +7187,21 @@ return {
 		dwID = 29369,
 		nIconID = 23468,
 		szUUID = "06ECEA62-CCF8-424A-AA44-E36B2E9F4A51",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			31,
+			31,
+		},
+		szContent = "ºıÀŸ",
+		bEnable = true,
+	},
+	{
+		szNote = "ÕÃ≤‘√ß",
+		dwID = 34356,
+		nIconID = 28329,
+		szUUID = "DD4DC8C5-B394-4523-91CC-39FAD1937AA5",
 		nStackNum = 0,
 		nLevel = 1,
 		aContentColor = {
