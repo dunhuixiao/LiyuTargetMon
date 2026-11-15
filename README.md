@@ -4,7 +4,7 @@
 
 ## 文档
 
-[文档地址](https://dunhuixiao.github.io/LiyuTargetMon/)
+[使用教程](https://dunhuixiao.github.io/LiyuTargetMon/)
 
 [剑三魔盒](https://www.jx3box.com/tool/95702)
 
