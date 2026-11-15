@@ -1,4 +1,4 @@
-const version = "v1.6.3";
+const version = "v1.6.4";
 
 export const release = {
   version,
