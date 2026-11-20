@@ -11469,7 +11469,7 @@ return {
 					255,
 					31,
 				},
-				szContent = "减伤",
+				szContent = "化解",
 				bEnable = true,
 			},
 			{
@@ -29416,7 +29416,7 @@ return {
 					255,
 					31,
 				},
-				szContent = "减伤",
+				szContent = "化解",
 				bEnable = true,
 			},
 			{
