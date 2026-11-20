@@ -11961,6 +11961,21 @@ return {
 		aSoundAppear = {},
 		aSoundDisappear = {},
 	},
+	{
+		szNote = "降厄",
+		dwID = 31636,
+		nIconID = 19186,
+		szUUID = "FCE3882C-F509-440A-B3B0-EF4D2E271E34",
+		nStackNum = 0,
+		nLevel = 1,
+		aContentColor = {
+			255,
+			255,
+			31,
+		},
+		szContent = "爆发",
+		bEnable = true,
+	},
 	-- 唐门
 	{
 		szNote = "心无旁骛",
