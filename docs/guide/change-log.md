@@ -51,6 +51,7 @@ prev: /guide/faq.html
 	* 新增萦丛 Buff
 	* 新增展屏 Buff
 	* 新增弥生 Buff
+	* 新增降厄 Buff
 * 藏剑
 	* 新增峙峰 Debuff
 	* 新增峙峰断川 Debuff
